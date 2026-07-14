@@ -1,0 +1,32 @@
+name: Günlük Fiyat Çekici
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  guncelle:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Depoyu Klonla
+        uses: actions/checkout@v3
+
+      - name: Python'u Kur
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Gerekli Kütüphaneleri Yükle
+        run: pip install requests beautifulsoup4
+
+      - name: Botu Çalıştır
+        run: python scraper.py
+
+      - name: Sonuçları Kaydet
+        run: |
+          git config --global user.name 'Fiyat Botu'
+          git config --global user.email 'bot@otomasyon.com'
+          git add fiyatlar.json
+          git commit -m "Günlük fiyatlar çekildi" || exit 0
+          git push
