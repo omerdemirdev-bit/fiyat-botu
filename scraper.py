@@ -3,7 +3,6 @@ from bs4 import BeautifulSoup
 import json
 import time
 
-# Senin verdiğin 50 sayfalık liste
 urls = [
     "https://gataelektrik.com/orta-gerilim-2021-fiyat",
     "https://gataelektrik.com/og-guvenlik-malzemeleri",
@@ -57,10 +56,18 @@ urls = [
     "https://gataelektrik.com/thea-artline-fiyatlari"
 ]
 
-# Bot olarak algılanmamak için tarayıcı taklidi yapıyoruz
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 }
+
+# Linklerden aranacak bilinen markaların listesi
+bilinen_markalar = [
+    "prysmian", "hes", "3m", "woer", "safak", "mutlusan", "birtas", "herkules", 
+    "yavuz", "ensmet", "hensel", "delta", "mervesan", "metop", "abb", "siemens", 
+    "schneider", "legrand", "lg", "hyundai", "lovato", "viko", "federal", "tense", 
+    "entes", "emas", "ekon", "finder", "tes", "ack", "philips", "gecem", "osram", 
+    "vimar", "thea", "ketenci"
+]
 
 tum_fiyatlar = []
 
@@ -68,12 +75,25 @@ print("Fiyat taraması başlıyor...")
 
 for url in urls:
     print(f"Taranıyor: {url}")
+    
+    # URL içinden markayı tahmin etme mantığı
+    url_parcasi = url.split("/")[-1].lower()
+    marka = "Genel" # Eğer listede marka bulamazsa "Genel" yazacak
+    
+    for m in bilinen_markalar:
+        if m in url_parcasi:
+            # Marka isimlerinin baş harfini büyüt (Örn: schneider -> Schneider)
+            # Eğer 3m, abb, lg gibi kısaltmaysa tamamını büyük harf yap
+            if m in ["3m", "abb", "lg", "ack", "tes"]:
+                marka = m.upper()
+            else:
+                marka = m.capitalize()
+            break
+
     try:
         response = requests.get(url, headers=headers, timeout=10)
         soup = BeautifulSoup(response.content, "html.parser")
         
-        # NOT: Buradaki HTML etiketleri (td, div vb.) sitenin yapısına göre güncellenecektir.
-        # Şimdilik örnek olarak tablolardaki satırları (tr) arıyoruz.
         satirlar = soup.find_all("tr")
         
         for satir in satirlar:
@@ -82,22 +102,20 @@ for url in urls:
                 urun_adi = sutunlar[0].text.strip()
                 fiyat = sutunlar[1].text.strip()
                 
-                # Eğer ürün adı veya fiyat boş değilse listeye ekle
                 if urun_adi and fiyat:
+                    # Artık JSON listemize 'marka' sütununu da ekliyoruz
                     tum_fiyatlar.append({
-                        "kategori_linki": url,
+                        "marka": marka,
                         "urun_adi": urun_adi,
                         "fiyat": fiyat
                     })
         
-        # Sunucuyu yormamak ve engellenmemek için 3 saniye bekle
         time.sleep(3)
         
     except Exception as e:
         print(f"Hata oluştu ({url}): {e}")
 
-# Verileri JSON dosyasına kaydet
 with open("fiyatlar.json", "w", encoding="utf-8") as dosya:
     json.dump(tum_fiyatlar, dosya, ensure_ascii=False, indent=4)
 
-print("İşlem tamamlandı! Veriler fiyatlar.json dosyasına kaydedildi.")
+print("İşlem tamamlandı! Veriler marka bilgisiyle fiyatlar.json dosyasına kaydedildi.")
