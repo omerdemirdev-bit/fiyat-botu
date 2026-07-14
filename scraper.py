@@ -60,15 +60,6 @@ headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 }
 
-# Linklerden aranacak bilinen markaların listesi
-bilinen_markalar = [
-    "prysmian", "hes", "3m", "woer", "safak", "mutlusan", "birtas", "herkules", 
-    "yavuz", "ensmet", "hensel", "delta", "mervesan", "metop", "abb", "siemens", 
-    "schneider", "legrand", "lg", "hyundai", "lovato", "viko", "federal", "tense", 
-    "entes", "emas", "ekon", "finder", "tes", "ack", "philips", "gecem", "osram", 
-    "vimar", "thea", "ketenci"
-]
-
 tum_fiyatlar = []
 
 print("Fiyat taraması başlıyor...")
@@ -76,39 +67,50 @@ print("Fiyat taraması başlıyor...")
 for url in urls:
     print(f"Taranıyor: {url}")
     
-    # URL içinden markayı tahmin etme mantığı
-    url_parcasi = url.split("/")[-1].lower()
-    marka = "Genel" # Eğer listede marka bulamazsa "Genel" yazacak
-    
-    for m in bilinen_markalar:
-        if m in url_parcasi:
-            # Marka isimlerinin baş harfini büyüt (Örn: schneider -> Schneider)
-            # Eğer 3m, abb, lg gibi kısaltmaysa tamamını büyük harf yap
-            if m in ["3m", "abb", "lg", "ack", "tes"]:
-                marka = m.upper()
-            else:
-                marka = m.capitalize()
-            break
-
     try:
         response = requests.get(url, headers=headers, timeout=10)
         soup = BeautifulSoup(response.content, "html.parser")
         
-        satirlar = soup.find_all("tr")
-        
-        for satir in satirlar:
-            sutunlar = satir.find_all("td")
-            if len(sutunlar) >= 2:
-                urun_adi = sutunlar[0].text.strip()
-                fiyat = sutunlar[1].text.strip()
+        # Varsayılan başlangıç markası olarak ana sayfa başlığını (h1) alalım
+        aktif_marka = "Genel"
+        h1 = soup.find("h1")
+        if h1 and h1.text.strip():
+            aktif_marka = h1.text.strip()
+            
+        # Sayfadaki tüm başlıkları (h2, h3, h4, h5) ve tablo satırlarını (tr) sayfadaki sırasına göre bul
+        for eleman in soup.find_all(['h2', 'h3', 'h4', 'h5', 'tr']):
+            
+            # Eğer eleman bir başlıksa, yeni markamız bu başlık olsun
+            if eleman.name in ['h2', 'h3', 'h4', 'h5']:
+                baslik_metni = eleman.text.strip()
+                if baslik_metni and len(baslik_metni) < 80: # Saçma sapan uzun metinleri elemek için
+                    aktif_marka = baslik_metni
+                    
+            # Eğer eleman bir tablo satırıysa, hafızadaki son aktif markayı kullanarak ürünleri çek
+            elif eleman.name == 'tr':
+                sutunlar = eleman.find_all(["th", "td"])
                 
-                if urun_adi and fiyat:
-                    # Artık JSON listemize 'marka' sütununu da ekliyoruz
-                    tum_fiyatlar.append({
-                        "marka": marka,
-                        "urun_adi": urun_adi,
-                        "fiyat": fiyat
-                    })
+                # Tablo içinde yine de tek satırlık alt başlıklar varsa onları da yakalayalım
+                if len(sutunlar) == 1 and sutunlar[0].text.strip():
+                    alt_baslik = sutunlar[0].text.strip()
+                    if len(alt_baslik) < 80:
+                        aktif_marka = alt_baslik
+                    continue 
+
+                # En az 2 sütun varsa fiyat verisidir
+                if len(sutunlar) >= 2:
+                    urun_adi = sutunlar[0].text.strip()
+                    fiyat = sutunlar[1].text.strip()
+                    
+                    gecersiz_kelimeler = ["ürün", "fiyat", "cinsi", "açıklama", "malzeme"]
+                    if urun_adi and fiyat:
+                        # Tablo başlıkları "Ürün Adı", "Fiyatı" satırlarını JSON'a eklememek için filtreliyoruz
+                        if not any(k in urun_adi.lower() for k in gecersiz_kelimeler) and not any(k in fiyat.lower() for k in gecersiz_kelimeler):
+                            tum_fiyatlar.append({
+                                "marka": aktif_marka,
+                                "urun_adi": urun_adi,
+                                "fiyat": fiyat
+                            })
         
         time.sleep(3)
         
@@ -118,4 +120,4 @@ for url in urls:
 with open("fiyatlar.json", "w", encoding="utf-8") as dosya:
     json.dump(tum_fiyatlar, dosya, ensure_ascii=False, indent=4)
 
-print("İşlem tamamlandı! Veriler marka bilgisiyle fiyatlar.json dosyasına kaydedildi.")
+print("İşlem tamamlandı! Veriler headline'lardan okunan marka bilgisiyle fiyatlar.json dosyasına kaydedildi.")
