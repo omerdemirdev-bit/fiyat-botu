@@ -79,13 +79,11 @@ for url in urls:
             if eleman.name == 'tr':
                 sutunlar = eleman.find_all(["th", "td"])
                 
-                # Tek hücreli satırsa (tablo içi başlık) - Sadece ilk kelimeyi al
                 if len(sutunlar) == 1 and sutunlar[0].text.strip():
                     alt_baslik = sutunlar[0].text.strip()
                     if len(alt_baslik) < 80:
-                        aktif_marka = alt_baslik.split()[0] # SADECE İLK KELİME
+                        aktif_marka = alt_baslik.split()[0]
                 
-                # Ürün ve fiyat satırıysa
                 elif len(sutunlar) >= 2:
                     urun_adi = sutunlar[0].text.strip()
                     fiyat = sutunlar[1].text.strip()
@@ -100,15 +98,21 @@ for url in urls:
                             })
                 continue
 
-            # 2. Tablo dışındaki başlık veya renkli metinler
+            # 2. Tablo dışındaki metinlerde KESİN RENK KONTROLÜ
             if eleman.find_parent(['table', 'tr', 'td']):
                 continue
                 
-            is_header = eleman.name in ['h1', 'h2', 'h3', 'h4', 'h5', 'h6']
             stil = eleman.get('style', '').lower()
-            is_colored = 'color' in stil or eleman.has_attr('color')
+            renk_attr = eleman.get('color', '').lower() if eleman.has_attr('color') else ''
             
-            if is_header or is_colored:
+            # Sadece Kırmızı ve Sarı renklerin kodları veya kelimeleri
+            kirmizi_sari_kodlari = ['red', 'yellow', '#ff0000', '#ffff00', 'rgb(255, 0, 0)', 'rgb(255, 255, 0)', 'rgb(255,0,0)', 'rgb(255,255,0)']
+            
+            # Yazının stili içinde bu renklerden biri var mı?
+            is_kirmizi_sari = any(renk in stil or renk in renk_attr for renk in kirmizi_sari_kodlari)
+            
+            # EĞER yazı kırmızı veya sarıysa (başlık falan olması umrumuzda değil)
+            if is_kirmizi_sari:
                 metin = eleman.text.strip()
                 if metin and 2 < len(metin) < 80:
                     aktif_marka = metin.split()[0] # SADECE İLK KELİME
@@ -121,4 +125,4 @@ for url in urls:
 with open("fiyatlar.json", "w", encoding="utf-8") as dosya:
     json.dump(tum_fiyatlar, dosya, ensure_ascii=False, indent=4)
 
-print("İşlem tamamlandı! Veriler sadece ilk kelime marka olacak şekilde kaydedildi.")
+print("İşlem tamamlandı! Yalnızca KIRMIZI ve SARI yazılar marka olarak kaydedildi.")
