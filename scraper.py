@@ -71,46 +71,47 @@ for url in urls:
         response = requests.get(url, headers=headers, timeout=10)
         soup = BeautifulSoup(response.content, "html.parser")
         
-        # Varsayılan başlangıç markası olarak ana sayfa başlığını (h1) alalım
         aktif_marka = "Genel"
-        h1 = soup.find("h1")
-        if h1 and h1.text.strip():
-            aktif_marka = h1.text.strip()
+        
+        for eleman in soup.find_all(['h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'span', 'strong', 'b', 'font', 'div', 'p', 'tr']):
             
-        # Sayfadaki tüm başlıkları (h2, h3, h4, h5) ve tablo satırlarını (tr) sayfadaki sırasına göre bul
-        for eleman in soup.find_all(['h2', 'h3', 'h4', 'h5', 'tr']):
-            
-            # Eğer eleman bir başlıksa, yeni markamız bu başlık olsun
-            if eleman.name in ['h2', 'h3', 'h4', 'h5']:
-                baslik_metni = eleman.text.strip()
-                if baslik_metni and len(baslik_metni) < 80: # Saçma sapan uzun metinleri elemek için
-                    aktif_marka = baslik_metni
-                    
-            # Eğer eleman bir tablo satırıysa, hafızadaki son aktif markayı kullanarak ürünleri çek
-            elif eleman.name == 'tr':
+            # 1. Eğer eleman bir tablo satırıysa
+            if eleman.name == 'tr':
                 sutunlar = eleman.find_all(["th", "td"])
                 
-                # Tablo içinde yine de tek satırlık alt başlıklar varsa onları da yakalayalım
+                # Tek hücreli satırsa (tablo içi başlık) - Sadece ilk kelimeyi al
                 if len(sutunlar) == 1 and sutunlar[0].text.strip():
                     alt_baslik = sutunlar[0].text.strip()
                     if len(alt_baslik) < 80:
-                        aktif_marka = alt_baslik
-                    continue 
-
-                # En az 2 sütun varsa fiyat verisidir
-                if len(sutunlar) >= 2:
+                        aktif_marka = alt_baslik.split()[0] # SADECE İLK KELİME
+                
+                # Ürün ve fiyat satırıysa
+                elif len(sutunlar) >= 2:
                     urun_adi = sutunlar[0].text.strip()
                     fiyat = sutunlar[1].text.strip()
                     
-                    gecersiz_kelimeler = ["ürün", "fiyat", "cinsi", "açıklama", "malzeme"]
+                    gecersiz = ["ürün", "fiyat", "cinsi", "açıklama", "malzeme", "kodu"]
                     if urun_adi and fiyat:
-                        # Tablo başlıkları "Ürün Adı", "Fiyatı" satırlarını JSON'a eklememek için filtreliyoruz
-                        if not any(k in urun_adi.lower() for k in gecersiz_kelimeler) and not any(k in fiyat.lower() for k in gecersiz_kelimeler):
+                        if not any(k in urun_adi.lower() for k in gecersiz) and not any(k in fiyat.lower() for k in gecersiz):
                             tum_fiyatlar.append({
                                 "marka": aktif_marka,
                                 "urun_adi": urun_adi,
                                 "fiyat": fiyat
                             })
+                continue
+
+            # 2. Tablo dışındaki başlık veya renkli metinler
+            if eleman.find_parent(['table', 'tr', 'td']):
+                continue
+                
+            is_header = eleman.name in ['h1', 'h2', 'h3', 'h4', 'h5', 'h6']
+            stil = eleman.get('style', '').lower()
+            is_colored = 'color' in stil or eleman.has_attr('color')
+            
+            if is_header or is_colored:
+                metin = eleman.text.strip()
+                if metin and 2 < len(metin) < 80:
+                    aktif_marka = metin.split()[0] # SADECE İLK KELİME
         
         time.sleep(3)
         
@@ -120,4 +121,4 @@ for url in urls:
 with open("fiyatlar.json", "w", encoding="utf-8") as dosya:
     json.dump(tum_fiyatlar, dosya, ensure_ascii=False, indent=4)
 
-print("İşlem tamamlandı! Veriler headline'lardan okunan marka bilgisiyle fiyatlar.json dosyasına kaydedildi.")
+print("İşlem tamamlandı! Veriler sadece ilk kelime marka olacak şekilde kaydedildi.")
