@@ -2,6 +2,17 @@ import requests
 from bs4 import BeautifulSoup
 import json
 import time
+import re
+
+# Sitedeki geçerli markaların tam listesi
+resmi_markalar = [
+    "Hitachi", "Tedaş", "Astor", "Eaton", "Best/Eltaş", "Schneider", "Legrand",
+    "Gata", "Sarkuysan Bakır", "Pyrsmian", "Hes", "Öznur", "Hasçelik", "Kauçuk",
+    "Ketenci", "3M", "Woer", "Tügen", "Birtaş", "Herkül", "tongün", "Yavuz Pano",
+    "Ensmet", "Güçtay", "Hensel", "Delta", "Mervesan", "Metop", "ABB", "Siemens",
+    "LS", "Hyundai", "Lovato", "Viko", "Federal", "Tense", "Entes", "Emas", "Ekon",
+    "Finder", "Nexans", "Fluke", "ACK", "Yavuz", "Gecem", "Hikvision", "İlker", "Vimar"
+]
 
 urls = [
     "https://gataelektrik.com/orta-gerilim-2021-fiyat",
@@ -62,7 +73,16 @@ headers = {
 
 tum_fiyatlar = []
 
-print("Fiyat taraması başlıyor...")
+# Metin içinde marka arayan özel fonksiyon
+def marka_tespit_et(metin, markalar):
+    metin_kucuk = metin.lower()
+    for marka in markalar:
+        # Kelime bazlı arama yap (örneğin 'Hes' ararken 'Hesap' kelimesine takılmaması için)
+        if re.search(r'\b' + re.escape(marka.lower()) + r'\b', metin_kucuk):
+            return marka
+    return None
+
+print("Dinamik marka taraması başlıyor...")
 
 for url in urls:
     print(f"Taranıyor: {url}")
@@ -71,51 +91,50 @@ for url in urls:
         response = requests.get(url, headers=headers, timeout=10)
         soup = BeautifulSoup(response.content, "html.parser")
         
-        aktif_marka = "Genel"
+        aktif_marka = "Genel" # Sayfaya girerken sıfırla
         
-        for eleman in soup.find_all(['h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'span', 'strong', 'b', 'font', 'div', 'p', 'tr']):
+        # Sayfadaki her şeyi belge sırasına göre yukarıdan aşağıya tarıyoruz
+        for eleman in soup.find_all(['h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'div', 'p', 'span', 'strong', 'b', 'tr']):
             
-            # 1. Eğer eleman bir tablo satırıysa
+            # Eğer eleman bir tablo satırıysa
             if eleman.name == 'tr':
-                sutunlar = eleman.find_all(["th", "td"])
+                sutunlar = eleman.find_all(['th', 'td'])
                 
-                if len(sutunlar) == 1 and sutunlar[0].text.strip():
-                    alt_baslik = sutunlar[0].text.strip()
-                    if len(alt_baslik) < 80:
-                        aktif_marka = alt_baslik.split()[0]
+                # Tek hücreli satırsa (tablo içindeki alt başlık veya marka adı olabilir)
+                if len(sutunlar) == 1:
+                    metin = sutunlar[0].get_text(" ", strip=True)
+                    bulunan_marka = marka_tespit_et(metin, resmi_markalar)
+                    if bulunan_marka:
+                        aktif_marka = bulunan_marka # Yeni markayı hafızaya al
                 
+                # 2 veya daha fazla hücreliyse (ürün listesi)
                 elif len(sutunlar) >= 2:
-                    urun_adi = sutunlar[0].text.strip()
-                    fiyat = sutunlar[1].text.strip()
+                    urun_adi = sutunlar[0].get_text(" ", strip=True)
+                    fiyat = sutunlar[1].get_text(" ", strip=True)
                     
-                    gecersiz = ["ürün", "fiyat", "cinsi", "açıklama", "malzeme", "kodu"]
+                    gecersiz_kelimeler = ["ürün", "fiyat", "cinsi", "açıklama", "malzeme", "kodu", "no"]
+                    
                     if urun_adi and fiyat:
-                        if not any(k in urun_adi.lower() for k in gecersiz) and not any(k in fiyat.lower() for k in gecersiz):
+                        # Ürün adının veya fiyatın tablo başlığı ("Ürün Adı", "Liste Fiyatı" vb.) olmadığını doğrula
+                        if not any(k in urun_adi.lower() for k in gecersiz_kelimeler) and not any(k in fiyat.lower() for k in gecersiz_kelimeler):
                             tum_fiyatlar.append({
-                                "marka": aktif_marka,
+                                "marka": aktif_marka, # Hafızadaki güncel markayı bas
                                 "urun_adi": urun_adi,
                                 "fiyat": fiyat
                             })
-                continue
-
-            # 2. Tablo dışındaki metinlerde KESİN RENK KONTROLÜ
-            if eleman.find_parent(['table', 'tr', 'td']):
-                continue
+            
+            # Eğer eleman tablo dışındaki bir başlıksa veya metinse
+            else:
+                # Tablonun içindeki yazıları 'tr' döngüsünde hallettiğimiz için burada atlıyoruz
+                if eleman.find_parent('table'):
+                    continue
                 
-            stil = eleman.get('style', '').lower()
-            renk_attr = eleman.get('color', '').lower() if eleman.has_attr('color') else ''
-            
-            # Sadece Kırmızı ve Sarı renklerin kodları veya kelimeleri
-            kirmizi_sari_kodlari = ['red', 'yellow', '#ff0000', '#ffff00', 'rgb(255, 0, 0)', 'rgb(255, 255, 0)', 'rgb(255,0,0)', 'rgb(255,255,0)']
-            
-            # Yazının stili içinde bu renklerden biri var mı?
-            is_kirmizi_sari = any(renk in stil or renk in renk_attr for renk in kirmizi_sari_kodlari)
-            
-            # EĞER yazı kırmızı veya sarıysa (başlık falan olması umrumuzda değil)
-            if is_kirmizi_sari:
-                metin = eleman.text.strip()
-                if metin and 2 < len(metin) < 80:
-                    aktif_marka = metin.split()[0] # SADECE İLK KELİME
+                metin = eleman.get_text(" ", strip=True)
+                # Sadece başlık olabilecek kısalıktaki metinleri tara (100 karakterden kısaysa)
+                if metin and len(metin) < 100:
+                    bulunan_marka = marka_tespit_et(metin, resmi_markalar)
+                    if bulunan_marka:
+                        aktif_marka = bulunan_marka # Yeni markayı hafızaya al
         
         time.sleep(3)
         
@@ -125,4 +144,4 @@ for url in urls:
 with open("fiyatlar.json", "w", encoding="utf-8") as dosya:
     json.dump(tum_fiyatlar, dosya, ensure_ascii=False, indent=4)
 
-print("İşlem tamamlandı! Yalnızca KIRMIZI ve SARI yazılar marka olarak kaydedildi.")
+print("İşlem tamamlandı! Sayfa içi listeler taranarak markalar dinamik olarak eşleştirildi.")
