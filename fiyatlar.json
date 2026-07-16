@@ -1366,56 +1366,6 @@
     },
     {
         "marka": "Gata",
-        "urun_adi": "MS-58 Pirinç Serfil",
-        "fiyat": "5 mm"
-    },
-    {
-        "marka": "Gata",
-        "urun_adi": "25 mm Kanca Serfil",
-        "fiyat": "6 mm"
-    },
-    {
-        "marka": "Gata",
-        "urun_adi": "35 mm Kanca Serfil",
-        "fiyat": "8 mm"
-    },
-    {
-        "marka": "Gata",
-        "urun_adi": "50 mm Kanca Serfil",
-        "fiyat": "9 mm"
-    },
-    {
-        "marka": "Gata",
-        "urun_adi": "70 mm Kanca Serfil",
-        "fiyat": "11 mm"
-    },
-    {
-        "marka": "Gata",
-        "urun_adi": "95 mm Kanca Serfil",
-        "fiyat": "13 mm"
-    },
-    {
-        "marka": "Gata",
-        "urun_adi": "120 mm Kanca Serfil",
-        "fiyat": "14 mm"
-    },
-    {
-        "marka": "Gata",
-        "urun_adi": "150 mm Kanca Serfil",
-        "fiyat": "16 mm"
-    },
-    {
-        "marka": "Gata",
-        "urun_adi": "185 mm Kanca Serfil",
-        "fiyat": "16 mm"
-    },
-    {
-        "marka": "Gata",
-        "urun_adi": "240 mm Kanca Serfil",
-        "fiyat": "21 m m"
-    },
-    {
-        "marka": "Gata",
         "urun_adi": "PİRİNÇ İLETKEN KLEMENSLER",
         "fiyat": "SIKMA ARALIĞI"
     },
@@ -9456,73 +9406,218 @@
     },
     {
         "marka": "Hasçelik",
-        "urun_adi": "HASÇELİK MART 2024 SOLAR KABLO FİYAT LİSTESİ",
+        "urun_adi": "1×35/16 mm 36KV CU XLPE Kablo",
+        "fiyat": "1560,00 TL"
+    },
+    {
+        "marka": "Hasçelik",
+        "urun_adi": "1×50/16 mm 36KV CU XLPE Kablo",
+        "fiyat": "1800,00 TL"
+    },
+    {
+        "marka": "Hasçelik",
+        "urun_adi": "1×70/16 mm 36KV CU XLPE Kablo",
+        "fiyat": "2300,00 TL"
+    },
+    {
+        "marka": "Hasçelik",
+        "urun_adi": "1×95/16 mm 36KV CU XLPE Kablo",
+        "fiyat": "2820,00 TL"
+    },
+    {
+        "marka": "Hasçelik",
+        "urun_adi": "1×120/16 mm 36KV CU XLPE Kablo",
+        "fiyat": "3410,00 TL"
+    },
+    {
+        "marka": "Hasçelik",
+        "urun_adi": "1×150/25 mm 36KV CU XLPE Kablo",
+        "fiyat": "4260,00 TL"
+    },
+    {
+        "marka": "Hasçelik",
+        "urun_adi": "1×185/25 mm 36KV CU XLPE Kablo",
+        "fiyat": "5070,00 TL"
+    },
+    {
+        "marka": "Hasçelik",
+        "urun_adi": "1×240/25 mm 36KV CU XLPE Kablo",
+        "fiyat": "6280,00 TL"
+    },
+    {
+        "marka": "Hasçelik",
+        "urun_adi": "1×300/25 mm 36KV CU XLPE Kablo",
+        "fiyat": "7920,00 TL"
+    },
+    {
+        "marka": "Hasçelik",
+        "urun_adi": "1×400/35 mm 36KV CU XLPE Kablo",
+        "fiyat": "10340,00 TL"
+    },
+    {
+        "marka": "Hasçelik",
+        "urun_adi": "1×500/35 mm 36KV CU XLPE Kablo",
+        "fiyat": "13130,00 TL"
+    },
+    {
+        "marka": "Hasçelik",
+        "urun_adi": "1×630/35 mm 36KV CU XLPE Kablo",
+        "fiyat": "16720,00 TL"
+    },
+    {
+        "marka": "Hasçelik",
+        "urun_adi": "HASÇELİK MAYIS 2026 SOLAR KABLO FİYAT LİSTESİ  PV1-F FLEX (CU)",
         "fiyat": "FİYAT"
     },
     {
         "marka": "Hasçelik",
-        "urun_adi": "1 x 4 mm2  0,6/1 kV  Solar Kablo",
-        "fiyat": "59,50 TL"
+        "urun_adi": "1 x 1,5 mm H1Z2Z2-K 0,6/1 kV  Solar Kablo",
+        "fiyat": "52,50 TL"
     },
     {
         "marka": "Hasçelik",
-        "urun_adi": "1 x 6 mm2  0,6/1 kV  Solar Kablo",
-        "fiyat": "76,40 TL"
+        "urun_adi": "1 x 2,5 mm H1Z2Z2-K 0,6/1 kV  Solar Kablo",
+        "fiyat": "74,50 TL"
     },
     {
         "marka": "Hasçelik",
-        "urun_adi": "1 x 10 mm2  0,6/1 kV  Solar Kablo",
-        "fiyat": "135,00 TL"
+        "urun_adi": "1 x 4 mm2  H1Z2Z2-K 0,6/1 kV  Solar Kablo",
+        "fiyat": "105,00 TL"
     },
     {
         "marka": "Hasçelik",
-        "urun_adi": "1 x 16 mm2  0,6/1 kV  Solar Kablo",
-        "fiyat": "210,00 TL"
+        "urun_adi": "1 x 6 mm2  H1Z2Z2-K 0,6/1 kV  Solar Kablo",
+        "fiyat": "137,00 TL"
     },
     {
         "marka": "Hasçelik",
-        "urun_adi": "1 x 25 mm2  0,6/1 kV  Solar Kablo",
-        "fiyat": "325,00 TL"
+        "urun_adi": "1 x 10 mm2  H1Z2Z2-K 0,6/1 kV Solar Kablo",
+        "fiyat": "244,00 TL"
     },
     {
         "marka": "Hasçelik",
-        "urun_adi": "1 x 35 mm2  0,6/1 kV  Solar Kablo",
-        "fiyat": "438,00 TL"
+        "urun_adi": "1 x 16 mm2  H1Z2Z2-K 0,6/1 kV Solar Kablo",
+        "fiyat": "415,00 TL"
     },
     {
         "marka": "Hasçelik",
-        "urun_adi": "1 x 50 mm2  0,6/1 kV  Solar Kablo",
-        "fiyat": "610,00 TL"
+        "urun_adi": "1 x 25 mm2  H1Z2Z2-K 0,6/1 kV Solar Kablo",
+        "fiyat": "647,00 TL"
     },
     {
         "marka": "Hasçelik",
-        "urun_adi": "1 x 70 mm2  0,6/1 kV  Solar Kablo",
-        "fiyat": "878,00 TL"
+        "urun_adi": "1 x 35 mm2  H1Z2Z2-K 0,6/1 kV Solar Kablo",
+        "fiyat": "877,00 TL"
     },
     {
         "marka": "Hasçelik",
-        "urun_adi": "1 x 95 mm2  0,6/1 kV  Solar Kablo",
-        "fiyat": "1150,00 TL"
+        "urun_adi": "1 x 50 mm2  H1Z2Z2-K 0,6/1 kV Solar Kablo",
+        "fiyat": "1230,00 TL"
     },
     {
         "marka": "Hasçelik",
-        "urun_adi": "1 x 120 mm2  0,6/1 kV  Solar Kablo",
-        "fiyat": "1470,00 TL"
+        "urun_adi": "1 x 70 mm2  H1Z2Z2-K 0,6/1 kV Solar Kablo",
+        "fiyat": "1740,00 TL"
     },
     {
         "marka": "Hasçelik",
-        "urun_adi": "1 x 150 mm2  0,6/1 kV  Solar Kablo",
-        "fiyat": "1810,00 TL"
+        "urun_adi": "1 x 95 mm2  H1Z2Z2-K 0,6/1 kV Solar Kablo",
+        "fiyat": "2280,00 TL"
     },
     {
         "marka": "Hasçelik",
-        "urun_adi": "1 x 185 mm2  0,6/1 kV  Solar Kablo",
-        "fiyat": "2260,00 TL"
+        "urun_adi": "1 x 120 mm2  H1Z2Z2-K 0,6/1 kV Solar Kablo",
+        "fiyat": "2920,00 TL"
     },
     {
         "marka": "Hasçelik",
-        "urun_adi": "1 x 120 mm2  0,6/1 kV  Solar Kablo",
-        "fiyat": "3000,00 TL"
+        "urun_adi": "1 x 150 mm2  H1Z2Z2-K 0,6/1 kV Solar Kablo",
+        "fiyat": "3610,00 TL"
+    },
+    {
+        "marka": "Hasçelik",
+        "urun_adi": "1 x 185 mm2  H1Z2Z2-K 0,6/1 kV Solar Kablo",
+        "fiyat": "4510,00 TL"
+    },
+    {
+        "marka": "Hasçelik",
+        "urun_adi": "1 x 120 mm2  H1Z2Z2-K 0,6/1 kV Solar Kablo",
+        "fiyat": "5990,00 TL"
+    },
+    {
+        "marka": "Hasçelik",
+        "urun_adi": "ROSE İletken",
+        "fiyat": "777 TL / KG"
+    },
+    {
+        "marka": "Hasçelik",
+        "urun_adi": "LİLY İletken",
+        "fiyat": "795 TL / KG"
+    },
+    {
+        "marka": "Hasçelik",
+        "urun_adi": "PANSY İletken",
+        "fiyat": "763 TL / KG"
+    },
+    {
+        "marka": "Hasçelik",
+        "urun_adi": "POPY İletken",
+        "fiyat": "794 TL / KG"
+    },
+    {
+        "marka": "Hasçelik",
+        "urun_adi": "ASTER İletken",
+        "fiyat": "758 TL / KG"
+    },
+    {
+        "marka": "Hasçelik",
+        "urun_adi": "PHLOX İletken",
+        "fiyat": "792 TL / KG"
+    },
+    {
+        "marka": "Hasçelik",
+        "urun_adi": "OXLİP İletken",
+        "fiyat": "786 TL / KG"
+    },
+    {
+        "marka": "Hasçelik",
+        "urun_adi": "SWALLOV İletken",
+        "fiyat": "607 TL / KG"
+    },
+    {
+        "marka": "Hasçelik",
+        "urun_adi": "RAVEN İletken",
+        "fiyat": "597 TL / KG"
+    },
+    {
+        "marka": "Hasçelik",
+        "urun_adi": "PİGEON İletken",
+        "fiyat": "594 TL / KG"
+    },
+    {
+        "marka": "Hasçelik",
+        "urun_adi": "PATRİDGE İletken",
+        "fiyat": "14,17 $ / KG"
+    },
+    {
+        "marka": "Hasçelik",
+        "urun_adi": "HAWK İletken",
+        "fiyat": "13,89 $ / KG"
+    },
+    {
+        "marka": "Hasçelik",
+        "urun_adi": "DRAKE İletken",
+        "fiyat": "13,96 $ / KG"
+    },
+    {
+        "marka": "Hasçelik",
+        "urun_adi": "CARDİNAL İletken",
+        "fiyat": "14,52 $ / KG"
+    },
+    {
+        "marka": "Hasçelik",
+        "urun_adi": "PHEASENT İletken",
+        "fiyat": "14,63 $ / KG"
     },
     {
         "marka": "Kauçuk",
