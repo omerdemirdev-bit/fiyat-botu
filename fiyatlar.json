@@ -80591,198 +80591,48 @@
     },
     {
         "marka": "İlker",
-        "urun_adi": "SMD Şerit LED IP20 (60Led/Mt) 500 Lm  8mm x 1.4mm x 5mt. (Beyaz Işık)",
-        "fiyat": "FSHI.1048.8020.6012"
+        "urun_adi": "WWHI.3036.3067.2024",
+        "fiyat": "Mt / 20 Led"
     },
     {
         "marka": "İlker",
-        "urun_adi": "SMD Şerit LED IP20 (60Led/Mt) 440 Lm  8mm x 1.4mm x 5mt.",
-        "fiyat": "FSHI.1048.3020.6012"
+        "urun_adi": "WWHI.3026.3067.2424",
+        "fiyat": "Mt / 24 Led"
     },
     {
         "marka": "İlker",
-        "urun_adi": "SMD Şerit LED IP20 (60Led/Mt) 90 Lm  8mm x 1.4mm x 5mt.",
-        "fiyat": "FSHI.1048.B020.6012"
+        "urun_adi": "WWHI.3026.4067.2424",
+        "fiyat": "Mt / 24 Led"
     },
     {
         "marka": "İlker",
-        "urun_adi": "SMD Şerit LED IP20 (60Led/Mt) 1200 Lm  8mm x 1.4mm x 5mt.",
-        "fiyat": "FSHW.1014.1220.6012"
+        "urun_adi": "WMHI.1014.3062.5624",
+        "fiyat": "Mt / 56 Led"
     },
     {
         "marka": "İlker",
-        "urun_adi": "SMD Şerit LED IP68 (60Led/Mt) 450 Lm  10mm x 4mm x 5mt.  (Beyaz Işık)",
-        "fiyat": "FSHI.1048.7068.6012"
+        "urun_adi": "WMHI.1014.4062.5624",
+        "fiyat": "Mt / 56 Led"
     },
     {
         "marka": "İlker",
-        "urun_adi": "SMD Şerit LED IP68 (60Led/Mt) 330 Lm  10mm x 4mm x 5mt.  (Sıcak Beyaz Işık)",
-        "fiyat": "FSHI.1048.3068.6012"
+        "urun_adi": "WMHI.1014.6062.5624",
+        "fiyat": "Mt / 56 Led"
     },
     {
         "marka": "İlker",
-        "urun_adi": "SMD Şerit LED IP68 (60Led/Mt) 155 Lm  10mm x 4mm x 5mt.  (Kırmızı Işık)",
-        "fiyat": "FSHI.1048.3068.6012"
+        "urun_adi": "WMHI.1014.3067.5624",
+        "fiyat": "Mt / 56 Led"
     },
     {
         "marka": "İlker",
-        "urun_adi": "SMD Şerit LED IP68 (60Led/Mt) 100 Lm  10mm x 4mm x 5mt.  (Sarı Işık)",
-        "fiyat": "FSHI.1048.Y068.6012"
+        "urun_adi": "WMHI.1014.4067.5624",
+        "fiyat": "Mt / 56 Led"
     },
     {
         "marka": "İlker",
-        "urun_adi": "SMD Şerit LED IP68 (60Led/Mt) 400 Lm  10mm x 4mm x 5mt.  (Yeşil Işık)",
-        "fiyat": "FSHI.1048.G068.6012"
-    },
-    {
-        "marka": "İlker",
-        "urun_adi": "SMD Şerit LED IP68 (60Led/Mt) 80 Lm  10mm x 4mm x 5mt.  (Mavi Işık)",
-        "fiyat": "FSHI.1048.B068.6012"
-    },
-    {
-        "marka": "İlker",
-        "urun_adi": "SMD Şerit LED IP20 (120Led/Mt) 740 Lm  4mm x 1mm x 5mt.  (Beyaz Işık)",
-        "fiyat": "FSHW.2216.6020.1224"
-    },
-    {
-        "marka": "İlker",
-        "urun_adi": "SMD Şerit LED IP20 (120Led/Mt) 710 Lm  4mm x 1mm x 5mt.  (Doğal Beyaz Işık)",
-        "fiyat": "FSHW.2216.4020.1224"
-    },
-    {
-        "marka": "İlker",
-        "urun_adi": "SMD Şerit LED IP20 (120Led/Mt) 630 Lm  4mm x 1mm x 5mt.  (Sıcak Beyaz Işık)",
-        "fiyat": "FSHW.2216.3020.1224"
-    },
-    {
-        "marka": "İlker",
-        "urun_adi": "SMD Şerit LED IP20 (60Led/Mt) 840 Lm  12mm x 2.1mm x 5mt.",
-        "fiyat": "FSHW.5050.X320.6024"
-    },
-    {
-        "marka": "İlker",
-        "urun_adi": "SMD Şerit LED IP20 (60Led/Mt) 870 Lm  12mm x 2.1mm x 5mt.",
-        "fiyat": "FSHW.5050.X620.6024"
-    },
-    {
-        "marka": "İlker",
-        "urun_adi": "Esnek Wallwasher LED (20Led/Mt) 1270Lm",
-        "fiyat": "WWHI.3072.3067.4824"
-    },
-    {
-        "marka": "İlker",
-        "urun_adi": "İç Mekan 5050 SMD Şerit Led (60Led/Mt) 1520 Lm (Beyaz)",
-        "fiyat": "FSHI.5050.7020.6012"
-    },
-    {
-        "marka": "İlker",
-        "urun_adi": "İç Mekan 5050 SMD Şerit Led (60Led/Mt) 1400 Lm (Doğal Beyaz)",
-        "fiyat": "FSHI.5050.4020.6012"
-    },
-    {
-        "marka": "İlker",
-        "urun_adi": "İç Mekan 5050 SMD Şerit Led (60Led/Mt) 1350 Lm (Sıcak Beyaz)",
-        "fiyat": "FSHI.5050.3020.6012"
-    },
-    {
-        "marka": "İlker",
-        "urun_adi": "İç Mekan 5050 SMD Şerit Led (60Led/Mt) 1145 Lm (Sıcak Beyaz)",
-        "fiyat": "FSHI.5050.2720.6012"
-    },
-    {
-        "marka": "İlker",
-        "urun_adi": "İç Mekan 5050 SMD Şerit Led (60Led/Mt) 470 Lm (Kırmızı)",
-        "fiyat": "FSHI.5050.R020.6012"
-    },
-    {
-        "marka": "İlker",
-        "urun_adi": "İç Mekan 5050 SMD Şerit Led (60Led/Mt) 310 Lm (Sarı)",
-        "fiyat": "FSHI.5050.Y020.6012"
-    },
-    {
-        "marka": "İlker",
-        "urun_adi": "İç Mekan 5050 SMD Şerit Led (60Led/Mt) 1290 Lm (Yeşil)",
-        "fiyat": "FSHI.5050.G020.6012"
-    },
-    {
-        "marka": "İlker",
-        "urun_adi": "İç Mekan 5050 SMD Şerit Led (60Led/Mt) 220 Lm (Mavi)",
-        "fiyat": "FSHI.5050.B020.6012"
-    },
-    {
-        "marka": "İlker",
-        "urun_adi": "Dış Mekan 5050 SMD Şerit Led (60Led/Mt) 1280 Lm (Beyaz)",
-        "fiyat": "FSHI.5050.7068.6012"
-    },
-    {
-        "marka": "İlker",
-        "urun_adi": "Dış Mekan 5050 SMD Şerit Led (60Led/Mt) 1060 Lm (Doğal Beyaz)",
-        "fiyat": "FSHI.5050.4068.6012"
-    },
-    {
-        "marka": "İlker",
-        "urun_adi": "Dış Mekan 5050 SMD Şerit Led (60Led/Mt) 1085 Lm (Sıcak Beyaz)",
-        "fiyat": "FSHI.5050.3068.6012"
-    },
-    {
-        "marka": "İlker",
-        "urun_adi": "Dış Mekan 5050 SMD Şerit Led (60Led/Mt) 1050 Lm (Sıcak Beyaz)",
-        "fiyat": "FSHI.5050.2768.6012"
-    },
-    {
-        "marka": "İlker",
-        "urun_adi": "Dış Mekan 5050 SMD Şerit Led (60Led/Mt) 220 Lm (Kırmızı)",
-        "fiyat": "FSHI.5050.R068.6012"
-    },
-    {
-        "marka": "İlker",
-        "urun_adi": "Dış Mekan 5050 SMD Şerit Led (60Led/Mt) 200 Lm (Sarı)",
-        "fiyat": "FSHI.5050.Y068.6012"
-    },
-    {
-        "marka": "İlker",
-        "urun_adi": "Dış Mekan 5050 SMD Şerit Led (60Led/Mt) 520 Lm (Yeşil)",
-        "fiyat": "FSHI.5050.G068.6012"
-    },
-    {
-        "marka": "İlker",
-        "urun_adi": "Dış Mekan 5050 SMD Şerit Led (60Led/Mt) 150 Lm (Mavi)",
-        "fiyat": "FSHI.5050.B068.6012"
-    },
-    {
-        "marka": "İlker",
-        "urun_adi": "Dış Mekan 5050 SMD Şerit Led (60Led/Mt) 1280 Lm (Beyaz)",
-        "fiyat": "FSHI.5050.7068.6024"
-    },
-    {
-        "marka": "İlker",
-        "urun_adi": "Dış Mekan 5050 SMD Şerit Led (60Led/Mt) 1085 Lm (Sıcak Beyaz)",
-        "fiyat": "FSHI.5050.3068.6024"
-    },
-    {
-        "marka": "İlker",
-        "urun_adi": "Dış Mekan 5050 SMD Şerit Led (60Led/Mt) 200 Lm (Sarı)",
-        "fiyat": "FSHI.5050.Y068.6024"
-    },
-    {
-        "marka": "İlker",
-        "urun_adi": "Dış Mekan 5050 SMD Şerit Led (30Led/Mt) 260Lm RGB",
-        "fiyat": "FSHI.5050.X020.3012"
-    },
-    {
-        "marka": "İlker",
-        "urun_adi": "Dış Mekan 5050 SMD Şerit Led (60Led/Mt) 620Lm RGB",
-        "fiyat": "FSHI.5050.X020.6012"
-    },
-    {
-        "marka": "İlker",
-        "urun_adi": "Dış Mekan 5050 SMD Şerit Led (60Led/Mt) 620Lm RGB",
-        "fiyat": "FSHI.5050.X020.6024"
-    },
-    {
-        "marka": "İlker",
-        "urun_adi": "Dış Mekan 5050 SMD Şerit Led (120Led/Mt) 1200Lm RGB",
-        "fiyat": "FSHI.5050.X020.1224"
+        "urun_adi": "FSHI.D015.2720.2824",
+        "fiyat": "Mt / 288 Led"
     },
     {
         "marka": "Genel",
