@@ -67476,753 +67476,193 @@
     },
     {
         "marka": "Ekon",
-        "urun_adi": "EKON SİLİNDİRİK TİP (TÜP) Trifaze AG Güç KONDANSATÖLERİ (400 V-440 V / 50-60 Hz)",
-        "fiyat": "FİYAT"
+        "urun_adi": "400V 0,50 KvAR / 415V 0,54 KvAR Tüp Kondansatör",
+        "fiyat": "41005"
     },
     {
         "marka": "Ekon",
-        "urun_adi": "0,50 Kvar 400/440 V Silindirik Kondansatör",
-        "fiyat": "586,0 TL"
+        "urun_adi": "400V 1,00 KvAR / 415V 1,08 KvAR Tüp Kondansatör",
+        "fiyat": "41010"
     },
     {
         "marka": "Ekon",
-        "urun_adi": "1,00 Kvar 400/440V  Silindirik Kondansatör",
-        "fiyat": "595,0 TL"
+        "urun_adi": "400V 1,50 KvAR / 415V 1,6 KvAR Tüp Kondansatör",
+        "fiyat": "41015"
     },
     {
         "marka": "Ekon",
-        "urun_adi": "1,50 Kvar 400/440V  Silindirik Kondansatör",
-        "fiyat": "666,0 TL"
+        "urun_adi": "400V 2,50 KvAR / 415V 2,7 KvAR Tüp Kondansatör",
+        "fiyat": "41025"
     },
     {
         "marka": "Ekon",
-        "urun_adi": "2,50 Kvar 400/440V  Silindirik Kondansatör",
-        "fiyat": "792,0 TL"
+        "urun_adi": "400V 5,00 KvAR / 415V 5,4 KvAR Tüp Kondansatör",
+        "fiyat": "41050"
     },
     {
         "marka": "Ekon",
-        "urun_adi": "5,00 Kvar 400/440V  Silindirik Kondansatör",
-        "fiyat": "1098,0 TL"
+        "urun_adi": "400 V 7,50 KvAR / 415V 8,00 KvAR Tüp Kondansatör",
+        "fiyat": "41075"
     },
     {
         "marka": "Ekon",
-        "urun_adi": "7,50 Kvar 400/440V  Silindirik Kondansatör",
-        "fiyat": "1489,0 TL"
+        "urun_adi": "400V 10,00 KvAR / 415V 11,00 KvAR Tüp Kondansatör",
+        "fiyat": "41100"
     },
     {
         "marka": "Ekon",
-        "urun_adi": "10,00 Kvar 400/440V  Silindirik Kondansatör",
-        "fiyat": "1578,0 TL"
+        "urun_adi": "400V 12,50 KvAR / 415V 13,50 KvAR Tüp Kondansatör",
+        "fiyat": "41125"
     },
     {
         "marka": "Ekon",
-        "urun_adi": "12,50 Kvar 400/440V  Silindirik Kondansatör",
-        "fiyat": "1912,0 TL"
+        "urun_adi": "400V 15,00 KvAR / 415V 16,00 KvAR Tüp Kondansatör",
+        "fiyat": "41150"
     },
     {
         "marka": "Ekon",
-        "urun_adi": "15,00 Kvar 400/440V  Silindirik Kondansatör",
-        "fiyat": "2243,0 TL"
+        "urun_adi": "400V 20,00 KvAR / 415V 22,00 KvAR Tüp Kondansatör",
+        "fiyat": "41200"
     },
     {
         "marka": "Ekon",
-        "urun_adi": "20,00 Kvar 400/440V  Silindirik Kondansatör",
-        "fiyat": "3086,0 TL"
+        "urun_adi": "400V 25,00 KvAR / 415V 27,00 KvAR Tüp Kondansatör",
+        "fiyat": "41250"
     },
     {
         "marka": "Ekon",
-        "urun_adi": "25,00 Kvar 400/440V  Silindirik Kondansatör",
-        "fiyat": "3615,0 TL"
+        "urun_adi": "DuraKON Alçak Gerilim Güç Kondansatörleri  400-415-440V (HEAVY DUTY)",
+        "fiyat": "KOD"
     },
     {
         "marka": "Ekon",
-        "urun_adi": "30,00 Kvar 400/440V  Silindirik Kondansatör",
-        "fiyat": "4026,0 TL"
+        "urun_adi": "400V 0,50 KvAR / 415V 0,61 KvAR / 440V 0,61 KvAR Tüp Kondansatör",
+        "fiyat": "42005"
     },
     {
         "marka": "Ekon",
-        "urun_adi": "0,50 Kvar 480/525 V Silindirik Kondansatör",
-        "fiyat": "792,0 TL"
+        "urun_adi": "400V 1,00 KvAR / 415V 1,10 KvAR / 440V 1,21 KvAR Tüp Kondansatör",
+        "fiyat": "42010"
     },
     {
         "marka": "Ekon",
-        "urun_adi": "1,00 Kvar 480/525V  Silindirik Kondansatör",
-        "fiyat": "883,0 TL"
+        "urun_adi": "400V 1,50 KvAR / 415V 1,60 KvAR / 440V 1,81 KvAR Tüp Kondansatör",
+        "fiyat": "42015"
     },
     {
         "marka": "Ekon",
-        "urun_adi": "1,50 Kvar 480/525V  Silindirik Kondansatör",
-        "fiyat": "960,0 TL"
+        "urun_adi": "400V 2,50 KvAR / 415V 2,7 KvAR / 440V 3,00 KvAR Tüp Kondansatör",
+        "fiyat": "42025"
     },
     {
         "marka": "Ekon",
-        "urun_adi": "2,50 Kvar 480/525V  Silindirik Kondansatör",
-        "fiyat": "1043,0 TL"
+        "urun_adi": "400V 5,00 KvAR / 415V 5,4 KvAR / 440V 6,00 KvAR Tüp Kondansatör",
+        "fiyat": "42050"
     },
     {
         "marka": "Ekon",
-        "urun_adi": "5,00 Kvar 480/525V  Silindirik Kondansatör",
-        "fiyat": "1475,0 TL"
+        "urun_adi": "400V 7,50 KvAR / 415V 8,00 KvAR / 440V 9,00 KvAR Tüp Kondansatör",
+        "fiyat": "42075"
     },
     {
         "marka": "Ekon",
-        "urun_adi": "7,50 Kvar 480/525V  Silindirik Kondansatör",
-        "fiyat": "1640,0 TL"
+        "urun_adi": "400V 10,00 KvAR / 415V 11,00 KvAR / 440V 12,00 KvAR Tüp Kondansatör",
+        "fiyat": "42100"
     },
     {
         "marka": "Ekon",
-        "urun_adi": "10,00 Kvar 480/525V  Silindirik Kondansatör",
-        "fiyat": "1875,0 TL"
+        "urun_adi": "400V 12,50 KvAR / 415V 13,50 KvAR / 440V 15,00 KvAR Tüp Kondansatör",
+        "fiyat": "42125"
     },
     {
         "marka": "Ekon",
-        "urun_adi": "12,50 Kvar 480/525V  Silindirik Kondansatör",
-        "fiyat": "2343,0 TL"
+        "urun_adi": "400V 15,00 KvAR / 415V 16,00 KvAR / 440V 18,00 KvAR Tüp Kondansatör",
+        "fiyat": "42150"
     },
     {
         "marka": "Ekon",
-        "urun_adi": "15,00 Kvar 480/525V  Silindirik Kondansatör",
-        "fiyat": "2543,0 TL"
+        "urun_adi": "400V 20,00 KvAR / 415V 22,00 KvAR / 440V 24,00 KvAR Tüp Kondansatör",
+        "fiyat": "42200"
     },
     {
         "marka": "Ekon",
-        "urun_adi": "20,00 Kvar 400/440V  Silindirik Kondansatör",
-        "fiyat": "3203,0 TL"
+        "urun_adi": "400V 25,00 KvAR / 415V 27,00 KvAR / 440V 30,00 KvAR Tüp Kondansatör",
+        "fiyat": "42250"
     },
     {
         "marka": "Ekon",
-        "urun_adi": "25,00 Kvar 400/440V  Silindirik Kondansatör",
-        "fiyat": "4212,0 TL"
+        "urun_adi": "400V 30,00 KvAR / 415V 32,00 KvAR / 440V 36,00 KvAR Tüp Kondansatör",
+        "fiyat": "42300"
     },
     {
         "marka": "Ekon",
-        "urun_adi": "30,00 Kvar 400/440V  Silindirik Kondansatör",
-        "fiyat": "4672,0 TL"
+        "urun_adi": "400V 40,00 KvAR / 415V 43,00 KvAR / 440V 48,00 KvAR Tüp Kondansatör",
+        "fiyat": "42400"
     },
     {
         "marka": "Ekon",
-        "urun_adi": "40,00 Kvar 400/440V  Silindirik Kondansatör",
-        "fiyat": "7152,0 TL"
+        "urun_adi": "400V 50,00 KvAR / 415V 54,00 KvAR / 440V 60,00 KvAR Tüp Kondansatör",
+        "fiyat": "42500"
     },
     {
         "marka": "Ekon",
-        "urun_adi": "50,00 Kvar 400/440V  Silindirik Kondansatör",
-        "fiyat": "9206,0 TL"
+        "urun_adi": "440V 2,50 KvAR / 450V 2,63 KvAR / 460V 2,73 KvAR Tüp Kondansatör",
+        "fiyat": "43025"
     },
     {
         "marka": "Ekon",
-        "urun_adi": "5,00 Kvar 690V  Silindirik Kondansatör",
-        "fiyat": "1638,0 TL"
+        "urun_adi": "440V 5,00 KvAR / 450V 5,25 KvAR / 460V 5,45 KvAR Tüp Kondansatör",
+        "fiyat": "43050"
     },
     {
         "marka": "Ekon",
-        "urun_adi": "7,50 Kvar 690V  Silindirik Kondansatör",
-        "fiyat": "1832,0 TL"
+        "urun_adi": "440V 10,00 KvAR / 450V 10,50 KvAR / 460V 10,90 KvAR Tüp Kondansatör",
+        "fiyat": "43100"
     },
     {
         "marka": "Ekon",
-        "urun_adi": "10,00 Kvar 690V  Silindirik Kondansatör",
-        "fiyat": "2243,0 TL"
+        "urun_adi": "440V 12,50 KvAR / 450V 13,10 KvAR / 460V 13,70 KvAR Tüp Kondansatör",
+        "fiyat": "43125"
     },
     {
         "marka": "Ekon",
-        "urun_adi": "12,50 Kvar 690V  Silindirik Kondansatör",
-        "fiyat": "2798,0 TL"
+        "urun_adi": "440V 14,10 KvAR / 450V 14,70 KvAR / 460V 15,40 KvAR Tüp Kondansatör",
+        "fiyat": "43140"
     },
     {
         "marka": "Ekon",
-        "urun_adi": "15,00 Kvar 690V  Silindirik Kondansatör",
-        "fiyat": "3400,0 TL"
+        "urun_adi": "440V 15,00 KvAR / 450V 15,70 KvAR / 460V 16,40 KvAR Tüp Kondansatör",
+        "fiyat": "43150"
     },
     {
         "marka": "Ekon",
-        "urun_adi": "20,00 Kvar 690V  Silindirik Kondansatör",
-        "fiyat": "4603,0 TL"
+        "urun_adi": "440V 20,00 KvAR / 450V 20,90 KvAR / 460V 21,90 KvAR Tüp Kondansatör",
+        "fiyat": "43200"
     },
     {
         "marka": "Ekon",
-        "urun_adi": "25,00 Kvar 690V  Silindirik Kondansatör",
-        "fiyat": "5700,0 TL"
+        "urun_adi": "440V 25,00 KvAR / 450V 26,10 KvAR / 460V 27,30 KvAR Tüp Kondansatör",
+        "fiyat": "43250"
     },
     {
         "marka": "Ekon",
-        "urun_adi": "30,00 Kvar 690V  Silindirik Kondansatör",
-        "fiyat": "6623,0 TL"
+        "urun_adi": "440V 28,20 KvAR / 450V 29,50 KvAR / 460V 30,80 KvAR Tüp Kondansatör",
+        "fiyat": "43280"
     },
     {
         "marka": "Ekon",
-        "urun_adi": "40,00 Kvar 690V  Silindirik Kondansatör",
-        "fiyat": "8189,0 TL"
+        "urun_adi": "440V 30,00 KvAR / 450V 31,40 KvAR / 460V 32,80 KvAR Tüp Kondansatör",
+        "fiyat": "43300"
     },
     {
         "marka": "Ekon",
-        "urun_adi": "50,00 Kvar 690V  Silindirik Kondansatör",
-        "fiyat": "9423,0 TL"
+        "urun_adi": "440V 40,00 KvAR / 450V 41,80 KvAR / 460V 43,80 KvAR Tüp Kondansatör",
+        "fiyat": "43400"
     },
     {
         "marka": "Ekon",
-        "urun_adi": "440V:6,25 Kvar 480V: 7,40 Kvar -40/+55 Derece Özel İmalat Tüp",
-        "fiyat": "1529,0 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "440V:12,25 Kvar 480V: 14,70 Kvar -40/+55 Derece Özel İmalat Tüp",
-        "fiyat": "2449,0 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "440V:14,10 Kvar 480V: 16,60 Kvar -40/+55 Derece Özel İmalat Tüp",
-        "fiyat": "2626,0 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "440V:28,20 Kvar 480V: 33,30 Kvar -40/+55 Derece Özel İmalat Tüp",
-        "fiyat": "4849,0 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "(231 V) 0,55 kVAR/ (400 V)1,67 kVAR",
-        "fiyat": "512,0 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "(231 V) 0,83 kVAR/ (400 V) 2,5 kVAR",
-        "fiyat": "546,0 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "(231 V) 1,38 k VAR / (400 V) 4,17 kVAR",
-        "fiyat": "669,0 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "(231 V) 2,76 kVAR / (400 V) 8,33 kVAR",
-        "fiyat": "1098,0 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "400/440/480V Kutu Kondansatör 0,5 Kvar",
-        "fiyat": "586,0 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "400/440/480V Kutu Kondansatör 1,0 Kvar",
-        "fiyat": "595,0 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "400/440/480V Kutu Kondansatör 1,5 Kvar",
-        "fiyat": "600,0 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "400/440/480V Kutu Kondansatör 2,5 Kvar",
-        "fiyat": "698,0 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "400/440/480V Kutu Kondansatör 5,0 Kvar",
-        "fiyat": "880,0 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "400/440/480V Kutu Kondansatör 7,5 Kvar",
-        "fiyat": "1092,0 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "400/440/480V Kutu Kondansatör 10,0 Kvar",
-        "fiyat": "1386,0 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "400/440/480V Kutu Kondansatör 12,5 Kvar",
-        "fiyat": "1803,0 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "400/440/480V Kutu Kondansatör 15,0 Kvar",
-        "fiyat": "2200,0 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "400/440/480V Kutu Kondansatör 20,0 Kvar",
-        "fiyat": "2846,0 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "400/440/480V Kutu Kondansatör 25,0 Kvar",
-        "fiyat": "3438,0 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "400/440/480V Kutu Kondansatör 30,0 Kvar",
-        "fiyat": "5249,0 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "400/440/480V Kutu Kondansatör 40,0 Kvar",
-        "fiyat": "7006,0 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "400/440/480V Kutu Kondansatör 50,0 Kvar",
-        "fiyat": "8740,0 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "440/480V Endüstriyel Tip Kutu Kondansatör 5 Kvar",
-        "fiyat": "1578,0 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "440/480V Endüstriyel Tip Kutu Kondansatör 10 Kvar",
-        "fiyat": "2198,0 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "440/480V Endüstriyel Tip Kutu Kondansatör 15 Kvar",
-        "fiyat": "2998,0 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "440/480V Endüstriyel Tip Kutu Kondansatör 20 Kvar",
-        "fiyat": "4226,0 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "440/480V Endüstriyel Tip Kutu Kondansatör 25 Kvar",
-        "fiyat": "4686,0 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "440/480V Endüstriyel Tip Kutu Kondansatör 30 Kvar",
-        "fiyat": "5249,0 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "440/480V Endüstriyel Tip Kutu Kondansatör 40 Kvar",
-        "fiyat": "7006,0 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "440/480V Endüstriyel Tip Kutu Kondansatör 50 Kvar",
-        "fiyat": "8740,0 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "440/480V Endüstriyel Tip Kutu Kondansatör 60 Kvar",
-        "fiyat": "10498,0 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "EKON / AGAKON Tip Ağır Yük Sanayi Kondansatörleri (400 V)",
-        "fiyat": "FİYAT"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "5 Kvar 400V Sanayi Tip Ağır Yük Kondansatörü",
-        "fiyat": "3786,0 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "5 Kvar 525V Sanayi Tip Ağır Yük Kondansatörü",
-        "fiyat": "3786,0 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "5 Kvar 800V Sanayi Tip Ağır Yük Kondansatörü",
-        "fiyat": "4923,0 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "5 Kvar 1000V Sanayi Tip Ağır Yük Kondansatörü",
-        "fiyat": "5375,0 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "10 Kvar 400V Sanayi Tip Ağır Yük Kondansatörü",
-        "fiyat": "4100,0 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "10 Kvar 525V Sanayi Tip Ağır Yük Kondansatörü",
-        "fiyat": "4100,0 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "10 Kvar 800V Sanayi Tip Ağır Yük Kondansatörü",
-        "fiyat": "5340,0 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "10 Kvar 1000V Sanayi Tip Ağır Yük Kondansatörü",
-        "fiyat": "5792,0 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "12,5 Kvar 400V Sanayi Tip Ağır Yük Kondansatörü",
-        "fiyat": "4732,0 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "12,5 Kvar 525V Sanayi Tip Ağır Yük Kondansatörü",
-        "fiyat": "4732,0 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "12,5 Kvar 800V Sanayi Tip Ağır Yük Kondansatörü",
-        "fiyat": "6183,0 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "12,5 Kvar 1000V Sanayi Tip Ağır Yük Kondansatörü",
-        "fiyat": "6635,0 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "15 Kvar 400V Sanayi Tip Ağır Yük Kondansatörü",
-        "fiyat": "5386,0 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "15 Kvar 525V Sanayi Tip Ağır Yük Kondansatörü",
-        "fiyat": "5386,0 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "15 Kvar 800V Sanayi Tip Ağır Yük Kondansatörü",
-        "fiyat": "7052,0 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "15 Kvar 1000V Sanayi Tip Ağır Yük Kondansatörü",
-        "fiyat": "7738,0 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "20 Kvar 400V Sanayi Tip Ağır Yük Kondansatörü",
-        "fiyat": "6466,0 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "20 Kvar 525V Sanayi Tip Ağır Yük Kondansatörü",
-        "fiyat": "6466,0 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "20 Kvar 800V Sanayi Tip Ağır Yük Kondansatörü",
-        "fiyat": "8526,0 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "20 Kvar 1000V Sanayi Tip Ağır Yük Kondansatörü",
-        "fiyat": "9326,0 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "25 Kvar 400V Sanayi Tip Ağır Yük Kondansatörü",
-        "fiyat": "7400,0 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "25 Kvar 525V Sanayi Tip Ağır Yük Kondansatörü",
-        "fiyat": "7400,0 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "25 Kvar 800V Sanayi Tip Ağır Yük Kondansatörü",
-        "fiyat": "9675,0 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "25 Kvar 1000V Sanayi Tip Ağır Yük Kondansatörü",
-        "fiyat": "10589,0 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "30 Kvar 400V Sanayi Tip Ağır Yük Kondansatörü",
-        "fiyat": "8966,0 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "30 Kvar 525V Sanayi Tip Ağır Yük Kondansatörü",
-        "fiyat": "8966,0 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "30 Kvar 800V Sanayi Tip Ağır Yük Kondansatörü",
-        "fiyat": "11692,0 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "30 Kvar 1000V Sanayi Tip Ağır Yük Kondansatörü",
-        "fiyat": "12695,0 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "40 Kvar 400V Sanayi Tip Ağır Yük Kondansatörü",
-        "fiyat": "11343,0 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "40 Kvar 525V Sanayi Tip Ağır Yük Kondansatörü",
-        "fiyat": "11343,0 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "40 Kvar 800V Sanayi Tip Ağır Yük Kondansatörü",
-        "fiyat": "14812,0 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "40 Kvar 1000V Sanayi Tip Ağır Yük Kondansatörü",
-        "fiyat": "15826,0 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "50 Kvar 400V Sanayi Tip Ağır Yük Kondansatörü",
-        "fiyat": "13335,0 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "50 Kvar 525V Sanayi Tip Ağır Yük Kondansatörü",
-        "fiyat": "13335,0 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "50 Kvar 800V Sanayi Tip Ağır Yük Kondansatörü",
-        "fiyat": "17380,0 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "50 Kvar 1000V Sanayi Tip Ağır Yük Kondansatörü",
-        "fiyat": "19755,0 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "60 Kvar 400V Sanayi Tip Ağır Yük Kondansatörü",
-        "fiyat": "15160,0 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "60 Kvar 525V Sanayi Tip Ağır Yük Kondansatörü",
-        "fiyat": "15160,0 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "60 Kvar 800V Sanayi Tip Ağır Yük Kondansatörü",
-        "fiyat": "19666,0 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "60 Kvar 1000V Sanayi Tip Ağır Yük Kondansatörü",
-        "fiyat": "23675,0 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "80 Kvar 400V Sanayi Tip Ağır Yük Kondansatörü",
-        "fiyat": "20700,0 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "80 Kvar 525V Sanayi Tip Ağır Yük Kondansatörü",
-        "fiyat": "20700,0 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "80 Kvar 800V Sanayi Tip Ağır Yük Kondansatörü",
-        "fiyat": "26986,0 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "80 Kvar 1000V Sanayi Tip Ağır Yük Kondansatörü",
-        "fiyat": "31592,0 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "100 Kvar 400V Sanayi Tip Ağır Yük Kondansatörü",
-        "fiyat": "23652,0 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "100 Kvar 525V Sanayi Tip Ağır Yük Kondansatörü",
-        "fiyat": "23652,0 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "100 Kvar 800V Sanayi Tip Ağır Yük Kondansatörü",
-        "fiyat": "30803,0 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "100 Kvar 1000V Sanayi Tip Ağır Yük Kondansatörü",
-        "fiyat": "39509,0 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "120 Kvar 400V Sanayi Tip Ağır Yük Kondansatörü",
-        "fiyat": "25792,0 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "120 Kvar 525V Sanayi Tip Ağır Yük Kondansatörü",
-        "fiyat": "25792,0 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "120 Kvar 800V Sanayi Tip Ağır Yük Kondansatörü",
-        "fiyat": "33586,0 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "120 Kvar 1000V Sanayi Tip Ağır Yük Kondansatörü",
-        "fiyat": "47335,0 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "TİBCON TEMMUZ 2023 FİYAT LİSTESİ",
-        "fiyat": "FİYAT"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "TİBCON 230V SİLİNDİR TİP KONDANSATÖR",
-        "fiyat": "FİYAT"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "CYL-0,25-220-PİN (230V 0,25 kVAR – 400V 0,75 kVAR)",
-        "fiyat": "464,00 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "CYL-0,5-220-PİN (230V 0,5 kVAR – 400V 1,5 kVAR)",
-        "fiyat": "466,00 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "CYL-1-220-PİN (230V 1 kVAR – 400V 3 kVAR)",
-        "fiyat": "556,00 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "CYL-1,5-220-PİN (230V 1,5 kVAR – 400V 4,5 kVAR)",
-        "fiyat": "697,00 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "CYL-2,5-220-PİN (230V 2,5 kVAR – 400V 7,5 kVAR)",
-        "fiyat": "1046,00 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "CYL-3-220-PİN (230V 3 kVAR – 400V 9 kVAR)",
-        "fiyat": "1070,00 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "CYL-5-220-PİN (230V 5 kVAR – 400V 15 kVAR)",
-        "fiyat": "2191,00 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "TİBCON 400V/415V/440V AĞIR HİZMET SİLİNDİR TİP KONDANSATÖR",
-        "fiyat": "FİYAT"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "CYL-0,5-400-PİN  ( 400V 0,5 kVAR – 415V 0,54 kVAR – 440V 0,61 kVAR )",
-        "fiyat": "597,00 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "CYL-1-400-PİN  ( 400V 1 kVAR – 415V 1,08 kVAR – 440V 1,21 kVAR )",
-        "fiyat": "614,00 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "CYL-1,5-400-PİN  ( 400V 1,5 kVAR – 415V 1,61 kVAR – 440V 1,81 kVAR )",
-        "fiyat": "714,00 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "CYL-2,5-400-PİN  ( 400V 2,5 kVAR – 415V 2,69 kVAR – 440V 3,03 kVAR )",
-        "fiyat": "871,00 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "HD-CYL-5-400-SCR  ( 400V 5 kVAR – 415V 5,38 kVAR – 440V 6,05 kVAR )",
-        "fiyat": "1212,00 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "HD-CYL-7,5-400-SCR  ( 400V 7,5 kVAR – 415V 8,07 kVAR – 440V 9,08 kVAR )",
-        "fiyat": "1544,00 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "HD-CYL-10-400-SCR  ( 400V 10 kVAR – 415V 10,76 kVAR – 440V 12,01 kVAR )",
-        "fiyat": "1643,00 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "HD-CYL-12,5-400-SCR  ( 400V 12,5 kVAR – 415V 13,46 kVAR – 440V 15,13 kVAR )",
-        "fiyat": "1909,00 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "HD-CYL-15-400-SCR  ( 400V 15 kVAR – 415V 16,15 kVAR – 440V 18,16 kVAR )",
-        "fiyat": "2241,00 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "HD-CYL-20-400-SCR  ( 400V 20 kVAR – 415V 21,53 kVAR – 440V 24,2 kVAR )",
-        "fiyat": "3054,00 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "HD-CYL-25-400-SCR  ( 400V 25 kVAR – 415V 26,91 kVAR – 440V 30,25 kVAR )",
-        "fiyat": "3569,00 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "HD-CYL-30-400-SCR  ( 400V 30 kVAR – 415V 32,3 kVAR – 440V 36,3 kVAR )",
-        "fiyat": "3951,00 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "HD-CYL-40-400-SCR  ( 400V 40 kVAR – 415V 43,06 kVAR – 440V 48,4 kVAR )",
-        "fiyat": "6839,00 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "HD-CYL-50-400-SCR  ( 400V 50 kVAR – 415V 53,82 kVAR – 440V 60,5 kVAR )",
-        "fiyat": "7387,00 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "TİBCON 440/450/460V AĞIR HİZMET SİLİNDİR TİP KONDANSATÖR",
-        "fiyat": "FİYAT"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "CYL-2,5-440-PİN ( 440V 2,5 kVAR – 450V 2,6 kVAR – 460V 2,7 kVAR )",
-        "fiyat": "880,00 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "HD-CYL-5-440-PİN  ( 440V 5 kVAR – 450V 5,2 kVAR – 460V 5,5 kVAR )",
-        "fiyat": "1212,00 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "HD-CYL-7,5-440-SCR  ( 440V 7,5 kVAR – 450V 7,8 kVAR – 460V 8,2 kVAR )",
-        "fiyat": "1544,00 TL"
-    },
-    {
-        "marka": "Ekon",
-        "urun_adi": "HD-CYL-10-440-SCR  ( 440V 10 kVAR – 450V 10,5 kVAR – 460V 10,9 kVAR )",
-        "fiyat": "1693,00 TL"
+        "urun_adi": "440V 50,00 KvAR / 450V 52,20 KvAR / 460V 54,60 KvAR Tüp Kondansatör",
+        "fiyat": "43500"
     },
     {
         "marka": "Finder",
