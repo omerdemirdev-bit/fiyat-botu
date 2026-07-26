@@ -67532,7 +67532,7 @@
     {
         "marka": "Ekon",
         "urun_adi": "EKON DuraKON Alçak Gerilim Güç Kondansatörleri  400-415-440V (HEAVY DUTY)",
-        "fiyat": "LİSTE FİYATI"
+        "fiyat": "FİYAT"
     },
     {
         "marka": "Ekon",
@@ -68028,6 +68028,756 @@
         "marka": "Ekon",
         "urun_adi": "400V 50,00 KvAR / 415V 54,0 KvAR / 440V 60.0 KvAR Kutu Kondansatör",
         "fiyat": "43900"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "440V 10,00 KvAR / 415V 9,0 KvAR / 400V 8,0 KvAR Kaset Tipi Kondansatör",
+        "fiyat": "49410"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "440V 15,00 KvAR / 415V 13,0 KvAR / 400V 12,0 KvAR Kaset Tipi Kondansatör",
+        "fiyat": "49415"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "440V 20,00 KvAR / 415V 18,0 KvAR / 400V 17,0 KvAR Kaset Tipi Kondansatör",
+        "fiyat": "49420"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "440V 25,00 KvAR / 415V 22,0 KvAR / 400V 21,0 KvAR Kaset Tipi Kondansatör",
+        "fiyat": "49425"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "440V 30,00 KvAR / 415V 27,0 KvAR / 400V 25,0 KvAR Kaset Tipi Kondansatör",
+        "fiyat": "49430"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "440V 40,00 KvAR / 415V 36,0 KvAR / 400V 34,0 KvAR Kaset Tipi Kondansatör",
+        "fiyat": "49440"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "525V 10,00 KvAR / 415V 8,4 KvAR  Kaset Tipi Kondansatör",
+        "fiyat": "49510"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "525V 15,00 KvAR / 415V 12,5 KvAR  Kaset Tipi Kondansatör",
+        "fiyat": "49515"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "525V 20,00 KvAR / 415V 16,8 KvAR  Kaset Tipi Kondansatör",
+        "fiyat": "49520"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "525V 25,00 KvAR / 415V 20,9 KvAR  Kaset Tipi Kondansatör",
+        "fiyat": "49525"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "525V 30,00 KvAR / 415V 25,0 KvAR  Kaset Tipi Kondansatör",
+        "fiyat": "49530"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "525V 40,00 KvAR / 415V 33,4 KvAR  Kaset Tipi Kondansatör",
+        "fiyat": "49540"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "2,5 kVAr Kompanzasyon kontaktörü",
+        "fiyat": "88002"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "5,0 kVAr Kompanzasyon kontaktörü",
+        "fiyat": "88005"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "7,5 kVAr Kompanzasyon kontaktörü",
+        "fiyat": "88007"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "12,5 kVAr Kompanzasyon kontaktörü",
+        "fiyat": "88012"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "15,0 kVAr Kompanzasyon kontaktörü",
+        "fiyat": "88015"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "20,0 kVAr Kompanzasyon kontaktörü",
+        "fiyat": "88020"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "25,0 kVAr Kompanzasyon kontaktörü",
+        "fiyat": "88025"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "30,0 kVAr Kompanzasyon kontaktörü",
+        "fiyat": "88030"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "40,0 kVAr Kompanzasyon kontaktörü",
+        "fiyat": "88040"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "50,0 kVAr Kompanzasyon kontaktörü",
+        "fiyat": "88050"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "60,0 kVAr Kompanzasyon kontaktörü",
+        "fiyat": "88060"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "80,0 kVAr Kompanzasyon kontaktörü",
+        "fiyat": "88075"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "90,0 kVAr Kompanzasyon kontaktörü",
+        "fiyat": "88100"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "2,5 KvAR  440V Kapasitif Kontaktör",
+        "fiyat": "TSCM-5"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "7,5 KvAR  440V Kapasitif Kontaktör",
+        "fiyat": "TSCM-15"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "12,5 KvAR  440V Kapasitif Kontaktör",
+        "fiyat": "TSCM-30"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "12,5 KvAR  440V Kapasitif Kontaktör",
+        "fiyat": "TSCM-45"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "20,0 KvAR  440V Kapasitif Kontaktör",
+        "fiyat": "TSC-5"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "20,0 KvAR  440V Kapasitif Kontaktör",
+        "fiyat": "TSC-10"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "25,0 KvAR  440V Kapasitif Kontaktör",
+        "fiyat": "TSC-15"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "30,0 KvAR  440V Kapasitif Kontaktör",
+        "fiyat": "TSC-25"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "50,0 KvAR  440V Kapasitif Kontaktör",
+        "fiyat": "TSC-50"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "75,0 KvAR  440V Kapasitif Kontaktör",
+        "fiyat": "TSC-75"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "90,0 KvAR  440V Kapasitif Kontaktör",
+        "fiyat": "TSC-100"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "230V  3*1,66 KvAR Endüktif Yük Sürücü",
+        "fiyat": "ES-5"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "230V  3*3,33 KvAR Endüktif Yük Sürücü",
+        "fiyat": "ES-10"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "230V  3*3,7 KvAR Endüktif Yük Sürücü",
+        "fiyat": "ES-20"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "230V  3*3,10 KvAR Endüktif Yük Sürücü",
+        "fiyat": "ES-30"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "230V  3*3,20 KvAR Endüktif Yük Sürücü",
+        "fiyat": "ES-60"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "12 Kademe E-RGK Rektif Güç Kontrol Rölesi Trifaze",
+        "fiyat": "98312"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "12+SVC E-RGK Rektif Güç Kontrol Rölesi Trifaze RS-485",
+        "fiyat": "98416"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "15+SVC E-RGK Rektif Güç Kontrol Rölesi Trifaze RS-485",
+        "fiyat": "98418"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "18+SVC E-RGK Rektif Güç Kontrol Rölesi Trifaze RS-485",
+        "fiyat": "98422"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "ZR-30 Zaman Rölesi 0.1-30s",
+        "fiyat": "98501"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "ZR-60 Zaman Rölesi 0.1-30s",
+        "fiyat": "98502"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "ZR-M1 Zaman Rölesi 1 sn – 100 h ( Çok Zaman Seçmeli )",
+        "fiyat": "98503"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "ZR-M2 Zaman Rölesi 1 sn – 100 h ( Çok Zaman + 4 Fonksiyon Seçmeli )",
+        "fiyat": "98504"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "GKR-01 Gerilim Kontrol Rölesi 1P",
+        "fiyat": "98511"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "GKR-02 Gerilim Kontrol Rölesi 3P",
+        "fiyat": "98512"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "MK-01  Motor (FAZ) Koruma Rölesi, %30 Sabit Asimetri",
+        "fiyat": "98520"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "MK-02  Motor (FAZ) Koruma Rölesi, %20 Sabit Asimetri",
+        "fiyat": "98521"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "FMK-01 Motor (FAZ) Koruma Rölesi, Faz Sırası, %40 Sabit Asimetri",
+        "fiyat": "98522"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "FMK-01P  Motor (FAZ) Koruma Rölesi, Faz Sırası, %40 Sabit Asimetri PTC.",
+        "fiyat": "98523"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "YU  Yıldız Üçgen Rölesi",
+        "fiyat": "98530"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "FR-01  Fotosel Röle ( 1 – 10 Lux Ayarlı )",
+        "fiyat": "98531"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "SSR  Sıvı Seviye Rölesi ( 5 – 50 KΩ Ayarlı, 3 Elektrod girişli )",
+        "fiyat": "98532"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "Sıvı Seviye Elektrodu (Kısa Tip)",
+        "fiyat": "98540"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "FG  Fotosel Göz",
+        "fiyat": "98542"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "EKON ALTERNATİF AKIM DAİMİ DEVRE AYDINLATMA KONDANSATÖRLERİ",
+        "fiyat": "TSE 61048"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "4  μf  250V Silikon Kablolu Vidalı Tüp Kondansatör 0,50A  30×68 mm 50-60Hz",
+        "fiyat": "45040"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "5  μf  250V Silikon Kablolu Vidalı Tüp Kondansatör 0,63A  30×68 mm 50-60Hz",
+        "fiyat": "45050"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "6  μf  250V Silikon Kablolu Vidalı Tüp Kondansatör 0,75A  30×68 mm 50-60Hz",
+        "fiyat": "45060"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "8  μf  250V Silikon Kablolu Vidalı Tüp Kondansatör 1,00A  30×68 mm 50-60Hz",
+        "fiyat": "45080"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "10  μf  250V Silikon Kablolu Vidalı Tüp Kondansatör 1,26A  30×68 mm 50-60Hz",
+        "fiyat": "45100"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "12  μf  250V Silikon Kablolu Vidalı Tüp Kondansatör 1,51A  30×68 mm 50-60Hz",
+        "fiyat": "45120"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "14  μf  250V Silikon Kablolu Vidalı Tüp Kondansatör 1,76A  30×68 mm 50-60Hz",
+        "fiyat": "45140"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "16  μf  250V Silikon Kablolu Vidalı Tüp Kondansatör 2,01A  30×68 mm 50-60Hz",
+        "fiyat": "45160"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "18  μf  250V Silikon Kablolu Vidalı Tüp Kondansatör 2,26A  30×68 mm 50-60Hz",
+        "fiyat": "45180"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "20  μf  250V Silikon Kablolu Vidalı Tüp Kondansatör 2,51A  30×68 mm 50-60Hz",
+        "fiyat": "45200"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "25  μf  250V Silikon Kablolu Vidalı Tüp Kondansatör 3,14A  30×68 mm 50-60Hz",
+        "fiyat": "45250"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "30  μf  250V Silikon Kablolu Vidalı Tüp Kondansatör 3,77A  30×90 mm 50-60Hz",
+        "fiyat": "45300"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "32  μf  250V Silikon Kablolu Vidalı Tüp Kondansatör 4,02A  30×90 mm 50-60Hz",
+        "fiyat": "45320"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "35  μf  250V Silikon Kablolu Vidalı Tüp Kondansatör 4,40A  30×90 mm 50-60Hz",
+        "fiyat": "45350"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "40  μf  250V Silikon Kablolu Vidalı Tüp Kondansatör 4,90A  40×90 mm 50-60Hz",
+        "fiyat": "45400"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "45  μf  250V Silikon Kablolu Vidalı Tüp Kondansatör 5,65A  40×90 mm 50-60Hz",
+        "fiyat": "45450"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "50  μf  250V Silikon Kablolu Vidalı Tüp Kondansatör 6,28A  40×90 mm 50-60Hz",
+        "fiyat": "45500"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "EKON ALTERNATİF AKIM DAİMİ DEVRE AYDINLATMA KONDANSATÖRLERİ",
+        "fiyat": "TSE-60252-1"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "2  μf  400-450V Kablolu Düz Tüp Kondansatör  0,25A  25×65 mm 50-60Hz",
+        "fiyat": "46020"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "2,5  μf  400-450V Kablolu Düz Tüp Kondansatör  0,31A  25×65 mm 50-60Hz",
+        "fiyat": "46025"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "3  μf  400-450V Kablolu Düz Tüp Kondansatör  0,38A  25×65 mm 50-60Hz",
+        "fiyat": "46030"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "3,5  μf  400-450V Kablolu Düz Tüp Kondansatör  0,44A  25×65 mm 50-60Hz",
+        "fiyat": "46035"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "4  μf  400-450V Kablolu Düz Tüp Kondansatör  0,50A  25×65 mm 50-60Hz",
+        "fiyat": "46040"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "4,5  μf  400-450V Kablolu Düz Tüp Kondansatör  0,57A  25×65 mm 50-60Hz",
+        "fiyat": "46045"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "5  μf  400-450V Kablolu Düz Tüp Kondansatör  0,63A  25×65 mm 50-60Hz",
+        "fiyat": "46050"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "6  μf  400-450V Kablolu Düz Tüp Kondansatör  0,75A  25×65 mm 50-60Hz",
+        "fiyat": "46060"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "7  μf  400-450V Kablolu Düz Tüp Kondansatör  0,88A  25×65 mm 50-60Hz",
+        "fiyat": "46070"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "7,5  μf  400-450V Kablolu Düz Tüp Kondansatör  0,94A  25×65 mm 50-60Hz",
+        "fiyat": "46075"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "8  μf  400-450V Kablolu Düz Tüp Kondansatör  1,00A  25×65 mm 50-60Hz",
+        "fiyat": "46080"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "9  μf  400-450V Kablolu Düz Tüp Kondansatör  1,13A  32×65 mm 50-60Hz",
+        "fiyat": "46090"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "10  μf  400-450V Kablolu Düz Tüp Kondansatör  1,26A  32×65 mm 50-60Hz",
+        "fiyat": "46100"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "12  μf  400-450V Kablolu Düz Tüp Kondansatör  1,51A  32×65 mm 50-60Hz",
+        "fiyat": "46120"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "12,5  μf  400-450V Kablolu Düz Tüp Kondansatör  1,57A  32×65 mm 50-60Hz",
+        "fiyat": "46125"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "15  μf  400-450V Kablolu Düz Tüp Kondansatör  1,88A  32×65 mm 50-60Hz",
+        "fiyat": "46150"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "16  μf  400-450V Kablolu Düz Tüp Kondansatör  2,01A  36×65 mm 50-60Hz",
+        "fiyat": "46160"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "18  μf  400-450V Kablolu Düz Tüp Kondansatör  2,26A  36×65 mm 50-60Hz",
+        "fiyat": "46180"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "20  μf  400-450V Kablolu Düz Tüp Kondansatör  2,51A  36×65 mm 50-60Hz",
+        "fiyat": "46200"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "25  μf  400-450V Kablolu Düz Tüp Kondansatör  3,14A  36×90 mm 50-60Hz",
+        "fiyat": "46250"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "30  μf  400-450V Kablolu Düz Tüp Kondansatör  3,77A  36×90 mm 50-60Hz",
+        "fiyat": "46300"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "35  μf  400-450V Kablolu Düz Tüp Kondansatör  4,40A  46×90 mm 50-60Hz",
+        "fiyat": "46350"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "40  μf  400-450V Kablolu Düz Tüp Kondansatör  5,02A  46×90 mm 50-60Hz",
+        "fiyat": "46400"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "45  μf  400-450V Kablolu Düz Tüp Kondansatör  5,65A  46×90 mm 50-60Hz",
+        "fiyat": "46450"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "50  μf  400-450V Kablolu Düz Tüp Kondansatör  6,28A  46×90 mm 50-60Hz",
+        "fiyat": "46500"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "60  μf  400-450V Kablolu Düz Tüp Kondansatör  7,54A  50×93 mm 50-60Hz",
+        "fiyat": "46600"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "65  μf  400-450V Kablolu Düz Tüp Kondansatör  8,16A  50×93 mm 50-60Hz",
+        "fiyat": "46650"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "70  μf  400-450V Kablolu Düz Tüp Kondansatör  8,81A  53×120 mm 50-60Hz",
+        "fiyat": "46700"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "80  μf  400-450V Kablolu Düz Tüp Kondansatör  10,05A  53×120 mm 50-60Hz",
+        "fiyat": "46800"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "100  μf  400-450V Kablolu Düz Tüp Kondansatör  12,56A  53×120 mm 50-60Hz",
+        "fiyat": "46895"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "120  μf  400-450V Kablolu Düz Tüp Kondansatör  15,07A  53×120 mm 50-60Hz",
+        "fiyat": "46897"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "25+1,5 μf  Klima Kondansatörü 370-400  -25°C / +80°C  50×103 mm",
+        "fiyat": "625015"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "25+2,5 μf  Klima Kondansatörü 370-401  -25°C / +80°C  50×103 mm",
+        "fiyat": "625025"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "25+5,5 μf  Klima Kondansatörü 370-402  -25°C / +80°C  50×103 mm",
+        "fiyat": "625050"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "25+10 μf  Klima Kondansatörü 370-403  -25°C / +80°C  50×103 mm",
+        "fiyat": "625100"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "30+0,9 μf  Klima Kondansatörü 370-404  -25°C / +80°C  50×103 mm",
+        "fiyat": "630009"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "30+1,5 μf  Klima Kondansatörü 370-405  -25°C / +80°C  50×103 mm",
+        "fiyat": "630015"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "30+6 μf  Klima Kondansatörü 370-406  -25°C / +80°C  50×103 mm",
+        "fiyat": "630060"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "35+1,5 μf  Klima Kondansatörü 370-407  -25°C / +80°C  50×120 mm",
+        "fiyat": "635015"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "35+2,5 μf  Klima Kondansatörü 370-408  -25°C / +80°C  50×120 mm",
+        "fiyat": "635025"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "35+6 μf  Klima Kondansatörü 370-409  -25°C / +80°C  50×120 mm",
+        "fiyat": "635060"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "40+1,5 μf  Klima Kondansatörü 370-410  -25°C / +80°C  50×120 mm",
+        "fiyat": "640015"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "40+2,5 μf  Klima Kondansatörü 370-411  -25°C / +80°C  50×120 mm",
+        "fiyat": "640025"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "40+5 μf  Klima Kondansatörü 370-412  -25°C / +80°C  50×120 mm",
+        "fiyat": "640050"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "45+1,5 μf  Klima Kondansatörü 370-413  -25°C / +80°C  55×120 mm",
+        "fiyat": "645015"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "45+5 μf  Klima Kondansatörü 370-414  -25°C / +80°C  55×120 mm",
+        "fiyat": "645050"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "45+6 μf  Klima Kondansatörü 370-415  -25°C / +80°C  55×120 mm",
+        "fiyat": "645060"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "45+10 μf  Klima Kondansatörü 370-416  -25°C / +80°C  50×103 mm",
+        "fiyat": "645100"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "50+1,5 μf  Klima Kondansatörü 370-417  -25°C / +80°C  50×103 mm",
+        "fiyat": "650015"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "50+3 μf  Klima Kondansatörü 370-418  -25°C / +80°C  50×103 mm",
+        "fiyat": "650030"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "50+5 μf  Klima Kondansatörü 370-419  -25°C / +80°C  50×103 mm",
+        "fiyat": "650050"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "50+6 μf  Klima Kondansatörü 370-420  -25°C / +80°C  50×103 mm",
+        "fiyat": "650060"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "50+10 μf  Klima Kondansatörü 370-421  -25°C / +80°C  50×103 mm",
+        "fiyat": "650100"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "55+5 μf  Klima Kondansatörü 370-422  -25°C / +80°C  65×120 mm",
+        "fiyat": "655050"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "55+6 μf  Klima Kondansatörü 370-423  -25°C / +80°C  65×120 mm",
+        "fiyat": "655060"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "60+3 μf  Klima Kondansatörü 370-424  -25°C / +80°C  65×120 mm",
+        "fiyat": "660030"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "60+10 μf  Klima Kondansatörü 370-425  -25°C / +80°C  65×120 mm",
+        "fiyat": "660100"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "43-53 μf  Elektrolitik İlk Hareket Kondansatörü   -10˚C/+55 ˚C   36-86 mm",
+        "fiyat": "50043"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "53-64 μf  Elektrolitik İlk Hareket Kondansatörü   -10˚C/+55 ˚C   36-86 mm",
+        "fiyat": "50053"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "64-77 μf  Elektrolitik İlk Hareket Kondansatörü   -10˚C/+55 ˚C   36-86 mm",
+        "fiyat": "50064"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "72-88 μf  Elektrolitik İlk Hareket Kondansatörü   -10˚C/+55 ˚C   36-86 mm",
+        "fiyat": "50072"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "88-108 μf  Elektrolitik İlk Hareket Kondansatörü   -10˚C/+55 ˚C   36-86 mm",
+        "fiyat": "50088"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "108-130 μf  Elektrolitik İlk Hareket Kondansatörü   -10˚C/+55 ˚C   36-86 mm",
+        "fiyat": "50108"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "124-149 μf  Elektrolitik İlk Hareket Kondansatörü   -10˚C/+55 ˚C   36-86 mm",
+        "fiyat": "50124"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "124-149 μf  Elektrolitik İlk Hareket Kondansatörü   -10˚C/+55 ˚C   46-86 mm",
+        "fiyat": "50125"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "130-156 μf  Elektrolitik İlk Hareket Kondansatörü   -10˚C/+55 ˚C   46-86 mm",
+        "fiyat": "50130"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "145-175 μf  Elektrolitik İlk Hareket Kondansatörü   -10˚C/+55 ˚C   46-86 mm",
+        "fiyat": "50145"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "161-193 μf  Elektrolitik İlk Hareket Kondansatörü   -10˚C/+55 ˚C   46-86 mm",
+        "fiyat": "50161"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "189-227 μf  Elektrolitik İlk Hareket Kondansatörü   -10˚C/+55 ˚C   46-86 mm",
+        "fiyat": "50189"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "233-280 μf  Elektrolitik İlk Hareket Kondansatörü   -10˚C/+55 ˚C   46-86 mm",
+        "fiyat": "50233"
+    },
+    {
+        "marka": "Ekon",
+        "urun_adi": "280-333 μf  Elektrolitik İlk Hareket Kondansatörü   -10˚C/+55 ˚C   46-86 mm",
+        "fiyat": "50280"
     },
     {
         "marka": "Finder",
