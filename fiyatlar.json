@@ -1686,6 +1686,56 @@
     },
     {
         "marka": "Genel",
+        "urun_adi": "30x5x170 mm (4 Katlı) Eş Potansiyel AL. Bara (M8) 5 Civata",
+        "fiyat": "300A"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30x5x220 mm (4 Katlı) Eş Potansiyel AL. Bara (M8) 7 Civata",
+        "fiyat": "4130,00 TL"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30x5x270 mm (4 Katlı) Eş Potansiyel AL. Bara (M8) 9 Civata",
+        "fiyat": "4926,00 TL"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30x5x350 mm (4 Katlı) Eş Potansiyel AL. Bara (M8) 12 Civata",
+        "fiyat": "6190,00 TL"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "20x5x220 mm  Eş Potansiyel CU Bara (M8) 6 Civata",
+        "fiyat": "300 A"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "20x5x250 mm  Eş Potansiyel CU Bara (M8) 8 Civata",
+        "fiyat": "300 A"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "20x5x350 mm  Eş Potansiyel CU Bara (M8) 11 Civata",
+        "fiyat": "300 A"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "20x5x450 mm  Eş Potansiyel CU Bara (M8) 15 Civata",
+        "fiyat": "300 A"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "20x5x560 mm  Eş Potansiyel CU Bara (M8) 20 Civata",
+        "fiyat": "300 A"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "20x5x700 mm  Eş Potansiyel CU Bara (M8) 25 Civata",
+        "fiyat": "300 A"
+    },
+    {
+        "marka": "Genel",
         "urun_adi": "Kablo Kesiti",
         "fiyat": "(PVC NYA ) H05V-U  300/500 V"
     },
@@ -58297,7 +58347,7 @@
     {
         "marka": "Genel",
         "urun_adi": "901X3400",
-        "fiyat": "Dörtlü Topraklı Grup Priz , Klem. Çocuk Korumalı"
+        "fiyat": "Dörtlü Topraklı Grup Priz , Klem. Çocuk Koruma"
     },
     {
         "marka": "Genel",
@@ -58343,6 +58393,56 @@
         "marka": "Genel",
         "urun_adi": "901X7405",
         "fiyat": "Dörtlü Anahtarlı 5 Mt Kablolu Grup Priz Ç.K"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "901X3500",
+        "fiyat": "Multi-let Beşli Priz Topraklı Klemensli Ç. K."
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "901X3501",
+        "fiyat": "Multi-let Beşli Priz Topraklı Kablolu Ç. K. – 1 MT"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "901X3502",
+        "fiyat": "Multi-let Beşli Priz Topraklı Kablolu Ç. K. – 2 MT"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "901X3503",
+        "fiyat": "Multi-let Beşli Priz Topraklı Kablolu Ç. K. – 3 MT"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "901X3505",
+        "fiyat": "Multi-let Beşli Priz Topraklı Kablolu Ç. K. – 5 MT"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "901X7500",
+        "fiyat": "Multi-let Beşli Priz Anahtarlı Topraklı Klemensli Ç. K."
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "901X7501",
+        "fiyat": "Multi-let Beşli Priz Anahtarlı Topraklı Kablo Ç.K.1MT"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "901X7502",
+        "fiyat": "Multi-let Beşli Priz Anahtarlı Topraklı Kablo Ç.K.2MT"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "901X7503",
+        "fiyat": "Multi-let Beşli Priz Anahtarlı Topraklı Kablo Ç.K.3MT"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "901X7505",
+        "fiyat": "Multi-let Beşli Priz Anahtarlı Toprak Kablo Ç.K.5MT"
     },
     {
         "marka": "Genel",
