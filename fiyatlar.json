@@ -71,7 +71,7 @@
     },
     {
         "marka": "Genel",
-        "urun_adi": "400 KVA 28,5‐36/0,4kV",
+        "urun_adi": "400 KVA 28,5‐36/0,4 kV",
         "fiyat": "54 000 €"
     },
     {
@@ -93388,5 +93388,230 @@
         "marka": "Genel",
         "urun_adi": "THEA BLU   Hareket Dedektörü 3WIRE-160-8m",
         "fiyat": "2032,00 TL"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "WVTT1458-4**   Uydu Prizi F Konnektörlü Sonlu (Mekanizma + Kapak)",
+        "fiyat": "805,00 TL"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "WVTT1459-4**   Uydu Prizi F Konnektörlü Geçişli 10dB (Mekanizma+Kapak)",
+        "fiyat": "805,00 TL"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "WVTT1460-4**   Uydu Prizi (TV-SAT) 1M Sonlu (Mekanizma+Kapak)",
+        "fiyat": "1570,00 TL"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "WVTT2460-4**   Uydu Prizi (TV-SAT) 2M Sonlu (Mekanizma+Kapak)",
+        "fiyat": "1642,00 TL"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "WVTT2462-4**   Uydu Prizi (TV-SAT) Geçişli 8dB (Mekanizma+Kapak)",
+        "fiyat": "1642,00 TL"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "WVTT2461-4**   Uydu Prizi (TV-SAT) Geçişli 11dB (Mekanizma+Kapak)",
+        "fiyat": "1642,00 TL"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "WVTT1402-4**   Nümeris Telefon Prizi (RJ11) (Mekanizma+Kapak)",
+        "fiyat": "335,00 TL"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "WVTT1565-4**   Pro Dimmer R 20-300W / VA (Mekanizma + Kapak)",
+        "fiyat": "2231,00 TL"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "WVTT1520-4**   Pro Dimmer R 6-100W / VA (Mekanizma + Kapak)",
+        "fiyat": "2396,00 TL"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "WVTT1521-4**   Pro Dimmer Rc 20-300W / VA (Mekanizma + Kapak)",
+        "fiyat": "1763,00 TL"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "WVTT1231-4**   A Tipi 2 USB’li Priz 5V-2A (Mekanizma + Kapak) (Ult-Sis-Opt)",
+        "fiyat": "1968,00 TL"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "WVTT1242-4**  C Tipi USB Priz 5V-3A 18W (Mekanizma + Kapak) (Ult-Sis-Opt)",
+        "fiyat": "2601,00 TL"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "WVTT1241-4**  USB Type A+C 5V 3A (Mekanizma + Kapak) (Ult-Sis-Opt)",
+        "fiyat": "3806,00 TL"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "WVTT1473-4**   VGA Konnektör (Klemensli) ( (Mekanizma + Kapak))",
+        "fiyat": "660,00 TL"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "WVTT1470-4**  HDMI Bağlantısı İçin Konnektör (Mekanizma + Kapak)",
+        "fiyat": "1087,00 TL"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "WVTM2577-4NC  Energy Saver Mekanik Anahtarlı 5V ESCR Mekanizma",
+        "fiyat": "1455,00 TL"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "WVTM3577-4NC  Energy Saver Mekanik Anahtarlı 5V ESCR Mekanizma",
+        "fiyat": "1583,00 TL"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "WVTM2576-4NC  Energy Saver Mekanik Anahtarlı 230V Mekanizma",
+        "fiyat": "1869,00 TL"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "WVTM3576-4NC  Energy Saver Mekanik Anahtarlı 230V Mekanizma",
+        "fiyat": "1968,00 TL"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "WVTT2063-4** DND/MUR İç Ünite 12-24V (Mekanizma + Kapak)",
+        "fiyat": "759,00 TL"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "WVTT2064-4**4 DND/MUR Yaylı İc Unite 12-24V (Mekanizma + Kapak)",
+        "fiyat": "910,00 TL"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "WVTC0709-4NC Yönlendirici – Uyarı İşareti (Mekanizma + Kapak)",
+        "fiyat": "2812,00 TL"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "WVTC0710-4NC Yönlendirici – Çıkış İşareti (Mekanizma + Kapak)",
+        "fiyat": "2812,00 TL"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "(Düğme)  WVTR1001-4** Anahtar 1M   /   WVTR2001-4** 2M",
+        "fiyat": "67,00 TL"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "(Düğme)   WVTR1016-4** Light Kapak  1M  /  WVTR2016-4** 2M",
+        "fiyat": "67,00 TL"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "(Düğme)   WVTR1003-4** Vavien 1M  /  WVTR2003-4** 2M",
+        "fiyat": "67,00 TL"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "(Düğme)   WVTR1005-4** Permütatör 1M  /  WVTR2005-4** 2M",
+        "fiyat": "67,00 TL"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "(Düğme)   WVTR1006-4** Işık Permütatör 1M / WVTR2006-4** 2M",
+        "fiyat": "67,00 TL"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "(Düğme)   WVTR1001-4** 2 Kutup Anahtar 1M / WVTR2001-4** 2M",
+        "fiyat": "67,00 TL"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "(Düğme)   WVTR1002-4** Işıklı Anahtar 1M / WVTR2002-4** 2M",
+        "fiyat": "67,00 TL"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "(Düğme)  WVTR1017-4** Işıklı Light 1M / WVTR2017-4** 2M",
+        "fiyat": "67,00 TL"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "(Düğme)  WVTR1004-4** Işıklı Vavien 1M / WVTR2004-4** 2M",
+        "fiyat": "67,00 TL"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "(Düğme)  WVTR1020-4** Işıklı Zil Anahtarı 1M / WVTR2020-4** 2M",
+        "fiyat": "67,00 TL"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "(Düğme)  WVTR1002-4** Işıklı 2 Kutuplu Anahtar 1M / WVTR2002-4** 2M",
+        "fiyat": "67,00 TL"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "(Düğme)  WVTR1023-4** Tek Düğmeli Jaluzi Anahtar 1M / WVTR2023-4** 2M",
+        "fiyat": "67,00 TL"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "(Düğme)  WVTR1045-4** Yaylı Jaluzi Anahtarı 1M / WVTR2045-4** 2M",
+        "fiyat": "67,00 TL"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "(Düğme)  WVTR1019-4** Zil Anahtarı 1M / WVTR2019-4** 2M",
+        "fiyat": "67,00 TL"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "(Düğme)  WVTR1018-4** Kapı Otomatiği 1M / WVTR2018-4** 2M",
+        "fiyat": "67,00 TL"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "(Düğme)  WVTR1021-4** Işıklı Kapı Otomatiği 1M / WVTR2021-4** 2M",
+        "fiyat": "67,00 TL"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "WVTR1402-4** Nümeris Kapak 1M",
+        "fiyat": "160,00 TL"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "WVTR1404-4** Data Kapak 1M",
+        "fiyat": "160,00 TL"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "WVTR1475-4DG Fiber Optik Kapak 1M",
+        "fiyat": "124,00 TL"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "WVTR1701-4** Boşluk Kapağı 1M",
+        "fiyat": "67,00 TL"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "WVTR1702-4** Kablo Çıkış Kapağı 1M",
+        "fiyat": "67,00 TL"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "WVTR1013-4** Impulse Komütatör 1M",
+        "fiyat": "67,00 TL"
     }
 ]
