@@ -55706,73 +55706,38 @@
     },
     {
         "marka": "Lovato",
-        "urun_adi": "6 A (AC3) / 2,2 KW (400V) / 1NK AC Mini Kontaktör",
-        "fiyat": "11BG0601A…❶"
+        "urun_adi": "3P MINI Kontaktör 6A 1NC  230V 50-60HZ",
+        "fiyat": "11BG0601A230"
     },
     {
         "marka": "Lovato",
-        "urun_adi": "6 A (AC3)  / 2,2 KW (400V) / 1NA AC Mini Kontaktör",
-        "fiyat": "11BG0610A…❶"
+        "urun_adi": "3P MINI Kontaktör 6A 1NC  230V 60HZ",
+        "fiyat": "11BG0601A23060"
     },
     {
         "marka": "Lovato",
-        "urun_adi": "9 A (AC3) / 4 KW (400V) / 1NK AC Mini Kontaktör",
-        "fiyat": "11BG0901A…❶"
+        "urun_adi": "3P MINI Kontaktör 9A 1NC  230V 50-60HZ",
+        "fiyat": "11BGF0901A230"
     },
     {
         "marka": "Lovato",
-        "urun_adi": "9 A (AC3) / 4 KW (400V) / 1NA AC Mini Kontaktör",
-        "fiyat": "11BG0910A…❶"
+        "urun_adi": "3P MINI Kontaktör 9A 1NC  230V 60HZ",
+        "fiyat": "11BGF0901A23060"
     },
     {
         "marka": "Lovato",
-        "urun_adi": "12 A (AC3) / 2,2 KW (400V) / 1NK AC Mini Kontaktör",
-        "fiyat": "11BG1201A…❶"
+        "urun_adi": "3P MINI Kontaktör 12A 1NC  230V 50-60HZ",
+        "fiyat": "11BG1201A230"
     },
     {
         "marka": "Lovato",
-        "urun_adi": "12 A (AC3) / 2,2 KW (400V) / 1NA AC Mini Kontaktör",
-        "fiyat": "11BG1210A…❶"
+        "urun_adi": "3P MINI Kontaktör 12A 1NC  230V 60HZ",
+        "fiyat": "11BG1201A23060"
     },
     {
         "marka": "Lovato",
-        "urun_adi": "6 A / (AC3) 2,2 KW (400V) / 1NK DC Mini Kontaktör",
-        "fiyat": "11BG0601D…❷"
-    },
-    {
-        "marka": "Lovato",
-        "urun_adi": "6 A / (AC3) 2,2 KW (400V) / 1NA DC Mini Kontaktör",
-        "fiyat": "11BG0610D…❷"
-    },
-    {
-        "marka": "Lovato",
-        "urun_adi": "9 A (AC3) / 4 KW (400V) / 1NK DC Mini Kontaktör",
-        "fiyat": "11BG0901D…❷❸"
-    },
-    {
-        "marka": "Lovato",
-        "urun_adi": "9 A (AC3) / 4 KW (400V) / 1NA DC Mini Kontaktör",
-        "fiyat": "11BG0910D…❷❸"
-    },
-    {
-        "marka": "Lovato",
-        "urun_adi": "12 A (AC3) / 2,2 KW (400V) / 1NK DC Mini Kontaktör",
-        "fiyat": "11BG1201D…❷"
-    },
-    {
-        "marka": "Lovato",
-        "urun_adi": "12 A (AC3) / 2,2 KW (400V) / 1NA DC Mini Kontaktör",
-        "fiyat": "11BG1210D…❷"
-    },
-    {
-        "marka": "Lovato",
-        "urun_adi": "4 x 20A 14KW (400V) AC Mini Kontaktör",
-        "fiyat": "11BG09T4A…❶"
-    },
-    {
-        "marka": "Lovato",
-        "urun_adi": "4 x 20A 14KW (400V) DC Mini Kontaktör",
-        "fiyat": "11BG09T4D…❷"
+        "urun_adi": "3P MINI Kontaktör 12A 1NC  400V 50-60HZ",
+        "fiyat": "11BG1201A400"
     },
     {
         "marka": "Lovato",
@@ -55831,7 +55796,7 @@
     },
     {
         "marka": "Lovato",
-        "urun_adi": "LOVATO FOTOVOLTAİK KONTAKTÖRLER 2025 FİYAT LİSTESİ",
+        "urun_adi": "LOVATO FOTOVOLTAİK KONTAKTÖRLER 2026 FİYAT LİSTESİ",
         "fiyat": "FİYAT"
     },
     {
@@ -56331,6 +56296,56 @@
     },
     {
         "marka": "Lovato",
+        "urun_adi": "SAFETY CONTACTOR 3P 9A AC3 230V 50/60HZ",
+        "fiyat": "BFS0923A230"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "SAFETY CONTACTOR 3P 12A AC3 230V 50/60HZ",
+        "fiyat": "BFS1223A230"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "SAFETY CONTACTOR 3P 25A AC3 230V 50/60HZ",
+        "fiyat": "BFS2523A230"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "SAFETY CONTACTOR 3P 32A AC3 230V 50/60HZ",
+        "fiyat": "BFS3222A230"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "SAFETY CONTACTOR 3P 38A AC3 230V 50/60HZ",
+        "fiyat": "BFS3822A230"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "SAFETY CONTACTOR 3P 9A AC3 24V 50/60HZ",
+        "fiyat": "BFS0923A024"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "SAFETY CONTACTOR 3P 12A AC3 24V 50/60HZ",
+        "fiyat": "BFS1223A024"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "SAFETY CONTACTOR 3P 25A AC3 24V 50/60HZ",
+        "fiyat": "BFS2523A024"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "SAFETY CONTACTOR 3P 32A AC3 24V 50/60HZ",
+        "fiyat": "BFS3222A024"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "SAFETY CONTACTOR 3P 38A AC3 24V 50/60HZ",
+        "fiyat": "BFS3822A024"
+    },
+    {
+        "marka": "Lovato",
         "urun_adi": "250-420A Termik Röle  Otomatik/Manuel Faz Duyarlı",
         "fiyat": "RF420420"
     },
@@ -56511,377 +56526,77 @@
     },
     {
         "marka": "Lovato",
-        "urun_adi": "LOVATO YÜK AYIRICI ŞALTERLER  (AC22A (<690V), AC23A (415V)",
-        "fiyat": "FİYAT"
-    },
-    {
-        "marka": "Lovato",
-        "urun_adi": "3 x 160A Yük Ayırıcı Şalter",
-        "fiyat": "GL0160C1"
-    },
-    {
-        "marka": "Lovato",
-        "urun_adi": "3 x 200A Yük Ayırıcı Şalter",
-        "fiyat": "GL0200C1"
-    },
-    {
-        "marka": "Lovato",
-        "urun_adi": "3 x 250A Yük Ayırıcı Şalter",
-        "fiyat": "GL0250C1"
-    },
-    {
-        "marka": "Lovato",
-        "urun_adi": "3 x 315A Yük Ayırıcı Şalter",
-        "fiyat": "GL0315C1"
-    },
-    {
-        "marka": "Lovato",
-        "urun_adi": "3 x 160A Enversör Yük Ayırıcı Şalter",
-        "fiyat": "GLC0160C1"
-    },
-    {
-        "marka": "Lovato",
-        "urun_adi": "3 x 200A Enversör Yük Ayırıcı Şalter",
-        "fiyat": "GLC0200C1"
-    },
-    {
-        "marka": "Lovato",
-        "urun_adi": "3 x 250A Enversör Yük Ayırıcı Şalter",
-        "fiyat": "GLC0250C1"
-    },
-    {
-        "marka": "Lovato",
-        "urun_adi": "3 x 315A Enversör Yük Ayırıcı Şalter",
-        "fiyat": "GLC0315C1"
-    },
-    {
-        "marka": "Lovato",
-        "urun_adi": "4 x 160A Enversör Yük Ayırıcı Şalter",
-        "fiyat": "GLC0160T4C1"
-    },
-    {
-        "marka": "Lovato",
-        "urun_adi": "4 x 200A Enversör Yük Ayırıcı Şalter",
-        "fiyat": "GLC0200T4C1"
-    },
-    {
-        "marka": "Lovato",
-        "urun_adi": "4 x 250A Enversör Yük Ayırıcı Şalter",
-        "fiyat": "GLC0250T4C1"
-    },
-    {
-        "marka": "Lovato",
-        "urun_adi": "4 x 315A Enversör Yük Ayırıcı Şalter",
-        "fiyat": "GLC0315T4C1"
-    },
-    {
-        "marka": "Lovato",
-        "urun_adi": "4 x 320A Enversör Yük Ayırıcı Şalter",
-        "fiyat": "GLC0320T4C1"
-    },
-    {
-        "marka": "Lovato",
-        "urun_adi": "4 x 400A Enversör Yük Ayırıcı Şalter",
-        "fiyat": "GLC0400T4C1"
-    },
-    {
-        "marka": "Lovato",
-        "urun_adi": "4 x 500A Enversör Yük Ayırıcı Şalter",
-        "fiyat": "GLC0500T4C1"
-    },
-    {
-        "marka": "Lovato",
-        "urun_adi": "4 x 630A Enversör Yük Ayırıcı Şalter",
-        "fiyat": "GLC0630T4C1"
-    },
-    {
-        "marka": "Lovato",
-        "urun_adi": "UL1008 tipi 3 Kutup Enversör Yük Ayırıcı  200A",
-        "fiyat": "GLC0200C1UL"
-    },
-    {
-        "marka": "Lovato",
-        "urun_adi": "UL1008 tipi 3 Kutup Enversör Yük Ayırıcı  400A",
-        "fiyat": "GLC0400C1UL"
-    },
-    {
-        "marka": "Lovato",
-        "urun_adi": "UL1008 tipi 4 Kutup Enversör Yük Ayırıcı  200A",
-        "fiyat": "GLC0200T4C1UL"
-    },
-    {
-        "marka": "Lovato",
-        "urun_adi": "UL1008 tipi 4 Kutup Enversör Yük Ayırıcı  400A",
-        "fiyat": "GLC0400T4C1UL"
-    },
-    {
-        "marka": "Lovato",
-        "urun_adi": "400V 3 Kutup 160A Enversör Yük Ayırıcı Şalter",
-        "fiyat": "GE0160E"
-    },
-    {
-        "marka": "Lovato",
-        "urun_adi": "400V 3 Kutup 200A Enversör Yük Ayırıcı Şalter",
-        "fiyat": "GE0200E"
-    },
-    {
-        "marka": "Lovato",
-        "urun_adi": "400V 3 Kutup 250A Enversör Yük Ayırıcı Şalter",
-        "fiyat": "GE0250E"
-    },
-    {
-        "marka": "Lovato",
-        "urun_adi": "400V 3 Kutup 315A Enversör Yük Ayırıcı Şalter",
-        "fiyat": "GE0315E"
-    },
-    {
-        "marka": "Lovato",
-        "urun_adi": "400V 3 Kutup 400A Enversör Yük Ayırıcı Şalter",
-        "fiyat": "GE0400E"
-    },
-    {
-        "marka": "Lovato",
-        "urun_adi": "400V 3 Kutup 500A Enversör Yük Ayırıcı Şalter",
-        "fiyat": "GE0500E"
-    },
-    {
-        "marka": "Lovato",
-        "urun_adi": "400V 3 Kutup 630A Enversör Yük Ayırıcı Şalter",
-        "fiyat": "GE0630E"
-    },
-    {
-        "marka": "Lovato",
-        "urun_adi": "400V 3 Kutup 800A Enversör Yük Ayırıcı Şalter",
-        "fiyat": "GE0800E"
-    },
-    {
-        "marka": "Lovato",
-        "urun_adi": "400V 3 Kutup 1000A Enversör Yük Ayırıcı Şalter",
-        "fiyat": "GE1000E"
-    },
-    {
-        "marka": "Lovato",
-        "urun_adi": "400V 3 Kutup 1250A Enversör Yük Ayırıcı Şalter",
-        "fiyat": "GE1250E"
-    },
-    {
-        "marka": "Lovato",
-        "urun_adi": "400V 3 Kutup 1600A Enversör Yük Ayırıcı Şalter",
-        "fiyat": "GE1600E"
-    },
-    {
-        "marka": "Lovato",
-        "urun_adi": "400V 4 Kutup 160A Enversör Yük Ayırıcı Şalter",
-        "fiyat": "GE0160ET4"
-    },
-    {
-        "marka": "Lovato",
-        "urun_adi": "400V 4 Kutup 200A Enversör Yük Ayırıcı Şalter",
-        "fiyat": "GE0200ET4"
-    },
-    {
-        "marka": "Lovato",
-        "urun_adi": "400V 4 Kutup 250A Enversör Yük Ayırıcı Şalter",
-        "fiyat": "GE0250ET4"
-    },
-    {
-        "marka": "Lovato",
-        "urun_adi": "400V 4 Kutup 400A Enversör Yük Ayırıcı Şalter",
-        "fiyat": "GE0400ET4"
-    },
-    {
-        "marka": "Lovato",
-        "urun_adi": "400V 4 Kutup 630A Enversör Yük Ayırıcı Şalter",
-        "fiyat": "GE0630ET4"
-    },
-    {
-        "marka": "Lovato",
-        "urun_adi": "400V 4 Kutup 1000A Enversör Yük Ayırıcı Şalter",
-        "fiyat": "GE1000ET4"
-    },
-    {
-        "marka": "Lovato",
-        "urun_adi": "400V 4 Kutup 1250A Enversör Yük Ayırıcı Şalter",
-        "fiyat": "GE1250ET4"
-    },
-    {
-        "marka": "Lovato",
-        "urun_adi": "400V 4 Kutup 1600A Enversör Yük Ayırıcı Şalter",
-        "fiyat": "GE1600ET4"
-    },
-    {
-        "marka": "Lovato",
-        "urun_adi": "LOVATO 13 MAYIS 2025 FİYAT LİSTESİ MOTOR KORUMA ŞALTERLERİ",
-        "fiyat": "KOD"
-    },
-    {
-        "marka": "Lovato",
-        "urun_adi": "0.1-0.16 A Motor Koruma Şalteri  100kA  400V",
-        "fiyat": "SM1R0016"
-    },
-    {
-        "marka": "Lovato",
-        "urun_adi": "0.16-0.25 A Motor Koruma Şalteri  100kA  400V",
-        "fiyat": "SM1R0025"
-    },
-    {
-        "marka": "Lovato",
-        "urun_adi": "0.25-0.40 A Motor Koruma Şalteri  100kA  400V",
-        "fiyat": "SM1R0040"
-    },
-    {
-        "marka": "Lovato",
-        "urun_adi": "0.40-0.63 A Motor Koruma Şalteri  100kA  400V",
-        "fiyat": "SM1R0063"
-    },
-    {
-        "marka": "Lovato",
-        "urun_adi": "0.63-1.00 A Motor Koruma Şalteri  100kA  400V",
-        "fiyat": "SM1R0100"
-    },
-    {
-        "marka": "Lovato",
-        "urun_adi": "1.00-1.60 A Motor Koruma Şalteri  100kA  400V",
-        "fiyat": "SM1R0160"
-    },
-    {
-        "marka": "Lovato",
-        "urun_adi": "1.60-2.50 A Motor Koruma Şalteri  100kA  400V",
-        "fiyat": "SM1R0250"
-    },
-    {
-        "marka": "Lovato",
-        "urun_adi": "2.50-4.00 A Motor Koruma Şalteri  100kA  400V",
-        "fiyat": "SM1R0400"
-    },
-    {
-        "marka": "Lovato",
-        "urun_adi": "4.00-6.50 A Motor Koruma Şalteri  100kA  400V",
+        "urun_adi": "4-6,5A Motor Koruma Şalteri 100kA 400V  Tip:E",
         "fiyat": "SM1R0650"
     },
     {
         "marka": "Lovato",
-        "urun_adi": "6.30-10.00 A Motor Koruma Şalteri  100kA  400V",
+        "urun_adi": "6,3-10A Motor Koruma Şalteri 100kA 400V  Tip:E",
         "fiyat": "SM1R1000"
     },
     {
         "marka": "Lovato",
-        "urun_adi": "9.00-14.00 A Motor Koruma Şalteri  100kA  400V",
+        "urun_adi": "9-14A Motor Koruma Şalteri 50kA 400V  Tip:E",
         "fiyat": "SM1R1400"
     },
     {
         "marka": "Lovato",
-        "urun_adi": "13.00-18.00 A Motor Koruma Şalteri  100kA  400V",
+        "urun_adi": "13-18A Motor Koruma Şalteri 50kA 400V  Tip:E",
         "fiyat": "SM1R1800"
     },
     {
         "marka": "Lovato",
-        "urun_adi": "17.00-23.00 A Motor Koruma Şalteri  100kA  400V",
+        "urun_adi": "17-23A Motor Koruma Şalteri 50kA 400V  Tip:E",
         "fiyat": "SM1R2300"
     },
     {
         "marka": "Lovato",
-        "urun_adi": "20.00-25.00 A Motor Koruma Şalteri  100kA  400V",
+        "urun_adi": "20-25A Motor Koruma Şalteri 50kA 400V  Tip:E",
         "fiyat": "SM1R2500"
     },
     {
         "marka": "Lovato",
-        "urun_adi": "24.00-32.00 A Motor Koruma Şalteri  100kA  400V",
+        "urun_adi": "24-32A Motor Koruma Şalteri 50kA 400V  Tip:E",
         "fiyat": "SM1R3200"
     },
     {
         "marka": "Lovato",
-        "urun_adi": "30.00-40.00 A Motor Koruma Şalteri  100kA  400V",
+        "urun_adi": "30-40A Motor Koruma Şalteri 20kA 400V  Tip:E",
         "fiyat": "SM1R4000"
     },
     {
         "marka": "Lovato",
-        "urun_adi": "34.00-50.00 A Motor Koruma Şalteri  50kA  400V",
+        "urun_adi": "35-50A Motor Koruma Şalteri 50kA 400V",
         "fiyat": "SM2R5000"
     },
     {
         "marka": "Lovato",
-        "urun_adi": "45.00-63.00 A Motor Koruma Şalteri  50kA  400V",
+        "urun_adi": "45-63A Motor Koruma Şalteri 50kA 400V",
         "fiyat": "SM2R6300"
     },
     {
         "marka": "Lovato",
-        "urun_adi": "55.00-75.00 A Motor Koruma Şalteri  50kA  400V",
+        "urun_adi": "55-75A Motor Koruma Şalteri 50kA 400V",
         "fiyat": "SM3R7500"
     },
     {
         "marka": "Lovato",
-        "urun_adi": "70.00-90.00 A Motor Koruma Şalteri  50kA  400V",
+        "urun_adi": "70-90A Motor Koruma Şalteri 50kA 400V",
         "fiyat": "SM3R9000"
     },
     {
         "marka": "Lovato",
-        "urun_adi": "80.00-100.00 A Motor Koruma Şalteri  50kA  400V",
+        "urun_adi": "80-100A Motor Koruma Şalteri 50kA 400V",
         "fiyat": "SM3R9900"
     },
     {
         "marka": "Lovato",
-        "urun_adi": "1NA+1NK Kontak (Yandan (manyetik trip göstergesi için)",
-        "fiyat": "SM1X1311M"
+        "urun_adi": "2NC Üste Takılan Yardımcı Kontak",
+        "fiyat": "SM2X1202"
     },
     {
         "marka": "Lovato",
-        "urun_adi": "1NA+1NK Kontak (Yandan (termik ve manyetik trip göstergesi için))",
-        "fiyat": "SM1X1311"
-    },
-    {
-        "marka": "Lovato",
-        "urun_adi": "1NA+1NK Yana Takılan Kontak",
-        "fiyat": "SM1X1211"
-    },
-    {
-        "marka": "Lovato",
-        "urun_adi": "2NC Yana Takılan Kontak",
-        "fiyat": "SM1X1202"
-    },
-    {
-        "marka": "Lovato",
-        "urun_adi": "2NA Yana Takılan Kontak",
-        "fiyat": "SM1X1220"
-    },
-    {
-        "marka": "Lovato",
-        "urun_adi": "1NA+1NK Önden Takılan Kontak",
-        "fiyat": "SM1X1111"
-    },
-    {
-        "marka": "Lovato",
-        "urun_adi": "Şönt Gerilim Açtırma Bloğu 230VAC 50/60Hz",
-        "fiyat": "SM1X16230"
-    },
-    {
-        "marka": "Lovato",
-        "urun_adi": "Düşük Gerilim Açtırma Bloğu  230VAC 50/60Hz",
-        "fiyat": "SM1X14230"
-    },
-    {
-        "marka": "Lovato",
-        "urun_adi": "SM2R ve SM3R için 1NA+1NK Siyah Kontak Bloğu",
-        "fiyat": "SM2X1311"
-    },
-    {
-        "marka": "Lovato",
-        "urun_adi": "SM2R ve SM3R için Düşük Gerilim Açt. Bloğu 230VAC 50/60Hz",
-        "fiyat": "SM2X14230"
-    },
-    {
-        "marka": "Lovato",
-        "urun_adi": "SM2R ve SM3R için Şönt Gerilim Açt. Bloğu 230VAC 50/60Hz",
-        "fiyat": "SM2X16230"
-    },
-    {
-        "marka": "Lovato",
-        "urun_adi": "Asma kilitle kilitlenebilir kumanda kolu (Kırmızı/Sarı)",
-        "fiyat": "SM2X18200R"
-    },
-    {
-        "marka": "Lovato",
-        "urun_adi": "LOVATO TERMİSTÖR KORUMA RÖLESİ 2025 FİYAT LİSTESİ",
+        "urun_adi": "LOVATO TERMİSTÖR KORUMA RÖLESİ 2026 FİYAT LİSTESİ",
         "fiyat": "KOD"
     },
     {
@@ -56906,7 +56621,7 @@
     },
     {
         "marka": "Lovato",
-        "urun_adi": "LOVATO SOFTSTARTER 13 MAYIS 2025 FİYAT LİSTESİ",
+        "urun_adi": "LOVATO SOFTSTARTER 2026 FİYAT LİSTESİ",
         "fiyat": "KOD"
     },
     {
@@ -56976,7 +56691,7 @@
     },
     {
         "marka": "Lovato",
-        "urun_adi": "LOVATO MODÜLER RAY TİPİ PARAFUDUR  13 MAYIS 2025",
+        "urun_adi": "LOVATO MODÜLER RAY TİPİ PARAFUDUR  2026 FİYAT LİSTESİ",
         "fiyat": "KOD"
     },
     {
@@ -57036,7 +56751,7 @@
     },
     {
         "marka": "Lovato",
-        "urun_adi": "LOVATO MODÜLER KONTAKTÖRLER  2025 FİYAT LİSTESİ",
+        "urun_adi": "LOVATO MODÜLER KONTAKTÖRLER  2026 FİYAT LİSTESİ",
         "fiyat": "KOD"
     },
     {
@@ -57141,7 +56856,7 @@
     },
     {
         "marka": "Lovato",
-        "urun_adi": "LOVATO ENERJİ ANALİZÖRLERİ  13 MAYIS 2025 FİYAT LİSTESİ",
+        "urun_adi": "LOVATO ENERJİ ANALİZÖRLERİ  2026 FİYAT LİSTESİ",
         "fiyat": "KOD"
     },
     {
@@ -57151,8 +56866,18 @@
     },
     {
         "marka": "Lovato",
+        "urun_adi": "MODULAR (4U) LCD MULTIMETER – RS485",
+        "fiyat": "DMG110"
+    },
+    {
+        "marka": "Lovato",
         "urun_adi": "Modüler LCD Multimetre 100-240VAC/110-250VDC.",
         "fiyat": "DMG200"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "MOD LCD MULTIMETER, RS485",
+        "fiyat": "DMG210"
     },
     {
         "marka": "Lovato",
@@ -57186,12 +56911,12 @@
     },
     {
         "marka": "Lovato",
-        "urun_adi": "Dahili RS485 ve Ethernet portu, 3 adet genişletme modüllü Güç Analizörü",
+        "urun_adi": "Dahili RS485 ve Ethernet portu, 3 genişletme modüllü Güç Analizörü",
         "fiyat": "DMG9000D048"
     },
     {
         "marka": "Lovato",
-        "urun_adi": "LOVATO GÜÇ KAYNAKLARI  13 MAYIS 2025",
+        "urun_adi": "LOVATO GÜÇ KAYNAKLARI  2026 FİYAT LİSTESİ",
         "fiyat": "KOD"
     },
     {
@@ -57241,7 +56966,7 @@
     },
     {
         "marka": "Lovato",
-        "urun_adi": "LOVATO AKÜ ŞARJ CİHAZLARI",
+        "urun_adi": "LOVATO AKÜ ŞARJ CİHAZLARI  2026 FİYAT LİSTESİ",
         "fiyat": "KOD"
     },
     {
@@ -57276,13 +57001,138 @@
     },
     {
         "marka": "Lovato",
-        "urun_adi": "3x10A 0-1 AÇ-KAPA Pako Şalter  30×30 mm",
-        "fiyat": "GF1003U"
+        "urun_adi": "3P 16A 400V Yük Ayırıcı Şalter",
+        "fiyat": "GA016A"
     },
     {
         "marka": "Lovato",
-        "urun_adi": "3x20A 0-1 AÇ-KAPA Pako Şalter  40×40 mm",
-        "fiyat": "GF2003U"
+        "urun_adi": "3P 25A 400V Yük Ayırıcı Şalter",
+        "fiyat": "GA025A"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "3P 32A 400V Yük Ayırıcı Şalter",
+        "fiyat": "GA032A"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "3P 40A 400V Yük Ayırıcı Şalter",
+        "fiyat": "GA040A"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "3P 63A 400V Yük Ayırıcı Şalter",
+        "fiyat": "GA063A"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "3P 80A 400V Yük Ayırıcı Şalter",
+        "fiyat": "GA080A"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "3P 100A 400V Yük Ayırıcı Şalter",
+        "fiyat": "GA100A"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "3P 125A 400V Yük Ayırıcı Şalter",
+        "fiyat": "GA125A"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "3P 160A 400V Yük Ayırıcı Şalter",
+        "fiyat": "GA160A"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "3P 160A 400V AC Yük Ayırıcı Şalter",
+        "fiyat": "GL0160C1"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "3P 200A 400V AC Yük Ayırıcı Şalter",
+        "fiyat": "GL0200C1"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "3P 250A 400V AC Yük Ayırıcı Şalter",
+        "fiyat": "GL0250C1"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "3P 315A 400V AC Yük Ayırıcı Şalter",
+        "fiyat": "GL0315C1"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "3P 400A 400V AC Yük Ayırıcı Şalter",
+        "fiyat": "GL0400C1"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "3P 500A 400V AC Yük Ayırıcı Şalter",
+        "fiyat": "GL0500C1"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "3P 630A 400V AC Yük Ayırıcı Şalter",
+        "fiyat": "GL0630C1"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "3P 800A 400V AC Yük Ayırıcı Şalter",
+        "fiyat": "GL0800C1"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "3P 1000A 400V AC Yük Ayırıcı Şalter",
+        "fiyat": "GL1000C1"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "4P 160A 400V AC Yük Ayırıcı Şalter",
+        "fiyat": "GLC0160T4C1"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "4P 200A 400V AC Yük Ayırıcı Şalter",
+        "fiyat": "GLC0200T4C1"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "4P 250A 400V AC Yük Ayırıcı Şalter",
+        "fiyat": "GLC0250T4C1"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "4P 315A 400V AC Yük Ayırıcı Şalter",
+        "fiyat": "GLC0315T4C1"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "4P 400A 400V AC Yük Ayırıcı Şalter",
+        "fiyat": "GLC0400T4C1"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "4P 500A 400V AC Yük Ayırıcı Şalter",
+        "fiyat": "GLC0500T4C1"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "4P 630A 400V AC Yük Ayırıcı Şalter",
+        "fiyat": "GLC0630T4C1"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "4P 800A 400V AC Yük Ayırıcı Şalter",
+        "fiyat": "GLC0800T4C1"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "4P 1000A 400V AC Yük Ayırıcı Şalter",
+        "fiyat": "GLC1000T4C1"
     },
     {
         "marka": "Genel",
