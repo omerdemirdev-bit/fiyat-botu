@@ -57135,6 +57135,611 @@
         "fiyat": "GLC1000T4C1"
     },
     {
+        "marka": "Lovato",
+        "urun_adi": "2 x 25A   30 mA Kaçak Akım Koruma Rölesi 230/400V AC",
+        "fiyat": "P1RD2P25A030"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "2 x 25A   300 mA Kaçak Akım Koruma Rölesi  230/400V AC",
+        "fiyat": "P1RD2P25A300"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "2 x 40A   30 mA Kaçak Akım Koruma Rölesi 230/400V AC",
+        "fiyat": "P1RD2P40A030"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "2 x 40A   300 mA Kaçak Akım Koruma Rölesi 230/400V AC",
+        "fiyat": "P1RD2P40A300"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "2 x 63A   30 mA Kaçak Akım Koruma Rölesi 230/400V AC",
+        "fiyat": "P1RD2P63A030"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "2 x 63A   300 mA Kaçak Akım Koruma Rölesi 230/400V AC",
+        "fiyat": "P1RD2P63A300"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "4 x 25A   30 mA Kaçak Akım Koruma Rölesi 400V AC",
+        "fiyat": "P1RD4P25A030"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "4 x 25A   300 mA Kaçak Akım Koruma Rölesi 400V AC",
+        "fiyat": "P1RD4P25A300"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "4 x 40A   30 mA Kaçak Akım Koruma Rölesi 400V AC",
+        "fiyat": "P1RD4P40A030"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "4 x 40A   300 mA Kaçak Akım Koruma Rölesi 400V AC",
+        "fiyat": "P1RD4P40A300"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "4 x 63A   30 mA Kaçak Akım Koruma Rölesi 400V AC",
+        "fiyat": "P1RD4P63A030"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "4 x 63A   300 mA Kaçak Akım Koruma Rölesi 400V AC",
+        "fiyat": "P1RD4P63A300"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "RCBO 1P+N C 6A IDN 30MA 10KA  K.Akım Devre Kesici",
+        "fiyat": "P1RE1NC06A030"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "RCBO 1P+N C 6A IDN 300MA 10KA  K.Akım Devre Kesici",
+        "fiyat": "P1RE1NC06A300"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "RCBO 1P+N C 10A IDN 30MA 10KA  K.Akım Devre Kesici",
+        "fiyat": "P1RE1NC10A030"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "RCBO 1P+N C 10A IDN 300MA 10KA  K.Akım Devre Kesici",
+        "fiyat": "P1RE1NC10A300"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "RCBO 1P+N C 13A IDN 30MA 10KA  K.Akım Devre Kesici",
+        "fiyat": "P1RE1NC13A030"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "RCBO 1P+N C 16A IDN 30MA 10KA  K.Akım Devre Kesici",
+        "fiyat": "P1RE1NC16A030"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "RCBO 1P+N C 16A IDN 300MA 10KA  K.Akım Devre Kesici",
+        "fiyat": "P1RE1NC16A300"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "RCBO 1P+N C 20A IDN 30MA 10KA  K.Akım Devre Kesici",
+        "fiyat": "P1RE1NC20A030"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "RCBO 1P+N C 20A IDN 300MA 10KA  K.Akım Devre Kesici",
+        "fiyat": "P1RE1NC20A300"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "RCBO 1P+N C 25A IDN 30MA 10KA  K.Akım Devre Kesici",
+        "fiyat": "P1RE1NC25A030"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "RCBO 1P+N C 25A IDN 300MA 10KA  K.Akım Devre Kesici",
+        "fiyat": "P1RE1NC25A300"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "RCBO 1P+N C 32A IDN 30MA 10KA  K.Akım Devre Kesici",
+        "fiyat": "P1RE1NC32A030"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "RCBO 1P+N C 32A IDN 300MA 10KA  K.Akım Devre Kesici",
+        "fiyat": "P1RE1NC32A300"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "RCBO 1P+N C 40A IDN 30MA 10KA  K.Akım Devre Kesici",
+        "fiyat": "P1RE1NC40A030"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "RCBO 1P+N C 40A IDN 300MA 10KA  K.Akım Devre Kesici",
+        "fiyat": "P1RE1NC40A300"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "1 x 80A 10kA  C Tipi Otomatik Sigorta",
+        "fiyat": "P2MB1PC080"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "1 x 100A 10kA  C Tipi Otomatik Sigorta",
+        "fiyat": "P2MB1PC100"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "1 x 125A 10kA  C Tipi Otomatik Sigorta",
+        "fiyat": "P2MB1PC125"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "2 x 80A 10kA  C Tipi Otomatik Sigorta",
+        "fiyat": "P2MB2PC080"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "2 x 100A 10kA  C Tipi Otomatik Sigorta",
+        "fiyat": "P2MB2PC100"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "2 x 125A 10kA  C Tipi Otomatik Sigorta",
+        "fiyat": "P2MB2PC125"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "3 x 80A 10kA  C Tipi Otomatik Sigorta",
+        "fiyat": "P2MB3PC080"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "3 x 100A 10kA  C Tipi Otomatik Sigorta",
+        "fiyat": "P2MB3PC100"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "3 x 125A 10kA  C Tipi Otomatik Sigorta",
+        "fiyat": "P2MB3PC125"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "4 x 80A 10kA  C Tipi Otomatik Sigorta",
+        "fiyat": "P2MB4PC080"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "4 x 100A 10kA  C Tipi Otomatik Sigorta",
+        "fiyat": "P2MB4PC100"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "4 x 125A 10kA  C Tipi Otomatik Sigorta",
+        "fiyat": "P2MB4PC125"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "3 x 80A 10kA  D Tipi Otomatik Sigorta",
+        "fiyat": "P2MB3PD080"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "3 x 100A 10kA  D Tipi Otomatik Sigorta",
+        "fiyat": "P2MB3PD100"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "3 x 125A 10kA  D Tipi Otomatik Sigorta",
+        "fiyat": "P2MB3PD125"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "4 x 80A 10kA  D Tipi Otomatik Sigorta",
+        "fiyat": "P2MB4PD080"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "4 x 100A 10kA  D Tipi Otomatik Sigorta",
+        "fiyat": "P2MB4PD100"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "4 x 125A 10kA  D Tipi Otomatik Sigorta",
+        "fiyat": "P2MB4PD125"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "4 x 63A  10kA  D Tipi Otomatik Sigorta",
+        "fiyat": "P1MB4PD63"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "4 x 50A  10kA  D Tipi Otomatik Sigorta",
+        "fiyat": "P1MB4PD50"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "4 x 40A  10kA  D Tipi Otomatik Sigorta",
+        "fiyat": "P1MB4PD40"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "4 x 32A  10kA  D Tipi Otomatik Sigorta",
+        "fiyat": "P1MB4PD32"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "4 x 25A  10kA  D Tipi Otomatik Sigorta",
+        "fiyat": "P1MB4PD25"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "4 x 20A  10kA  D Tipi Otomatik Sigorta",
+        "fiyat": "P1MB4PD20"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "4 x 16A  10kA  D Tipi Otomatik Sigorta",
+        "fiyat": "P1MB4PD16"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "4 x 10A  10kA  D Tipi Otomatik Sigorta",
+        "fiyat": "P1MB4PD10"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "4 x 6A  10kA  D Tipi Otomatik Sigorta",
+        "fiyat": "P1MB4PD06"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "4 x 4A  10kA  D Tipi Otomatik Sigorta",
+        "fiyat": "P1MB4PD04"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "4 x 2A  10kA  D Tipi Otomatik Sigorta",
+        "fiyat": "P1MB4PD02"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "4 x 63A  10kA  C Tipi Otomatik Sigorta",
+        "fiyat": "P1MB4PC63"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "4 x 50A  10kA  C Tipi Otomatik Sigorta",
+        "fiyat": "P1MB4PC50"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "4 x 40A  10kA  C Tipi Otomatik Sigorta",
+        "fiyat": "P1MB4PC40"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "4 x 32A  10kA  C Tipi Otomatik Sigorta",
+        "fiyat": "P1MB4PC32"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "4 x 25A  10kA  C Tipi Otomatik Sigorta",
+        "fiyat": "P1MB4PC25"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "4 x 20A  10kA  C Tipi Otomatik Sigorta",
+        "fiyat": "P1MB4PC20"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "4 x 16A  10kA  C Tipi Otomatik Sigorta",
+        "fiyat": "P1MB4PC16"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "4 x 10A  10kA  C Tipi Otomatik Sigorta",
+        "fiyat": "P1MB4PC10"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "4 x 6A  10kA  C Tipi Otomatik Sigorta",
+        "fiyat": "P1MB4PC06"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "4 x 4A  10kA  C Tipi Otomatik Sigorta",
+        "fiyat": "P1MB4PC04"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "4 x 2A  10kA  C Tipi Otomatik Sigorta",
+        "fiyat": "P1MB4PC02"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "3 x 63A  10kA  D Tipi Otomatik Sigorta",
+        "fiyat": "P1MB3PD63"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "3 x 50A  10kA  D Tipi Otomatik Sigorta",
+        "fiyat": "P1MB3PD50"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "3 x 40A  10kA  D Tipi Otomatik Sigorta",
+        "fiyat": "P1MB3PD40"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "3 x 32A  10kA  D Tipi Otomatik Sigorta",
+        "fiyat": "P1MB3PD32"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "3 x 25A  10kA  D Tipi Otomatik Sigorta",
+        "fiyat": "P1MB3PD25"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "3 x 20A  10kA  D Tipi Otomatik Sigorta",
+        "fiyat": "P1MB3PD20"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "3 x 16A  10kA  D Tipi Otomatik Sigorta",
+        "fiyat": "P1MB3PD16"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "3 x 13A  10kA  D Tipi Otomatik Sigorta",
+        "fiyat": "P1MB3PD13"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "3 x 10A  10kA  D Tipi Otomatik Sigorta",
+        "fiyat": "P1MB3PD10"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "3 x 6A  10kA  D Tipi Otomatik Sigorta",
+        "fiyat": "P1MB3PD06"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "3 x 4A  10kA  D Tipi Otomatik Sigorta",
+        "fiyat": "P1MB3PD04"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "3 x 2A  10kA  D Tipi Otomatik Sigorta",
+        "fiyat": "P1MB3PD02"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "3 x 1A  10kA  D Tipi Otomatik Sigorta",
+        "fiyat": "P1MB3PD01"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "3 x 63A  10kA  C Tipi Otomatik Sigorta",
+        "fiyat": "P1MB3PC63"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "3 x 50A  10kA  C Tipi Otomatik Sigorta",
+        "fiyat": "P1MB3PC50"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "3 x 40A  10kA  C Tipi Otomatik Sigorta",
+        "fiyat": "P1MB3PC40"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "3 x 32A  10kA  C Tipi Otomatik Sigorta",
+        "fiyat": "P1MB3PC32"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "3 x 25A  10kA  C Tipi Otomatik Sigorta",
+        "fiyat": "P1MB3PC25"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "3 x 20A  10kA  C Tipi Otomatik Sigorta",
+        "fiyat": "P1MB3PC20"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "3 x 16A  10kA  C Tipi Otomatik Sigorta",
+        "fiyat": "P1MB3PC16"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "3 x 13A  10kA  C Tipi Otomatik Sigorta",
+        "fiyat": "P1MB3PC13"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "3 x 10A  10kA  C Tipi Otomatik Sigorta",
+        "fiyat": "P1MB3PC10"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "3 x 6A  10kA  C Tipi Otomatik Sigorta",
+        "fiyat": "P1MB3PC06"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "3 x 8A  10kA  C Tipi Otomatik Sigorta",
+        "fiyat": "P1MB3PC08"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "3 x 4A  10kA  C Tipi Otomatik Sigorta",
+        "fiyat": "P1MB3PC04"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "3 x 2A  10kA  C Tipi Otomatik Sigorta",
+        "fiyat": "P1MB3PC02"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "3 x 1A  10kA  C Tipi Otomatik Sigorta",
+        "fiyat": "P1MB3PC01"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "2 x 63A  10kA  C Tipi Otomatik Sigorta",
+        "fiyat": "P1MB2PC63"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "2 x 50A  10kA  C Tipi Otomatik Sigorta",
+        "fiyat": "P1MB2PC50"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "2 x 40A  10kA  C Tipi Otomatik Sigorta",
+        "fiyat": "P1MB2PC40"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "2 x 32A  10kA  C Tipi Otomatik Sigorta",
+        "fiyat": "P1MB2PC32"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "2 x 25A  10kA  C Tipi Otomatik Sigorta",
+        "fiyat": "P1MB2PC25"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "2 x 20A  10kA  C Tipi Otomatik Sigorta",
+        "fiyat": "P1MB2PC20"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "2 x 16A  10kA  C Tipi Otomatik Sigorta",
+        "fiyat": "P1MB2PC16"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "2 x 13A  10kA  C Tipi Otomatik Sigorta",
+        "fiyat": "P1MB2PC13"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "2 x 10A  10kA  C Tipi Otomatik Sigorta",
+        "fiyat": "P1MB2PC10"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "2 x 8A  10kA  C Tipi Otomatik Sigorta",
+        "fiyat": "P1MB2PC08"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "2 x 6A  10kA  C Tipi Otomatik Sigorta",
+        "fiyat": "P1MB2PC06"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "2 x 4A  10kA  C Tipi Otomatik Sigorta",
+        "fiyat": "P1MB2PC04"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "2 x 2A  10kA  C Tipi Otomatik Sigorta",
+        "fiyat": "P1MB2PC02"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "2 x 1A  10kA  C Tipi Otomatik Sigorta",
+        "fiyat": "P1MB2PC01"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "1 x 63A  10kA  C Tipi Otomatik Sigorta",
+        "fiyat": "P1MB1PC63"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "1 x 50A  10kA  C Tipi Otomatik Sigorta",
+        "fiyat": "P1MB1PC50"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "1 x 40A  10kA  C Tipi Otomatik Sigorta",
+        "fiyat": "P1MB1PC40"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "1 x 32A  10kA  C Tipi Otomatik Sigorta",
+        "fiyat": "P1MB1PC32"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "1 x 25A  10kA  C Tipi Otomatik Sigorta",
+        "fiyat": "P1MB1PC25"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "1 x 20A  10kA  C Tipi Otomatik Sigorta",
+        "fiyat": "P1MB1PC20"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "1 x 16A  10kA  C Tipi Otomatik Sigorta",
+        "fiyat": "P1MB1PC16"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "1 x 13A  10kA  C Tipi Otomatik Sigorta",
+        "fiyat": "P1MB1PC13"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "1 x 10A  10kA  C Tipi Otomatik Sigorta",
+        "fiyat": "P1MB1PC10"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "1 x 8A  10kA  C Tipi Otomatik Sigorta",
+        "fiyat": "P1MB1PC08"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "1 x 6A  10kA  C Tipi Otomatik Sigorta",
+        "fiyat": "P1MB1PC06"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "1 x 4A  10kA  C Tipi Otomatik Sigorta",
+        "fiyat": "P1MB1PC04"
+    },
+    {
+        "marka": "Lovato",
+        "urun_adi": "1 x 1A  10kA  C Tipi Otomatik Sigorta",
+        "fiyat": "P1MB1PC02"
+    },
+    {
         "marka": "Genel",
         "urun_adi": "4.5 kA B Eğrisi Otomat 1 Kutup",
         "fiyat": "FİYAT"
