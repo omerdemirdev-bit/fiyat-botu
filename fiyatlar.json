@@ -63432,7 +63432,7 @@
     {
         "marka": "Tense",
         "urun_adi": "RGT-MT18  (SVC)",
-        "fiyat": "Reaktif güç kontrol rölesi (Dokunmatik Ekran) Reaktif Röle 144×144"
+        "fiyat": "Reaktif Güç Kontrol Rölesi (Dokunmatik Ekran) 144×144"
     },
     {
         "marka": "Tense",
@@ -63637,22 +63637,22 @@
     {
         "marka": "Tense",
         "urun_adi": "ETH-GTW-230V",
-        "fiyat": "Ethernet Modem, RS-485, TCP-IP uyumlu, 10/100 Mbps ethernet, izoleli, ModBus iletişim, Maksimum 230400 Bps"
+        "fiyat": "Ethernet Modem, RS-485, TCP-IP uyumlu, 10/100 Mbps ethernet, izoleli, ModBus iletişim, Mak.230400"
     },
     {
         "marka": "Tense",
         "urun_adi": "ETH-GTW",
-        "fiyat": "Ethernet Modem, RS-485, TCP-IP uyumlu, 10/100 Mbps ethernet, izoleli, ModBus iletişim, Maksimum 115200 Bps"
+        "fiyat": "Ethernet Modem, RS-485, TCP-IP uyumlu, 10/100 Mbps ethernet, izoleli, ModBus iletişim, Mak.115200 Bps"
     },
     {
         "marka": "Tense",
         "urun_adi": "GSM-MOD-4G",
-        "fiyat": "4G Geniş band iletişimi,RS232 ve RS485 bağlantı arayüzü,1 Adet röle çıkışı, 1 adet analog Giriş,Elektrik sayacı ve Modbus Cihazları Okuyabilme"
+        "fiyat": "4G Geniş band iletişimi,RS232 ve RS485 bağlantı arayüzü,1  röle çıkışı,1 analog Giriş,Elektrik sayacı"
     },
     {
         "marka": "Tense",
         "urun_adi": "RF-MOD-SET (RF-MOD-TR+ RF-MOD-RC)",
-        "fiyat": "Kuyu Depo Haberleşme Sistemi, ISM 868 MHz,GFSK Modülasyon, RS 485 Arayüzü, Maksimum 57600 Bps RF İletişim Hızı,Anten: 9 dBi SMA Konnektör mıknatıslı montaj, Maksimum 5 km iletişim mesafesi (Antenlerin birbirini görmesi şartıyla"
+        "fiyat": "Kuyu Depo Haberleşme Sistemi, ISM 868 MHz,GFSK Modülasyon, RS 485 Arayüzü, Maksimum 57600 Bps RF İletişim Hızı,Anten: 9 dBi SMA Konnektör mıknatıslı montaj, Maksimum 5 km iletişim mesafesi"
     },
     {
         "marka": "Tense",
@@ -64171,8 +64171,13 @@
     },
     {
         "marka": "Tense",
+        "urun_adi": "HM-48D",
+        "fiyat": "Dijital İş Güç zaman saati 5 hane 9 mm, 2 hane 8 mm display, rezervli (48 x 48)"
+    },
+    {
+        "marka": "Tense",
         "urun_adi": "DHM-DIN",
-        "fiyat": "Dijital İş Güç zaman saati (maksimum 99.999 saat), 6 hane 9 mm display, rezervli, resetlenebilir (DIN KUTU), ray tipi"
+        "fiyat": "Dijital İş Güç zaman saati (maksimum 99.999 saat), 6 hane 9 mm display, rezervli, resetlenebilir (DIN KUTU)"
     },
     {
         "marka": "Tense",
@@ -64787,12 +64792,12 @@
     {
         "marka": "Tense",
         "urun_adi": "DGK-04F",
-        "fiyat": "Trifaze Dijital Aşırı -Düşük Gerilim Kontrol Rölesi KLASİK KUT"
+        "fiyat": "Trifaze Dijital Aşırı -Düşük Gerilim Kontrol Rölesi KLASİK KUTU"
     },
     {
         "marka": "Tense",
         "urun_adi": "DGK-04PF",
-        "fiyat": "Trifaze Dijital Aşırı -Düşük Gerilim Kontrol Rölesi KLASİK K"
+        "fiyat": "Trifaze Dijital Aşırı -Düşük Gerilim Kontrol Rölesi KLASİK KUTU"
     },
     {
         "marka": "Tense",
@@ -74866,11 +74871,6 @@
     },
     {
         "marka": "Fluke",
-        "urun_adi": "FLUKE-279FC/IFLEX",
-        "fiyat": "Wireless TRMS Thermal Multimeter w/iFlex"
-    },
-    {
-        "marka": "Fluke",
         "urun_adi": "FLUKE-283FC/EUR",
         "fiyat": "283FC/EUR"
     },
@@ -74978,6 +74978,11 @@
         "marka": "Fluke",
         "urun_adi": "FLUKE-325",
         "fiyat": "True RMS Clamp Meter"
+    },
+    {
+        "marka": "Fluke",
+        "urun_adi": "FLUKE-381",
+        "fiyat": "Fluke 381 Remote Display True RMS AC/DC Clamp Meter with iFlex®"
     },
     {
         "marka": "Fluke",
@@ -75396,18 +75401,8 @@
     },
     {
         "marka": "Fluke",
-        "urun_adi": "PLS 180R RBP SYS",
-        "fiyat": "Cross Line Red Laser"
-    },
-    {
-        "marka": "Fluke",
         "urun_adi": "PLS 3X360R KIT",
         "fiyat": "Red Three-Plane Laser, Kit"
-    },
-    {
-        "marka": "Fluke",
-        "urun_adi": "PLS 3X360 CB",
-        "fiyat": "Ceiling Bracket Used w/ PLS 3X360MLB"
     },
     {
         "marka": "Fluke",
@@ -75573,6 +75568,11 @@
         "marka": "Fluke",
         "urun_adi": "1673FC SCH FTT",
         "fiyat": "Fluke 1673 FC SCH FTT Multifunction Installation Tester with TruTest Software Bundle"
+    },
+    {
+        "marka": "Fluke",
+        "urun_adi": "1673FC SCH/FEV300",
+        "fiyat": "Fluke 1673 FC Multifunction Installation Tester with Fluke FEV300 EV Charging Station Test Adapter Kit"
     },
     {
         "marka": "Fluke",
@@ -75926,6 +75926,11 @@
     },
     {
         "marka": "Fluke",
+        "urun_adi": "SPSCAN6000",
+        "fiyat": "Scanner for Portable Appliance Testers"
+    },
+    {
+        "marka": "Fluke",
         "urun_adi": "1674FC SCH/1630",
         "fiyat": "Fluke 1674 FC SCH/1630 Multifunction Installation Tester with Earth Ground Clamp Bun"
     },
@@ -75943,6 +75948,11 @@
         "marka": "Fluke",
         "urun_adi": "1674FC UK/1630/FTT",
         "fiyat": "Fluke 1674 FC UK/1630/FTT Multifunction Installation Tester with Earth Ground Clamp"
+    },
+    {
+        "marka": "Fluke",
+        "urun_adi": "C1620",
+        "fiyat": "Carrying Case"
     },
     {
         "marka": "Fluke",
@@ -76031,11 +76041,6 @@
     },
     {
         "marka": "Fluke",
-        "urun_adi": "80PR-60",
-        "fiyat": "Airflow Meter (Hava Akış Ölçer)"
-    },
-    {
-        "marka": "Fluke",
         "urun_adi": "FL62MAX+/323/1AC",
         "fiyat": "IR Thermometer, Clamp Meter and Voltage Detector Kit"
     },
@@ -76043,16 +76048,6 @@
         "marka": "Fluke",
         "urun_adi": "FLUKE-116/62 MAX+",
         "fiyat": "Fluke HVAC Multimeter and IR Thermometer Combo Kit"
-    },
-    {
-        "marka": "Fluke",
-        "urun_adi": "FLUKE-51-2 50HZ",
-        "fiyat": "Thermometer"
-    },
-    {
-        "marka": "Fluke",
-        "urun_adi": "FLUKE-52-2 50HZ",
-        "fiyat": "Thermometer"
     },
     {
         "marka": "Fluke",
@@ -76096,7 +76091,7 @@
     },
     {
         "marka": "Fluke",
-        "urun_adi": "FLUKE-59 MAX+ ERTA",
+        "urun_adi": "FLUKE-59 MAX + ERTA",
         "fiyat": "Fluke 59 MAX+ Infrared Thermometer"
     },
     {
@@ -76763,6 +76758,36 @@
         "marka": "Fluke",
         "urun_adi": "FLUKE-750RD6",
         "fiyat": "Pressure Module (-1 – 7 bar)"
+    },
+    {
+        "marka": "Fluke",
+        "urun_adi": "709H/TRACK",
+        "fiyat": "Logging Software With Cable"
+    },
+    {
+        "marka": "Fluke",
+        "urun_adi": "C789",
+        "fiyat": "Soft Meter Case"
+    },
+    {
+        "marka": "Fluke",
+        "urun_adi": "FLUKE-700HTH-1",
+        "fiyat": "Hydraulic Test Hose"
+    },
+    {
+        "marka": "Fluke",
+        "urun_adi": "FLUKE-700HTP-2",
+        "fiyat": "Hydraulic Test Pump, 690 bar"
+    },
+    {
+        "marka": "Fluke",
+        "urun_adi": "FLUKE-700LTP-1",
+        "fiyat": "Low Pressure Test Pump"
+    },
+    {
+        "marka": "Fluke",
+        "urun_adi": "FLUKE-700PMP",
+        "fiyat": "Pressure Pump (10 bar)"
     },
     {
         "marka": "ACK",
