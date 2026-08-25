@@ -1467,52 +1467,72 @@
     {
         "marka": "Genel",
         "urun_adi": "BAKIR TOPRAKLAMA ÇUBUKLARI",
-        "fiyat": "SARKUYSAN BAKIR"
+        "fiyat": "KARTALMETAL BAKIR"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "Q25 mm 1 Mt Som Bakır Topraklama Çubuğu",
+        "fiyat": "3900 TL"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "Q25 mm 1,5 Mt Som Bakır Topraklama Çubuğu",
+        "fiyat": "5750 TL"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "Q25 mm 2 Mt Som Bakır Topraklama Çubuğu",
+        "fiyat": "7500 TL"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "Q25 mm 3 Mt Som Bakır Topraklama Çubuğu",
+        "fiyat": "11500 TL"
     },
     {
         "marka": "Genel",
         "urun_adi": "Q20 mm 1 Mt Som Bakır Topraklama Çubuğu",
-        "fiyat": "2650 TL"
+        "fiyat": "2750 TL"
     },
     {
         "marka": "Genel",
         "urun_adi": "Q20 mm 1,5 Mt Som Bakır Topraklama Çubuğu",
-        "fiyat": "3650 TL"
+        "fiyat": "3750 TL"
     },
     {
         "marka": "Genel",
         "urun_adi": "Q20 mm 1,75 Mt Som Bakır Topraklama Çubuğu",
-        "fiyat": "4250 TL"
+        "fiyat": "4350 TL"
     },
     {
         "marka": "Genel",
         "urun_adi": "Q20 mm 2 Mt Som Bakır Topraklama Çubuğu",
-        "fiyat": "4700 TL"
+        "fiyat": "4900 TL"
     },
     {
         "marka": "Genel",
         "urun_adi": "Q20 mm 2,5 Mt Som Bakır Topraklama Çubuğu",
-        "fiyat": "6150 TL"
+        "fiyat": "6250 TL"
     },
     {
         "marka": "Genel",
         "urun_adi": "Q20 mm 3 Mt Som Bakır Topraklama Çubuğu",
-        "fiyat": "7400 TL"
+        "fiyat": "7600 TL"
     },
     {
         "marka": "Genel",
         "urun_adi": "Q20 mm 3,5 Mt Som Bakır Topraklama Çubuğu",
-        "fiyat": "8500 TL"
+        "fiyat": "9000 TL"
     },
     {
         "marka": "Genel",
         "urun_adi": "Q18 mm 1 Mt Som Bakır Topraklama Çubuğu",
-        "fiyat": "2050 TL"
+        "fiyat": "2150 TL"
     },
     {
         "marka": "Genel",
         "urun_adi": "Q18 mm 1,5 Mt Som Bakır Topraklama Çubuğu",
-        "fiyat": "3180 TL"
+        "fiyat": "3280 TL"
     },
     {
         "marka": "Genel",
@@ -1547,42 +1567,42 @@
     {
         "marka": "Genel",
         "urun_adi": "16 mm Örgülü Som Bakır Tel",
-        "fiyat": "108,00 TL"
+        "fiyat": "130,00 TL"
     },
     {
         "marka": "Genel",
         "urun_adi": "25 mm Örgülü Som Bakır Tel",
-        "fiyat": "168,75 TL"
+        "fiyat": "200,50 TL"
     },
     {
         "marka": "Genel",
         "urun_adi": "35 mm Örgülü Som Bakır Tel",
-        "fiyat": "236,25 TL"
+        "fiyat": "290,00 TL"
     },
     {
         "marka": "Genel",
         "urun_adi": "50 mm Örgülü Som Bakır Tel",
-        "fiyat": "337,50 TL"
+        "fiyat": "414,00 TL"
     },
     {
         "marka": "Genel",
         "urun_adi": "70 mm Örgülü Som Bakır Tel",
-        "fiyat": "472,50 TL"
+        "fiyat": "575,00 TL"
     },
     {
         "marka": "Genel",
         "urun_adi": "95 mm Örgülü Som Bakır Tel",
-        "fiyat": "641,25 TL"
+        "fiyat": "785,50 TL"
     },
     {
         "marka": "Genel",
         "urun_adi": "120 mm Örgülü Som Bakır Tel",
-        "fiyat": "810,00 TL"
+        "fiyat": "975,00 TL"
     },
     {
         "marka": "Genel",
         "urun_adi": "150 mm Örgülü Som Bakır Tel",
-        "fiyat": "1012,50 TL"
+        "fiyat": "1275,00 TL"
     },
     {
         "marka": "Genel",
