@@ -65661,11 +65661,6 @@
     },
     {
         "marka": "Entes",
-        "urun_adi": "MPR-53CS-96-CT25",
-        "fiyat": "110/230 VAC, Aktif/Pasif Çalışma Saati, RS-485, Çift Enerji Sayac, Alarm"
-    },
-    {
-        "marka": "Entes",
         "urun_adi": "MPR-53CS-OG-DIN",
         "fiyat": "10-56 V DC, RS-485, Aktif/Pasif Çalışma Saati, Çift Enerji Sayacı, Dijital Giriş.2"
     },
@@ -65691,33 +65686,13 @@
     },
     {
         "marka": "Entes",
-        "urun_adi": "ETMO-02",
-        "fiyat": "Ethernet Gateway 85-265VAC/DC"
-    },
-    {
-        "marka": "Entes",
-        "urun_adi": "ETMO-02-DR",
-        "fiyat": "Ethernet Gateway 85-265VAC/DC Enerji Doktoru versiyonu"
-    },
-    {
-        "marka": "Entes",
-        "urun_adi": "ETMO-10",
-        "fiyat": "Ethernet Gateway 85-265VAC/DC"
-    },
-    {
-        "marka": "Entes",
-        "urun_adi": "GEMO-10-4G",
-        "fiyat": "GSM/GPRS Gateway 85-265VAC/DC"
-    },
-    {
-        "marka": "Entes",
-        "urun_adi": "GEMO-10-DR-4G",
-        "fiyat": "GSM/GPRS Gateway 85-265VAC/DC Enerji Doktoru Versiyonu"
+        "urun_adi": "ETMO-10-SH",
+        "fiyat": "Ethernet Sayaç Okuyan Gateway 85-265VAC/DC"
     },
     {
         "marka": "Entes",
         "urun_adi": "GEMO-10-SH-4G",
-        "fiyat": "GEMO-10-SH-4G GSM/GPRS Sayaç Okuyan Gateway 85-265VAC/DC"
+        "fiyat": "GSM/GPRS Sayaç Okuyan Gateway 85-265VAC/DC"
     },
     {
         "marka": "Entes",
@@ -65733,11 +65708,6 @@
         "marka": "Entes",
         "urun_adi": "RS-USB2",
         "fiyat": "USB / RS-485 Çevirici"
-    },
-    {
-        "marka": "Entes",
-        "urun_adi": "EPC-12",
-        "fiyat": "12 adet Pals Girişli RS485 Haberleşmeli Veri Toplayıcı"
     },
     {
         "marka": "Entes",
@@ -65976,7 +65946,7 @@
     },
     {
         "marka": "Entes",
-        "urun_adi": "ENTES 2026  KOMPANZASYON KONTAKTÖRLERİ",
+        "urun_adi": "ENTES KOMPANZASYON KONTAKTÖRLERİ  TEMMUZ 2026 FİYAT",
         "fiyat": "FİYAT"
     },
     {
@@ -66223,6 +66193,11 @@
         "marka": "Entes",
         "urun_adi": "ENT.SRS3 400/1,5",
         "fiyat": "400V 50Hz  1,5 kVAR ŞÖNT Reaktör"
+    },
+    {
+        "marka": "Entes",
+        "urun_adi": "ENT.SRS3 400/2",
+        "fiyat": "400V 50Hz  2 kVAR ŞÖNT Reaktör"
     },
     {
         "marka": "Entes",
@@ -66501,18 +66476,8 @@
     },
     {
         "marka": "Entes",
-        "urun_adi": "EPM-06-DIN",
-        "fiyat": "DIN6 , 230V AC 5A , CosQ , HZ , Demand ,"
-    },
-    {
-        "marka": "Entes",
         "urun_adi": "EPM-06C-DIN-CT25*",
         "fiyat": "DIN6 , 230V AC 5A , CosQ , HZ , Demand , (CT25 İle Kullanılır)"
-    },
-    {
-        "marka": "Entes",
-        "urun_adi": "EPM-06CS-DIN",
-        "fiyat": "DIN6 , 230V AC 5A , CosQ , HZ , Demand ,"
     },
     {
         "marka": "Entes",
@@ -66881,13 +66846,13 @@
     },
     {
         "marka": "Entes",
-        "urun_adi": "ERB-50",
-        "fiyat": "Bulaşık Makinesi Rölesi , 30sn, 60sn, 90sn, 120sn, 180sn, Bekleme 3sn Durulma 1-30 sn"
+        "urun_adi": "DG-60",
+        "fiyat": "Düşmede Gecikmeli Zaman Rölesi 1 sn – 60dk 230V AC"
     },
     {
         "marka": "Entes",
-        "urun_adi": "MCB-A",
-        "fiyat": "Günlük Programlama (24 Saat) Analog Zaman Saati  Min.Anahtarlama :15 dk   230V AC"
+        "urun_adi": "ERB-50",
+        "fiyat": "Bulaşık Makinesi Rölesi , 30sn, 60sn, 90sn, 120sn, 180sn, Bekleme 3sn Durulma 1-30 sn"
     },
     {
         "marka": "Entes",
@@ -66983,16 +66948,6 @@
         "marka": "Entes",
         "urun_adi": "PS-362",
         "fiyat": "M1895   36W 24VDC, 1,5A  Güç Kaynağı"
-    },
-    {
-        "marka": "Entes",
-        "urun_adi": "PS-722",
-        "fiyat": "M 2924  72W 24VDC, 3A  Güç Kaynağı"
-    },
-    {
-        "marka": "Entes",
-        "urun_adi": "PS-1202",
-        "fiyat": "M 4436  120W 24VDC,5A  Güç Kaynağı"
     },
     {
         "marka": "Entes",
