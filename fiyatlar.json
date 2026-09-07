@@ -60066,71 +60066,6 @@
     },
     {
         "marka": "Federal",
-        "urun_adi": "MCCB F01 1P 16A 35kA/240VAC In 15In 40 °C,Icu=Ics=%100",
-        "fiyat": "9AB-TSS41-0016"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "MCCB F01 1P 20A 35kA/240VAC In 12In 40 °C,Icu=Ics=%100",
-        "fiyat": "9AB-TSS41-0020"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "MCCB F01 1P 25A 35kA/240VAC In 10In 40 °C,Icu=Ics=%100",
-        "fiyat": "9AB-TSS41-0026"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "MCCB F01 1P 32A 35kA/240VAC In 10In 40 °C,Icu=Ics=%100",
-        "fiyat": "9AB-TSS41-0032"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "MCCB F01 1P 40A 35kA/240VAC In 10In 40 °C,Icu=Ics=%100",
-        "fiyat": "9AB-TSS41-0040"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "MCCB F01 1P 50A 35kA/240VAC In 10In 40 °C,Icu=Ics=%100",
-        "fiyat": "9AB-TSS41-0050"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "MCCB F01 1P 63A 35kA/240VAC In 10In 40 °C,Icu=Ics=%100",
-        "fiyat": "9AB-TSS41-0063"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "MCCB F01 1P 80A 35kA/240VAC In 10In 40 °C,Icu=Ics=%100",
-        "fiyat": "9AB-TSS41-0080"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "MCCB F01 1P 100A 35kA/240VAC In 10In 40 °C,Icu=Ics=%100",
-        "fiyat": "9AB-TSS41-0100"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "MCCB F01 1P 125A 35kA/240VAC In 8In 40 °C,Icu=Ics=%100",
-        "fiyat": "9AB-TSS41-0125"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "MCCB F01 1P 160A 35kA/240VAC In 8In 40 °C,Icu=Ics=%100",
-        "fiyat": "9AB-TSS41-0160"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "MCCB F01 1P 200A 35kA/240VAC In 8In 40 °C,Icu=Ics=%100",
-        "fiyat": "9AB-TSS41-0200"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "MCCB F01 1P 225A 35kA/240VAC In 8In 40 °C,Icu=Ics=%100",
-        "fiyat": "9AB-TSS41-0250"
-    },
-    {
-        "marka": "Federal",
         "urun_adi": "MCCB F11 3P 16A 18kA/415VAC In 600A 40 °C LT, Icu=ıcs=%100 Sabit",
         "fiyat": "9AN-TDS43-0016"
     },
@@ -60451,8 +60386,8 @@
     },
     {
         "marka": "Federal",
-        "urun_adi": "MCCB F62 3P 400A 50kA/415Vac In 8In 40 °C,Icu=Ics=%100 Sabit",
-        "fiyat": "9AS-TMS43-S402"
+        "urun_adi": "MCCB F62 3P 400A 50kA/415Vac In 8In 40 °C,Icu=Ics=%10 0 Sabit",
+        "fiyat": "9AS-TMS43- S402"
     },
     {
         "marka": "Federal",
@@ -60466,8 +60401,8 @@
     },
     {
         "marka": "Federal",
-        "urun_adi": "MCCB F71 3P 800A 36kA/415Vac In 8In 40 °C,Icu=Ics=%100 Sabit",
-        "fiyat": "9AF-TSS43-0803"
+        "urun_adi": "MCCB F71 3P 800A 36kA/415Vac In 8In 40 °C,Icu=Ics=%100 Sa bit",
+        "fiyat": "9AF-TS S43-0803"
     },
     {
         "marka": "Federal",
@@ -60481,7 +60416,7 @@
     },
     {
         "marka": "Federal",
-        "urun_adi": "MCCB F72 3P 800A 50kA/415Vac In 8In 40 °C,Icu=Ics=%100 Sabit",
+        "urun_adi": "MCCB F72 3P 800A 50kA/415Vac In 8 In 40 °C,Icu=Ics=%100 Sabit",
         "fiyat": "9AF-TMS43-S800"
     },
     {
@@ -60512,7 +60447,7 @@
     {
         "marka": "Federal",
         "urun_adi": "MCCB F83 3P 800A 70kA/415Vac In 8In 40 °C,Icu=Ics=%75 Sabit",
-        "fiyat": "9AG-THS43-S800"
+        "fiyat": "9AG-THS 43-S800"
     },
     {
         "marka": "Federal",
@@ -60941,153 +60876,133 @@
     },
     {
         "marka": "Federal",
-        "urun_adi": "F31 SERİSİ (Termik Ayar Sahalı , Manyetik Sabit)",
+        "urun_adi": "FEDERAL 3 KUTUPLU AYARLI DEVRE KESİCİLER F12 SERİSİ 25kA",
         "fiyat": "KOD"
     },
     {
         "marka": "Federal",
-        "urun_adi": "11-16A , 3P,36kA /415Vac  Kompakt Şalter",
-        "fiyat": "9AB-TSS43-0016-Y"
+        "urun_adi": "3 x 16A  25kA Termik Ayarlı Manyetik Açamlı Kompak Şalter",
+        "fiyat": "9AR-TSS43-0018"
     },
     {
         "marka": "Federal",
-        "urun_adi": "14-20A , 3P,36kA /415Vac   Kompakt Şalter",
-        "fiyat": "9AB-TSS43-0020-Y"
+        "urun_adi": "3 x 20A  25kA Termik Ayarlı Manyetik Açamlı Kompak Şalter",
+        "fiyat": "9AR-TSS43-0023"
     },
     {
         "marka": "Federal",
-        "urun_adi": "18-25A , 3P,36kA /415Vac    Kompakt Şalter",
-        "fiyat": "9AB-TSS43-0025-Y"
+        "urun_adi": "3 x 25A  25kA Termik Ayarlı Manyetik Açamlı Kompak Şalter",
+        "fiyat": "9AR-TSS43-0028"
     },
     {
         "marka": "Federal",
-        "urun_adi": "22-32A , 3P,36kA /415Vac    Kompakt Şalter",
-        "fiyat": "9AB-TSS43-0032-Y"
+        "urun_adi": "3 x 32A  25kA Termik Ayarlı Manyetik Açamlı Kompak Şalter",
+        "fiyat": "9AR-TSS43-0035"
     },
     {
         "marka": "Federal",
-        "urun_adi": "28-40A , 3P,36kA /415Vac    Kompakt Şalter",
-        "fiyat": "9AB-TSS43-0040-Y"
+        "urun_adi": "3 x 40A  25kA Termik Ayarlı Manyetik Açamlı Kompak Şalter",
+        "fiyat": "9AR-TSS43-0043"
     },
     {
         "marka": "Federal",
-        "urun_adi": "35-50A , 3P,36kA /415Vac     Kompakt Şalter",
-        "fiyat": "9AB-TSS43-0050-Y"
+        "urun_adi": "3 x 50A  25kA Termik Ayarlı Manyetik Açamlı Kompak Şalter",
+        "fiyat": "9AR-TSS43-0053"
     },
     {
         "marka": "Federal",
-        "urun_adi": "44-63A , 3P,36kA /415Vac  Kompakt Şalter",
-        "fiyat": "9AB-TSS43-0063-Y"
+        "urun_adi": "3 x 63A  25kA Termik Ayarlı Manyetik Açamlı Kompak Şalter",
+        "fiyat": "9AR-TSS43-0066"
     },
     {
         "marka": "Federal",
-        "urun_adi": "56-80A , 3P,36kA /415Vac   Kompakt Şalter",
-        "fiyat": "9AB-TSS43-0080-Y"
+        "urun_adi": "3 x 80A  25kA Termik Ayarlı Manyetik Açamlı Kompak Şalter",
+        "fiyat": "9AR-TSS43-0083"
     },
     {
         "marka": "Federal",
-        "urun_adi": "70-100A , 3P,36kA /415Vac  Kompakt Şalter",
-        "fiyat": "9AB-TSS43-0100-Y"
+        "urun_adi": "3 x 100A  25kA Termik Ayarlı Manyetik Açamlı Kompak Şalter",
+        "fiyat": "9AR-TSS43-0103"
     },
     {
         "marka": "Federal",
-        "urun_adi": "87-125A , 3P,36kA /415Vac  Kompakt Şalter",
-        "fiyat": "9AB-TSS43-0125-Y"
+        "urun_adi": "3 x 125A  25kA Termik Ayarlı Manyetik Açamlı Kompak Şalter",
+        "fiyat": "9AR-TSS43-0128"
     },
     {
         "marka": "Federal",
-        "urun_adi": "112-160A , 3P,36kA /415Vac   Kompakt Şalter",
-        "fiyat": "9AB-TSS43-0160-Y"
+        "urun_adi": "3 x 160A  25kA Termik Ayarlı Manyetik Açamlı Kompak Şalter",
+        "fiyat": "9AR-TSS43-0163"
     },
     {
         "marka": "Federal",
-        "urun_adi": "140-200A , 3P,36kA /415Vac   Kompakt Şalter",
-        "fiyat": "9AB-TSS43-0200-Y"
+        "urun_adi": "3 x 16A  36kA Termik Ayarlı Manyetik Açamlı Kompak Şalter",
+        "fiyat": "9AR-TSS43-1018"
     },
     {
         "marka": "Federal",
-        "urun_adi": "157-225A , 3P,36kA /415Vac  Kompakt Şalter",
-        "fiyat": "9AB-TSS43-0225-Y"
+        "urun_adi": "3 x 20A  36kA Termik Ayarlı Manyetik Açamlı Kompak Şalter",
+        "fiyat": "9AR-TSS43-1023"
     },
     {
         "marka": "Federal",
-        "urun_adi": "175-250A , 3P,36kA /415Vac  Kompakt Şalter",
-        "fiyat": "9AB-TSS43-0250-Y"
+        "urun_adi": "3 x 25A  36kA Termik Ayarlı Manyetik Açamlı Kompak Şalter",
+        "fiyat": "9AR-TSS43-1028"
     },
     {
         "marka": "Federal",
-        "urun_adi": "FEDERAL F32 SERİSİ (Termik Ayarlı , Manyetik Sabit) 50 kA",
-        "fiyat": "KOD"
+        "urun_adi": "3 x 32A  36kA Termik Ayarlı Manyetik Açamlı Kompak Şalter",
+        "fiyat": "9AR-TSS43-1035"
     },
     {
         "marka": "Federal",
-        "urun_adi": "11-16A , 3P,50kA /415Vac Kompakt Şalter",
-        "fiyat": "9AB-TMS43-0016-Y"
+        "urun_adi": "3 x 40A  36kA Termik Ayarlı Manyetik Açamlı Kompak Şalter",
+        "fiyat": "9AR-TSS43-1043"
     },
     {
         "marka": "Federal",
-        "urun_adi": "14-20A , 3P,50kA /415Vac Kompakt Şalter",
-        "fiyat": "9AB-TMS43-0020-Y"
+        "urun_adi": "3 x 50A  36kA Termik Ayarlı Manyetik Açamlı Kompak Şalter",
+        "fiyat": "9AR-TSS43-1053"
     },
     {
         "marka": "Federal",
-        "urun_adi": "18-25A , 3P,50kA /415Vac Kompakt Şalter",
-        "fiyat": "9AB-TMS43-0025-Y"
+        "urun_adi": "3 x 63A  36kA Termik Ayarlı Manyetik Açamlı Kompak Şalter",
+        "fiyat": "9AR-TSS43-1066"
     },
     {
         "marka": "Federal",
-        "urun_adi": "22-32A , 3P,50kA /415Vac Kompakt Şalter",
-        "fiyat": "9AB-TMS43-0032-Y"
+        "urun_adi": "3 x 80A  36kA Termik Ayarlı Manyetik Açamlı Kompak Şalter",
+        "fiyat": "9AR-TSS43-1083"
     },
     {
         "marka": "Federal",
-        "urun_adi": "28-40A , 3P,50kA /415VacKompakt Şalter",
-        "fiyat": "9AB-TMS43-0040-Y"
+        "urun_adi": "3 x 100A  36kA Termik Ayarlı Manyetik Açamlı Kompak Şalter",
+        "fiyat": "9AR-TSS43-1103"
     },
     {
         "marka": "Federal",
-        "urun_adi": "35-50A , 3P,50kA /415Vac Kompakt Şalter",
-        "fiyat": "9AB-TMS43-0050-Y"
+        "urun_adi": "3 x 125A  36kA Termik Ayarlı Manyetik Açamlı Kompak Şalter",
+        "fiyat": "9AR-TSS43-1128"
     },
     {
         "marka": "Federal",
-        "urun_adi": "44-63A , 3P,50kA /415Vac Kompakt Şalter",
-        "fiyat": "9AB-TMS43-0063-Y"
+        "urun_adi": "3 x 160A  36kA Termik Ayarlı Manyetik Açamlı Kompak Şalter",
+        "fiyat": "9AR-TSS43-1163"
     },
     {
         "marka": "Federal",
-        "urun_adi": "56-80A , 3P,50kA /415Vac Kompakt Şalter",
-        "fiyat": "9AB-TMS43-0080-Y"
+        "urun_adi": "3 x 200A  36kA Termik Ayarlı Manyetik Açamlı Kompak Şalter",
+        "fiyat": "9AC-TSS43-0200"
     },
     {
         "marka": "Federal",
-        "urun_adi": "70-100A , 3P,50kA /415Vac Kompakt Şalter",
-        "fiyat": "9AB-TMS43-0100-Y"
+        "urun_adi": "3 x 225A  36kA Termik Ayarlı Manyetik Açamlı Kompak Şalter",
+        "fiyat": "9AC-TSS43-0225"
     },
     {
         "marka": "Federal",
-        "urun_adi": "87-125A , 3P,50kA /415Vac Kompakt Şalter",
-        "fiyat": "9AB-TMS43-0125-Y"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "112-160A , 3P,50kA /415Vac Kompakt Şalter",
-        "fiyat": "9AB-TMS43-0160-Y"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "140-200A , 3P,50kA /415Vac Kompakt Şalter",
-        "fiyat": "9AB-TMS43-0200-Y"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "157-225A , 3P,50kA /415Vac Kompakt Şalter",
-        "fiyat": "9AB-TMS43-0225-Y"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "175-250A , 3P,50kA /415Vac Kompakt Şalter",
-        "fiyat": "9AB-TMS43-0250"
+        "urun_adi": "3 x 250A  36kA Termik Ayarlı Manyetik Açamlı Kompak Şalter",
+        "fiyat": "9AC-TSS43-0250"
     },
     {
         "marka": "Federal",
