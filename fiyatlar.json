@@ -61851,8 +61851,13 @@
     },
     {
         "marka": "Federal",
-        "urun_adi": "Motor Mekanizma 230V AC  (F71-F72) İçin",
+        "urun_adi": "Motor Mekanizma 230V AC  (F61/N-F62/N) İçin",
         "fiyat": "Δ AE-DA000-022#"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "Motor Mekanizma 230V AC  (F71-F72) İçin",
+        "fiyat": "Δ AF-DA000-0221-Y"
     },
     {
         "marka": "Federal",
@@ -62168,6 +62173,221 @@
         "marka": "Federal",
         "urun_adi": "FC95D  37KW 95A  1NA+1NK DC Kontaktör",
         "fiyat": "9DD-A3113-D095"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "FEDERAL Elektronik Bobinli Kontaktörler",
+        "fiyat": "KOD"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "FC115D  55KW 115A  1NA+1NK 100-240V AC/DC Elektronik Bobin",
+        "fiyat": "9DD-K3300-F115"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "FC150D  75KW 150A  1NA+1NK 100-240V AC/DC Elektronik Bobin",
+        "fiyat": "9DD-K3300-F150"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "FC220D  110KW 150A  1NA+1NK 100-240V AC/DC Elektronik Bobin",
+        "fiyat": "9DD-K3300-F220"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "FC245D  130KW 245A  1NA+1NK 100-240V AC/DC Elektronik Bobin",
+        "fiyat": "9DD-K3300-F245"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "FC260D  140KW 260A  1NA+1NK 100-240V AC/DC Elektronik Bobin",
+        "fiyat": "9DD-K3300-F260"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "FC300D  160KW 300A  1NA+1NK 100-240V AC/DC Elektronik Bobin",
+        "fiyat": "9DD-K3300-F300"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "FC400D  200KW 400A  1NA+1NK 100-240V AC/DC Elektronik Bobin",
+        "fiyat": "9DD-K3300-F410"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "FC475D  250KW 475A  1NA+1NK 100-240V AC/DC Elektronik Bobin",
+        "fiyat": "9DD-K3300-F475"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "FC580D  315KW 580A  1NA+1NK 100-240V AC/DC Elektronik Bobin",
+        "fiyat": "9DD-K3300-F580"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "FC660D  355KW 650A  1NA+1NK 100-240V AC/DC Elektronik Bobin",
+        "fiyat": "9DD-K3300-F650"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "FC750D  400KW 750A  1NA+1NK 100-240V AC/DC Elektronik Bobin",
+        "fiyat": "9DD-K3300-F750"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "FC-115D-FC-150D  AC 100-240V / DC 100-220V Elektronik Bobin",
+        "fiyat": "8DD-CKE60-002"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "FC-2200  AC 100-240V / DC 100-220V Elektronik Bobin",
+        "fiyat": "8DD-CKE60-003"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "FC-245D-FC-260D AC 100-240V / DC 100-220V Elektronik Bobin",
+        "fiyat": "8DD-CKE60-004"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "FC-300D  AC 100-240V / DC 100-220V Elektronik Bobin",
+        "fiyat": "8DD-CKE60-005"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "FC-400D  AC 100-240V / DC 100-220V Elektronik Bobin",
+        "fiyat": "8DD-CKE60-006"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "FC-475D  AC 100-240V / DC 100-220V Elektronik Bobin",
+        "fiyat": "8DD-CKE60-007"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "FC-580D  AC 100-240V / DC 100-220V Elektronik Bobin",
+        "fiyat": "8DD-CKE60-008"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "FC-650D  AC 100-240V / DC 100-220V Elektronik Bobin",
+        "fiyat": "8DD-CKE60-009"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "FC-750D  AC 100-240V / DC 100-220V Elektronik Bobin",
+        "fiyat": "8DD-CKE60-010"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "FC580D …FC750D Mekanik Kilit Blok   3P/4P İçin",
+        "fiyat": "8DD-MK000-0005"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "FC300D …FC475D  Mekanik Kilit Blok   3P/4P İçin",
+        "fiyat": "8DD-MK000-0007"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "FC220D …FC260D  Mekanik Kilit Blok   3P/4P İçin",
+        "fiyat": "8DD-MK000-0006"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "FC115D …FC150D  Mekanik Kilit Blok   3P/4P İçin",
+        "fiyat": "8DD-MK000-0004"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "FC80D …FC95D  Mekanik Kilit Blok   3P/4P İçin",
+        "fiyat": "8DD-MK0Δ0-0003"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "FC50D …FC65D  Mekanik Kilit Blok   3P/4P İçin",
+        "fiyat": "8DD-MK0Δ0-0002"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "FC09D …FC40D  Mekanik Kilit Blok   3P/4P İçin",
+        "fiyat": "8DD-MK0Δ0-0001"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "FC750D  220V  3/4 Kutup Kontaktör İçin Yedek Bobin",
+        "fiyat": "8DD-CK080-000Δ"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "FC580D – FC650D  220V  3/4 Kutup Kontaktör İçin Yedek Bobin",
+        "fiyat": "8DD-CK080-000Δ"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "FC475D  220V 3P Kontaktör İçin Yedek Bobin",
+        "fiyat": "8DD-CK080-0003"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "FC475D  220V 4P Kontaktör İçin Yedek Bobin",
+        "fiyat": "8DD-CK080-0005"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "FC400D  220V 3P Kontaktör İçin Yedek Bobin",
+        "fiyat": "8DD-CK080-0002"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "FC400D  220V 4P Kontaktör İçin Yedek Bobin",
+        "fiyat": "8DD-CK080-0004"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "FC300D  220V 3P Kontaktör İçin Yedek Bobin",
+        "fiyat": "8DD-CK070-0003"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "FC300D  220V 4P Kontaktör İçin Yedek Bobin",
+        "fiyat": "8DD-C5070-0006"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "FC220D – FC2 45D – FC260D  3P Kontaktörler İçin Yedek Bobin",
+        "fiyat": "8DD-CK070-0002"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "FC220D – FC2 45D – FC260D  4P Kontaktörler İçin Yedek Bobin",
+        "fiyat": "8DD-CK070-0005"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "FC115D – FC150D  3P Kontaktör İçin Yedek Bobin",
+        "fiyat": "8DD-CK060-0002"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "FC115D – FC150D  4P Kontaktör İçin Yedek Bobin",
+        "fiyat": "8DD-CK070-0004"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "FCC-D6  FC40D…FC95D 3/4P Kontaktör İçin Yedek Bobin",
+        "fiyat": "8DD-CΔ040-0000"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "FCC-D4  FC25D…FC40D 3/4P Kontaktör İçin Yedek Bobin",
+        "fiyat": "8DD-CΔ030-0000"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "FCC-D2  FC09D…FC25D 3/4P Kontaktör İçin Yedek Bobin",
+        "fiyat": "8DD-CΔ020-0000"
     },
     {
         "marka": "Federal",
