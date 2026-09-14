@@ -61676,6 +61676,31 @@
     },
     {
         "marka": "Federal",
+        "urun_adi": "1250A 3P 50kA Ani Açma Kapasiteli Devre Kesiciler",
+        "fiyat": "9MA – EMC43-1250"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "1600A 3P 50kA Ani Açma Kapasiteli Devre Kesiciler",
+        "fiyat": "9MA – EMC43-1600"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "Motor Mekanizma Set (Açma-Kapama Bobini)  3P/4P",
+        "fiyat": "9MA – DA000-0220"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "1250A 4P 50kA Ani Açma Kapasiteli Devre Kesiciler",
+        "fiyat": "9MA – EMC44-1250"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "1600A 4P 50kA Ani Açma Kapasiteli Devre Kesiciler",
+        "fiyat": "9MA – EMC44-1600"
+    },
+    {
+        "marka": "Federal",
         "urun_adi": "Motor Mekanizma Seti (Açma-Kapama Bobini)",
         "fiyat": "9MA-DA000-0220"
     },
@@ -62176,7 +62201,7 @@
     },
     {
         "marka": "Federal",
-        "urun_adi": "FEDERAL Elektronik Bobinli Kontaktörler",
+        "urun_adi": "FEDERAL Elektronik Bobinli Kontaktörler 2026 FİYAT LİSTESİ",
         "fiyat": "KOD"
     },
     {
@@ -62391,308 +62416,183 @@
     },
     {
         "marka": "Federal",
-        "urun_adi": "FEDERAL  3 Kutup AÇIK TİP ŞALTERLER 2026 FİYAT LİSTESİ",
+        "urun_adi": "FEDERAL  55kA Açık Tip Devre Kesiciler",
         "fiyat": "KOD"
     },
     {
         "marka": "Federal",
-        "urun_adi": "ACB F121ES 3P 630A 55kA /415Vac  Sabit Açık Tip Şalter",
-        "fiyat": "9AE-ESS43-0630"
+        "urun_adi": "F121ES  630A  55kA  Sabit Tip Açık Devre Kesici Şalter",
+        "fiyat": "9AE-ESS4Δ-0630"
     },
     {
         "marka": "Federal",
-        "urun_adi": "ACB F121ES 3P 800A 55kA /415Vac  Sabit Açık Tip Şalter",
-        "fiyat": "9AE-ESS43-0800"
+        "urun_adi": "F121ES  800A  55kA  Sabit Tip Açık Devre Kesici Şalter",
+        "fiyat": "9AE-ESS4Δ-0800"
     },
     {
         "marka": "Federal",
-        "urun_adi": "ACB F121ES 3P 1000A 55kA /415Vac  Sabit Açık Tip Şalter",
-        "fiyat": "9AE-ESS43-1000"
+        "urun_adi": "F121ES  1000A  55kA  Sabit Tip Açık Devre Kesici Şalter",
+        "fiyat": "9AE-ESS4Δ-1000"
     },
     {
         "marka": "Federal",
-        "urun_adi": "ACB F121ES 3P 1250A 55kA /415Vac  Sabit Açık Tip Şalter",
-        "fiyat": "9AL-EHS43-1250"
+        "urun_adi": "F121ES  1250A  55kA  Sabit Tip Açık Devre Kesici Şalter",
+        "fiyat": "9AE-ESS4Δ-1250"
     },
     {
         "marka": "Federal",
-        "urun_adi": "ACB F121ES 3P 1600A 55kA /415Vac  Sabit Açık Tip Şalter",
-        "fiyat": "9AL-EHS43-1600"
+        "urun_adi": "F121ES  1600A  55kA  Sabit Tip Açık Devre Kesici Şalter",
+        "fiyat": "9AE-ESS4Δ-1600"
     },
     {
         "marka": "Federal",
-        "urun_adi": "ACB F121ES 3P 2000A 55kA /415Vac  Sabit Açık Tip Şalter",
-        "fiyat": "9AL-EHS43-2000"
+        "urun_adi": "F121ES  2000A  55kA  Sabit Tip Açık Devre Kesici Şalter",
+        "fiyat": "9AE-ESS4Δ-2000"
     },
     {
         "marka": "Federal",
-        "urun_adi": "FEDERAL 3 Kutup AÇIK TİP ŞALTERLER 2026 FİYAT LİSTESİ",
-        "fiyat": "KOD"
+        "urun_adi": "F121E  630A  70kA  Sabit Tip Açık Devre Kesici Şalter",
+        "fiyat": "9AL-ESS4Δ-0630"
     },
     {
         "marka": "Federal",
-        "urun_adi": "ACB F121E 3P 630A 70kA /415Vac Sabit Açık Tip Şalter",
-        "fiyat": "9AL-ESS43-0630"
+        "urun_adi": "F121E  800A  70kA  Sabit Tip Açık Devre Kesici Şalter",
+        "fiyat": "9AL-ESS4Δ-0800"
     },
     {
         "marka": "Federal",
-        "urun_adi": "ACB F121E 3P 800A 70kA /415Vac Sabit Açık Tip Şalter",
-        "fiyat": "9AL-ESS43-0800"
+        "urun_adi": "F121E  1000A  70kA  Sabit Tip Açık Devre Kesici Şalter",
+        "fiyat": "9AL-ESS4Δ-1000"
     },
     {
         "marka": "Federal",
-        "urun_adi": "ACB F121E 3P 1000A 70kA /415Vac Sabit Açık Tip Şalter",
-        "fiyat": "9AL-ESS43-1000"
+        "urun_adi": "F121E  1250A  70kA  Sabit Tip Açık Devre Kesici Şalter",
+        "fiyat": "9AL-ESS4Δ-1250"
     },
     {
         "marka": "Federal",
-        "urun_adi": "ACB F121E 3P 1250A 70kA /415Vac Sabit Açık Tip Şalter",
-        "fiyat": "9AL-ESS43-1250"
+        "urun_adi": "F121E  1600A  70kA  Sabit Tip Açık Devre Kesici Şalter",
+        "fiyat": "9AL-ESS4Δ-1600"
     },
     {
         "marka": "Federal",
-        "urun_adi": "ACB F121E 3P 1600A 70kA /415Vac Sabit Açık Tip Şalter",
-        "fiyat": "9AL-ESS43-1600"
+        "urun_adi": "F121E  2000A  70kA  Sabit Tip Açık Devre Kesici Şalter",
+        "fiyat": "9AL-ESS4Δ-2000"
     },
     {
         "marka": "Federal",
-        "urun_adi": "ACB F121E 3P 2000A 70kA /415Vac Sabit Açık Tip Şalter",
-        "fiyat": "9AL-ESS43-2000"
+        "urun_adi": "F131E  2500A  70kA  Sabit Tip Açık Devre Kesici Şalter",
+        "fiyat": "9AM-ESS4Δ-2500"
     },
     {
         "marka": "Federal",
-        "urun_adi": "ACB F131E 3P 2500A 70kA /415Vac Sabit Açık Tip Şalter",
-        "fiyat": "9AM-ESS43-2500"
+        "urun_adi": "F131E  3200A  70kA  Sabit Tip Açık Devre Kesici Şalter",
+        "fiyat": "9AM-ESS4Δ-3200"
     },
     {
         "marka": "Federal",
-        "urun_adi": "ACB F131E 3P 3200A 70kA /415Vac Sabit Açık Tip Şalter",
-        "fiyat": "9AM-ESS43-3200"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "ACB F141E 3P 4000A 70kA /415Vac Sabit Açık Tip Şalter",
+        "urun_adi": "F141E  4000A  70kA  Sabit Tip Açık Devre Kesici Şalter",
         "fiyat": "9AN-ESS43-4000"
     },
     {
         "marka": "Federal",
-        "urun_adi": "ACB F123E 3P 1000A 100kA /415Vac Sabit Açık Tip Şalter",
-        "fiyat": "9AL-EHS43-1000"
+        "urun_adi": "F123E  630A  100kA  Sabit Tip Açık Devre Kesici Şalter",
+        "fiyat": "9AL-EHS4Δ-0630"
     },
     {
         "marka": "Federal",
-        "urun_adi": "ACB F123E 3P 1250A 100kA /415Vac Sabit Açık Tip Şalter",
-        "fiyat": "9AL-EHS43-1250"
+        "urun_adi": "F123E  800A  100kA  Sabit Tip Açık Devre Kesici Şalter",
+        "fiyat": "9AL-EHS4Δ-0800"
     },
     {
         "marka": "Federal",
-        "urun_adi": "ACB F123E 3P 1600A 100kA/415 Vac Sabit Açık Tip Şalter",
-        "fiyat": "9AL-EHS43-1600"
+        "urun_adi": "F123E  1000A  100kA  Sabit Tip Açık Devre Kesici Şalter",
+        "fiyat": "9AL-EHS4Δ-1000"
     },
     {
         "marka": "Federal",
-        "urun_adi": "ACB F123E 3P 2000A 100kA /415Vac Sabit Açık Tip Şalter",
-        "fiyat": "9AL-EHS43-2000"
+        "urun_adi": "F123E  1250A  100kA  Sabit Tip Açık Devre Kesici Şalter",
+        "fiyat": "9AL-EHS4Δ-1250"
     },
     {
         "marka": "Federal",
-        "urun_adi": "ACB F133E 3P 2500A 100kA /415Vac Sabit Açık Tip Şalter",
-        "fiyat": "9AL-EHS43-2500"
+        "urun_adi": "F123E  1600A  100kA  Sabit Tip Açık Devre Kesici Şalter",
+        "fiyat": "9AL-EHS4Δ-1600"
     },
     {
         "marka": "Federal",
-        "urun_adi": "ACB F133E 3P 3200A 100kA /415Vac Sabit Açık Tip Şalter",
-        "fiyat": "9AM-ESH43-3200"
+        "urun_adi": "F123E  2000A  100kA  Sabit Tip Açık Devre Kesici Şalter",
+        "fiyat": "9AL-EHS4Δ-2000"
     },
     {
         "marka": "Federal",
-        "urun_adi": "ACB F143E 3P 4000A 100kA /415Vac Sabit Açık Tip Şalter",
-        "fiyat": "9AN-EHS43-4000"
+        "urun_adi": "F133E  2500A  100kA  Sabit Tip Açık Devre Kesici Şalter",
+        "fiyat": "9AM-EHS4Δ-2500"
     },
     {
         "marka": "Federal",
-        "urun_adi": "ACB F121ES 4P 630A 55kA /415Vac Sabit Açık Tip Şalter",
-        "fiyat": "9AE-ESS44-0630"
+        "urun_adi": "F133E  3200A  100kA  Sabit Tip Açık Devre Kesici Şalter",
+        "fiyat": "9AM-ESH4Δ-3200"
     },
     {
         "marka": "Federal",
-        "urun_adi": "ACB F121ES 4P 800A 55kA /415Vac Sabit Açık Tip Şalter",
-        "fiyat": "9AE-ESS44-0800"
+        "urun_adi": "F143E  4000A  100kA  Sabit Tip Açık Devre Kesici Şalter",
+        "fiyat": "9AM-ESH4Δ-4000"
     },
     {
         "marka": "Federal",
-        "urun_adi": "ACB F121ES 4P 1000A 55kA /415Vac Sabit Açık Tip Şalter",
-        "fiyat": "9AE-ESS44-1000"
+        "urun_adi": "F123E  630A  100kA  Çekmeceli Tip Açık Devre Kesici Şalter",
+        "fiyat": "9AL-EHC4Δ-0630"
     },
     {
         "marka": "Federal",
-        "urun_adi": "ACB F121ES 4P 1250A 55kA /415Vac Sabit Açık Tip Şalter",
-        "fiyat": "9AE-ESS44-1250"
+        "urun_adi": "F123E  800A  100kA  Çekmeceli Tip Açık Devre Kesici Şalter",
+        "fiyat": "9AL-EHC4Δ-0800"
     },
     {
         "marka": "Federal",
-        "urun_adi": "ACB F121ES 4P 1600A 55kA /415Vac Sabit Açık Tip Şalter",
-        "fiyat": "9AE-ESS44-1600"
+        "urun_adi": "F123E  1000A  100kA  Çekmeceli Tip Açık Devre Kesici Şalter",
+        "fiyat": "9AL-EHC4Δ-1000"
     },
     {
         "marka": "Federal",
-        "urun_adi": "ACB F121ES 4P 2000A 55kA /415Vac Sabit Açık Tip Şalter",
-        "fiyat": "9AE-ESS44-2000"
+        "urun_adi": "F123E  1250A  100kA  Çekmeceli Tip Açık Devre Kesici Şalter",
+        "fiyat": "9AL-EHC4Δ-1250"
     },
     {
         "marka": "Federal",
-        "urun_adi": "ACB F121E 4P 630A 70kA /415Vac Sabit Açık Tip Şalter",
-        "fiyat": "9AL-ESS44-0630"
+        "urun_adi": "F123E  1600A  100kA  Çekmeceli Tip Açık Devre Kesici Şalter",
+        "fiyat": "9AL-EHC4Δ-1600"
     },
     {
         "marka": "Federal",
-        "urun_adi": "ACB F121E 4P 800A 70kA /415Vac Sabit Açık Tip Şalter",
-        "fiyat": "9AL-ESS44-0800"
+        "urun_adi": "F123E  2000A  100kA  Çekmeceli Tip Açık Devre Kesici Şalter",
+        "fiyat": "9AL-EHC4Δ-2000"
     },
     {
         "marka": "Federal",
-        "urun_adi": "ACB F121E 4P 1000A 70kA /415Vac Sabit Açık Tip Şalter",
-        "fiyat": "9AL-ESS44-1000"
+        "urun_adi": "F133E  2500A  100kA  Çekmeceli Tip Açık Devre Kesici Şalter",
+        "fiyat": "9AM-EHC4Δ-2500"
     },
     {
         "marka": "Federal",
-        "urun_adi": "ACB F121E 4P 1250A 70kA /415Vac Sabit Açık Tip Şalter",
-        "fiyat": "9AL-ESS44-1250"
+        "urun_adi": "F133E  3200A  100kA  Çekmeceli Tip Açık Devre Kesici Şalter",
+        "fiyat": "9AM-EHC4Δ-3200"
     },
     {
         "marka": "Federal",
-        "urun_adi": "ACB F121E 4P 1600A 70kA /415Vac Sabit Açık Tip Şalter",
-        "fiyat": "9AL-ESS44-1600"
+        "urun_adi": "F143E  4000A  100kA  Çekmeceli Tip Açık Devre Kesici Şalter",
+        "fiyat": "9AN-EHC4Δ-4000"
     },
     {
         "marka": "Federal",
-        "urun_adi": "ACB F121E 4P 2000A 70kA /415Vac Sabit Açık Tip Şalter",
-        "fiyat": "9AL-ESS44-2000"
+        "urun_adi": "F153E  5000A  100kA  Çekmeceli Tip Açık Devre Kesici Şalter",
+        "fiyat": "9AS-EHC4Δ-5000"
     },
     {
         "marka": "Federal",
-        "urun_adi": "ACB F131E 4P 2500A 70kA /415Vac Sabit Açık Tip Şalter",
-        "fiyat": "9AM-ESS44-2500"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "ACB F131E 4P 3200A 70kA /415Vac Sabit Açık Tip Şalter",
-        "fiyat": "9AM-ESS44-3200"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "ACB F123E 4P 630A 100kA /415Vac Sabit Açık Tip Şalter",
-        "fiyat": "9AL-EHS44-0630"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "ACB F123E 4P 800A 100kA /415Vac Sabit Açık Tip Şalter",
-        "fiyat": "9AL-EHS44-0800"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "ACB F123E 4P 1000A 100kA /415Vac Sabit Açık Tip Şalter",
-        "fiyat": "9AL-EHS44-1000"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "ACB F123E 4P 1250A 100kA /415Vac Sabit Açık Tip Şalter",
-        "fiyat": "9AL-EHS44-1250"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "ACB F123E 4P 1600A 100kA /415Vac Sabit Açık Tip Şalter",
-        "fiyat": "9AL-EHS44-1600"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "ACB F123E 4P 2000A 100kA /415Vac Sabit Açık Tip Şalter",
-        "fiyat": "9AL-EHS44-2000"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "ACB F123E 4P 2500A 100kA /415Vac Sabit Açık Tip Şalter",
-        "fiyat": "9AL-EHS44-2500"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "ACB F123E 4P 3200A 100kA /415Vac Sabit Açık Tip Şalter",
-        "fiyat": "9AL-EHS44-3200"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "Açık Tip Şalterler İçin 220V Açma Bobini",
-        "fiyat": "8AM-BD000-0221"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "Açık Tip Şalterler İçin 220V Açma Bobini",
-        "fiyat": "8AM-BD000-0222"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "Açık Tip Şalterler İçin 380-400V Açma Bobini",
-        "fiyat": "8AM-BD000-0380"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "Açık Tip Şalterler İçin 220V Kapama Bobini",
-        "fiyat": "9AM-BD000-0220"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "Açık Tip Şalterler İçin 380-400V Kapama Bobini",
-        "fiyat": "8AM-BD000-0382"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "Açık Tip Şalterler İçin 220V Düşük Gerilim Bobini Bobini",
-        "fiyat": "9AM-CA000-0220"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "Açık Tip Şalterler İçin 400V Düşük Gerilim Bobini Bobini",
-        "fiyat": "9AM-CA000-0380"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "F121/F122/F123 MOTOR MEK.220V",
-        "fiyat": "9AM-DA011-D220"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "F121/F122/F123 MOTOR MEK.380V",
-        "fiyat": "9AM-DA011-D380"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "F131/F132/F133 MOTOR MEK.220V",
-        "fiyat": "8AL-DA000-0220"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "F131/F132/F133 MOTOR MEK.380V",
-        "fiyat": "8AL-DA000-0380"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "F151/F152/F153 MOTOR MEK.220V",
-        "fiyat": "9AS-DA000-0220"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "F151/F152/F153 MOTOR MEK.380V",
-        "fiyat": "8AS-DA000-0380"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "AÇIK TİP MEKANİK KİLİT",
-        "fiyat": "8AM-V0000-0000"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "AÇIK TİP MEKANİK KİLİT",
-        "fiyat": "9AM-V0000-0000"
+        "urun_adi": "F153E  6300A  100kA  Çekmeceli Tip Açık Devre Kesici Şalter",
+        "fiyat": "9AS-EHC43-6300"
     },
     {
         "marka": "Federal",
@@ -62771,63 +62671,43 @@
     },
     {
         "marka": "Federal",
-        "urun_adi": "KONTAKTÖRLER İÇİN YARDIMCI DONANIMLAR  2026 FİYAT LİSTESİ",
-        "fiyat": "KOD"
+        "urun_adi": "FC09DK-FC12DK-FC18DK-FC25DK Kompanzasyon Bloğu",
+        "fiyat": "8-DK-D21-00ΔΔ"
     },
     {
         "marka": "Federal",
-        "urun_adi": "FCB-F11 1NA+1NK ( Üzerine ) YARDIMCI KONTAK",
-        "fiyat": "8DD-A0011-0000"
+        "urun_adi": "FC32DK-FC38DK-FC40DK  Kompanzasyon Bloğu",
+        "fiyat": "8-DK-D21-00ΔΔ"
     },
     {
         "marka": "Federal",
-        "urun_adi": "FCB-F20 2NA ( Üzerine )  YARDIMCI KONTAK",
-        "fiyat": "8DD-A0020-0000"
+        "urun_adi": "FC50DK-FC65DK-FC80DK-FC95DK  Kompanzasyon Bloğu",
+        "fiyat": "8-DK-D21-00ΔΔ"
     },
     {
         "marka": "Federal",
-        "urun_adi": "FCB-F02 2NK ( Üzerine ) YARDIMCI KONTAK",
-        "fiyat": "8DD-A0002-0000"
+        "urun_adi": "FC115DK-FC150DK  Kompanzasyon Bloğu",
+        "fiyat": "8-DK-D2 1-0Δ ΔΔ"
     },
     {
         "marka": "Federal",
-        "urun_adi": "FCB-F13 1NA+3NK ( Üzerine ) YARDIMCI KONTAK",
-        "fiyat": "8DD-A0013-0000"
+        "urun_adi": "FC09DK-FC12DK-FC18DK-FC25DK  Direnç Kablosu (6 Adet)",
+        "fiyat": "8-DK-D21-10ΔΔ"
     },
     {
         "marka": "Federal",
-        "urun_adi": "FCB-F22 2NA+2NK ( Üzerine ) YARDIMCI KONTAK",
-        "fiyat": "8DD-A0022-0000"
+        "urun_adi": "FC32DK-FC38DK-FC40DK  Direnç Kablosu (6 Adet)",
+        "fiyat": "8-DK-D21-10ΔΔ"
     },
     {
         "marka": "Federal",
-        "urun_adi": "FCB-F31 3NA+1NK ( Üzerine ) YARDIMCI KONTAK",
-        "fiyat": "8DD-A0031-0000"
+        "urun_adi": "FC50DK-FC65DK-FC80DK-FC95DK  Direnç Kablosu (6 Adet)",
+        "fiyat": "8-DK-D21-10ΔΔ"
     },
     {
         "marka": "Federal",
-        "urun_adi": "FCB-F40 4NA ( Üzerine ) YARDIMCI KONTAK",
-        "fiyat": "8DD-A0040-0000"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "FCB-F04 4NK ( Üzerine ) YARDIMCI KONTAK",
-        "fiyat": "8DD-A0004-0000"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "FCBS-F11 1NA+1NK ( Yana ) YARDIMCI KONTAK",
-        "fiyat": "8DD-B0011-0000"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "FCBS-F20 2NA ( Yana ) YARDIMCI KONTAK",
-        "fiyat": "8DD-B0020-0000"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "FCBS-F02 ( Yana ) YARDIMCI KONTAK",
-        "fiyat": "8DD-B0002-0000"
+        "urun_adi": "FC115DK-FC150DK  Direnç Kablosu (6 Adet)",
+        "fiyat": "8-DK-D21-1ΔΔΔ"
     },
     {
         "marka": "Federal",
