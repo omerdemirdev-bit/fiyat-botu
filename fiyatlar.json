@@ -62686,7 +62686,7 @@
     },
     {
         "marka": "Federal",
-        "urun_adi": "FC115DK-FC150DK  Kompanzasyon Bloğu",
+        "urun_adi": "FC115DK-FC150DK  Kompanza syon Bloğu",
         "fiyat": "8-DK-D2 1-0Δ ΔΔ"
     },
     {
@@ -62708,6 +62708,96 @@
         "marka": "Federal",
         "urun_adi": "FC115DK-FC150DK  Direnç Kablosu (6 Adet)",
         "fiyat": "8-DK-D21-1ΔΔΔ"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "FEDERAL DİKEY SİGORTALI YÜK AYIRICILAR 2026 FİYAT LİSTESİ IP20",
+        "fiyat": "IEC / EN 60947- 3"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "FVS160  NH000 / NH00 160A 85kA 3P Dikey Sigortalı Yük Ayırıcı",
+        "fiyat": "9BE-F12Δ3-0160"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "FVS250  NH1 / NH2 / NH3 250A 85kA 3P Dikey Sigortalı Yük Ayırıcı",
+        "fiyat": "9BE-F12Δ3-0250"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "FVS400  NH1 / NH2 / NH3 400A 85kA 3P Dikey Sigortalı Yük Ayırıcı",
+        "fiyat": "9BE-F12Δ3-0400"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "FVS630  NH1 / NH2 / NH3 630A 85kA 3P Dikey Sigortalı Yük Ayırıcı",
+        "fiyat": "9BE-F12Δ3-0630"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "FVS800  NH1 / NH2 / NH3 800A 85kA 3P Dikey Sigortalı Yük Ayırıcı",
+        "fiyat": "9BE-F12Δ3-0800"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "FVS1000  NH1 / NH2 / NH3 1000A 85kA 3P Dikey Sigortalı Yük Ayırıcı",
+        "fiyat": "9BE-F12Δ3-1000"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "FVS1250  NH1 / NH2 / NH3 1000A 85kA 3P Dikey Sigortalı Yük Ayırıcı",
+        "fiyat": "9BE-F12Δ3-1250"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "FHS1 160  NH000 / NH00  1P 160A 65kA Yatay Sigortalı Yük Ayırıcı",
+        "fiyat": "9BE-S1211-0160"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "FHS1 250  NH1 / NH00  1P 250A 65kA  Yatay Sigortalı Yük Ayırıcı",
+        "fiyat": "9BE-S1211-0250"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "FHS1 400  NH1 / NH2 1P 250A 65kA  Yatay Sigortalı Yük Ayırıcı",
+        "fiyat": "9BE-S1211-0400"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "FHS1 400  NH1 / NH2 / NH3  65kA  Yatay Sigortalı Yük Ayırıcı",
+        "fiyat": "9BE-S1211-0630"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "FHS1 160  NH000 / NH00  3P 160A 70kA Yatay Sigortalı Yük Ayırıcı",
+        "fiyat": "9BE-S1213-0160-Y"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "FHS1 250  NH000 / NH00  3P 250A 70kA Yatay Sigortalı Yük Ayırıcı",
+        "fiyat": "9BE-S1213-0250"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "FHS1 400  NH000 / NH00  3P 400A 70kA Yatay Sigortalı Yük Ayırıcı",
+        "fiyat": "9BE-S1213-0400"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "FHS1 630  NH000 / NH00  3P 630A 70kA Yatay Sigortalı Yük Ayırıcı",
+        "fiyat": "9BE-S1213-0630"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "FHS 160  NH000 / NH00   3P 63A 800V  Yatay Sigortalı Yük Ayırıcı",
+        "fiyat": "9BE-S1213-8160"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "FHS 250  NH1   3P 160A  800V  Yatay Sigortalı Yük Ayırıcı",
+        "fiyat": "9BE-S1213-8250"
     },
     {
         "marka": "Federal",
@@ -62946,1043 +63036,423 @@
     },
     {
         "marka": "Federal",
-        "urun_adi": "FEDERAL NH SİGORTALAR 2025 FİYAT LİSTESİ",
+        "urun_adi": "FEDERAL NH (HRC) SİGORTALAR",
         "fiyat": "KOD"
     },
     {
         "marka": "Federal",
-        "urun_adi": "NHC00 6A SIGORTA BUSONU 120 kA",
-        "fiyat": "9CA-BG000-0006"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "NHC00 10A SIGORTA BUSONU 120 kA",
-        "fiyat": "9CA-BG000-0010"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "NHC00 16A SIGORTA BUSONU 120 kA",
-        "fiyat": "9CA-BG000-0016"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "NHC00 20A SIGORTA BUSONU 120 kA",
-        "fiyat": "9CA-BG000-0020"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "NHC00 25A SIGORTA BUSONU 120 kA",
-        "fiyat": "9CA-BG000-0025"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "NHC00 32A SIGORTA BUSONU 120 kA",
-        "fiyat": "9CA-BG000-0032"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "NHC00 35A SIGORTA BUSONU 120 kA",
-        "fiyat": "9CA-BG000-0035"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "NHC00 40A SIGORTA BUSONU 120 kA",
-        "fiyat": "9CA-BG000-0040"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "NHC00 50A SIGORTA BUSONU 120 kA",
-        "fiyat": "9CA-BG000-0050"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "NHC00 63A SIGORTA BUSONU 120 kA",
-        "fiyat": "9CA-BG000-0063"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "NHC00 80A SIGORTA BUSONU 120 kA",
-        "fiyat": "9CA-BG000-0080"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "NHC00 100A SIGORTA BUSONU 120 kA",
-        "fiyat": "9CA-BG000-0100"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "NH00 6A SIGORTA BUSONU 120 kA",
+        "urun_adi": "NH00 6A SIGORTA BUSONU 120 kA  500V",
         "fiyat": "9CB-BG000-0006"
     },
     {
         "marka": "Federal",
-        "urun_adi": "NH00 10A SIGORTA BUSONU 120 kA",
+        "urun_adi": "NH00 8A SIGORTA BUSONU 120 kA  500V",
+        "fiyat": "9CB-BG000-0008"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "NH00 10A SIGORTA BUSONU 120 kA  500V",
         "fiyat": "9CB-BG000-0010"
     },
     {
         "marka": "Federal",
-        "urun_adi": "NH00 16A SIGORTA BUSONU 120 kA",
+        "urun_adi": "NH00 12A SIGORTA BUSONU 120 kA  500V",
+        "fiyat": "9CB-BG000-0012"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "NH00 16A SIGORTA BUSONU 120 kA  500V",
         "fiyat": "9CB-BG000-0016"
     },
     {
         "marka": "Federal",
-        "urun_adi": "NH00 20A SIGORTA BUSONU 120 kA",
+        "urun_adi": "NH00 20A SIGORTA BUSONU 120 kA  500V",
         "fiyat": "9CB-BG000-0020"
     },
     {
         "marka": "Federal",
-        "urun_adi": "NH00 25A SIGORTA BUSONU 120 kA",
+        "urun_adi": "NH00 25A SIGORTA BUSONU 120 kA  500V",
         "fiyat": "9CB-BG000-0025"
     },
     {
         "marka": "Federal",
-        "urun_adi": "NH00 32A SIGORTA BUSONU 120 kA",
+        "urun_adi": "NH00 32A SIGORTA BUSONU 120 kA  500V",
         "fiyat": "9CB-BG000-0032"
     },
     {
         "marka": "Federal",
-        "urun_adi": "NH00 35A SIGORTA BUSONU 120 kA",
-        "fiyat": "9CB-BG000-0035"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "NH00 40A SIGORTA BUSONU 120 kA",
+        "urun_adi": "NH00 40A SIGORTA BUSONU 120 kA  500V",
         "fiyat": "9CB-BG000-0040"
     },
     {
         "marka": "Federal",
-        "urun_adi": "NH00 50A SIGORTA BUSONU 120 kA",
+        "urun_adi": "NH00 50A SIGORTA BUSONU 120 kA  500V",
         "fiyat": "9CB-BG000-0050"
     },
     {
         "marka": "Federal",
-        "urun_adi": "NH00 63A SIGORTA BUSONU 120 kA",
+        "urun_adi": "NH00 63A SIGORTA BUSONU 120 kA  500V",
         "fiyat": "9CB-BG000-0063"
     },
     {
         "marka": "Federal",
-        "urun_adi": "NH00 80A SIGORTA BUSONU 120 kA",
+        "urun_adi": "NH00 80A SIGORTA BUSONU 120 kA  500V",
         "fiyat": "9CB-BG000-0080"
     },
     {
         "marka": "Federal",
-        "urun_adi": "NH00 100A SIGORTA BUSONU 120 kA",
+        "urun_adi": "NH00 100A SIGORTA BUSONU 120 kA  500V",
         "fiyat": "9CB-BG000-0100"
     },
     {
         "marka": "Federal",
-        "urun_adi": "NH00 120A SIGORTA BUSONU 120 kA",
-        "fiyat": "9CB-BG000-0120"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "NH00 125A SIGORTA BUSONU 120 kA",
+        "urun_adi": "NH00 125A SIGORTA BUSONU 120 kA  500V",
         "fiyat": "9CB-BG000-0125"
     },
     {
         "marka": "Federal",
-        "urun_adi": "NH00 160A SIGORTA BUSONU 120 kA",
+        "urun_adi": "NH00 160A SIGORTA BUSONU 120 kA  500V",
         "fiyat": "9CB-BG000-0160"
     },
     {
         "marka": "Federal",
-        "urun_adi": "NH0 16A SIGORTA BUSONU,120 kA",
-        "fiyat": "9CC-BG000-0016"
+        "urun_adi": "NH1   32-250A SIGORTA BUSONU 120 kA  500V",
+        "fiyat": "9CD-BG000-0000"
     },
     {
         "marka": "Federal",
-        "urun_adi": "NH0 25A SIGORTA BUSONU 120 kA",
-        "fiyat": "9CC-BG000-0025"
+        "urun_adi": "NH2   63-400A SIGORTA BUSONU 120 kA  500V",
+        "fiyat": "9CE-BG000-0000"
     },
     {
         "marka": "Federal",
-        "urun_adi": "NH0 32A SIGORTA BUSONU 120 kA",
-        "fiyat": "9CC-BG000-0032"
+        "urun_adi": "NH3   125-630A SIGORTA BUSONU 120 kA  500V",
+        "fiyat": "9CF-BG000-0000"
     },
     {
         "marka": "Federal",
-        "urun_adi": "NH0 35A SIGORTA BUSONU 120 kA",
-        "fiyat": "9CC-BG000-0035"
+        "urun_adi": "NH4   800-1000A SIGORTA BUSONU 120 kA  500V",
+        "fiyat": "9CF-CG000-0000"
     },
     {
         "marka": "Federal",
-        "urun_adi": "NH0 40A SIGORTA BUSONU 120 kA",
-        "fiyat": "9CC-BG000-0040"
+        "urun_adi": "NH4   1250A SIGORTA BUSONU 120 kA  500V",
+        "fiyat": "9CF-CG000-1250"
     },
     {
         "marka": "Federal",
-        "urun_adi": "NH0 50A SIGORTA BUSONU 120 kA",
-        "fiyat": "9CC-BG000-0050"
+        "urun_adi": "NH00 Boy 160A  690V BMC Altlık",
+        "fiyat": "9CB-C0C00-0000"
     },
     {
         "marka": "Federal",
-        "urun_adi": "NH0 63A SIGORTA BUSONU 120 kA",
-        "fiyat": "9CC-BG000-0063"
+        "urun_adi": "NH00 Boy 3P 160A  690V BMC Altlık",
+        "fiyat": "9CB-C0C00-0002"
     },
     {
         "marka": "Federal",
-        "urun_adi": "NH0 80A SIGORTA BUSONU 120 kA",
-        "fiyat": "9CC-BG000-0080"
+        "urun_adi": "NH1 Boy 3P 250A  690V BMC Altlık",
+        "fiyat": "9CD-C0C00-0000"
     },
     {
         "marka": "Federal",
-        "urun_adi": "NH0 100A SIGORTA BUSONU 120 kA",
-        "fiyat": "9CC-BG000-0100"
+        "urun_adi": "NH2 Boy 3P 400A  690V BMC Altlık",
+        "fiyat": "9CE-C0C00-0000"
     },
     {
         "marka": "Federal",
-        "urun_adi": "NH0 125A SIGORTA BUSONU 120 kA",
-        "fiyat": "9CC-BG000-0125"
+        "urun_adi": "NH3 Boy 3P 630A  690V BMC Altlık",
+        "fiyat": "9CF-C0C00-0000"
     },
     {
         "marka": "Federal",
-        "urun_adi": "NH0 160A SIGORTA BUSONU 120 kA",
-        "fiyat": "9CC-BG000-0160"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "NH1 80A SIGORTA BUSONU 120 kA",
-        "fiyat": "9CD-BG000-0080"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "NH1 100A SIGORTA BUSONU 120 kA",
-        "fiyat": "9CD-BG000-0100"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "NH1 125A SIGORTA BUSONU 120 kA",
-        "fiyat": "9CD-BG000-0125"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "NH1 160A SIGORTA BUSONU 120 kA",
-        "fiyat": "9CD-BG000-0160"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "NH1 200A SIGORTA BUSONU 120 kA",
-        "fiyat": "9CD-BG000-0200"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "NH1 250A SIGORTA BUSONU 120 kA",
-        "fiyat": "9CD-BG000-0250"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "NH1 40A SIGORTA BUS.ÇİFT İND,120 kA",
-        "fiyat": "9CD-BG010-0040"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "NH1 50A SIGORTA BUS.ÇİFT İND,120 kA",
-        "fiyat": "9CD-BG010-0050"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "NH1 63A SIGORTA BUS.ÇİFT İND,120 kA",
-        "fiyat": "9CD-BG010-0063"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "NH1 80A SIGORTA BUS.ÇİFT İND,120 kA",
-        "fiyat": "9CD-BG010-0080"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "NH1 100A SIG.BUS.ÇİFT İND,120 kA",
-        "fiyat": "9CD-BG010-0100"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "NH1 125A SIG.BUS.ÇİFT İND,120 kA",
-        "fiyat": "9CD-BG010-0125"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "NH1 160A SIG.BUS.ÇİFT İND,120 kA",
-        "fiyat": "9CD-BG010-0160"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "NH1 200A SIG.BUS.ÇİFT İND,120 kA",
-        "fiyat": "9CD-BG010-0200"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "NH1 250A SIG.BUS.ÇİFT İND,120 kA",
-        "fiyat": "9CD-BG010-0250"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "NH2 125A SIGORTA BUSONU 120 kA",
-        "fiyat": "9CE-BG000-0125"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "NH2 160A SIGORTA BUSONU 120 kA",
-        "fiyat": "9CE-BG000-0160"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "NH2 200A SIGORTA BUSONU 120 kA",
-        "fiyat": "9CE-BG000-0200"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "NH2 250A SIGORTA BUSONU 120 kA",
-        "fiyat": "9CE-BG000-0250"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "NH2 300A SIGORTA BUSONU 120 kA",
-        "fiyat": "9CE-BG000-0300"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "NH2 315A SIGORTA BUSONU 120 kA",
-        "fiyat": "9CE-BG000-0315"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "NH2 350A SIGORTA BUSONU,120 kA",
-        "fiyat": "9CE-BG000-0350"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "NH2 355A SIGORTA BUSONU 120 kA",
-        "fiyat": "9CE-BG000-0355"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "NH2 400A SIGORTA BUSONU 120 kA",
-        "fiyat": "9CE-BG000-0400"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "NH3 160A SIGORTA BUSONU,120 kA",
-        "fiyat": "9CF-BG000-0160"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "NH3 250A SIGORTA BUSONU 120 kA",
-        "fiyat": "9CF-BG000-0250"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "NH3 300A SIGORTA BUSONU 120 kA",
-        "fiyat": "9CF-BG000-0300"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "NH3 315A SIGORTA BUSONU 120 kA",
-        "fiyat": "9CF-BG000-0315"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "NH3 400A SIGORTA BUSONU 120 kA",
-        "fiyat": "9CF-BG000-0400"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "NH3 500A SIGORTA BUSONU 120 kA",
-        "fiyat": "9CF-BG000-0500"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "NH3 630A SIGORTA BUSONU 120 kA",
-        "fiyat": "9CF-BG000-0630"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "NH4 800A SIGORTA BUSONU,120 kA",
-        "fiyat": "9CG-BG000-0800"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "NH4 1000A SIGORTA BUSONU,120 kA",
-        "fiyat": "9CG-BG000-1000"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "NH4 1250A SIGORTA BUSONU,120 kA",
-        "fiyat": "9CG-BG000-1250"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "NH00 ALTLIK STEATİT CİVATALI 120 kA",
-        "fiyat": "9CB-A0C00-0000"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "NH1 ALTLIK STEATİT CİVATALI 120 kA",
-        "fiyat": "9CD-A0C00-0000"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "NH2 ALTLIK STEATİT CİVATALI 120 kA",
-        "fiyat": "9CE-A0C00-0000"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "NH3 ALTLIK STEATIT 120 kA",
-        "fiyat": "9CF-A0C00-0000"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "NH4 ALTLIK BMC CİVATALI,120 kA",
+        "urun_adi": "NH4 Boy 4P 1250A  690V BMC Altlık",
         "fiyat": "9CG-A0C00-0000"
     },
     {
         "marka": "Federal",
-        "urun_adi": "FEDERAL 6 kA OTOMATLAR  2025 FİYAT LİSTESİ",
-        "fiyat": "FİYAT"
+        "urun_adi": "FK2-FK2L 2x25A  30mA  6kA Kaçak Akım Koruma Rölesi",
+        "fiyat": "9FA-H1062-0025"
     },
     {
         "marka": "Federal",
-        "urun_adi": "FM6-C 1 x 1A 6 kA C-Otomat",
-        "fiyat": "9EG-C0631-0D01"
+        "urun_adi": "FK2-FK2L 2x32A  30mA  6kA Kaçak Akım Koruma Rölesi",
+        "fiyat": "9FA-H1062-0032"
     },
     {
         "marka": "Federal",
-        "urun_adi": "FM6-C 1 x 2A 6 kA C-Otomat",
-        "fiyat": "9EG-C0631-0D02"
+        "urun_adi": "FK2-FK2L 2x40A  30mA  6kA Kaçak Akım Koruma Rölesi",
+        "fiyat": "9FA-H1062-0040"
     },
     {
         "marka": "Federal",
-        "urun_adi": "FM6-C 1 x 4A 6 kA C-Otomat",
-        "fiyat": "9EG-C0631-0D04"
+        "urun_adi": "FK2-FK2L 2x50A  30mA  6kA Kaçak Akım Koruma Rölesi",
+        "fiyat": "9FA-H1062-0050"
     },
     {
         "marka": "Federal",
-        "urun_adi": "FM6-C 1 x 6A 6 kA C-Otomat",
-        "fiyat": "9EG-C0631-0D06"
+        "urun_adi": "FK2-FK2L 2x63A  30mA  6kA Kaçak Akım Koruma Rölesi",
+        "fiyat": "9FA-H1062-0063"
     },
     {
         "marka": "Federal",
-        "urun_adi": "FM6-C 1 x 10A 6 kA C-Otomat",
-        "fiyat": "9EG-C0631-0D10"
+        "urun_adi": "FK2-FK2L 2x80A  30mA  6kA Kaçak Akım Koruma Rölesi",
+        "fiyat": "9FA-H1062-0080"
     },
     {
         "marka": "Federal",
-        "urun_adi": "FM6-C 1 x 16A 6 kA C-Otomat",
-        "fiyat": "9EG-C0631-0D16"
+        "urun_adi": "FK2-FK2L 2x100A  30mA  6kA Kaçak Akım Koruma Rölesi",
+        "fiyat": "9FA-H1062-0100"
     },
     {
         "marka": "Federal",
-        "urun_adi": "FM6-C 1 x 20A 6 kA C-Otomat",
-        "fiyat": "9EG-C0631-0D20"
+        "urun_adi": "FK2-FK2L 2x125A  30mA  6kA Kaçak Akım Koruma Rölesi",
+        "fiyat": "9FA-H1062-0125"
     },
     {
         "marka": "Federal",
-        "urun_adi": "FM6-C 1 x 25A 6 kA C-Otomat",
-        "fiyat": "9EG-C0631-0D25"
+        "urun_adi": "FK4-FK4L  4x25A  30mA  6kA Kaçak Akım Koruma Rölesi",
+        "fiyat": "9FA-H1064-0025"
     },
     {
         "marka": "Federal",
-        "urun_adi": "FM6-C 1 x 32A 6 kA C-Otomat",
-        "fiyat": "9EG-C0631-0D32"
+        "urun_adi": "FK4-FK4L  4x32A  30mA  6kA Kaçak Akım Koruma Rölesi",
+        "fiyat": "9FA-H1064-0032"
     },
     {
         "marka": "Federal",
-        "urun_adi": "FM6-C 1 x 40A 6 kA C-Otomat",
-        "fiyat": "9EG-C0631-0D40"
+        "urun_adi": "FK4-FK4L  4x40A  30mA  6kA Kaçak Akım Koruma Rölesi",
+        "fiyat": "9FA-H1064-0040"
     },
     {
         "marka": "Federal",
-        "urun_adi": "FM6-C 1 x 50A 6 kA C-Otomat",
-        "fiyat": "9EG-C0631-0D50"
+        "urun_adi": "FK4-FK4L  4x50A  30mA  6kA Kaçak Akım Koruma Rölesi",
+        "fiyat": "9FA-H1064-0050"
     },
     {
         "marka": "Federal",
-        "urun_adi": "FM6-C 1 x 63A 6 kA C-Otomat",
-        "fiyat": "9EG-C0631-0D63"
+        "urun_adi": "FK4-FK4L  4x63A  30mA  6kA Kaçak Akım Koruma Rölesi",
+        "fiyat": "9FA-H1064-0063"
     },
     {
         "marka": "Federal",
-        "urun_adi": "FM6L-C 1x80A,6 kA C-Otomat",
-        "fiyat": "9EF-C0631-D080"
+        "urun_adi": "FK4-FK4L  4x80A  30mA  6kA Kaçak Akım Koruma Rölesi",
+        "fiyat": "9FA-H1064-0080"
     },
     {
         "marka": "Federal",
-        "urun_adi": "FM6L-C 1x100A,6 kA  C-Otomat",
-        "fiyat": "9EF-C0631-D100"
+        "urun_adi": "FK4-FK4L  4x100A  30mA  6kA Kaçak Akım Koruma Rölesi",
+        "fiyat": "9FA-H1064-0100"
     },
     {
         "marka": "Federal",
-        "urun_adi": "FM6L-C 1x125A,6 kA  C-Otomat",
-        "fiyat": "9EF-C0631-D125"
+        "urun_adi": "FK2-FK2L 2x25A  300mA  6kA Kaçak Akım Koruma Rölesi",
+        "fiyat": "9FA-Y1062-0025"
     },
     {
         "marka": "Federal",
-        "urun_adi": "FM6-C 2 x 6A 6 kA C-Otomat",
-        "fiyat": "9EG-C0632-0D06"
+        "urun_adi": "FK2-FK2L 2x32A  300mA  6kA Kaçak Akım Koruma Rölesi",
+        "fiyat": "9FA-Y1062-0032"
     },
     {
         "marka": "Federal",
-        "urun_adi": "FM6-C 2 x 10A 6 kA C-Otomat",
-        "fiyat": "9EG-C0632-0D10"
+        "urun_adi": "FK2-FK2L 2x40A  300mA  6kA Kaçak Akım Koruma Rölesi",
+        "fiyat": "9FA-Y1062-0040"
     },
     {
         "marka": "Federal",
-        "urun_adi": "FM6-C 2 x 16A 6 kA C-Otomat",
-        "fiyat": "9EG-C0632-0D16"
+        "urun_adi": "FK2-FK2L 2x50A  300mA  6kA Kaçak Akım Koruma Rölesi",
+        "fiyat": "9FA-Y1062-0050"
     },
     {
         "marka": "Federal",
-        "urun_adi": "FM6-C 2 x 20A 6 kA C-Otomat",
-        "fiyat": "9EG-C0632-0D20"
+        "urun_adi": "FK2-FK2L 2x63A  300mA  6kA Kaçak Akım Koruma Rölesi",
+        "fiyat": "9FA-Y1062-0063"
     },
     {
         "marka": "Federal",
-        "urun_adi": "FM6-C 2 x 25A 6 kA C-Otomat",
-        "fiyat": "9EG-C0632-0D25"
+        "urun_adi": "FK2-FK2L 2x80A  300mA  6kA Kaçak Akım Koruma Rölesi",
+        "fiyat": "9FA-Y1062-0080"
     },
     {
         "marka": "Federal",
-        "urun_adi": "FM6-C 2 x 32A 6 kA C-Otomat",
-        "fiyat": "9EG-C0632-0D32"
+        "urun_adi": "FK2-FK2L 2x100A  300mA  6kA Kaçak Akım Koruma Rölesi",
+        "fiyat": "9FA-Y1062-0100"
     },
     {
         "marka": "Federal",
-        "urun_adi": "FM6-C 2 x 40A 6 kA C-Otomat",
-        "fiyat": "9EG-C0632-0D40"
+        "urun_adi": "FK4-FK4L  4x25A  300mA  6kA Kaçak Akım Koruma Rölesi",
+        "fiyat": "9FA-Y1064-0025"
     },
     {
         "marka": "Federal",
-        "urun_adi": "FM6-C 2 x 50A 6 kA C-Otomat",
-        "fiyat": "9EG-C0632-0D50"
+        "urun_adi": "FK4-FK4L  4x32A  300mA  6kA Kaçak Akım Koruma Rölesi",
+        "fiyat": "9FA-Y1064-0032"
     },
     {
         "marka": "Federal",
-        "urun_adi": "FM6-C 2 x 63A 6 kA C-Otomat",
-        "fiyat": "9EG-C0632-0D63"
+        "urun_adi": "FK4-FK4L  4x40A  300mA  6kA Kaçak Akım Koruma Rölesi",
+        "fiyat": "9FA-Y1064-0040"
     },
     {
         "marka": "Federal",
-        "urun_adi": "FM6L-C 2x80A,6 kA C-Otomat",
-        "fiyat": "9EF-C0632-0D80"
+        "urun_adi": "FK4-FK4L  4x50A  300mA  6kA Kaçak Akım Koruma Rölesi",
+        "fiyat": "9FA-Y1064-0050"
     },
     {
         "marka": "Federal",
-        "urun_adi": "FM6L-C 2x100A,6 kA  C-Otomat",
-        "fiyat": "9EF-C0632-D100"
+        "urun_adi": "FK4-FK4L  4x63A  300mA  6kA Kaçak Akım Koruma Rölesi",
+        "fiyat": "9FA-Y1064-0063"
     },
     {
         "marka": "Federal",
-        "urun_adi": "FM6L-C 2x125A,6 kA  C-Otomat",
-        "fiyat": "9EF-C0632-D125"
+        "urun_adi": "FK4-FK4L  4x80A  300mA  6kA Kaçak Akım Koruma Rölesi",
+        "fiyat": "9FA-Y1064-0080"
     },
     {
         "marka": "Federal",
-        "urun_adi": "3 x 6A  6 kA C-Otomat",
-        "fiyat": "9EG-C0633-0D06"
+        "urun_adi": "FK4-FK4L  4x100A  300mA  6kA Kaçak Akım Koruma Rölesi",
+        "fiyat": "9FA-Y1064-0100"
     },
     {
         "marka": "Federal",
-        "urun_adi": "3 x 10A 6 kA C-Otomat",
-        "fiyat": "9EG-C0633-0D10"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "3 x 16A 6 kA C-Otomat",
-        "fiyat": "9EG-C0633-0D16"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "3 x 20A 6 kA C-Otomat",
-        "fiyat": "9EG-C0633-0D20"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "3 x 25A 6 kA C-Otomat",
-        "fiyat": "9EG-C0633-0D25"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "3 x 32A 6 kA C-Otomat",
-        "fiyat": "9EG-C0633-0D32"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "3 x 40A 6 kA C-Otomat",
-        "fiyat": "9EG-C0633-0D40"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "3 x 50A 6 kA C-Otomat",
-        "fiyat": "9EG-C0633-0D50"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "3 x 63A 6 kA C-Otomat",
-        "fiyat": "9EG-C0633-0D63"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "3 x 80A 6 kA C-Otomat",
-        "fiyat": "9EF-C0633-D080"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "3 x 100A 6 kA C-Otomat",
-        "fiyat": "9EF-C0633-D100"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "3 x 125A 6 kA C-Otomat",
-        "fiyat": "9EF-C0633-D125"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "4 x 6A 6 kA C-Otomat",
-        "fiyat": "9EG-C0634-0D06"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "4 x 10A 6 kA C-Otomat",
-        "fiyat": "9EG-C0634-0D10"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "4 x 16A 6 kA C-Otomat",
-        "fiyat": "9ED-C0634-0D16"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "4 x 20A 6 kA C-Otomat",
-        "fiyat": "9ED-C0634-0D20"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "4 x 25A 6 kA C-Otomat",
-        "fiyat": "9ED-C0634-0D25"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "4 x 32A 6 kA C-Otomat",
-        "fiyat": "9ED-C0634-0D32"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "4 x 40A 6 kA C-Otomat",
-        "fiyat": "9ED-C0634-0D40"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "4 x 50A 6 kA C-Otomat",
-        "fiyat": "9ED-C0634-0D50"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "4 x 63A 6 kA C-Otomat",
-        "fiyat": "9ED-C0634-0D63"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "FM6L-C 4x80A,6 kA",
-        "fiyat": "9EF-C0634-0D80"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "FM6L-C 4x100A,6 kA",
-        "fiyat": "9EF-C0634-D100"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "FM6L-C 4x125A 6 kA",
-        "fiyat": "9EF-C0634-D125"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "FEDERAL 10 kA OTOMATLAR",
-        "fiyat": "KOD"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "FM10-C 1 x 6A 10 kA C-Otomat",
-        "fiyat": "9ED-C1031-0D06"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "FM10-C 1 x 10A 10 kA C-",
-        "fiyat": "9ED-C1031-0D10"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "FM10-C 1 x 16A 10 kA C-",
-        "fiyat": "9ED-C1031-0D16"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "FM10-C 1 x 20A 10 kA C-",
-        "fiyat": "9ED-C1031-0D20"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "FM10-C 1 x 25A 10 kA C-",
-        "fiyat": "9ED-C1031-0D25"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "FM10-C 1 x 32A 10 kA C-",
-        "fiyat": "9ED-C1031-0D32"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "FM10-C 1 x 40A 10 kA C-",
-        "fiyat": "9ED-C1031-0D40"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "FM10-C 1 x 50A 10 kA C-",
-        "fiyat": "9ED-C1031-0D50"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "FM10-C 1 x 63A 10 kA C-",
-        "fiyat": "9ED-C1031-0D63"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "FM10-C 1 x 80A 10 kA C-",
-        "fiyat": "9EF-C1031-0D80"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "FM10-C 1 x 100A 10 kA C-",
-        "fiyat": "9EF-C1031-D100"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "FM10-C 1 x 125A 10 kA C-",
-        "fiyat": "9EF-C1031-D125"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "2 x 6A 10 kA C-Otomat",
-        "fiyat": "9EE-C1032-0D06"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "2 x 10A 10 kA C-Otomat",
-        "fiyat": "9EE-C1032-0D10"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "2 x 16A 10 kA C-Otomat",
-        "fiyat": "9EE-C1032-0D16"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "2 x 20A 10 kA C-Otomat",
-        "fiyat": "9EE-C1032-0D20"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "2 x 25A 10 kA C-Otomat",
-        "fiyat": "9EE-C1032-0D25"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "2 x 32A 10 kA C-Otomat",
-        "fiyat": "9EE-C1032-0D32"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "2 x 40A 10 kA C-Otomat",
-        "fiyat": "9EE-C1032-0D40"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "2 x 50A 10 kA C-Otomat",
-        "fiyat": "9EE-C1032-0D50"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "2 x 63A 10 kA C-Otomat",
-        "fiyat": "9EE-C1032-0D63"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "3 x 6A 10 kA C-Otomat",
-        "fiyat": "9EE-C1033-0D06"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "3 x 10A 10 kA C-Otomat",
-        "fiyat": "9EE-C1033-0D10"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "3 x 16A 10 kA C-Otomat",
-        "fiyat": "9EE-C1033-0D16"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "3 x 20A 10 kA C-Otomat",
-        "fiyat": "9EE-C1033-0D20"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "3 x 25A 10 kA C-Otomat",
-        "fiyat": "9EE-C1033-0D25"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "3 x 32A 10 kA C-Otomat",
-        "fiyat": "9EE-C1033-0D032"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "3 x 40A 10 kA C-Otomat",
-        "fiyat": "9EE-C1033-0D040"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "3 x 50A 10 kA C-Otomat",
-        "fiyat": "9EE-C1033-0D050"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "3 x 63A 10 kA C-Otomat",
-        "fiyat": "9EE-C1033-0D063"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "3 x 80A 10 kA C-Otomat",
-        "fiyat": "9EF-C1033-0D80"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "3 x 100A 10 kA C-Otomat",
-        "fiyat": "9EF-C1033-D100"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "3 x 125A 10 kA C-Otomat",
-        "fiyat": "9EF-C1033-D125"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "4 x 6A 10 kA C-Otomat",
-        "fiyat": "9EE-C1034-0D006"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "4 x 10A 10 kA C-Otomat",
-        "fiyat": "9EE-C1034-0D010"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "4 x 16A 10 kA C-Otomat",
-        "fiyat": "9EE-C1034-0D016"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "4 x 20A 10 kA C-Otomat",
-        "fiyat": "9EE-C1034-0D020"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "4 x 25A 10 kA C-Otomat",
-        "fiyat": "9EE-C1034-0D025"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "4 x 32A 10 kA C-Otomat",
-        "fiyat": "9EE-C1034-0D032"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "4 x 40A 10 kA C-Otomat",
-        "fiyat": "9EE-C1034-0D040"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "4 x 50A 10 kA C-Otomat",
-        "fiyat": "9EE-C1034-0D050"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "4 x 63A 10 kA C-Otomat",
-        "fiyat": "9EE-C1034-0D063"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "4 x 80A 10 kA C-Otomat",
-        "fiyat": "9EF-C1034-0D80"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "4 x 100A 10 kA C-Otomat",
-        "fiyat": "9EF-C1034-D100"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "4 x 125A 10 kA C-Otomat",
-        "fiyat": "9EF-C1034-D125"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "KAÇAK AKIM KORUMA ŞALTERİ  2026 FİYAT",
-        "fiyat": "KOD"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "2x25A 30 mA Kaçak Akım Koruma Şalter",
+        "urun_adi": "FK2-FK2L 2x25A  30mA  10kA Kaçak Akım Koruma Rölesi",
         "fiyat": "9FA-H1102-0025"
     },
     {
         "marka": "Federal",
-        "urun_adi": "2x32A 30 mA Kaçak Akım Koruma Şalter",
+        "urun_adi": "FK2-FK2L 2x32A  30mA  10kA Kaçak Akım Koruma Rölesi",
         "fiyat": "9FA-H1102-0032"
     },
     {
         "marka": "Federal",
-        "urun_adi": "2x40A 30 mA Kaçak Akım Koruma Şalter",
+        "urun_adi": "FK2-FK2L 2x40A  30mA  10kA Kaçak Akım Koruma Rölesi",
         "fiyat": "9FA-H1102-0040"
     },
     {
         "marka": "Federal",
-        "urun_adi": "2x50A 30 mA Kaçak Akım Koruma Şalter",
+        "urun_adi": "FK2-FK2L 2x50A  30mA  10kA Kaçak Akım Koruma Rölesi",
         "fiyat": "9FA-H1102-0050"
     },
     {
         "marka": "Federal",
-        "urun_adi": "2x63A 30 mA Kaçak Akım Koruma Şalter",
+        "urun_adi": "FK2-FK2L 2x63A  30mA  10kA Kaçak Akım Koruma Rölesi",
         "fiyat": "9FA-H1102-0063"
     },
     {
         "marka": "Federal",
-        "urun_adi": "2x80A 30 mA Kaçak Akım Koruma Şalter",
-        "fiyat": "9FA-H1002-0080"
+        "urun_adi": "FK2-FK2L 2x80A  30mA  10kA Kaçak Akım Koruma Rölesi",
+        "fiyat": "9FA-H1102-0080"
     },
     {
         "marka": "Federal",
-        "urun_adi": "2x100A 30 mA Kaçak Akım Koruma Şalter",
-        "fiyat": "9FA-H1002-0100"
+        "urun_adi": "FK2-FK2L 2x100A  30mA  10kA Kaçak Akım Koruma Rölesi",
+        "fiyat": "9FA-H1102-0100"
     },
     {
         "marka": "Federal",
-        "urun_adi": "2x125A 30 mA Kaçak Akım Koruma Şalter",
-        "fiyat": "9FA-H1002-0125"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "2x25A 300 mA Kaçak Akım Koruma Şalter",
-        "fiyat": "9FA-Y1102-0025"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "2x32A 300 mA Kaçak Akım Koruma Şalter",
-        "fiyat": "9FA-Y1102-0032"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "2x40A 300 mA Kaçak Akım Koruma Şalter",
-        "fiyat": "9FA-Y1102-0040"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "2x50A 300 mA Kaçak Akım Koruma Şalter",
-        "fiyat": "9FA-Y1102-0050"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "2x63A 300 mA Kaçak Akım Koruma Şalter",
-        "fiyat": "9FA-Y1102-0063"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "2x80A 300 mA Kaçak Akım Koruma Şalter",
-        "fiyat": "9FA-Y1002-0080"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "2x100A 300 mA Kaçak Akım Koruma Şalter",
-        "fiyat": "9FA-Y1002-0100"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "2x125A 300 mA Kaçak Akım Koruma Şalter",
-        "fiyat": "9FA-Y1002-0125"
-    },
-    {
-        "marka": "Federal",
-        "urun_adi": "4x25A 30 mA Kaçak Akım Koruma Şalter",
+        "urun_adi": "FK4-FK4L  4x25A  30mA  10kA Kaçak Akım Koruma Rölesi",
         "fiyat": "9FA-H1104-0025"
     },
     {
         "marka": "Federal",
-        "urun_adi": "4x32A 30 mA Kaçak Akım Koruma Şalter",
+        "urun_adi": "FK4-FK4L  4x32A  30mA  10kA Kaçak Akım Koruma Rölesi",
         "fiyat": "9FA-H1104-0032"
     },
     {
         "marka": "Federal",
-        "urun_adi": "4x40A 30 mA Kaçak Akım Koruma Şalter",
+        "urun_adi": "FK4-FK4L  4x40A  30mA  10kA Kaçak Akım Koruma Rölesi",
         "fiyat": "9FA-H1104-0040"
     },
     {
         "marka": "Federal",
-        "urun_adi": "4x50A 30 mA Kaçak Akım Koruma Şalter",
+        "urun_adi": "FK4-FK4L  4x50A  30mA  10kA Kaçak Akım Koruma Rölesi",
         "fiyat": "9FA-H1104-0050"
     },
     {
         "marka": "Federal",
-        "urun_adi": "4x63A 30 mA Kaçak Akım Koruma Şalter",
+        "urun_adi": "FK4-FK4L  4x63A  30mA  10kA Kaçak Akım Koruma Rölesi",
         "fiyat": "9FA-H1104-0063"
     },
     {
         "marka": "Federal",
-        "urun_adi": "4×80 30 mA,10 kA Kaçak Akım Koruma Şalter",
-        "fiyat": "9FA-H1004-0080"
+        "urun_adi": "FK4-FK4L  4x80A  30mA  10kA Kaçak Akım Koruma Rölesi",
+        "fiyat": "9FA-H1104-0080"
     },
     {
         "marka": "Federal",
-        "urun_adi": "4x100A 30 mA Kaçak Akım Koruma Şalter",
-        "fiyat": "9FA-H1004-0100"
+        "urun_adi": "FK4-FK4L  4x100A  30mA  10kA Kaçak Akım Koruma Rölesi",
+        "fiyat": "9FA-H1104-0100"
     },
     {
         "marka": "Federal",
-        "urun_adi": "4x125A 30 mA Kaçak Akım Koruma Şalter",
-        "fiyat": "9FA-H1004-0125"
+        "urun_adi": "FK2-FK2L 2x25A  100-300mA  10kA Kaçak Akım Koruma Rölesi",
+        "fiyat": "9FA-ΔΔ102-0025"
     },
     {
         "marka": "Federal",
-        "urun_adi": "4x25A 300 mA Kaçak Akım Koruma Şalter",
-        "fiyat": "9FA-Y1104-0025"
+        "urun_adi": "FK2-FK2L 2x32A  100-300mA  10kA Kaçak Akım Koruma Rölesi",
+        "fiyat": "9FA-ΔΔ102-0032"
     },
     {
         "marka": "Federal",
-        "urun_adi": "4x32A 300 mA Kaçak Akım Koruma Şalter",
-        "fiyat": "9FA-Y1104-0032"
+        "urun_adi": "FK2-FK2L 2x40A  100-300mA  10kA Kaçak Akım Koruma Rölesi",
+        "fiyat": "9FA-ΔΔ102-0040"
     },
     {
         "marka": "Federal",
-        "urun_adi": "4x40A 300 mA Kaçak Akım Koruma Şalter",
-        "fiyat": "9FA-Y1104-0040"
+        "urun_adi": "FK2-FK2L 2x50A  100-300mA  10kA Kaçak Akım Koruma Rölesi",
+        "fiyat": "9FA-ΔΔ102-0050"
     },
     {
         "marka": "Federal",
-        "urun_adi": "4x63A 300 mA Kaçak Akım Koruma Şalter",
-        "fiyat": "9FA-Y1104-0063"
+        "urun_adi": "FK2-FK2L 2x63A  100-300mA  10kA Kaçak Akım Koruma Rölesi",
+        "fiyat": "9FA-ΔΔ102-0063"
     },
     {
         "marka": "Federal",
-        "urun_adi": "4x80A 300 mA Kaçak Akım Koruma Şalter",
-        "fiyat": "9FA-Y1004-0080"
+        "urun_adi": "FK2-FK2L 2x80A  100-300mA  10kA Kaçak Akım Koruma Rölesi",
+        "fiyat": "9FA-ΔΔ102-0080"
     },
     {
         "marka": "Federal",
-        "urun_adi": "4x100A 300 mA Kaçak Akım Koruma Şalter",
-        "fiyat": "9FA-Y1004-0100"
+        "urun_adi": "FK2-FK2L 2x100A  100-300mA  10kA Kaçak Akım Koruma Rölesi",
+        "fiyat": "9FA-ΔΔ102-0100"
     },
     {
         "marka": "Federal",
-        "urun_adi": "4x125A 300 mA Kaçak Akım Koruma Şalter",
-        "fiyat": "9FA-Y1004-0125"
+        "urun_adi": "FK4-FK4L 4x25A  100-300mA  10kA Kaçak Akım Koruma Rölesi",
+        "fiyat": "9FA-ΔΔ104-0025"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "FK4-FK4L 4x32A  100-300mA  10kA Kaçak Akım Koruma Rölesi",
+        "fiyat": "9FA-ΔΔ104-0032"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "FK4-FK4L 4x40A  100-300mA  10kA Kaçak Akım Koruma Rölesi",
+        "fiyat": "9FA-ΔΔ104-0040"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "FK4-FK4L 4x50A  100-300mA  10kA Kaçak Akım Koruma Rölesi",
+        "fiyat": "9FA-ΔΔ104-0050"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "FK4-FK4L 4x63A  100-300mA  10kA Kaçak Akım Koruma Rölesi",
+        "fiyat": "9FA-ΔΔ104-0063"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "FK4-FK4L 4x80A  100-300mA  10kA Kaçak Akım Koruma Rölesi",
+        "fiyat": "9FA-ΔΔ104-0080"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "FK4-FK4L 4x100A  100-300mA  10kA Kaçak Akım Koruma Rölesi",
+        "fiyat": "9FA-ΔΔ104-0100"
     },
     {
         "marka": "Tense",
