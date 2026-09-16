@@ -61766,8 +61766,93 @@
     },
     {
         "marka": "Federal",
+        "urun_adi": "280×120 mm Dikdörtgen Toroid Trafo",
+        "fiyat": "8AT-R0000-0280"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "370×120 mm Dikdörtgen Toroid Trafo",
+        "fiyat": "8AT-R0000-0370"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "500×120 mm Dikdörtgen Toroid Trafo",
+        "fiyat": "8AT-R0000-0500"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "Q60 mm Basic Seri Toroid Akım Trafosu (IEC / EN 6094 7-2)",
+        "fiyat": "8AT-R0000-B060"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "Q110 mm Basic Seri Toroid Akım Trafosu (IEC / EN 6094 7-2)",
+        "fiyat": "8AT-R0000-B110"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "Q160 mm Basic Seri Toroid Akım Trafosu (IEC / EN 6094 7-2)",
+        "fiyat": "8AT-R0000-B160"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "Q210 mm Basic Seri Toroid Akım Trafosu (IEC / EN 6094 7-2)",
+        "fiyat": "8AT-R0000-B220"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "Q60 mm Toroid Akım Trafosu",
+        "fiyat": "8AT-R0000-0060"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "Q110 mm Toroid Akım Trafosu",
+        "fiyat": "8AT-R0000-0110"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "Q160 mm Toroid Akım Trafosu",
+        "fiyat": "8AT-R0000-0160"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "Q210 mm Toroid Akım Trafosu",
+        "fiyat": "8AT-R0000-0220"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "Q300 mm Toroid Akım Trafosu",
+        "fiyat": "8AT-R0000-0300"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "FGR03  30-30000  230V AC  0,05-3s Toprak K.Akım Algılama Rölesi",
+        "fiyat": "8AT-N0000-B500"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "FGR05  30-30000  110/230V AC  0,05-3s Toprak K.Akım Algılama Rölesi",
+        "fiyat": "8AT-N0000-0500"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "FGR06  30-30000  230/400V AC  0,05-3s Toprak K.Akım Algılama Rölesi",
+        "fiyat": "8AT-N0000-0600"
+    },
+    {
+        "marka": "Federal",
         "urun_adi": "FEDERAL  KAÇAK AKIM KORUMALI KOMPAKT ŞALTER",
         "fiyat": "FİYAT"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "MCCB F12R 4P 32A 25kA/400Vac (30-100-300-500mA) Kompak",
+        "fiyat": "9AR-TSS43-0033"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "MCCB F12R 4P 40A 25kA/400Vac (30-100-300-500mA) Kompak",
+        "fiyat": "9AR-TSS43-0042"
     },
     {
         "marka": "Federal",
@@ -63453,6 +63538,521 @@
         "marka": "Federal",
         "urun_adi": "FK4-FK4L 4x100A  100-300mA  10kA Kaçak Akım Koruma Rölesi",
         "fiyat": "9FA-ΔΔ104-0100"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "FK2  2x25A 100-300mA AC+ S 6kA /10kA Kaçak Akım Koruma Rölesi",
+        "fiyat": "9FA-Δ#202- 025"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "FK2  2x40A 100-300mA AC+ S 6kA /10kA Kaçak Akım Koruma Rölesi",
+        "fiyat": "9FA-Δ#202- 040"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "FK2  2x63A 100-300mA AC+ S 6kA /10kA Kaçak Akım Koruma Rölesi",
+        "fiyat": "9FA-Δ#202- 063"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "FK2  2x80A 100-300mA AC+ S 6kA /10kA Kaçak Akım Koruma Rölesi",
+        "fiyat": "9FA-Δ#202- 080"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "FK2  2x100A 100-300mA AC+ S 6kA /10kA Kaçak Akım Koruma Rölesi",
+        "fiyat": "9FA-Δ#202- 100"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "FK4  4x25A 100-300mA AC+ S 6kA /10kA Kaçak Akım Koruma Rölesi",
+        "fiyat": "9FA-Δ#402- 025"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "FK4  4x40A 100-300mA AC+ S 6kA /10kA Kaçak Akım Koruma Rölesi",
+        "fiyat": "9FA-Δ#402- 040"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "FK4  4x63A 100-300mA AC+ S 6kA /10kA Kaçak Akım Koruma Rölesi",
+        "fiyat": "9FA-Δ#402- 063"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "FK4  4x80A 100-300mA AC+ S 6kA /10kA Kaçak Akım Koruma Rölesi",
+        "fiyat": "9FA-Δ#402- 080"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "FK4  4x100A 100-300mA AC+ S 6kA /10kA Kaçak Akım Koruma Rölesi",
+        "fiyat": "9FA-Δ#402- 100"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "1 x 1 A  B/C 6kA Otomatik Sigorta (230V AC/60V DC)",
+        "fiyat": "9EG-C0631-0D01"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "1 x 2 A  B/C 6kA Otomatik Sigorta (230V AC/60V DC)",
+        "fiyat": "9EG-C0631-0D02"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "1 x 4 A  B/C 6kA Otomatik Sigorta (230V AC/60V DC)",
+        "fiyat": "9EG-C0631-0D04"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "1 x 6 A  B/C 6kA Otomatik Sigorta (230V AC/60V DC)",
+        "fiyat": "9E#-Δ0631-0D06"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "1 x 10 A  B/C 6kA Otomatik Sigorta (230V AC/60V DC)",
+        "fiyat": "9E#-Δ0631-0D10"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "1 x 16 A  B/C 6kA Otomatik Sigorta (230V AC/60V DC)",
+        "fiyat": "9E#-Δ0631-0D16"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "1 x 20 A  B/C 6kA Otomatik Sigorta (230V AC/60V DC)",
+        "fiyat": "9E#-Δ0631-0D20"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "1 x 25 A  B/C 6kA Otomatik Sigorta (230V AC/60V DC)",
+        "fiyat": "9E#-Δ0631-0D25"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "1 x 32 A  B/C 6kA Otomatik Sigorta (230V AC/60V DC)",
+        "fiyat": "9E#-Δ0631-0D32"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "1 x 40 A  B/C 6kA Otomatik Sigorta (230V AC/60V DC)",
+        "fiyat": "9E#-Δ0631-0D40"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "1 x 50 A  B/C 6kA Otomatik Sigorta (230V AC/60V DC)",
+        "fiyat": "9E#-Δ0631-0D50"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "1 x 63 A  B/C 6kA Otomatik Sigorta (230V AC/60V DC)",
+        "fiyat": "9E#-Δ0631-0D63"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "2 x 1 A  B/C 6kA Otomatik Sigorta (400V AC/120V DC)",
+        "fiyat": "9EG-C0632-0D01"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "2 x 2 A  B/C 6kA Otomatik Sigorta (400V AC/120V DC)",
+        "fiyat": "9EG-C0632-0D02"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "2 x 4 A  B/C 6kA Otomatik Sigorta (400V AC/120V DC)",
+        "fiyat": "9EG-C0632-0D04"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "2 x 6 A  B/C 6kA Otomatik Sigorta (400V AC/120V DC)",
+        "fiyat": "9E#-Δ0632-0D06"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "2 x 10 A  B/C 6kA Otomatik Sigorta (400V AC/120V DC)",
+        "fiyat": "9E#-Δ0632-0D10"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "2 x 16 A  B/C 6kA Otomatik Sigorta (400V AC/120V DC)",
+        "fiyat": "9E#-Δ0632-0D16"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "2 x 20 A  B/C 6kA Otomatik Sigorta (400V AC/120V DC)",
+        "fiyat": "9E#-Δ0632-0D20"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "2 x 25 A  B/C 6kA Otomatik Sigorta (400V AC/120V DC)",
+        "fiyat": "9E#-Δ0632-0D25"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "2 x 32 A  B/C 6kA Otomatik Sigorta (400V AC/120V DC)",
+        "fiyat": "9E#-Δ0632-0D32"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "2 x 40 A  B/C 6kA Otomatik Sigorta (400V AC/120V DC)",
+        "fiyat": "9E#-Δ0632-0D40"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "2 x 50 A  B/C 6kA Otomatik Sigorta (400V AC/120V DC)",
+        "fiyat": "9E#-Δ0632-0D50"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "2 x 63 A  B/C 6kA Otomatik Sigorta (400V AC/120V DC)",
+        "fiyat": "9E#-Δ0632-0D63"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "3 x 1 A  B/C 6kA Otomatik Sigorta (400V AC/180V DC)",
+        "fiyat": "9EG-C0633-0D01"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "3 x 2 A  B/C 6kA Otomatik Sigorta (400V AC/180V DC)",
+        "fiyat": "9EG-C0633-0D02"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "3 x 4 A  B/C 6kA Otomatik Sigorta (400V AC/180V DC)",
+        "fiyat": "9EG-C0633-0D04"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "3 x 6 A  B/C 6kA Otomatik Sigorta (400V AC/180V DC)",
+        "fiyat": "9E#-Δ0633-0D06"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "3 x 10 A  B/C 6kA Otomatik Sigorta (400V AC/180V DC)",
+        "fiyat": "9E#-Δ0633-0D10"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "3 x 16 A  B/C 6kA Otomatik Sigorta (400V AC/180V DC)",
+        "fiyat": "9E#-Δ0633-0D16"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "3 x 20 A  B/C 6kA Otomatik Sigorta (400V AC/180V DC)",
+        "fiyat": "9E#-Δ0633-0D20"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "3 x 25 A  B/C 6kA Otomatik Sigorta (400V AC/180V DC)",
+        "fiyat": "9E#-Δ0633-0D25"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "3 x 32 A  B/C 6kA Otomatik Sigorta (400V AC/180V DC)",
+        "fiyat": "9E#-Δ0633-0D32"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "3 x 40 A  B/C 6kA Otomatik Sigorta (400V AC/180V DC)",
+        "fiyat": "9E#-Δ0633-0D40"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "3 x 50 A  B/C 6kA Otomatik Sigorta (400V AC/180V DC)",
+        "fiyat": "9E#-Δ0633-0D50"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "3 x 63 A  B/C 6kA Otomatik Sigorta (400V AC/180V DC)",
+        "fiyat": "9E#-Δ0633-0D63"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "4 x 6 A  B/C 6kA Otomatik Sigorta (400V AC/240V DC)",
+        "fiyat": "9E#-Δ0634-0D06"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "4 x 10 A  B/C 6kA Otomatik Sigorta (400V AC/240V DC)",
+        "fiyat": "9E#-Δ0634-0D10"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "4 x 16 A  B/C 6kA Otomatik Sigorta (400V AC/240V DC)",
+        "fiyat": "9E#-Δ0634-0D16"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "4 x 20 A  B/C 6kA Otomatik Sigorta (400V AC/240V DC)",
+        "fiyat": "9E#-Δ0634-0D20"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "4 x 25 A  B/C 6kA Otomatik Sigorta (400V AC/240V DC)",
+        "fiyat": "9E#-Δ0634-0D25"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "4 x 32 A  B/C 6kA Otomatik Sigorta (400V AC/240V DC)",
+        "fiyat": "9E#-Δ0634-0D32"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "4 x 40 A  B/C 6kA Otomatik Sigorta (400V AC/240V DC)",
+        "fiyat": "9E#-Δ0634-0D40"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "4 x 50 A  B/C 6kA Otomatik Sigorta (400V AC/240V DC)",
+        "fiyat": "9E#-Δ0634-0D50"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "4 x 63 A  B/C 6kA Otomatik Sigorta (400V AC/240V DC)",
+        "fiyat": "9E#-Δ0634-0D63"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "1 x 6 A  B/C 10kA Otomatik Sigorta (230V AC/60V DC)",
+        "fiyat": "9E#-Δ1031-0D06"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "1 x 10 A  B/C 10kA Otomatik Sigorta (230V AC/60V DC)",
+        "fiyat": "9E#-Δ1031-0D10"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "1 x 16 A  B/C 10kA Otomatik Sigorta (230V AC/60V DC)",
+        "fiyat": "9E#-Δ1031-0D16"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "1 x 20 A  B/C 10kA Otomatik Sigorta (230V AC/60V DC)",
+        "fiyat": "9E#-Δ1031-0D20"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "1 x 25 A  B/C 10kA Otomatik Sigorta (230V AC/60V DC)",
+        "fiyat": "9E#-Δ1031-0D25"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "1 x 32 A  B/C 10kA Otomatik Sigorta (230V AC/60V DC)",
+        "fiyat": "9E#-Δ1031-0D32"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "1 x 40 A  B/C 10kA Otomatik Sigorta (230V AC/60V DC)",
+        "fiyat": "9E#-Δ1031-0D40"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "1 x 50 A  B/C 10kA Otomatik Sigorta (230V AC/60V DC)",
+        "fiyat": "9E#-Δ1031-0D50"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "1 x 63 A  B/C 10kA Otomatik Sigorta (230V AC/60V DC)",
+        "fiyat": "9E#-Δ1031-0D63"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "2 x 6 A  B/C 10kA Otomatik Sigorta (400V AC/120V DC)",
+        "fiyat": "9EE-Δ1032-0D06"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "2 x 10 A  B/C 10kA Otomatik Sigorta (400V AC/120V DC)",
+        "fiyat": "9EE-Δ1032-0D10"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "2 x 16 A  B/C 10kA Otomatik Sigorta (400V AC/120V DC)",
+        "fiyat": "9EE-Δ1032-0D16"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "2 x 20 A  B/C 10kA Otomatik Sigorta (400V AC/120V DC)",
+        "fiyat": "9EE-Δ1032-0D20"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "2 x 25 A  B/C 10kA Otomatik Sigorta (400V AC/120V DC)",
+        "fiyat": "9EE-Δ1032-0D25"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "2 x 32 A  B/C 10kA Otomatik Sigorta (400V AC/120V DC)",
+        "fiyat": "9EE-Δ1032-0D32"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "2 x 40 A  B/C 10kA Otomatik Sigorta (400V AC/120V DC)",
+        "fiyat": "9EE-Δ1032-0D40"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "2 x 50 A  B/C 10kA Otomatik Sigorta (400V AC/120V DC)",
+        "fiyat": "9EE-Δ1032-0D50"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "2 x 63 A  B/C 10kA Otomatik Sigorta (400V AC/120V DC)",
+        "fiyat": "9EE-Δ1032-0D63"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "3 x 6 A  B/C 10kA Otomatik Sigorta (400V AC/180V DC)",
+        "fiyat": "9EE-Δ1033-0D06"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "3 x 10 A  B/C 10kA Otomatik Sigorta (400V AC/180V DC)",
+        "fiyat": "9EE-Δ1033-0D10"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "3 x 16 A  B/C 10kA Otomatik Sigorta (400V AC/180V DC)",
+        "fiyat": "9EE-Δ1033-0D16"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "3 x 20 A  B/C 10kA Otomatik Sigorta (400V AC/180V DC)",
+        "fiyat": "9EE-Δ1033-0D20"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "3 x 25 A  B/C 10kA Otomatik Sigorta (400V AC/180V DC)",
+        "fiyat": "9EE-Δ1033-0D25"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "3 x 32 A  B/C 10kA Otomatik Sigorta (400V AC/180V DC)",
+        "fiyat": "9EE-Δ1033-0D32"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "3 x 40 A  B/C 10kA Otomatik Sigorta (400V AC/180V DC)",
+        "fiyat": "9EE-Δ1033-0D40"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "3 x 50 A  B/C 10kA Otomatik Sigorta (400V AC/180V DC)",
+        "fiyat": "9EE-Δ1033-0D50"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "3 x 63 A  B/C 10kA Otomatik Sigorta (400V AC/180V DC)",
+        "fiyat": "9EE-Δ1033-0D63"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "4 x 6 A  B/C 10kA Otomatik Sigorta (400V AC/240V DC)",
+        "fiyat": "9EE-Δ1034-0D006"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "4 x 10 A  B/C 10kA Otomatik Sigorta (400V AC/240V DC)",
+        "fiyat": "9EE-Δ1034-0D010"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "4 x 16 A  B/C 10kA Otomatik Sigorta (400V AC/240V DC)",
+        "fiyat": "9EE-Δ1034-0D016"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "4 x 20 A  B/C 10kA Otomatik Sigorta (400V AC/240V DC)",
+        "fiyat": "9EE-Δ1034-0D020"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "4 x 25 A  B/C 10kA Otomatik Sigorta (400V AC/240V DC)",
+        "fiyat": "9EE-Δ1034-0D025"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "4 x 32 A  B/C 10kA Otomatik Sigorta (400V AC/240V DC)",
+        "fiyat": "9EE-Δ1034-0D032"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "4 x 40 A  B/C 10kA Otomatik Sigorta (400V AC/240V DC)",
+        "fiyat": "9EE-Δ1034-0D040"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "4 x 50 A  B/C 10kA Otomatik Sigorta (400V AC/240V DC)",
+        "fiyat": "9EE-Δ1034-0D050"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "4 x 63 A  B/C 10kA Otomatik Sigorta (400V AC/240V DC)",
+        "fiyat": "9EE-Δ1034-0D063"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "1 x 80A C 10kA Otomatik Sigorta (230V AC/60V DC)",
+        "fiyat": "9EF-C1031-0D80"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "1 x 100A C 10kA Otomatik Sigorta (230V AC/60V DC)",
+        "fiyat": "9EF-C1031-0D100"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "1 x 125A C 10kA Otomatik Sigorta (230V AC/60V DC)",
+        "fiyat": "9EF-C1031-0D125"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "2 x 80A C 10kA Otomatik Sigorta (400V AC/120V DC)",
+        "fiyat": "9EF-C1032-0D80"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "2 x 100A C 10kA Otomatik Sigorta (400V AC/120V DC)",
+        "fiyat": "9EF-C1032-D100"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "2 x 125A C 10kA Otomatik Sigorta (400V AC/120V DC)",
+        "fiyat": "9EF-C1032-D126"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "3 x 80A C 10kA Otomatik Sigorta (400V AC/180V DC)",
+        "fiyat": "9EF-C1033-0D80"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "3 x 100A C 10kA Otomatik Sigorta (400V AC/180V DC)",
+        "fiyat": "9EF-C1033-0D100"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "3 x 125A C 10kA Otomatik Sigorta (400V AC/180V DC)",
+        "fiyat": "9EF-C1033-0D125"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "4 x 80A C 10kA Otomatik Sigorta (400V AC/240V DC)",
+        "fiyat": "9EF-C1033-0D80"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "4 x 100A C 10kA Otomatik Sigorta (400V AC/240V DC)",
+        "fiyat": "9EF-C1033-0D100"
+    },
+    {
+        "marka": "Federal",
+        "urun_adi": "4 x 125A C 10kA Otomatik Sigorta (400V AC/240V DC)",
+        "fiyat": "9EF-C1033-0D125"
     },
     {
         "marka": "Tense",
