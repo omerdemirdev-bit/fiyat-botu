@@ -12281,6 +12281,11 @@
     },
     {
         "marka": "Woer",
+        "urun_adi": "1,6 mm",
+        "fiyat": "200 Mt"
+    },
+    {
+        "marka": "Woer",
         "urun_adi": "2,4 mm",
         "fiyat": "200 Mt"
     },
@@ -12386,7 +12391,7 @@
     },
     {
         "marka": "Woer",
-        "urun_adi": "185 mm",
+        "urun_adi": "180 mm",
         "fiyat": "25 Mt"
     },
     {
@@ -12681,248 +12686,223 @@
     },
     {
         "marka": "Woer",
+        "urun_adi": "70 mm Kablo Toplama Çor abı / Siyah",
+        "fiyat": "64 / 120"
+    },
+    {
+        "marka": "Woer",
+        "urun_adi": "0,80 mm H – Class Makaron 2500 V",
+        "fiyat": "KSNHCL-023"
+    },
+    {
+        "marka": "Woer",
         "urun_adi": "1 mm H – Class Makaron 2500 V",
-        "fiyat": "SRG-1,0"
+        "fiyat": "KSNHCL-024"
     },
     {
         "marka": "Woer",
         "urun_adi": "1,5 mm H – Class Makaron 2500 V",
-        "fiyat": "SRG-1,5"
+        "fiyat": "KSNHCL-025"
     },
     {
         "marka": "Woer",
         "urun_adi": "2 mm H – Class Makaron 2500 V",
-        "fiyat": "SRG-2,0"
+        "fiyat": "KSNHCL-026"
     },
     {
         "marka": "Woer",
         "urun_adi": "2,5 mm H – Class Makaron 2500 V",
-        "fiyat": "SRG-2,5"
+        "fiyat": "KSNHCL-027"
     },
     {
         "marka": "Woer",
         "urun_adi": "3 mm H – Class Makaron 2500 V",
-        "fiyat": "SRG-3,0"
+        "fiyat": "KSNHCL-028"
     },
     {
         "marka": "Woer",
         "urun_adi": "4 mm H – Class Makaron 2500 V",
-        "fiyat": "SRG-4,0"
+        "fiyat": "KSNHCL-029"
     },
     {
         "marka": "Woer",
         "urun_adi": "5 mm H – Class Makaron 2500 V",
-        "fiyat": "SRG-5,0"
+        "fiyat": "KSNHCL-030"
     },
     {
         "marka": "Woer",
         "urun_adi": "6 mm H – Class Makaron 2500 V",
-        "fiyat": "SRG-6,0"
+        "fiyat": "KSNHCL-031"
     },
     {
         "marka": "Woer",
         "urun_adi": "7 mm H – Class Makaron 2500 V",
-        "fiyat": "SRG-7,0"
+        "fiyat": "KSNHCL-032"
     },
     {
         "marka": "Woer",
         "urun_adi": "8 mm H – Class Makaron 2500 V",
-        "fiyat": "SRG-8,0"
+        "fiyat": "KSNHCL-033"
     },
     {
         "marka": "Woer",
         "urun_adi": "10 mm H – Class Makaron 2500 V",
-        "fiyat": "SRG-10,0"
+        "fiyat": "KSNHCL-034"
     },
     {
         "marka": "Woer",
         "urun_adi": "12 mm H – Class Makaron 2500 V",
-        "fiyat": "SRG-12,0"
+        "fiyat": "KSNHCL-035"
     },
     {
         "marka": "Woer",
         "urun_adi": "14 mm H – Class Makaron 2500 V",
-        "fiyat": "SRG-14,0"
+        "fiyat": "KSNHCL-036"
     },
     {
         "marka": "Woer",
         "urun_adi": "16 mm H – Class Makaron 2500 V",
-        "fiyat": "SRG-16,0"
+        "fiyat": "KSNHCL-037"
     },
     {
         "marka": "Woer",
         "urun_adi": "18 mm H – Class Makaron 2500 V",
-        "fiyat": "SRG-18,0"
+        "fiyat": "KSNHCL-038"
     },
     {
         "marka": "Woer",
         "urun_adi": "20 mm H – Class Makaron 2500 V",
-        "fiyat": "SRG-20,0"
+        "fiyat": "KSNHCL-039"
     },
     {
         "marka": "Woer",
         "urun_adi": "25 mm H – Class Makaron 2500 V",
-        "fiyat": "SRG-25,0"
+        "fiyat": "KSNHCL-040"
     },
     {
         "marka": "Woer",
         "urun_adi": "30 mm H – Class Makaron 2500 V",
-        "fiyat": "SRG-30,0"
+        "fiyat": "KSNHCL-041"
     },
     {
         "marka": "Woer",
         "urun_adi": "35 mm H – Class Makaron 2500 V",
-        "fiyat": "SRG-35,0"
+        "fiyat": "KSNHCL-042"
     },
     {
         "marka": "Woer",
         "urun_adi": "40 mm H – Class Makaron 2500 V",
-        "fiyat": "SRG-40,0"
+        "fiyat": "KSNHCL-043"
     },
     {
         "marka": "Woer",
         "urun_adi": "50 mm H – Class Makaron 2500 V",
-        "fiyat": "SRG-50,0"
+        "fiyat": "KSNHCL-044"
     },
     {
         "marka": "Woer",
         "urun_adi": "0,8 mm Cam Elyaf Makaron 2,5 KV",
-        "fiyat": "KSNCAM-08"
+        "fiyat": "KSNCAM-001"
     },
     {
         "marka": "Woer",
         "urun_adi": "1 mm Cam Elyaf Makaron 2,5 KV",
-        "fiyat": "KSNCAM-1"
+        "fiyat": "KSNCAM-002"
     },
     {
         "marka": "Woer",
         "urun_adi": "1,5 mm Cam Elyaf Makaron 2,5 KV",
-        "fiyat": "KSNCAM-1,5"
+        "fiyat": "KSNCAM-003"
     },
     {
         "marka": "Woer",
         "urun_adi": "2 mm Cam Elyaf Makaron 2,5 KV",
-        "fiyat": "KSNCAM-2"
+        "fiyat": "KSNCAM-004"
     },
     {
         "marka": "Woer",
         "urun_adi": "2,5 mm Cam Elyaf Makaron 2,5 KV",
-        "fiyat": "KSNCAM-2,5"
+        "fiyat": "KSNCAM-005"
     },
     {
         "marka": "Woer",
         "urun_adi": "3 mm Cam Elyaf Makaron 2,5 KV",
-        "fiyat": "KSNCAM-3"
+        "fiyat": "KSNCAM-006"
     },
     {
         "marka": "Woer",
         "urun_adi": "4 mm Cam Elyaf Makaron 2,5 KV",
-        "fiyat": "KSNCAM-4"
+        "fiyat": "KSNCAM-007"
     },
     {
         "marka": "Woer",
         "urun_adi": "5 mm Cam Elyaf Makaron 2,5 KV",
-        "fiyat": "KSNCAM-5"
+        "fiyat": "KSNCAM-008"
     },
     {
         "marka": "Woer",
         "urun_adi": "6 mm Cam Elyaf Makaron 2,5 KV",
-        "fiyat": "KSNCAM-6"
+        "fiyat": "KSNCAM-009"
     },
     {
         "marka": "Woer",
         "urun_adi": "7 mm Cam Elyaf Makaron 2,5 KV",
-        "fiyat": "KSNCAM-7"
+        "fiyat": "KSNCAM-010"
     },
     {
         "marka": "Woer",
         "urun_adi": "8 mm Cam Elyaf Makaron 2,5 KV",
-        "fiyat": "KSNCAM-8"
+        "fiyat": "KSNCAM-011"
     },
     {
         "marka": "Woer",
         "urun_adi": "10 mm Cam Elyaf Makaron 2,5 KV",
-        "fiyat": "KSNCAM-10"
+        "fiyat": "KSNCAM-012"
     },
     {
         "marka": "Woer",
         "urun_adi": "12 mm Cam Elyaf Makaron 2,5 KV",
-        "fiyat": "KSNCAM-12"
+        "fiyat": "KSNCAM-013"
     },
     {
         "marka": "Woer",
         "urun_adi": "14 mm Cam Elyaf Makaron 2,5 KV",
-        "fiyat": "KSNCAM-14"
+        "fiyat": "KSNCAM-014"
     },
     {
         "marka": "Woer",
         "urun_adi": "16 mm Cam Elyaf Makaron 2,5 KV",
-        "fiyat": "KSNCAM-16"
+        "fiyat": "KSNCAM-015"
     },
     {
         "marka": "Woer",
         "urun_adi": "18 mm Cam Elyaf Makaron 2,5 KV",
-        "fiyat": "KSNCAM-18"
+        "fiyat": "KSNCAM-016"
     },
     {
         "marka": "Woer",
         "urun_adi": "20 mm Cam Elyaf Makaron 2,5 KV",
-        "fiyat": "KSNCAM-20"
+        "fiyat": "KSNCAM-017"
     },
     {
         "marka": "Woer",
         "urun_adi": "25 mm Cam Elyaf Makaron 2,5 KV",
-        "fiyat": "KSNCAM-25"
+        "fiyat": "KSNCAM-018"
     },
     {
         "marka": "Woer",
         "urun_adi": "30 mm Cam Elyaf Makaron 2,5 KV",
-        "fiyat": "KSNCAM-30"
+        "fiyat": "KSNCAM-019"
     },
     {
         "marka": "Woer",
         "urun_adi": "35 mm Cam Elyaf Makaron 2,5 KV",
-        "fiyat": "KSNCAM-35"
+        "fiyat": "KSNCAM-020"
     },
     {
         "marka": "Woer",
         "urun_adi": "1 mm",
-        "fiyat": "-60  /  +250"
-    },
-    {
-        "marka": "Woer",
-        "urun_adi": "1,5 mm",
-        "fiyat": "-60  /  +250"
-    },
-    {
-        "marka": "Woer",
-        "urun_adi": "2 mm",
-        "fiyat": "-60  /  +250"
-    },
-    {
-        "marka": "Woer",
-        "urun_adi": "2,5 mm",
-        "fiyat": "-60  /  +250"
-    },
-    {
-        "marka": "Woer",
-        "urun_adi": "3 mm",
-        "fiyat": "-60  /  +250"
-    },
-    {
-        "marka": "Woer",
-        "urun_adi": "4 mm",
-        "fiyat": "-60  /  +250"
-    },
-    {
-        "marka": "Woer",
-        "urun_adi": "5 mm",
-        "fiyat": "-60  /  +250"
-    },
-    {
-        "marka": "Woer",
-        "urun_adi": "6 mm",
-        "fiyat": "-60  /  +250"
+        "fiyat": "– 60  /  + 250"
     },
     {
         "marka": "Tügen",
