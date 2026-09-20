@@ -16916,163 +16916,903 @@
     },
     {
         "marka": "Genel",
-        "urun_adi": "2 x 0,50OZ  H05VV5-F Kablo",
+        "urun_adi": "BİRTFLEX 552 – YSLY-YY  2 x 0,75OZ  mm Kumanda Kablosu",
+        "fiyat": "1001 06 002"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "BİRTFLEX 552 – YSLY-YY  3 x 0,75 mm Kumanda Kablosu",
+        "fiyat": "1001 06 003"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "BİRTFLEX 552 – YSLY-YY  4 x 0,75 mm Kumanda Kablosu",
+        "fiyat": "1001 06 004"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "BİRTFLEX 552 – YSLY-YY  5 x 0,75 mm Kumanda Kablosu",
+        "fiyat": "1001 06 005"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "BİRTFLEX 552 – YSLY-YY  6 x 0,75 mm Kumanda Kablosu",
+        "fiyat": "1001 06 006"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "BİRTFLEX 552 – YSLY-YY  7 x 0,75 mm Kumanda Kablosu",
+        "fiyat": "1001 06 007"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "BİRTFLEX 552 – YSLY-YY  8 x 0,75 mm Kumanda Kablosu",
+        "fiyat": "1001 06 008"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "BİRTFLEX 552 – YSLY-YY  10 x 0,75 mm Kumanda Kablosu",
+        "fiyat": "1001 06 010"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "BİRTFLEX 552 – YSLY-YY  12 x 0,75 mm Kumanda Kablosu",
+        "fiyat": "1001 06 012"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "BİRTFLEX 552 – YSLY-YY  14 x 0,75 mm Kumanda Kablosu",
+        "fiyat": "1001 06 014"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "BİRTFLEX 552 – YSLY-YY  16 x 0,75 mm Kumanda Kablosu",
+        "fiyat": "1001 06 016"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "BİRTFLEX 552 – YSLY-YY  18 x 0,75 mm Kumanda Kablosu",
+        "fiyat": "1001 06 018"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "BİRTFLEX 552 – YSLY-YY  20 x 0,75 mm Kumanda Kablosu",
+        "fiyat": "1001 06 020"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "BİRTFLEX 552 – YSLY-YY  21 x 0,75 mm Kumanda Kablosu",
+        "fiyat": "1001 06 021"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "BİRTFLEX 552 – YSLY-YY  24 x 0,75 mm Kumanda Kablosu",
+        "fiyat": "1001 06 024"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "BİRTFLEX 552 – YSLY-YY  30 x 0,75 mm Kumanda Kablosu",
+        "fiyat": "1001 06 030"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "BİRTFLEX 552 – YSLY-YY  36 x 0,75 mm Kumanda Kablosu",
+        "fiyat": "1001 06 036"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "BİRTFLEX 552 – YSLY-YY  40 x 0,75 mm Kumanda Kablosu",
+        "fiyat": "1001 06 040"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "BİRTFLEX 552 – YSLY-YY  50 x 0,75 mm Kumanda Kablosu",
+        "fiyat": "1001 06 060"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "BİRTFLEX 552 – YSLY-YY  61 x 0,75 mm Kumanda Kablosu",
+        "fiyat": "1001 06 061"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "BİRTFLEX 552 – YSLY-YY  2 x 1,5OZ mm Kumanda Kablosu",
+        "fiyat": "1001 08 002"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "BİRTFLEX 552 – YSLY-YY  3 x 1,5 mm Kumanda Kablosu",
+        "fiyat": "1001 08 003"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "BİRTFLEX 552 – YSLY-YY  4 x 1,5 mm Kumanda Kablosu",
+        "fiyat": "1001 08 004"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "BİRTFLEX 552 – YSLY-YY  5 x 1,5 mm Kumanda Kablosu",
+        "fiyat": "1001 08 005"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "BİRTFLEX 552 – YSLY-YY  6 x 1,5 mm Kumanda Kablosu",
+        "fiyat": "1001 08 006"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "BİRTFLEX 552 – YSLY-YY  7 x 1,5 mm Kumanda Kablosu",
+        "fiyat": "1001 08 007"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "BİRTFLEX 552 – YSLY-YY  8 x 1,5 mm Kumanda Kablosu",
+        "fiyat": "1001 08 008"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "BİRTFLEX 552 – YSLY-YY  10 x 1,5 mm Kumanda Kablosu",
+        "fiyat": "1001 08 010"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "BİRTFLEX 552 – YSLY-YY  12 x 1,5 mm Kumanda Kablosu",
+        "fiyat": "1001 08 012"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "BİRTFLEX 552 – YSLY-YY  14 x 1,5 mm Kumanda Kablosu",
+        "fiyat": "1001 08 014"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "BİRTFLEX 552 – YSLY-YY  16 x 1,5 mm Kumanda Kablosu",
+        "fiyat": "1001 08 016"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "BİRTFLEX 552 – YSLY-YY  18 x 1,5 mm Kumanda Kablosu",
+        "fiyat": "1001 08 018"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "BİRTFLEX 552 – YSLY-YY  20 x 1,5 mm Kumanda Kablosu",
+        "fiyat": "1001 08 020"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "BİRTFLEX 552 – YSLY-YY  21 x 1,5 mm Kumanda Kablosu",
+        "fiyat": "1001 08 021"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "BİRTFLEX 552 – YSLY-YY  24 x 1,5 mm Kumanda Kablosu",
+        "fiyat": "1001 08 024"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "BİRTFLEX 552 – YSLY-YY  25 x 1,5 mm Kumanda Kablosu",
+        "fiyat": "1001 08 025"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "BİRTFLEX 552 – YSLY-YY  30 x 1,5 mm Kumanda Kablosu",
+        "fiyat": "1001 08 030"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "BİRTFLEX 552 – YSLY-YY  36 x 1,5 mm Kumanda Kablosu",
+        "fiyat": "1001 08 036"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "BİRTFLEX 552 – YSLY-YY  40 x 1,5 mm Kumanda Kablosu",
+        "fiyat": "1001 08 040"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "BİRTFLEX 552 – YSLY-YY  50 x 1,5 mm Kumanda Kablosu",
+        "fiyat": "1001 08 050"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "BİRTFLEX 552 – YSLY-YY  61 x 1,5 mm Kumanda Kablosu",
+        "fiyat": "1001 08 061"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "BİRTFLEX 552 – YSLY-YY  2 x 2,5OZ mm Kumanda Kablosu",
+        "fiyat": "1001 09 002"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "BİRTFLEX 552 – YSLY-YY  3 x 2,5 mm Kumanda Kablosu",
+        "fiyat": "1001 09 003"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "BİRTFLEX 552 – YSLY-YY  4 x 2,5 mm Kumanda Kablosu",
+        "fiyat": "1001 09 004"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "BİRTFLEX 552 – YSLY-YY  5 x 2,5 mm Kumanda Kablosu",
+        "fiyat": "1001 09 005"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "BİRTFLEX 552 – YSLY-YY  7 x 2,5 mm Kumanda Kablosu",
+        "fiyat": "1001 09 007"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "BİRTFLEX 552 – YSLY-YY  8 x 2,5 mm Kumanda Kablosu",
+        "fiyat": "1001 09 008"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "BİRTFLEX 552 – YSLY-YY  10 x 2,5 mm Kumanda Kablosu",
+        "fiyat": "1001 09 010"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "BİRTFLEX 552 – YSLY-YY  12 x 2,5 mm Kumanda Kablosu",
+        "fiyat": "1001 09 012"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "BİRTFLEX 552 – YSLY-YY  14 x 2,5 mm Kumanda Kablosu",
+        "fiyat": "1001 09 014"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "BİRTFLEX 552 – YSLY-YY  16 x 2,5 mm Kumanda Kablosu",
+        "fiyat": "1001 09 016"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "BİRTFLEX 552 – YSLY-YY  18 x 2,5 mm Kumanda Kablosu",
+        "fiyat": "1001 09 018"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "BİRTFLEX 552 – YSLY-YY  20 x 2,5 mm Kumanda Kablosu",
+        "fiyat": "1001 09 020"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "BİRTFLEX 552 – YSLY-YY  21 x 2,5 mm Kumanda Kablosu",
+        "fiyat": "1001 09 021"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "BİRTFLEX 552 – YSLY-YY  24 x 2,5 mm Kumanda Kablosu",
+        "fiyat": "1001 09 024"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "BİRTFLEX 552 – YSLY-YY  30 x 2,5 mm Kumanda Kablosu",
+        "fiyat": "1001 09 030"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "BİRTFLEX 552 – YSLY-YY  36 x 2,5 mm Kumanda Kablosu",
+        "fiyat": "1001 09 036"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "BİRTFLEX 552 – YSLY-YY  40 x 2,5 mm Kumanda Kablosu",
+        "fiyat": "1001 09 040"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "BİRTFLEX 552 – YSLY-YY  50 x 2,5 mm Kumanda Kablosu",
+        "fiyat": "1001 09 050"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "BİRTFLEX 552 – YSLY-YY  61 x 2,5 mm Kumanda Kablosu",
+        "fiyat": "1001 09 061"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "2 x 0,50OZ  H05VV5-F (NYSLYCYÖ) Kumanda Kablosu",
         "fiyat": "1009 05 002"
     },
     {
         "marka": "Genel",
-        "urun_adi": "3 x 0,50OZ  H05VV5-F Kablo",
+        "urun_adi": "3 x 0,50OZ  H05VV5-F (NYSLYCYÖ) Kumanda Kablosu",
         "fiyat": "1009 05 003"
     },
     {
         "marka": "Genel",
-        "urun_adi": "4 x 0,50OZ  H05VV5-F Kablo",
+        "urun_adi": "4 x 0,50OZ  H05VV5-F (NYSLYCYÖ) Kumanda Kablosu",
         "fiyat": "1009 05 004"
     },
     {
         "marka": "Genel",
-        "urun_adi": "5 x 0,50OZ  H05VV5-F Kablo",
+        "urun_adi": "5 x 0,50OZ  H05VV5-F (NYSLYCYÖ) Kumanda Kablosu",
         "fiyat": "1009 05 005"
     },
     {
         "marka": "Genel",
-        "urun_adi": "6 x 0,50OZ  H05VV5-F Kablo",
+        "urun_adi": "6 x 0,50OZ  H05VV5-F (NYSLYCYÖ) Kumanda Kablosu",
         "fiyat": "1009 05 006"
     },
     {
         "marka": "Genel",
-        "urun_adi": "7 x 0,50OZ  H05VV5-F Kablo",
+        "urun_adi": "7 x 0,50OZ  H05VV5-F (NYSLYCYÖ) Kumanda Kablosu",
         "fiyat": "1009 05 007"
     },
     {
         "marka": "Genel",
-        "urun_adi": "8 x 0,50OZ  H05VV5-F Kablo",
+        "urun_adi": "8 x 0,50OZ  H05VV5-F (NYSLYCYÖ) Kumanda Kablosu",
         "fiyat": "1009 05 008"
     },
     {
         "marka": "Genel",
-        "urun_adi": "10 x 0,50OZ  H05VV5-F Kablo",
+        "urun_adi": "10 x 0,50OZ  H05VV5-F (NYSLYCYÖ) Kumanda Kablosu",
         "fiyat": "1009 05 010"
     },
     {
         "marka": "Genel",
-        "urun_adi": "12 x 0,50OZ  H05VV5-F Kablo",
+        "urun_adi": "12 x 0,50OZ  H05VV5-F (NYSLYCYÖ) Kumanda Kablosu",
         "fiyat": "1009 05 012"
     },
     {
         "marka": "Genel",
-        "urun_adi": "14 x 0,50OZ  H05VV5-F Kablo",
+        "urun_adi": "14 x 0,50OZ  H05VV5-F (NYSLYCYÖ) Kumanda Kablosu",
         "fiyat": "1009 05 014"
     },
     {
         "marka": "Genel",
-        "urun_adi": "16 x 0,50OZ  H05VV5-F Kablo",
+        "urun_adi": "16 x 0,50OZ  H05VV5-F (NYSLYCYÖ) Kumanda Kablosu",
         "fiyat": "1009 05 016"
     },
     {
         "marka": "Genel",
-        "urun_adi": "18 x 0,50OZ  H05VV5-F Kablo",
+        "urun_adi": "18 x 0,50OZ  H05VV5-F (NYSLYCYÖ) Kumanda Kablosu",
         "fiyat": "1009 05 018"
     },
     {
         "marka": "Genel",
-        "urun_adi": "19 x 0,50OZ  H05VV5-F Kablo",
+        "urun_adi": "19 x 0,50OZ  H05VV5-F (NYSLYCYÖ) Kumanda Kablosu",
         "fiyat": "1009 05 019"
     },
     {
         "marka": "Genel",
-        "urun_adi": "20 x 0,50OZ  H05VV5-F Kablo",
+        "urun_adi": "20 x 0,50OZ  H05VV5-F (NYSLYCYÖ) Kumanda Kablosu",
         "fiyat": "1009 05 020"
     },
     {
         "marka": "Genel",
-        "urun_adi": "21 x 0,50OZ  H05VV5-F Kablo",
+        "urun_adi": "21 x 0,50OZ  H05VV5-F (NYSLYCYÖ) Kumanda Kablosu",
         "fiyat": "1009 05 021"
     },
     {
         "marka": "Genel",
-        "urun_adi": "24 x 0,50OZ  H05VV5-F Kablo",
+        "urun_adi": "24 x 0,50OZ  H05VV5-F (NYSLYCYÖ) Kumanda Kablosu",
         "fiyat": "1009 05 024"
     },
     {
         "marka": "Genel",
-        "urun_adi": "25 x 0,50OZ  H05VV5-F Kablo",
+        "urun_adi": "25 x 0,50OZ  H05VV5-F (NYSLYCYÖ) Kumanda Kablosu",
         "fiyat": "1009 05 025"
     },
     {
         "marka": "Genel",
-        "urun_adi": "2 x 0,75OZ mm2  (NYSLYCYÖ) Kumanda Kablosu",
+        "urun_adi": "2 x 0,75OZ mm2  H05VV5-F (NYSLYCYÖ) Kumanda Kablosu",
         "fiyat": "1009 06 002"
     },
     {
         "marka": "Genel",
-        "urun_adi": "3 x 0,75 mm2  (NYSLYCYÖ) Kumanda Kablosu",
+        "urun_adi": "3 x 0,75OZ mm2  H05VV5-F (NYSLYCYÖ) Kumanda Kablosu",
         "fiyat": "1009 06 003"
     },
     {
         "marka": "Genel",
-        "urun_adi": "4 x 0,75 mm2  (NYSLYCYÖ) Kumanda Kablosu",
+        "urun_adi": "4 x 0,75OZ mm2 H05VV5-F (NYSLYCYÖ) Kumanda Kablosu",
         "fiyat": "1009 06 004"
     },
     {
         "marka": "Genel",
-        "urun_adi": "5 x 0,75 mm2  (NYSLYCYÖ) Kumanda Kablosu",
+        "urun_adi": "5 x 0,75OZ mm2 H05VV5-F  (NYSLYCYÖ) Kumanda Kablosu",
         "fiyat": "1009 06 005"
     },
     {
         "marka": "Genel",
-        "urun_adi": "6 x 0,75 mm2  (NYSLYCYÖ) Kumanda Kablosu",
+        "urun_adi": "6 x 0,75OZ mm2  H05VV5-F (NYSLYCYÖ) Kumanda Kablosu",
         "fiyat": "1009 06 006"
     },
     {
         "marka": "Genel",
-        "urun_adi": "7 x 0,75 mm2  (NYSLYCYÖ) Kumanda Kablosu",
+        "urun_adi": "7 x 0,75OZ mm2  H05VV5-F (NYSLYCYÖ) Kumanda Kablosu",
         "fiyat": "1009 06 007"
     },
     {
         "marka": "Genel",
-        "urun_adi": "8 x 0,75 mm2  (NYSLYCYÖ) Kumanda Kablosu",
+        "urun_adi": "8 x 0,75OZ mm2  H05VV5-F (NYSLYCYÖ) Kumanda Kablosu",
         "fiyat": "1009 06 008"
     },
     {
         "marka": "Genel",
-        "urun_adi": "10 x 0,75 mm2  (NYSLYCYÖ) Kumanda Kablosu",
+        "urun_adi": "10 x 0,75OZ mm2  (H05VV5-F NYSLYCYÖ) Kumanda Kablosu",
         "fiyat": "1009 06 010"
     },
     {
         "marka": "Genel",
-        "urun_adi": "12 x 0,75 mm2  (NYSLYCYÖ) Kumanda Kablosu",
+        "urun_adi": "12 x 0,75OZ mm2  H05VV5-F (NYSLYCYÖ) Kumanda Kablosu",
         "fiyat": "1009 06 012"
     },
     {
         "marka": "Genel",
-        "urun_adi": "14 x 0,75 mm2  (NYSLYCYÖ) Kumanda Kablosu",
+        "urun_adi": "14 x 0,75OZ mm2 H05VV5-F  (NYSLYCYÖ) Kumanda Kablosu",
         "fiyat": "1009 06 014"
     },
     {
         "marka": "Genel",
-        "urun_adi": "16 x 0,75 mm2  (NYSLYCYÖ) Kumanda Kablosu",
+        "urun_adi": "16 x 0,75OZ mm2  H05VV5-F (NYSLYCYÖ) Kumanda Kablosu",
         "fiyat": "1009 06 016"
     },
     {
         "marka": "Genel",
-        "urun_adi": "18 x 0,75 mm2  (NYSLYCYÖ) Kumanda Kablosu",
+        "urun_adi": "18 x 0,75OZ mm2  H05VV5-F (NYSLYCYÖ) Kumanda Kablosu",
         "fiyat": "1009 06 018"
     },
     {
         "marka": "Genel",
-        "urun_adi": "20 x 0,75 mm2  (NYSLYCYÖ) Kumanda Kablosu",
+        "urun_adi": "20 x 0,75OZ mm2  H05VV5-F (NYSLYCYÖ) Kumanda Kablosu",
         "fiyat": "1009 06 020"
     },
     {
         "marka": "Genel",
-        "urun_adi": "24 x 0,75 mm2  (NYSLYCYÖ) Kumanda Kablosu",
+        "urun_adi": "24 x 0,75OZ mm2  H05VV5-F (NYSLYCYÖ) Kumanda Kablosu",
         "fiyat": "1009 06 024"
     },
     {
         "marka": "Genel",
-        "urun_adi": "25 x 0,75 mm2  (NYSLYCYÖ) Kumanda Kablosu",
+        "urun_adi": "25 x 0,75OZ mm2  H05VV5-F (NYSLYCYÖ) Kumanda Kablosu",
         "fiyat": "1009 06 025"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "2 x 1,5OZ mm2  H05VV5-F  (NYSLYCYÖ) Kumanda Kablosu",
+        "fiyat": "1009 08 002"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "3 x 1,5 mm2  H05VV5-F  (NYSLYCYÖ) Kumanda Kablosu",
+        "fiyat": "1009 08 003"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "4 x 1,5 mm2  H05VV5-F  (NYSLYCYÖ) Kumanda Kablosu",
+        "fiyat": "1009 08 004"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "5 x 1,5 mm2  H05VV5-F  (NYSLYCYÖ) Kumanda Kablosu",
+        "fiyat": "1009 08 005"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "6 x 1,5 mm2  H05VV5-F  (NYSLYCYÖ) Kumanda Kablosu",
+        "fiyat": "1009 08 006"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "7 x 1,5 mm2  H05VV5-F  (NYSLYCYÖ) Kumanda Kablosu",
+        "fiyat": "1009 08 007"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "8 x 1,5 mm2  H05VV5-F  (NYSLYCYÖ) Kumanda Kablosu",
+        "fiyat": "1009 08 008"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "10 x 1,5 mm2  H05VV5-F  (NYSLYCYÖ) Kumanda Kablosu",
+        "fiyat": "1009 08 010"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "12 x 1,5 mm2  H05VV5-F  (NYSLYCYÖ) Kumanda Kablosu",
+        "fiyat": "1009 08 012"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "14 x 1,5 mm2  H05VV5-F  (NYSLYCYÖ) Kumanda Kablosu",
+        "fiyat": "1009 08 014"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "16 x 1,5 mm2  H05VV5-F  (NYSLYCYÖ) Kumanda Kablosu",
+        "fiyat": "1009 08 016"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "18 x 1,5 mm2  H05VV5-F  (NYSLYCYÖ) Kumanda Kablosu",
+        "fiyat": "1009 08 018"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "20 x 1,5 mm2  H05VV5-F  (NYSLYCYÖ) Kumanda Kablosu",
+        "fiyat": "1009 08 020"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "24 x 1,5 mm2  H05VV5-F  (NYSLYCYÖ) Kumanda Kablosu",
+        "fiyat": "1009 08 024"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "25 x 1,5 mm2  H05VV5-F  (NYSLYCYÖ) Kumanda Kablosu",
+        "fiyat": "1009 08 025"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "2 x 2,5OZ mm2  H05VV5-F  (NYSLYCYÖ) Kumanda Kablosu",
+        "fiyat": "1009 09 002"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "3 x 2,5 mm2  H05VV5-F  (NYSLYCYÖ) Kumanda Kablosu",
+        "fiyat": "1009 09 003"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "4 x 2,5 mm2  H05VV5-F  (NYSLYCYÖ) Kumanda Kablosu",
+        "fiyat": "1009 09 004"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "5 x 2,5 mm2  H05VV5-F  (NYSLYCYÖ) Kumanda Kablosu",
+        "fiyat": "1009 09 005"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "6 x 2,5 mm2  H05VV5-F  (NYSLYCYÖ) Kumanda Kablosu",
+        "fiyat": "1009 09 006"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "7 x 2,5 mm2  H05VV5-F  (NYSLYCYÖ) Kumanda Kablosu",
+        "fiyat": "1009 09 007"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "8 x 2,5 mm2  H05VV5-F  (NYSLYCYÖ) Kumanda Kablosu",
+        "fiyat": "1009 09 008"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "10 x 2,5 mm2  H05VV5-F  (NYSLYCYÖ) Kumanda Kablosu",
+        "fiyat": "1009 09 010"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "12 x 2,5 mm2  H05VV5-F  (NYSLYCYÖ) Kumanda Kablosu",
+        "fiyat": "1009 09 012"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "4 x 4 mm2  H05VV5-F  (NYSLYCYÖ) Kumanda Kablosu",
+        "fiyat": "1009 10 004"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "4 x 5 mm2  H05VV5-F  (NYSLYCYÖ) Kumanda Kablosu",
+        "fiyat": "1009 10 006"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "2 x 0,50OZ mm2  552-H HSLH H.free Kumanda Kablosu",
+        "fiyat": "1962 05 002"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "3 x 0,50 mm2  552-H HSLH H.free Kumanda Kablosu",
+        "fiyat": "1962 05 003"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "4 x 0,50 mm2  552-H HSLH H.free Kumanda Kablosu",
+        "fiyat": "1962 05 004"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "5 x 0,50 mm2  552-H HSLH H.free Kumanda Kablosu",
+        "fiyat": "1962 05 005"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "6 x 0,50 mm2  552-H HSLH H.free Kumanda Kablosu",
+        "fiyat": "1962 05 006"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "7 x 0,50 mm2  552-H HSLH H.free Kumanda Kablosu",
+        "fiyat": "1962 05 007"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "8 x 0,50 mm2  552-H HSLH H.free Kumanda Kablosu",
+        "fiyat": "1962 05 008"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "10 x 0,50 mm2  552-H HSLH H.free Kumanda Kablosu",
+        "fiyat": "1962 05 010"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "12 x 0,50 mm2  552-H HSLH H.free Kumanda Kablosu",
+        "fiyat": "1962 05 012"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "14 x 0,50 mm2  552-H HSLH H.free Kumanda Kablosu",
+        "fiyat": "1962 05 014"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "16 x 0,50 mm2  552-H HSLH H.free Kumanda Kablosu",
+        "fiyat": "1962 05 016"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "18 x 0,50 mm2  552-H HSLH H.free Kumanda Kablosu",
+        "fiyat": "1962 05 018"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "20 x 0,50 mm2  552-H HSLH H.free Kumanda Kablosu",
+        "fiyat": "1962 05 020"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "21 x 0,50 mm2  552-H HSLH H.free Kumanda Kablosu",
+        "fiyat": "1962 05 021"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "24 x 0,50 mm2  552-H HSLH H.free Kumanda Kablosu",
+        "fiyat": "1962 05 024"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "25 x 0,50 mm2  552-H HSLH H.free Kumanda Kablosu",
+        "fiyat": "1962 05 025"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "2 x 0,75OZ mm2  552-H HSLH H.free Kumanda Kablosu",
+        "fiyat": "1962 06 002"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "3 x 0,75 mm2  552-H HSLH H.free Kumanda Kablosu",
+        "fiyat": "1962 06 003"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "4 x 0,75 mm2  552-H HSLH H.free Kumanda Kablosu",
+        "fiyat": "1962 06 004"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "5 x 0,75 mm2  552-H HSLH H.free Kumanda Kablosu",
+        "fiyat": "1962 06 005"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "6 x 0,75 mm2  552-H HSLH H.free Kumanda Kablosu",
+        "fiyat": "1962 06 006"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "7 x 0,75 mm2  552-H HSLH H.free Kumanda Kablosu",
+        "fiyat": "1962 06 007"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "8 x 0,75 mm2  552-H HSLH H.free Kumanda Kablosu",
+        "fiyat": "1962 06 008"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "10 x 0,75 mm2  552-H HSLH H.free Kumanda Kablosu",
+        "fiyat": "1962 06 010"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "12 x 0,75 mm2  552-H HSLH H.free Kumanda Kablosu",
+        "fiyat": "1962 06 012"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "14 x 0,75 mm2  552-H HSLH H.free Kumanda Kablosu",
+        "fiyat": "1962 06 014"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "16 x 0,75 mm2  552-H HSLH H.free Kumanda Kablosu",
+        "fiyat": "1962 06 016"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "18 x 0,75 mm2  552-H HSLH H.free Kumanda Kablosu",
+        "fiyat": "1962 06 018"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "20 x 0,75 mm2  552-H HSLH H.free Kumanda Kablosu",
+        "fiyat": "1962 06 020"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "21 x 0,75 mm2  552-H HSLH H.free Kumanda Kablosu",
+        "fiyat": "1962 06 021"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "24 x 0,75 mm2  552-H HSLH H.free Kumanda Kablosu",
+        "fiyat": "1962 06 024"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "25 x 0,75 mm2  552-H HSLH H.free Kumanda Kablosu",
+        "fiyat": "1962 06 025"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "2 x 1,5OZ mm2  552-H HSLH H.free Kumanda Kablosu",
+        "fiyat": "1962 08 002"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "3 x 1,5OZ mm2  552-H HSLH H.free Kumanda Kablosu",
+        "fiyat": "1962 08 003"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "4 x 1,5OZ mm2  552-H HSLH H.free Kumanda Kablosu",
+        "fiyat": "1962 08 004"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "5 x 1,5OZ mm2  552-H HSLH H.free Kumanda Kablosu",
+        "fiyat": "1962 08 005"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "6 x 1,5OZ mm2  552-H HSLH H.free Kumanda Kablosu",
+        "fiyat": "1962 08 006"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "7 x 1,5OZ mm2  552-H HSLH H.free Kumanda Kablosu",
+        "fiyat": "1962 08 007"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "8 x 1,5OZ mm2  552-H HSLH H.free Kumanda Kablosu",
+        "fiyat": "1962 08 008"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "10 x 1,5OZ mm2  552-H HSLH H.free Kumanda Kablosu",
+        "fiyat": "1962 08 010"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "12 x 1,5OZ mm2  552-H HSLH H.free Kumanda Kablosu",
+        "fiyat": "1962 08 012"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "14 x 1,5OZ mm2  552-H HSLH H.free Kumanda Kablosu",
+        "fiyat": "1962 08 014"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "16 x 1,5OZ mm2  552-H HSLH H.free Kumanda Kablosu",
+        "fiyat": "1962 08 016"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "18 x 1,5OZ mm2  552-H HSLH H.free Kumanda Kablosu",
+        "fiyat": "1962 08 018"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "20 x 1,5OZ mm2  552-H HSLH H.free Kumanda Kablosu",
+        "fiyat": "1962 08 020"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "21 x 1,5OZ mm2  552-H HSLH H.free Kumanda Kablosu",
+        "fiyat": "1962 08 021"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "24 x 1,5OZ mm2  552-H HSLH H.free Kumanda Kablosu",
+        "fiyat": "1962 08 024"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "25 x 1,5OZ mm2  552-H HSLH H.free Kumanda Kablosu",
+        "fiyat": "1962 08 025"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "2 x 2,5OZ mm2  552-H HSLH H.free Kumanda Kablosu",
+        "fiyat": "1962 09 002"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "3 x 2,5 mm2  552-H HSLH H.free Kumanda Kablosu",
+        "fiyat": "1962 09 003"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "4 x 2,5 mm2  552-H HSLH H.free Kumanda Kablosu",
+        "fiyat": "1962 09 004"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "5 x 2,5 mm2  552-H HSLH H.free Kumanda Kablosu",
+        "fiyat": "1962 09 005"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "6 x 2,5 mm2  552-H HSLH H.free Kumanda Kablosu",
+        "fiyat": "1962 09 006"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "7 x 2,5 mm2  552-H HSLH H.free Kumanda Kablosu",
+        "fiyat": "1962 09 007"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "8 x 2,5 mm2  552-H HSLH H.free Kumanda Kablosu",
+        "fiyat": "1962 09 008"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "10 x 2,5 mm2  552-H HSLH H.free Kumanda Kablosu",
+        "fiyat": "1962 09 010"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "12 x 2,5 mm2  552-H HSLH H.free Kumanda Kablosu",
+        "fiyat": "1962 09 012"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "4 x 4 mm2  552-H HSLH H.free Kumanda Kablosu",
+        "fiyat": "1962 10 004"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "5 x 4 mm2  552-H HSLH H.free Kumanda Kablosu",
+        "fiyat": "1962 10 005"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "4 x 6 mm2  552-H HSLH H.free Kumanda Kablosu",
+        "fiyat": "1962 11 004"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "5 x 6 mm2  552-H HSLH H.free Kumanda Kablosu",
+        "fiyat": "1962 11 006"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "2 x 0,50 mm2  H05VVC4V5-K  (NYSLYCYÖ) Kablo",
+        "fiyat": "1010 05 002"
     },
     {
         "marka": "Genel",
