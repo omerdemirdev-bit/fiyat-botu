@@ -19276,6 +19276,41 @@
     },
     {
         "marka": "Genel",
+        "urun_adi": "1x2x0.80+0.80 mm J-H(St)H Bd H.free Yangın alarm Kablosu",
+        "fiyat": "1958 04 001"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "2x2x0.80+0.80 mm J-H(St)H Bd H.free Yangın alarm Kablosu",
+        "fiyat": "1958 04 002"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "4x2x0.80+0.80 mm J-H(St)H Bd H.free Yangın alarm Kablosu",
+        "fiyat": "1958 04 004"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "1x2x1,5+0.80 mm J-H(St)H Bd H.free Yangın alarm Kablosu",
+        "fiyat": "1958 08 001"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "2x2x1,5+0.80 mm J-H(St)H Bd H.free Yangın alarm Kablosu",
+        "fiyat": "1958 08 002"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "1x2x1,5+1,5 mm J-H(St)H Bd H.free Yangın alarm Kablosu",
+        "fiyat": "1958 09 001"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "2x2x1,5+1,5 mm J-H(St)H Bd H.free Yangın alarm Kablosu",
+        "fiyat": "1958 09 001"
+    },
+    {
+        "marka": "Genel",
         "urun_adi": "1x2x0,80+0,80 mm FE180  PH120 Yangın Alarm Kablosu",
         "fiyat": "1921 04 001"
     },
@@ -19328,6 +19363,146 @@
         "marka": "Genel",
         "urun_adi": "2x2x1,5+1,5 mm FE180  PH120 Yangın Alarm Kablosu",
         "fiyat": "1921 08 002"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "1 x 2 x 0,64 mm PVC Yüksek Hız Veri İletişim Kablosu",
+        "fiyat": "1125 01 201"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "1 x 2 x 0,64 mm HFFR Yüksek Hız Veri İletişim Kablosu",
+        "fiyat": "1125 05 201 008"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "1 x 2 x 0,90+0,80 mm PLTC Kablo",
+        "fiyat": "1118 07 201"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "2x2x22/1 mm Profinet TypeA 2YY(St)CY Kablo",
+        "fiyat": "1936 03 902"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "CAT.6 U/UTP 4PR 23AWG(0,55mmCu) LSZH",
+        "fiyat": "1915 23 001 101"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "CAT.6 U/UTP 4PR 24AWG(0,52mmCu) LSZH",
+        "fiyat": "1915 24 001 101"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "CAT.6 U/UTP 4PR 23AWG(0,55mmCu) PE",
+        "fiyat": "1124 23 001 301"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "CAT.6A F/UTP 4PR 23AWG(0,55mmCu) LSZH",
+        "fiyat": "1915 23 002 201"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "CAT.6A F/UTP 4PR 23AWG(0,55mmCu) PE",
+        "fiyat": "1124 23 002 203"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "CAT.6A SF/UTP 4PR 23AWG(0,55mmCu) LSZH",
+        "fiyat": "1915 23 003 202"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "CAT.6A SF/UTP 4PR 23AWG(0,55mmCu) PE",
+        "fiyat": "1124 23 004 801"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "CAT.6A S/FTP 4PR 23AWG(0,55mmCu) LSZH",
+        "fiyat": "1915 23 004 202"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "CAT.6A S/FTP 4PR 23AWG(0,55mmCu) PE",
+        "fiyat": "1915 23 004 203"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "CAT.6A U/FTP 4PR 23AWG(0,55mmCu) LSZH",
+        "fiyat": "1915 23 004 306"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "CAT.6A U/FTP 4PR 23AWG(0,55mmCu) PE",
+        "fiyat": "1124 23 004 402"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "CAT.6A F/FTP 4PR 23AWG(0,55mmCu) LSZH",
+        "fiyat": "1915 23 004 701"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "CAT.6A F/FTP 4PR 23AWG(0,55mmCu) PE",
+        "fiyat": "1915 23 004 801"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "CAT6 SF/UTP EF FC CAT6 4x2x26AWG/19 PUR",
+        "fiyat": "1915 26 904 001"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "CAT.6 U/UTP 4PR 23AWG(0,55mmCu) PVC",
+        "fiyat": "1124 23 001 101"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "CAT.7A S/FTP 4PR 23AWG(0,54mmCu) LSZH 1000Mhz CPR Cca (Turuncu)",
+        "fiyat": "1915 23 904 301"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "CAT.7A S/FTP 4PR 23AWG(0,55mmCu) PE (Siyah)",
+        "fiyat": "1915 23 904 401"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "RG6/U-6F 75 Ohm (CU) PVC (Bakır Kılıflı) Koaksiyel Kablo",
+        "fiyat": "1301 06 006"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "RG11/U-6F 75 Ohm (CU) PVC (Bakır Kılıflı) Koaksiyel Kablo",
+        "fiyat": "1301 06 011"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "RG6/U-4F AL. 75 Ohm (CU) PVC (Aluminyum Kılıflı) Koaksiyel Kablo",
+        "fiyat": "1302 04 006"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "RG11/U-4F AL. 75 Ohm (CU) PVC (Aluminyum Kılıflı) Koaksiyel Kablo",
+        "fiyat": "1302 04 011"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "RG6/U-6F HF(CU-CU) Class B-CPR Eca (Bakır Kılıflı) Koaksiyel Kablo",
+        "fiyat": "1305 06 006"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "RG11/U-6F HF(CU-CU) Class B-CPR Eca (Bakır Kılıflı) Koaksiyel Kablo",
+        "fiyat": "1305 06 011"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "RG6/U-6F HF Trishield (CU-CU) Class A+ (Bakır Kılıflı) Koaksiyel Kablo",
+        "fiyat": "1305 06 006 007"
     },
     {
         "marka": "Herkül",
