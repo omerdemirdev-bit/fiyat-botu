@@ -26776,203 +26776,233 @@
     },
     {
         "marka": "Mervesan",
+        "urun_adi": "KOD",
+        "fiyat": "GİRİŞ VOLTAJI"
+    },
+    {
+        "marka": "Mervesan",
         "urun_adi": "MRW-60-12-S",
-        "fiyat": "12V DC Çıkış"
+        "fiyat": "100-240 V Giriş"
+    },
+    {
+        "marka": "Mervesan",
+        "urun_adi": "MRW-60-24-S",
+        "fiyat": "100-240 V Giriş"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MRW-120-12-S",
-        "fiyat": "12V DC Çıkış"
+        "fiyat": "100-240 V Giriş"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MRW-120-24-S",
-        "fiyat": "24V DC Çıkış"
+        "fiyat": "100-240 V Giriş"
+    },
+    {
+        "marka": "Mervesan",
+        "urun_adi": "MRW-150-12-S",
+        "fiyat": "100-240 V Giriş"
+    },
+    {
+        "marka": "Mervesan",
+        "urun_adi": "MRW-150-24-S",
+        "fiyat": "100-240 V Giriş"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MRW-200-12-S",
-        "fiyat": "12V DC Çıkış"
+        "fiyat": "176-264 V Giriş"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MRW-200-24-S",
-        "fiyat": "24V DC Çıkış"
+        "fiyat": "176-264 V Giriş"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MRW-250-12-S",
-        "fiyat": "12V DC Çıkış"
+        "fiyat": "176-264 V Giriş"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MRW-250-24-S",
-        "fiyat": "24V DC Çıkış"
+        "fiyat": "176-264 V Giriş"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MRW-300-12-S",
-        "fiyat": "12V DC Çıkış"
+        "fiyat": "176-264 V Giriş"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MRW-300-24-S",
-        "fiyat": "24V DC Çıkış"
+        "fiyat": "176-264 V Giriş"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MRW-360-12-S",
-        "fiyat": "12V DC Çıkış"
+        "fiyat": "176-264 V Giriş"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MRW-360-24-S",
-        "fiyat": "24V DC Çıkı ş"
+        "fiyat": "176-264 V Giriş"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MRW-24-12 PL",
-        "fiyat": "12 V Çıkış"
+        "fiyat": "100-240 V Giriş"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MRW-24-24 PL",
-        "fiyat": "24 V Çıkış"
+        "fiyat": "100-240 V Giriş"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MRW-36-12 PL",
-        "fiyat": "12 V Çıkış"
+        "fiyat": "100-240 V Giriş"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MRW-36-24 PL",
-        "fiyat": "24 V Çıkış"
+        "fiyat": "100-240 V Giriş"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MRW-60-12 PL",
-        "fiyat": "12 V Çıkış"
+        "fiyat": "100-240 V Giriş"
     },
     {
         "marka": "Mervesan",
-        "urun_adi": "MRW-60-24 PL",
-        "fiyat": "24 V Ç ıkış"
+        "urun_adi": "MRW-60-2 4 PL",
+        "fiyat": "100-240 V Giriş"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MT-1505 USB-C",
-        "fiyat": "5 V"
+        "fiyat": "100-240 V Giriş"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MTU-12KM",
-        "fiyat": "3-4,5-5-6-7,5-9-12 V"
+        "fiyat": "100-240 V Giriş"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MTU-90KM",
-        "fiyat": "15-16-18-20-22-24 V"
+        "fiyat": "100-240 V Giriş"
     },
     {
         "marka": "Mervesan",
-        "urun_adi": "MSLA-120KM",
-        "fiyat": "12-15-16-18-2 0-24 V"
+        "urun_adi": "MT-GaN- 45",
+        "fiyat": "100-240 V Giriş"
+    },
+    {
+        "marka": "Mervesan",
+        "urun_adi": "MT-GaN- 65",
+        "fiyat": "100-240 V Giriş"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MRW-0505",
-        "fiyat": "5 V"
+        "fiyat": "230V Giriş Akımı"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MRW-1505",
-        "fiyat": "5 V"
+        "fiyat": "230V Giriş Akımı"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MRW-1506",
-        "fiyat": "6 V"
+        "fiyat": "230V Giriş Akımı"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MRW-1509",
-        "fiyat": "9 V"
+        "fiyat": "230V Giriş Akımı"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MRW-1512",
-        "fiyat": "12 V"
+        "fiyat": "230V Giriş Akımı"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MRW-2505",
-        "fiyat": "5 V"
+        "fiyat": "230V Giriş Akımı"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MRW-2512P",
-        "fiyat": "12 V"
+        "fiyat": "230V Giriş Akımı"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MRW-2524P",
-        "fiyat": "24 V"
+        "fiyat": "230V Giriş Akımı"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MRW-1512 DT",
-        "fiyat": "12 V"
+        "fiyat": "100-240 V Giriş"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MRW-2512",
-        "fiyat": "12 V"
+        "fiyat": "100-240 V Giriş"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MRW-2524",
-        "fiyat": "24 V"
+        "fiyat": "100-240 V Giriş"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MRW-4012",
-        "fiyat": "12 V"
+        "fiyat": "100-240 V Giriş"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MRW-4024",
-        "fiyat": "24 V"
+        "fiyat": "100-240 V Giriş"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MRW-6012",
-        "fiyat": "12 V"
+        "fiyat": "100-240 V Giriş"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MRW-6024",
-        "fiyat": "24 V"
+        "fiyat": "100-240 V Giriş"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MRW-9012",
-        "fiyat": "12 V"
+        "fiyat": "100-240 V Giriş"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MRW-9024",
-        "fiyat": "24 V"
+        "fiyat": "100-240 V Giriş"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MRW-12012",
-        "fiyat": "12 V"
+        "fiyat": "100-240 V Giriş"
+    },
+    {
+        "marka": "Mervesan",
+        "urun_adi": "MRW-12024",
+        "fiyat": "100-240 V Giriş"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MRW-EB-3620",
-        "fiyat": "44 V"
+        "fiyat": "20Ah Şarj"
     },
     {
         "marka": "Mervesan",
@@ -26992,462 +27022,357 @@
     {
         "marka": "Mervesan",
         "urun_adi": "MT SERİSİ",
-        "fiyat": "ÇIKIŞ VOLT. (V DC)"
+        "fiyat": "GİRİŞ VOLTAJI"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MT-25-5",
-        "fiyat": "5 V"
+        "fiyat": "(200-240V) AC"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MT-24-12",
-        "fiyat": "12 V"
+        "fiyat": "(200-240V) AC"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MT-24-24",
-        "fiyat": "24 V"
+        "fiyat": "(200-240V) AC"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MT-36-12",
-        "fiyat": "12 V"
+        "fiyat": "(200-240V) AC"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MT-36-24",
-        "fiyat": "24 V"
+        "fiyat": "(200-240V) AC"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MT-60-5",
-        "fiyat": "5 V"
+        "fiyat": "(200-240V) AC"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MT-60-12",
-        "fiyat": "12 V"
+        "fiyat": "(200-240V) AC"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MT-60-24",
-        "fiyat": "24 V"
+        "fiyat": "(200-240V) AC"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MT-100-5",
-        "fiyat": "5 V"
+        "fiyat": "(200-240V) AC"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MT-100-12",
-        "fiyat": "12 V"
+        "fiyat": "(200-240V) AC"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MT-100-24",
-        "fiyat": "24 V"
+        "fiyat": "(200-240V) AC"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MT-120-12",
-        "fiyat": "12 V"
+        "fiyat": "(200-240V) AC"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MT-120-24",
-        "fiyat": "24 V"
+        "fiyat": "(200-240V) AC"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MT-150-5",
-        "fiyat": "5 V"
+        "fiyat": "(200-240V) AC"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MT-150-12",
-        "fiyat": "12 V"
+        "fiyat": "(200-240V) AC"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MT-150-24",
-        "fiyat": "24 V"
+        "fiyat": "(200-240V) AC"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MT-150-48",
-        "fiyat": "48 V"
+        "fiyat": "(200-240V) AC"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MT-200-5",
-        "fiyat": "5 V"
+        "fiyat": "(200-240V) AC"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MT-200-12",
-        "fiyat": "12 V"
+        "fiyat": "(200-240V) AC"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MT-200-18",
-        "fiyat": "18 V"
+        "fiyat": "(200-240V) AC"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MT-200-24",
-        "fiyat": "24 V"
+        "fiyat": "(200-240V) AC"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MT-200-48",
-        "fiyat": "48 V"
+        "fiyat": "(200-240V) AC"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MT-250-12",
-        "fiyat": "12 V"
+        "fiyat": "(200-240V) AC"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MT-250-24",
-        "fiyat": "24 V"
+        "fiyat": "(200-240V) AC"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MT-280-12",
-        "fiyat": "12 V"
+        "fiyat": "(200-240V) AC"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MT-300-5",
-        "fiyat": "5 V"
+        "fiyat": "(200-240V) AC"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MT-350-5",
-        "fiyat": "5 V"
+        "fiyat": "(200-240V) AC"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MT-350-12",
-        "fiyat": "12 V"
+        "fiyat": "(200-240V) AC"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MT-350-24",
-        "fiyat": "24 V"
+        "fiyat": "(200-240V) AC"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MT-350-36",
-        "fiyat": "36 V"
+        "fiyat": "(200-240V) AC"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MT-350-48",
-        "fiyat": "48 V"
+        "fiyat": "(200-240V) AC"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MT-500-12",
-        "fiyat": "12 V"
+        "fiyat": "(200-240V) AC"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MT-500-24",
-        "fiyat": "24 V"
+        "fiyat": "(200-240V) AC"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MT-500-48",
-        "fiyat": "48 V"
+        "fiyat": "(200-240V) AC"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MT-600-12",
-        "fiyat": "12 V"
+        "fiyat": "(200-240V) AC"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MT-600-24",
-        "fiyat": "24 V"
+        "fiyat": "(200-240V) AC"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MT-800-12",
-        "fiyat": "12 V"
+        "fiyat": "(200-240V) AC"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MT-800-24",
-        "fiyat": "24 V"
+        "fiyat": "(200-240V) AC"
+    },
+    {
+        "marka": "Mervesan",
+        "urun_adi": "MT-24-12-S",
+        "fiyat": "100-264 V AC"
+    },
+    {
+        "marka": "Mervesan",
+        "urun_adi": "MT-24-24-S",
+        "fiyat": "100-264 V AC"
+    },
+    {
+        "marka": "Mervesan",
+        "urun_adi": "MT-36-12-S",
+        "fiyat": "100-264 V AC"
+    },
+    {
+        "marka": "Mervesan",
+        "urun_adi": "MT-36-24-S",
+        "fiyat": "100-264 V AC"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MT-60-12-S",
-        "fiyat": "12 V"
+        "fiyat": "100-264 V AC"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MT-60-24-S",
-        "fiyat": "24 V"
+        "fiyat": "100-264 V AC"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MT-120-12-S",
-        "fiyat": "12 V"
+        "fiyat": "100-264 V AC"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MT-120-24-S",
-        "fiyat": "24 V"
+        "fiyat": "100-264 V AC"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MT-150-12-S",
-        "fiyat": "12 V"
+        "fiyat": "176-264 V AC"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MT-150-24-S",
-        "fiyat": "24 V"
+        "fiyat": "176-264 V AC"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MT-200-12-S",
-        "fiyat": "12 V"
+        "fiyat": "176-264 V AC"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MT-200-24-S",
-        "fiyat": "24 V"
+        "fiyat": "176-264 V AC"
     },
     {
         "marka": "Mervesan",
-        "urun_adi": "MT-280-12-S",
-        "fiyat": "12 V"
+        "urun_adi": "MT-250-12-S",
+        "fiyat": "176-264 V AC"
     },
     {
         "marka": "Mervesan",
-        "urun_adi": "MT-280-24-S",
-        "fiyat": "24 V"
+        "urun_adi": "MT-250-24-S",
+        "fiyat": "176-264 V AC"
     },
     {
         "marka": "Mervesan",
-        "urun_adi": "MTLRS-24-12",
-        "fiyat": "12 V"
+        "urun_adi": "MT-320-12-S",
+        "fiyat": "176-264 V AC"
     },
     {
         "marka": "Mervesan",
-        "urun_adi": "MTLRS-24-24",
-        "fiyat": "24 V"
+        "urun_adi": "MT-320-24-S",
+        "fiyat": "176-264 V AC"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MTLRS-36-12",
-        "fiyat": "12 V"
+        "fiyat": "230V AC"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MTLRS-36-24",
-        "fiyat": "24 V"
+        "fiyat": "230V AC"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MTLRS-100-12",
-        "fiyat": "12 V"
+        "fiyat": "230V AC"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MTLRS-100-24",
-        "fiyat": "24 V"
+        "fiyat": "230V AC"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MTLRS-120-24",
-        "fiyat": "24 V"
-    },
-    {
-        "marka": "Mervesan",
-        "urun_adi": "MTLRS-350-12",
-        "fiyat": "12 V"
+        "fiyat": "230V AC"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MTLRS-600-12",
-        "fiyat": "12 V"
+        "fiyat": "230V AC"
     },
     {
         "marka": "Mervesan",
-        "urun_adi": "MS-CCTV-9 P / UPS",
-        "fiyat": "12V DC"
+        "urun_adi": "MS-CCTV-9 P/UPS",
+        "fiyat": "230V AC"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "FY-3710",
-        "fiyat": "12 V"
+        "fiyat": "230V AC"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MT-06-12i",
-        "fiyat": "12 V"
+        "fiyat": "100-240V AC"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MT-15-12i",
-        "fiyat": "12 V"
+        "fiyat": "100-240V AC"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MT-24-12i",
-        "fiyat": "12 V"
+        "fiyat": "100-240V AC"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MT-24-24i",
-        "fiyat": "24 V"
+        "fiyat": "100-240V AC"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MT-36-12i",
-        "fiyat": "12 V"
+        "fiyat": "100-240V AC"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MT-36-24i",
-        "fiyat": "24 V"
+        "fiyat": "100-240V AC"
     },
     {
         "marka": "Mervesan",
         "urun_adi": "MT-60-12i",
-        "fiyat": "12 V"
+        "fiyat": "100-240V AC"
     },
     {
         "marka": "Mervesan",
-        "urun_adi": "MERVESAN  SABİT VOLTAJ  AC / DC SMPS ADAPTÖRLER (Plastik Kasa) 2025 FİYAT LİSTESİ",
+        "urun_adi": "MERVESAN  SABİT VOLTAJ  AC / DC SMPS ADAPTÖRLER (Plastik Kasa) 2026 FİYAT LİSTESİ",
         "fiyat": "FİYAT"
-    },
-    {
-        "marka": "Mervesan",
-        "urun_adi": "MTWP-06-12",
-        "fiyat": "12 V"
-    },
-    {
-        "marka": "Mervesan",
-        "urun_adi": "MTWP-15-12",
-        "fiyat": "12 V"
-    },
-    {
-        "marka": "Mervesan",
-        "urun_adi": "MTWP-18-12",
-        "fiyat": "12 V"
-    },
-    {
-        "marka": "Mervesan",
-        "urun_adi": "MTWP-24-12",
-        "fiyat": "12 V"
-    },
-    {
-        "marka": "Mervesan",
-        "urun_adi": "MTWP-24-24",
-        "fiyat": "24 V"
-    },
-    {
-        "marka": "Mervesan",
-        "urun_adi": "MTWP-36-12",
-        "fiyat": "12 V"
-    },
-    {
-        "marka": "Mervesan",
-        "urun_adi": "MTWP-36-24",
-        "fiyat": "24 V"
-    },
-    {
-        "marka": "Mervesan",
-        "urun_adi": "MTWP-60-12",
-        "fiyat": "12 V"
-    },
-    {
-        "marka": "Mervesan",
-        "urun_adi": "MTWP-60-24",
-        "fiyat": "24 V"
-    },
-    {
-        "marka": "Mervesan",
-        "urun_adi": "MSWP-1005",
-        "fiyat": "5 V"
-    },
-    {
-        "marka": "Mervesan",
-        "urun_adi": "MTWP-100-12",
-        "fiyat": "12 V"
-    },
-    {
-        "marka": "Mervesan",
-        "urun_adi": "MTWP-100-24",
-        "fiyat": "24 V"
-    },
-    {
-        "marka": "Mervesan",
-        "urun_adi": "MSWP-1505",
-        "fiyat": "5 V"
-    },
-    {
-        "marka": "Mervesan",
-        "urun_adi": "MTWP-150-12",
-        "fiyat": "12 V"
-    },
-    {
-        "marka": "Mervesan",
-        "urun_adi": "MTWP-150-24",
-        "fiyat": "24 V"
-    },
-    {
-        "marka": "Mervesan",
-        "urun_adi": "MSWP-2005",
-        "fiyat": "5 V"
-    },
-    {
-        "marka": "Mervesan",
-        "urun_adi": "MTWP-200-12",
-        "fiyat": "12 V"
-    },
-    {
-        "marka": "Mervesan",
-        "urun_adi": "MTWP-200-24",
-        "fiyat": "24 V"
-    },
-    {
-        "marka": "Mervesan",
-        "urun_adi": "MTWP-250-12",
-        "fiyat": "12 V"
-    },
-    {
-        "marka": "Mervesan",
-        "urun_adi": "MTWP-250-24",
-        "fiyat": "24 V"
-    },
-    {
-        "marka": "Mervesan",
-        "urun_adi": "MTWP-300-12",
-        "fiyat": "12 V"
-    },
-    {
-        "marka": "Mervesan",
-        "urun_adi": "MTWP-300-24",
-        "fiyat": "24 V"
-    },
-    {
-        "marka": "Mervesan",
-        "urun_adi": "MTWP-400-12",
-        "fiyat": "12 V"
-    },
-    {
-        "marka": "Mervesan",
-        "urun_adi": "MTWP-400-24",
-        "fiyat": "24 V"
     },
     {
         "marka": "Mervesan",
