@@ -13386,6 +13386,346 @@
     },
     {
         "marka": "Tügen",
+        "urun_adi": "Standart KABLO PABUÇLARI TİP-2  EN 13600 (Kalay Kaplı)",
+        "fiyat": "FİYAT"
+    },
+    {
+        "marka": "Tügen",
+        "urun_adi": "16 mm2 (M6) Tip2 Kablo Pabucu",
+        "fiyat": "TSKPT2-01606"
+    },
+    {
+        "marka": "Tügen",
+        "urun_adi": "16 mm2 (M8) Tip2 Kablo Pabucu",
+        "fiyat": "TSKPT2-01608"
+    },
+    {
+        "marka": "Tügen",
+        "urun_adi": "25 mm2 (M8) Tip2 Kablo Pabucu",
+        "fiyat": "TSKPT2-02508"
+    },
+    {
+        "marka": "Tügen",
+        "urun_adi": "35 mm2 (M8) Tip2 Kablo Pabucu",
+        "fiyat": "TSKPT2-03508"
+    },
+    {
+        "marka": "Tügen",
+        "urun_adi": "50 mm2 (M10) Tip2 Kablo Pabucu",
+        "fiyat": "TSKPT2-05010"
+    },
+    {
+        "marka": "Tügen",
+        "urun_adi": "70 mm2 (M10) Tip2 Kablo Pabucu",
+        "fiyat": "TSKPT2-07010"
+    },
+    {
+        "marka": "Tügen",
+        "urun_adi": "70 mm2 (M12) Tip2 Kablo Pabucu",
+        "fiyat": "TSKPT2-07012"
+    },
+    {
+        "marka": "Tügen",
+        "urun_adi": "95 mm2 (M10) Tip2 Kablo Pabucu",
+        "fiyat": "TSKPT2-09510"
+    },
+    {
+        "marka": "Tügen",
+        "urun_adi": "95 mm2 (M14) Tip2 Kablo Pabucu",
+        "fiyat": "TSKPT2-09512"
+    },
+    {
+        "marka": "Tügen",
+        "urun_adi": "120 mm2 (M12) Tip2 Kablo Pabucu",
+        "fiyat": "TSKPT2-12012"
+    },
+    {
+        "marka": "Tügen",
+        "urun_adi": "150 mm2 (M12) Tip2 Kablo Pabucu",
+        "fiyat": "TSKPT2-15012"
+    },
+    {
+        "marka": "Tügen",
+        "urun_adi": "185 mm2 (M16) Tip2 Kablo Pabucu",
+        "fiyat": "TSKPT2-18516"
+    },
+    {
+        "marka": "Tügen",
+        "urun_adi": "240 mm2 (M12) Tip2 Kablo Pabucu",
+        "fiyat": "TSKPT2-24012"
+    },
+    {
+        "marka": "Tügen",
+        "urun_adi": "240 mm2 (M16) Tip2 Kablo Pabucu",
+        "fiyat": "TSKPT2-24016"
+    },
+    {
+        "marka": "Tügen",
+        "urun_adi": "Standart  EN 13600  /   Kalay Kaplı Bakır Kablo Pabucu",
+        "fiyat": "FİYAT"
+    },
+    {
+        "marka": "Tügen",
+        "urun_adi": "10 mm2 (M5) Tip2 Kablo Pabucu",
+        "fiyat": "TSKP-01006"
+    },
+    {
+        "marka": "Tügen",
+        "urun_adi": "10 mm2 (M6) Tip2 Kablo Pabucu",
+        "fiyat": "TSKP-01008"
+    },
+    {
+        "marka": "Tügen",
+        "urun_adi": "16 mm2 (M6) Tip2 Kablo Pabucu",
+        "fiyat": "TSKP-01606"
+    },
+    {
+        "marka": "Tügen",
+        "urun_adi": "16 mm2 (M8) Tip2 Kablo Pabucu",
+        "fiyat": "TSKP 01608"
+    },
+    {
+        "marka": "Tügen",
+        "urun_adi": "16 mm2 (M10) Tip2 Kablo Pabucu",
+        "fiyat": "TSKP-01610"
+    },
+    {
+        "marka": "Tügen",
+        "urun_adi": "25 mm2 (M6) Tip2 Kablo Pabucu",
+        "fiyat": "TSKP-02506"
+    },
+    {
+        "marka": "Tügen",
+        "urun_adi": "25 mm2 (M8) Tip2 Kablo Pabucu",
+        "fiyat": "TSKP-02508"
+    },
+    {
+        "marka": "Tügen",
+        "urun_adi": "25 mm2 (M10) Tip2 Kablo Pabucu",
+        "fiyat": "TSKP-02510"
+    },
+    {
+        "marka": "Tügen",
+        "urun_adi": "35 mm2 (M6) Tip2 Kablo Pabucu",
+        "fiyat": "TSKP-03506"
+    },
+    {
+        "marka": "Tügen",
+        "urun_adi": "35 mm2 (M8) Tip2 Kablo Pabucu",
+        "fiyat": "TSKP-03508"
+    },
+    {
+        "marka": "Tügen",
+        "urun_adi": "35 mm2 (M10) Tip2 Kablo Pabucu",
+        "fiyat": "TSKP-03510"
+    },
+    {
+        "marka": "Tügen",
+        "urun_adi": "35 mm2 (M12) Tip2 Kablo Pabucu",
+        "fiyat": "TSKP-03512"
+    },
+    {
+        "marka": "Tügen",
+        "urun_adi": "50 mm2 (M8) Tip2 Kablo Pabucu",
+        "fiyat": "TSKP-05008"
+    },
+    {
+        "marka": "Tügen",
+        "urun_adi": "50 mm2 (M10) Tip2 Kablo Pabucu",
+        "fiyat": "TSKP-05010"
+    },
+    {
+        "marka": "Tügen",
+        "urun_adi": "50 mm2 (M12) Tip2 Kablo Pabucu",
+        "fiyat": "TSKP-05012"
+    },
+    {
+        "marka": "Tügen",
+        "urun_adi": "70 mm2 (M8) Tip2 Kablo Pabucu",
+        "fiyat": "TSKP-07008"
+    },
+    {
+        "marka": "Tügen",
+        "urun_adi": "70 mm2 (M10) Tip2 Kablo Pabucu",
+        "fiyat": "TSKP-07010"
+    },
+    {
+        "marka": "Tügen",
+        "urun_adi": "70 mm2 (M12) Tip2 Kablo Pabucu",
+        "fiyat": "TSKP-07012"
+    },
+    {
+        "marka": "Tügen",
+        "urun_adi": "70 mm2 (M14) Tip2 Kablo Pabucu",
+        "fiyat": "TSKP-07014"
+    },
+    {
+        "marka": "Tügen",
+        "urun_adi": "95 mm2 (M8) Tip2 Kablo Pabucu",
+        "fiyat": "TSKP-09508"
+    },
+    {
+        "marka": "Tügen",
+        "urun_adi": "95 mm2 (M10) Tip2 Kablo Pabucu",
+        "fiyat": "TSKP-09510"
+    },
+    {
+        "marka": "Tügen",
+        "urun_adi": "95 mm2 (M12) Tip2 Kablo Pabucu",
+        "fiyat": "TSKP-09512"
+    },
+    {
+        "marka": "Tügen",
+        "urun_adi": "95 mm2 (M14) Tip2 Kablo Pabucu",
+        "fiyat": "TSKP-09514"
+    },
+    {
+        "marka": "Tügen",
+        "urun_adi": "95 mm2 (M16) Tip2 Kablo Pabucu",
+        "fiyat": "TSKP-09516"
+    },
+    {
+        "marka": "Tügen",
+        "urun_adi": "120 mm2 (M6) Tip2 Kablo Pabucu",
+        "fiyat": "TSKP-12006"
+    },
+    {
+        "marka": "Tügen",
+        "urun_adi": "120 mm2 (M8) Tip2 Kablo Pabucu",
+        "fiyat": "TSKP-12008"
+    },
+    {
+        "marka": "Tügen",
+        "urun_adi": "120 mm2 (M10) Tip2 Kablo Pabucu",
+        "fiyat": "TSKP-12010"
+    },
+    {
+        "marka": "Tügen",
+        "urun_adi": "120 mm2 (M12) Tip2 Kablo Pabucu",
+        "fiyat": "TSKP-12012"
+    },
+    {
+        "marka": "Tügen",
+        "urun_adi": "120 mm2 (M14) Tip2 Kablo Pabucu",
+        "fiyat": "TSKP-12014"
+    },
+    {
+        "marka": "Tügen",
+        "urun_adi": "120 mm2 (M16) Tip2 Kablo Pabucu",
+        "fiyat": "TSKP-12016"
+    },
+    {
+        "marka": "Tügen",
+        "urun_adi": "150 mm2 (M10) Tip2 Kablo Pabucu",
+        "fiyat": "TSKP-15010"
+    },
+    {
+        "marka": "Tügen",
+        "urun_adi": "150 mm2 (M12) Tip2 Kablo Pabucu",
+        "fiyat": "TSKP-15012"
+    },
+    {
+        "marka": "Tügen",
+        "urun_adi": "150 mm2 (M14) Tip2 Kablo Pabucu",
+        "fiyat": "TSKP-15014"
+    },
+    {
+        "marka": "Tügen",
+        "urun_adi": "150 mm2 (M16) Tip2 Kablo Pabucu",
+        "fiyat": "TSKP-15016"
+    },
+    {
+        "marka": "Tügen",
+        "urun_adi": "185 mm2 (M10) Tip2 Kablo Pabucu",
+        "fiyat": "TSKP-18510"
+    },
+    {
+        "marka": "Tügen",
+        "urun_adi": "185 mm2 (M12) Tip2 Kablo Pabucu",
+        "fiyat": "TSKP-18512"
+    },
+    {
+        "marka": "Tügen",
+        "urun_adi": "185 mm2 (M14) Tip2 Kablo Pabucu",
+        "fiyat": "TSKP-18514"
+    },
+    {
+        "marka": "Tügen",
+        "urun_adi": "185 mm2 (M16) Tip2 Kablo Pabucu",
+        "fiyat": "TSKP-18516"
+    },
+    {
+        "marka": "Tügen",
+        "urun_adi": "240 mm2 (M10) Tip2 Kablo Pabucu",
+        "fiyat": "TSKP-24010"
+    },
+    {
+        "marka": "Tügen",
+        "urun_adi": "240 mm2 (M12) Tip2 Kablo Pabucu",
+        "fiyat": "TSKP-24012"
+    },
+    {
+        "marka": "Tügen",
+        "urun_adi": "240 mm2 (M14) Tip2 Kablo Pabucu",
+        "fiyat": "TSKP-24014"
+    },
+    {
+        "marka": "Tügen",
+        "urun_adi": "240 mm2 (M16) Tip2 Kablo Pabucu",
+        "fiyat": "TSKP-24016"
+    },
+    {
+        "marka": "Tügen",
+        "urun_adi": "300 mm2 (M10) Tip2 Kablo Pabucu",
+        "fiyat": "TSKP-30010"
+    },
+    {
+        "marka": "Tügen",
+        "urun_adi": "300 mm2 (M12) Tip2 Kablo Pabucu",
+        "fiyat": "TSKP-30012"
+    },
+    {
+        "marka": "Tügen",
+        "urun_adi": "300 mm2 (M14) Tip2 Kablo Pabucu",
+        "fiyat": "TSKP-30014"
+    },
+    {
+        "marka": "Tügen",
+        "urun_adi": "300 mm2 (M16) Tip2 Kablo Pabucu",
+        "fiyat": "TSKP-30016"
+    },
+    {
+        "marka": "Tügen",
+        "urun_adi": "400 mm2 (M14) Tip2 Kablo Pabucu",
+        "fiyat": "TSKP-40014"
+    },
+    {
+        "marka": "Tügen",
+        "urun_adi": "400 mm2 (M16) Tip2 Kablo Pabucu",
+        "fiyat": "TSKP-40016"
+    },
+    {
+        "marka": "Tügen",
+        "urun_adi": "400 mm2 (M20) Tip2 Kablo Pabucu",
+        "fiyat": "TSKP-40020"
+    },
+    {
+        "marka": "Tügen",
+        "urun_adi": "500 mm2 (M12) Tip2 Kablo Pabucu",
+        "fiyat": "TSKP-50012"
+    },
+    {
+        "marka": "Tügen",
+        "urun_adi": "500 mm2 (M16) Tip2 Kablo Pabucu",
+        "fiyat": "TSKP-50016"
+    },
+    {
+        "marka": "Tügen",
+        "urun_adi": "600 mm2 (M20) Tip2 Kablo Pabucu",
+        "fiyat": "TSKP-50020"
+    },
+    {
+        "marka": "Tügen",
         "urun_adi": "35 mm2 (M6) Dar Giriş Kablo Pabucu",
         "fiyat": "TSKPDG-03506"
     },
@@ -13631,8 +13971,88 @@
     },
     {
         "marka": "Tügen",
-        "urun_adi": "Standart  BİMETALİK SIKMALI KABLO PABUÇLARI  (Elektrolitik Bakır 99,9)",
+        "urun_adi": "TORK  BİMETALİK SIKMALI KABLO PABUÇLARI  (Elektrolitik Bakır 99,9)",
         "fiyat": "FİYAT"
+    },
+    {
+        "marka": "Tügen",
+        "urun_adi": "16 mm Bimetal CU/AL Pabuç M10",
+        "fiyat": "TSKPBM-01610"
+    },
+    {
+        "marka": "Tügen",
+        "urun_adi": "25 mm Bimetal CU/AL Pabuç M10",
+        "fiyat": "TSKPBM-02510"
+    },
+    {
+        "marka": "Tügen",
+        "urun_adi": "35 mm Bimetal CU/AL Pabuç M10",
+        "fiyat": "TSKPBM-03510"
+    },
+    {
+        "marka": "Tügen",
+        "urun_adi": "50 mm Bimetal CU/AL Pabuç M10",
+        "fiyat": "TSKPBM-05012"
+    },
+    {
+        "marka": "Tügen",
+        "urun_adi": "70 mm Bimetal CU/AL Pabuç M12",
+        "fiyat": "TSKPBM-07010"
+    },
+    {
+        "marka": "Tügen",
+        "urun_adi": "95 mm Bimetal CU/AL Pabuç M12",
+        "fiyat": "TSKPBM-09512"
+    },
+    {
+        "marka": "Tügen",
+        "urun_adi": "120 mm Bimetal CU/AL Pabuç M12",
+        "fiyat": "TSKPBM-12012"
+    },
+    {
+        "marka": "Tügen",
+        "urun_adi": "150 mm Bimetal CU/AL Pabuç M12",
+        "fiyat": "TSKPBM-15012"
+    },
+    {
+        "marka": "Tügen",
+        "urun_adi": "185 mm Bimetal CU/AL Pabuç M12",
+        "fiyat": "TSKPBM-18512"
+    },
+    {
+        "marka": "Tügen",
+        "urun_adi": "240 mm Bimetal CU/AL Pabuç M12",
+        "fiyat": "TSKPBM-24012"
+    },
+    {
+        "marka": "Tügen",
+        "urun_adi": "300 mm Bimetal CU/AL Pabuç M12",
+        "fiyat": "TSKPBM-30012"
+    },
+    {
+        "marka": "Tügen",
+        "urun_adi": "300 mm Bimetal CU/AL Pabuç M16",
+        "fiyat": "TSKPBM-30016"
+    },
+    {
+        "marka": "Tügen",
+        "urun_adi": "400 mm Bimetal CU/AL Pabuç M12",
+        "fiyat": "TSKPBM-40012"
+    },
+    {
+        "marka": "Tügen",
+        "urun_adi": "400 mm Bimetal CU/AL Pabuç M16",
+        "fiyat": "TSKPBM-40016"
+    },
+    {
+        "marka": "Tügen",
+        "urun_adi": "500 mm Bimetal CU/AL Pabuç M16",
+        "fiyat": "TSKPBM-50016"
+    },
+    {
+        "marka": "Tügen",
+        "urun_adi": "630 mm Bimetal CU/AL Pabuç M16",
+        "fiyat": "TSKPBM-63016"
     },
     {
         "marka": "Tügen",
