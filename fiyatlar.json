@@ -372,7 +372,7 @@
     {
         "marka": "Genel",
         "urun_adi": "REL52006 , (P3U30-5ABA1BBAA) PowerLogic P3U30, 2x RS-485, 18-36 V DC, 16DI/8DO",
-        "fiyat": "3155 €"
+        "fiyat": "3 155 €"
     },
     {
         "marka": "Genel",
@@ -567,7 +567,7 @@
     {
         "marka": "Genel",
         "urun_adi": "RMU LC+LC+LF Kompakt RMU (Motorlu) Genişleyemez Tip",
-        "fiyat": "45000 $"
+        "fiyat": "4 5 000 $"
     },
     {
         "marka": "Genel",
@@ -592,7 +592,7 @@
     {
         "marka": "Genel",
         "urun_adi": "FİDER YÖNETİM RÖLESİ (SCHNEIDER P3 U30/ABB REX 615) IEC 61580",
-        "fiyat": "6750 $"
+        "fiyat": "67 50 $"
     },
     {
         "marka": "Genel",
@@ -692,7 +692,7 @@
     {
         "marka": "Genel",
         "urun_adi": "PB23  PB 23000x3800x3550  Prefabrik Beton Köşk",
-        "fiyat": "110100 $"
+        "fiyat": "110 100 $"
     },
     {
         "marka": "Genel",
@@ -11306,6 +11306,11 @@
     },
     {
         "marka": "3M",
+        "urun_adi": "QS 20 – 10/15/20/36 kV SOGUK BÜZÜSMELI KABLO EKLERİ",
+        "fiyat": "FİYAT"
+    },
+    {
+        "marka": "3M",
         "urun_adi": "QS20 36 AC2",
         "fiyat": "36 kV 1×50/1×240  Soğuk Büzüşmeli Kablo Ek Kiti (7000092351)"
     },
@@ -11351,7 +11356,7 @@
     },
     {
         "marka": "3M",
-        "urun_adi": "3M    QTII 10/15 KV SOGUK BÜZÜSMELI O.G. SİLİKON KABLO BASLIKLAR",
+        "urun_adi": "3M   QTII 10/15 KV SOGUK BÜZÜŞMELI O.G. SİLİKON KABLO BAŞLIKLAR",
         "fiyat": "FİYAT"
     },
     {
@@ -11626,7 +11631,7 @@
     },
     {
         "marka": "3M",
-        "urun_adi": "QTII 36 KV  SOGUK BÜZÜSMELI O.G. SILIKON KABLO BASLIKLARI",
+        "urun_adi": "3M  QTII 36 KV  SOGUK BÜZÜŞMELI O.G. SİLİKON KABLO BAŞLIKLARI",
         "fiyat": "FİYAT"
     },
     {
@@ -11807,17 +11812,17 @@
     {
         "marka": "3M",
         "urun_adi": "7100180448",
-        "fiyat": "92-EE-890-2 / 12 KV Düz 250A  (35/50 mm) MC250 A Tip PLUG-İN Düz Başlık"
+        "fiyat": "92-EE-890-2 / 12 KV Düz 250A  (35/50 mm) MC250 A Tip Plug-İn Düz Başlık"
     },
     {
         "marka": "3M",
         "urun_adi": "7100140759",
-        "fiyat": "93-EE-890-2 / 12-24 KV Düz 250A  (25/95 mm) MC250 A Tip PLUG-İN Düz Başlık"
+        "fiyat": "93-EE-890-2 / 12-24 KV Düz 250A  (25/95 mm) MC250 A Tip Plug-İn Düz Başlık"
     },
     {
         "marka": "3M",
         "urun_adi": "7100140761",
-        "fiyat": "93-EE-890-2 / 12-24 KV Düz 250A  (70/150 mm2) MC250 A Tip PLUG-İN Düz Başlık"
+        "fiyat": "93-EE-890-2 / 12-24 KV Düz 250A  (70/150 mm2) MC250 A Tip Plug-İn Düz Başlık"
     },
     {
         "marka": "3M",
@@ -77253,6 +77258,36 @@
         "marka": "Nexans",
         "urun_adi": "6,3 – 24 KV Dirsekli İnterface A Tipi Konnektör 1×120 – 150 mm",
         "fiyat": "165,00 €"
+    },
+    {
+        "marka": "Nexans",
+        "urun_adi": "6,3 / 15 / 24 / 36 KV  M480TB-G  T Tipi Konnektör İnterface C (16-95) (50-150) (95-240) (120-300) mm",
+        "fiyat": "286,00 €"
+    },
+    {
+        "marka": "Nexans",
+        "urun_adi": "6,3 / 15 / 24 / 36 KV  M484TB-G  T Tipi Konnektör İnterface C  (120-300) (185-400) mm",
+        "fiyat": "467,50 €"
+    },
+    {
+        "marka": "Nexans",
+        "urun_adi": "6,3 / 15 / 24 / 36 KV  M484TB-G  T Tipi Konnektör İnterface C  (400-630) mm",
+        "fiyat": "605,00 €"
+    },
+    {
+        "marka": "Nexans",
+        "urun_adi": "6,3 / 15 / 24 / 36 KV  M800PB-G T Tipi Kuplaj Konnektör İnterface C  (16-95) (50-150) (95-240) (120-300) mm",
+        "fiyat": "374,00 €"
+    },
+    {
+        "marka": "Nexans",
+        "urun_adi": "6,3 / 15 / 24 / 36 KV  M804PB-G T Tipi Kuplaj Konnektör İnterface C  (120-300) (185-400) mm",
+        "fiyat": "550,00 €"
+    },
+    {
+        "marka": "Nexans",
+        "urun_adi": "6,3 / 15 / 24 / 36 KV  M804TB-G T Tipi Kuplaj Konnektör İnterface C  (400-630) mm",
+        "fiyat": "660,00 €"
     },
     {
         "marka": "Fluke",
