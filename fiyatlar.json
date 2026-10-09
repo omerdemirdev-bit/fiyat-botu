@@ -85956,6 +85956,11 @@
     },
     {
         "marka": "Genel",
+        "urun_adi": "14052.AB",
+        "fiyat": "PLANA Dar Modül  İpli Buton Beyaz"
+    },
+    {
+        "marka": "Genel",
         "urun_adi": "14052.SL",
         "fiyat": "PLANA DAR Modül İpli Buton SILVER"
     },
@@ -86721,6 +86726,36 @@
     },
     {
         "marka": "Genel",
+        "urun_adi": "14292.AC.15",
+        "fiyat": "PLANA A+C USB PRİZİ 15W 5V 1M BEYAZ"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "14292.C.25",
+        "fiyat": "PLANA PD C-USB PRİZİ 25W BEYAZ"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "14292.C.25.SL",
+        "fiyat": "PLANA PD C-USB Power unit 25W Silver"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "14292.C.SL",
+        "fiyat": "PLANA C-USB Besleme Ünitesi 5V 1,5A 1M"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "14292.CC",
+        "fiyat": "PLANA C+C-USB Besleme Ünitesi 5V 3A 1M"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "14292.CC.SL",
+        "fiyat": "PLANA C+C-USB Besleme Ünitesi 5V 3A 1M Silver"
+    },
+    {
+        "marka": "Genel",
         "urun_adi": "14295",
         "fiyat": "PLANA 5V 2,1A USB Supply Unit 2M White"
     },
@@ -87323,6 +87358,46 @@
         "marka": "Genel",
         "urun_adi": "14448.SL",
         "fiyat": "PLANA 1 Kanal Programlanabilir Timer Silver"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "14449",
+        "fiyat": "PLANA Elektronik Çalar Saat 2M  120-230V"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "14449.SL",
+        "fiyat": "PLANA Elektronik Çalar Saat 2M Silver  120-230V"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "14450",
+        "fiyat": "PLANA Transponder Kartı Programlayıcısı Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "14453",
+        "fiyat": "PLANA KNX Dikey Transponder Okuyucu Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "14453.SL",
+        "fiyat": "PLANA KNX Dikey Transponder Okuyucu Silver"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "14457",
+        "fiyat": "PLANA KNX Harici Transponder Okuyucu Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "14457.SL",
+        "fiyat": "PLANA KNX Harici Transponder Okuyucu Silver"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "14457.TR.SL",
+        "fiyat": "PLANA KNX Harici Transponder Okuyucu Silver"
     },
     {
         "marka": "Genel",
@@ -88056,11 +88131,6 @@
     },
     {
         "marka": "Genel",
-        "urun_adi": "09001",
-        "fiyat": "NEVE UP 1P A6AX 1 Yollu Anahtar"
-    },
-    {
-        "marka": "Genel",
         "urun_adi": "09001.0.250",
         "fiyat": "NEVE UP 1P 16AX 1 Yollu Anahtar Mekanizma Işıklı 250V"
     },
@@ -88261,6 +88331,26 @@
     },
     {
         "marka": "Genel",
+        "urun_adi": "09022",
+        "fiyat": "NEVE UP  2M Buton Işıksız Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "09022.CM",
+        "fiyat": "NEVE UP  2M Buton Işıksız Karbon Siyah"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "09022.N",
+        "fiyat": "NEVE UP  2M Buton Nötr Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "09022.N.CM",
+        "fiyat": "NEVE UP  2M Buton Nötr Karbon Siyah"
+    },
+    {
+        "marka": "Genel",
         "urun_adi": "09026.DND",
         "fiyat": "NEVE UP  1M Buton +Işık Dağıtıcı DND Sembollü Beyaz"
     },
@@ -88343,16 +88433,6 @@
         "marka": "Genel",
         "urun_adi": "09097",
         "fiyat": "NEVE UP Push Button  + 2 OTEL Göstergesi 230V"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "09134",
-        "fiyat": "NEVE UP Dimmer for Fans 220-240V Beyaz"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "09134.120",
-        "fiyat": "NEVE UP Dimmer for Fans 120V Beyaz"
     },
     {
         "marka": "Genel",
@@ -88761,6 +88841,16 @@
     },
     {
         "marka": "Genel",
+        "urun_adi": "09338.C",
+        "fiyat": "NEVE UP  RJ45 Keystone Adaptör Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "09338.C.CM",
+        "fiyat": "NEVE UP  RJ45 Keystone Adaptör Siyah"
+    },
+    {
+        "marka": "Genel",
         "urun_adi": "09339.6",
         "fiyat": "NEVE UP  RJ45 CAT6 Netsafe UTP 110 Priz Beyaz"
     },
@@ -88996,6 +89086,11 @@
     },
     {
         "marka": "Genel",
+        "urun_adi": "09602",
+        "fiyat": "NEVE UP  2M Taşıyıcı +Tırnaklı 71 mm"
+    },
+    {
+        "marka": "Genel",
         "urun_adi": "09602.1",
         "fiyat": "NEVE UP  2M Taşıyıcı +Tırnaklı 71 mm"
     },
@@ -89038,6 +89133,36 @@
         "marka": "Genel",
         "urun_adi": "09623",
         "fiyat": "NEVE UP  Adaptör Taşıyıcı +Vidaları"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "09642.01",
+        "fiyat": "NEVE UP  2M Çerçeve Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "09642.02",
+        "fiyat": "NEVE UP  2M Çerçeve Bej"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "09643.01",
+        "fiyat": "NEVE UP  4M Çerçeve (2 + 2) 71 mm Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "09653.01",
+        "fiyat": "NEVE UP  3M Çerçeve Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "09654.01",
+        "fiyat": "NEVE UP  4M Çerçeve Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "09657.01",
+        "fiyat": "NEVE UP  7M Çerçeve Beyaz"
     },
     {
         "marka": "Genel",
@@ -89578,6 +89703,86 @@
         "marka": "Genel",
         "urun_adi": "09673.24",
         "fiyat": "NEVE UP  3M Çerçeve TP Mat Bakır"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "09674.01",
+        "fiyat": "NEVE UP  4M Çerçeve TP Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "09674.02",
+        "fiyat": "NEVE UP  4M Çerçeve TP Fildişi"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "09674.03",
+        "fiyat": "NEVE UP  4M Çerçeve TP Arduvaz Gri"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "09674.04",
+        "fiyat": "NEVE UP  4M Çerçeve TP Siyah"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "09674.11",
+        "fiyat": "NEVE UP  4M Çerçeve TP Mat Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "09674.12",
+        "fiyat": "NEVE UP   4M Çerçeve TP Mat Boz Kahve"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "09674.13",
+        "fiyat": "NEVE UP   4M Çerçeve TP Kil Rengi"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "09674.14",
+        "fiyat": "NEVE UP   4M Çerçeve TP Karbon Siyah"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "09674.21",
+        "fiyat": "NEVE UP    4M Çerçeve TP Mat Silver"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "09674.22",
+        "fiyat": "NEVE UP    4M Çerçeve TP Mat Nikel"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "09674.23",
+        "fiyat": "NEVE UP    4M Çerçeve TP Mat Titanyum"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "09674.24",
+        "fiyat": "NEVE UP    4M Çerçeve TP Mat Bakır"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "09677.01",
+        "fiyat": "NEVE UP  7M Çerçeve TP Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "09677.02",
+        "fiyat": "NEVE UP  7M Çerçeve TP Fildişi"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "09677.03",
+        "fiyat": "NEVE UP  7M Çerçeve TP Arduvaz Gri"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "09677.04",
+        "fiyat": "NEVE UP  7M Çerçeve TP Siyah"
     },
     {
         "marka": "Genel",
