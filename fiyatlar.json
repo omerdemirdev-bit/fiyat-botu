@@ -89786,6 +89786,136 @@
     },
     {
         "marka": "Genel",
+        "urun_adi": "09677.11",
+        "fiyat": "NEVE UP  7M Çerçeve TP Mat Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "09677.12",
+        "fiyat": "NEVE UP  7M Çerçeve TP Mat Boz Kahve"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "09677.13",
+        "fiyat": "NEVE UP  7M Çerçeve TP Mat Kil Rengi"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "09677.14",
+        "fiyat": "NEVE UP  7M Çerçeve TP Mat Karbon Siyah"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "09677.21",
+        "fiyat": "NEVE UP  7M Çerçeve TP Mat Silver"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "09677.22",
+        "fiyat": "NEVE UP  7M Çerçeve TP Mat Nikel"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "09677.23",
+        "fiyat": "NEVE UP  7M Çerçeve TP Mat Titanyum"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "09677.24",
+        "fiyat": "NEVE UP  7M Çerçeve TP Mat Bakır"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "09679.01",
+        "fiyat": "NEVE UP Çerçeve 2 Kenar MTP Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "09679.02",
+        "fiyat": "NEVE UP Çerçeve 2 Kenar MTP Fildişi"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "09679.03",
+        "fiyat": "NEVE UP Çerçeve 2 Kenar MTP Arduvaz Gri"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "09679.04",
+        "fiyat": "NEVE UP Çerçeve 2 Kenar MTP Siyah"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "09679.11",
+        "fiyat": "NEVE UP Çerçeve 2 Kenar MTP Mat Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "09679.12",
+        "fiyat": "NEVE UP Çerçeve 2 Kenar MTP Güvercin Grisi"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "09679.13",
+        "fiyat": "NEVE UP Çerçeve 2 Kenar MTP Mat Kil Rengi"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "09679.14",
+        "fiyat": "NEVE UP Çerçeve 2 Kenar MTP Mat Siyah"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "09679.21",
+        "fiyat": "NEVE UP Çerçeve 2 Kenar MTP Mat Silver"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "09679.22",
+        "fiyat": "NEVE UP Çerçeve 2 Kenar MTP Mat Nikel"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "09679.23",
+        "fiyat": "NEVE UP Çerçeve 2 Kenar MTP Mat Titanyum"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "09679.24",
+        "fiyat": "NEVE UP Çerçeve 2 Kenar MTP Mat Bakır"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "09755",
+        "fiyat": "NEVE UP  1M özelleştirilebilir Kapak Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "09755.2",
+        "fiyat": "NEVE UP  1M Aşağı/Yukarı OK Sembollü Kapak Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "09755.2.CM",
+        "fiyat": "NEVE UP  1M Aşağı/Yukarı OK Sembollü Kapak Karbon Siyah"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "09755.3",
+        "fiyat": "NEVE UP   1M Dimmer Kapak Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "09755.3.CM",
+        "fiyat": "NEVE UP  1M Dimmer Kapak Mat Karbon"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "09755.6",
+        "fiyat": "NEVE UP   1M Dimmer Kapak Senaryo Sembollü Beyaz"
+    },
+    {
+        "marka": "Genel",
         "urun_adi": "16000",
         "fiyat": "İDEA 10 A Anahtar"
     },
@@ -89831,7 +89961,7 @@
     },
     {
         "marka": "Genel",
-        "urun_adi": "16005.F.B",
+        "urun_adi": "16005.F",
         "fiyat": "İDEA Modül Vavien  Beyaz"
     },
     {
@@ -90201,6 +90331,11 @@
     },
     {
         "marka": "Genel",
+        "urun_adi": "16209.A",
+        "fiyat": "İDEA İtalyan Standardı Topraklı Priz Turuncu"
+    },
+    {
+        "marka": "Genel",
         "urun_adi": "16209.B",
         "fiyat": "İDEA İtalyan Standardı Topraklı Priz Beyaz"
     },
@@ -90371,143 +90506,138 @@
     },
     {
         "marka": "Genel",
-        "urun_adi": "16301",
-        "fiyat": "İDEA Hi-Fİ Prizi"
+        "urun_adi": "16273",
+        "fiyat": "İDEA 2P + E 16A P17 / 11 Çıkış + C16 CB İtalyan Stand. Gri"
     },
     {
         "marka": "Genel",
-        "urun_adi": "16301.B",
-        "fiyat": "İDEA Hi-Fİ Prizi Beyaz"
+        "urun_adi": "16273.B",
+        "fiyat": "İDEA 2P + E 16A P17 / 11 Çıkış + C16 CB İtalyan Stand. Beyaz"
     },
     {
         "marka": "Genel",
-        "urun_adi": "16305",
-        "fiyat": "İDEA MODÜL 2X10 A Priz"
+        "urun_adi": "16276",
+        "fiyat": "İDEA 2P+E 16A P30 Outlet + C16 CB Grey"
     },
     {
         "marka": "Genel",
-        "urun_adi": "16305.B",
-        "fiyat": "İDEA MODÜL 2X10A Priz Beyaz"
+        "urun_adi": "16276.B",
+        "fiyat": "İDEA 2P+E 16A P30 Outlet + C16 CB Beyaz"
     },
     {
         "marka": "Genel",
-        "urun_adi": "16306.01",
-        "fiyat": "İDEA 5-2400 MHZ SONLU UYDU Prizi"
+        "urun_adi": "16283",
+        "fiyat": "İDEA 2P+E 16A P17/11 Outlet + C16 RCBO Grey"
     },
     {
         "marka": "Genel",
-        "urun_adi": "16306.01.B",
-        "fiyat": "İDEA 5-2400 MHZ UYDU PRIZI S. Beyaz"
+        "urun_adi": "16283.B",
+        "fiyat": "İDEA 2P+E 16A P17/11 Outlet + C16 RCBO Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "16286",
+        "fiyat": "İDEA 2P+E 16A P30 Outlet + C16 RCBO Grey"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "16290",
+        "fiyat": "İDEA Traş Makinası Prizi 230V Grey"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "16290.B",
+        "fiyat": "İDEA Traş Makinası Prizi 230V Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "16292",
+        "fiyat": "İDEA USB Prizi 5V 1,5A 1M Grey"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "16292.AC.15",
+        "fiyat": "İDEA USB Prizi 5V 3A  15W 1M Grey"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "16292.AC.15.B",
+        "fiyat": "İDEA USB Prizi 5V 3A  15W 1M Beyaz"
     },
     {
         "marka": "Genel",
         "urun_adi": "16306.10",
-        "fiyat": "İDEA GEÇISLI UYDU Prizi"
+        "fiyat": "İDEA TV-RD-SAT 5-2400 MHz Geçişli Uydu Prizi Grey"
     },
     {
         "marka": "Genel",
         "urun_adi": "16306.10.B",
-        "fiyat": "İDEA GEÇISLI UYDU Prizi Beyaz"
+        "fiyat": "İDEA TV-RD-SAT 5-2400 MHz Geçişli Uydu Prizi Beyaz"
     },
     {
         "marka": "Genel",
         "urun_adi": "16307.01",
-        "fiyat": "İDEA 2M TV-RD-SAT TEK BAĞL. 2 Çıkışlı"
+        "fiyat": "İDEA Coaxial TV-RD-SAT 5-2400 MHz Tek Giriş-2 çıkış Grey"
     },
     {
         "marka": "Genel",
         "urun_adi": "16307.01.B",
-        "fiyat": "İDEA 2M TV-RD-SAT TEK BAĞL. 2 Çıkışlı"
+        "fiyat": "İDEA Coaxial TV-RD-SAT 5-2400 MHz Tek Giriş-2 çıkış Beyaz"
     },
     {
         "marka": "Genel",
         "urun_adi": "16320",
-        "fiyat": "İDEA MODÜL TV Prizi Tek Bağlantılı"
+        "fiyat": "İDEA Coaxial TV 40-862 MHz Tek Çıkış – 2 Dişi Girişli Grey"
     },
     {
         "marka": "Genel",
         "urun_adi": "16320.B",
-        "fiyat": "İDEA MODÜL TV Prizi Sonlu, Beyaz"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "16330",
-        "fiyat": "İDEA Terminal direnci – 75ohm"
+        "fiyat": "İDEA Coaxial TV 40-862 MHz Tek Çıkış – 2 Dişi Girişli Beyaz"
     },
     {
         "marka": "Genel",
         "urun_adi": "16331",
-        "fiyat": "İDEA F Konnektörlü TV Prizi"
+        "fiyat": "İDEA F Konnektörlü TV Prizi 2400 MHz Grey"
     },
     {
         "marka": "Genel",
         "urun_adi": "16331.B",
-        "fiyat": "İDEA F Konnektörlü TV.Prizi Beyaz"
+        "fiyat": "İDEA F Konnektörlü TV Prizi 2400 MHz Beyaz"
     },
     {
         "marka": "Genel",
         "urun_adi": "16332",
-        "fiyat": "İDEA MODÜL 5 Kutup HI-FI Soket"
+        "fiyat": "İDEA Modül 5 Pinli HI-FI Soket Grey"
     },
     {
         "marka": "Genel",
         "urun_adi": "16332.B",
-        "fiyat": "İDEA MODÜL 5 Kutup HI-FI Soket Beyaz"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "16333",
-        "fiyat": "İDEA 3 RCA BAĞLANTILI Soket, 2M"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "16333.B",
-        "fiyat": "İDEA 3 RCA BAĞLANTILI Soket, 2M, Beyaz"
+        "fiyat": "İDEA Modül 5 Pinli HI-FI Soket Beyaz"
     },
     {
         "marka": "Genel",
         "urun_adi": "16334",
-        "fiyat": "İDEA HDMI Soket CONNECTOR 1M"
+        "fiyat": "İDEA HDMI Soket 1M Grey"
     },
     {
         "marka": "Genel",
         "urun_adi": "16334.B",
-        "fiyat": "İDEA HDMI Soket CONNECTOR 1M Beyaz"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "16334.H",
-        "fiyat": "İDEA 90 ° kablo gri HDMI soketi"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "16334.H.B",
-        "fiyat": "İDEA 90 ° kablo beyaz HDMI soketi Beyaz"
+        "fiyat": "İDEA HDMI Soket 1M Beyaz"
     },
     {
         "marka": "Genel",
         "urun_adi": "16335",
-        "fiyat": "İDEA MODÜL 2 Hatlı Telefon Prizi"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "16335.B",
-        "fiyat": "İDEA MODÜL 2 Hatlı Telefon Prizi Beyaz"
+        "fiyat": "İDEA RJ11 Telefon JACK Grey"
     },
     {
         "marka": "Genel",
         "urun_adi": "16336",
-        "fiyat": "İDEA MODÜL 3 Hatlı Telefon Prizi"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "16336.B",
-        "fiyat": "İDEA MODÜL 3 Hatlı Telefon Prizi Beyaz"
+        "fiyat": "İDEA RJ12 Telefon JACK Grey"
     },
     {
         "marka": "Genel",
         "urun_adi": "16337",
-        "fiyat": "İDEA MODÜL 4 Hatlı Telefon Prizi"
+        "fiyat": "İDEA Modül 4 Hatlı Telefon Prizi Grey"
     },
     {
         "marka": "Genel",
@@ -90562,12 +90692,12 @@
     {
         "marka": "Genel",
         "urun_adi": "16357",
-        "fiyat": "İDEA Data Prizi CAT5E UTP"
+        "fiyat": "İDEA Data Prizi RJ45 Cat5e 3M UTP Grey"
     },
     {
         "marka": "Genel",
         "urun_adi": "16357.B",
-        "fiyat": "İDEA Data Prizi, Beyaz CAT5E UTP"
+        "fiyat": "İDEA Data Prizi RJ45 Cat5e 3M UTP Beyaz"
     },
     {
         "marka": "Genel",
@@ -90632,17 +90762,17 @@
     {
         "marka": "Genel",
         "urun_adi": "16359.6",
-        "fiyat": "İDEA Data Prizi CAT 6"
+        "fiyat": "İDEA RJ45 Cat6 Netsafe UTP 110 Data Priz Grey"
     },
     {
         "marka": "Genel",
         "urun_adi": "16359.6.B",
-        "fiyat": "İDEA Data Prizi CAT 6"
+        "fiyat": "İDEA RJ45 Cat6 Netsafe UTP 110 Data Priz Beyaz"
     },
     {
         "marka": "Genel",
         "urun_adi": "16361",
-        "fiyat": "İDEA 9P SUB D Socket Connector Grey"
+        "fiyat": "İDEA 9 Pin SUB D Socket Connector Grey"
     },
     {
         "marka": "Genel",
@@ -91011,18 +91141,8 @@
     },
     {
         "marka": "Genel",
-        "urun_adi": "16603.1",
-        "fiyat": "İDEA Üniversal MASTER Çevirmeli Dimmer 230V Grey"
-    },
-    {
-        "marka": "Genel",
         "urun_adi": "16603.1.B",
         "fiyat": "İDEA Üniversal MASTER Çevirmeli Dimmer 230V Beyaz"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "16604",
-        "fiyat": "İDEA SLAVE Dimmer 230V Grey"
     },
     {
         "marka": "Genel",
@@ -91077,27 +91197,42 @@
     {
         "marka": "Genel",
         "urun_adi": "16713",
-        "fiyat": "İDEA 3’lü  Taşıyıcı"
+        "fiyat": "İDEA 3′ lü  Taşıyıcı"
     },
     {
         "marka": "Genel",
         "urun_adi": "16713.C",
-        "fiyat": "İDEA 3’lü Kasa Aparatı"
+        "fiyat": "İDEA 3′ lü Kasa Aparatı"
     },
     {
         "marka": "Genel",
         "urun_adi": "16714",
-        "fiyat": "İDEA 4’lü Taşıyıcı"
+        "fiyat": "İDEA 4′ lü Taşıyıcı"
     },
     {
         "marka": "Genel",
         "urun_adi": "16715",
-        "fiyat": "İDEA 5’li Taşıyıcı"
+        "fiyat": "İDEA 5′ li Taşıyıcı"
     },
     {
         "marka": "Genel",
         "urun_adi": "16716",
-        "fiyat": "İDEA 6’lı Taşıyıcı"
+        "fiyat": "İDEA 6′ lı Taşıyıcı"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "16718",
+        "fiyat": "İDEA 6+6′ lı Taşıyıcı"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "16719",
+        "fiyat": "İDEA 6+6+6′ lı Taşıyıcı"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "16722",
+        "fiyat": "İDEA 2M Oluklu Ön Yüz Çerçeve"
     },
     {
         "marka": "Genel",
@@ -91313,6 +91448,191 @@
         "marka": "Genel",
         "urun_adi": "16745.D.16",
         "fiyat": "İDEA 5M Silk Çerçeve Siyah"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "16748.04",
+        "fiyat": "İDEA 6 + 6 Çerçeve Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "16753.01",
+        "fiyat": "İDEA 3’Lü  Çerçeve Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "16753.10",
+        "fiyat": "İDEA 3’Lü  Çerçeve Fildişi"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "16753.11",
+        "fiyat": "İDEA 3’Lü  Çerçeve Siyah"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "16753.21",
+        "fiyat": "İDEA 3’Lü  Çerçeve Silver"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "16753.22",
+        "fiyat": "İDEA 3’Lü  Çerçeve Bronz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "16753.32",
+        "fiyat": "İDEA 3’Lü  Çerçeve GOLD"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "16753.33",
+        "fiyat": "İDEA 3’Lü  Çerçeve Mat GOLD"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "16753.34",
+        "fiyat": "İDEA 3’Lü  Çerçeve Mat Krom"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "16753.36",
+        "fiyat": "İDEA 3’Lü  Çerçeve Krom"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "16753.37",
+        "fiyat": "İDEA 3’Lü  Çerçeve Antik Bronz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "16753.53",
+        "fiyat": "İDEA 3’Lü  Çerçeve Kiraz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "16753.55",
+        "fiyat": "İDEA 3’Lü  Çerçeve Ceviz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "16754.01",
+        "fiyat": "İDEA 4’Lü  Çerçeve Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "16754.21",
+        "fiyat": "İDEA 4’Lü  Çerçeve Silver"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "16754.22",
+        "fiyat": "İDEA 4’Lü  Çerçeve Bronz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "16754.23",
+        "fiyat": "İDEA 4’Lü  Çerçeve Antrasit"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "16754.32",
+        "fiyat": "İDEA 4’Lü  Çerçeve GOLD"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "16754.33",
+        "fiyat": "İDEA 4’Lü  Çerçeve Mat GOLD"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "16754.34",
+        "fiyat": "İDEA 4’Lü  Çerçeve Mat Krom"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "16754.53",
+        "fiyat": "İDEA 4’Lü  Çerçeve Mat Kiraz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "16756.01",
+        "fiyat": "İDEA 6’Lı  Çerçeve Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "16756.10",
+        "fiyat": "İDEA 6’Lı  Çerçeve Fildişi"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "16756.11",
+        "fiyat": "İDEA 6’Lı  Çerçeve Siyah"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "16756.21",
+        "fiyat": "İDEA 6’Lı  Çerçeve Silver"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "16756.22",
+        "fiyat": "İDEA 6’Lı  Çerçeve Bronz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "16756.23",
+        "fiyat": "İDEA 6’Lı  Çerçeve Antrasit"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "16756.32",
+        "fiyat": "İDEA 6’Lı  Çerçeve GOLD"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "16756.33",
+        "fiyat": "İDEA 6’Lı  Çerçeve Mat GOLD"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "16756.34",
+        "fiyat": "İDEA 6’Lı  Çerçeve Mat Krom"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "16756.53",
+        "fiyat": "İDEA 6’Lı  Çerçeve Kiraz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "16756.55",
+        "fiyat": "İDEA 6’Lı  Çerçeve Ceviz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "16915",
+        "fiyat": "İDEA KNX Uyumlu Termostat Grey"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "16915.B",
+        "fiyat": "İDEA KNX Uyumlu Termostat Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "16935",
+        "fiyat": "İDEA SAIBUS Kızıl Ötesi Varlık Sensörü"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "16953",
+        "fiyat": "İDEA FAN-Coil Termostat Gri"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "16953.B",
+        "fiyat": "İDEA FAN-Coil Termostat Beyaz"
     },
     {
         "marka": "Genel",
@@ -91646,11 +91966,6 @@
     },
     {
         "marka": "Genel",
-        "urun_adi": "20000.FX",
-        "fiyat": "EİKON 1P 10AX 1 Yollu Anahtar (Vidasız Bağlantı) Gri"
-    },
-    {
-        "marka": "Genel",
         "urun_adi": "20000.FX.0",
         "fiyat": "EİKON 1P 10AX 1 Yollu Anahtar Mekanizma (Vidasız Bağlantı)"
     },
@@ -91913,6 +92228,11 @@
         "marka": "Genel",
         "urun_adi": "20010",
         "fiyat": "EİKON 1P NC 10A Light Butonu 1M Gri"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "20010.0",
+        "fiyat": "EİKON 1P NC 10A Light Butonu (Kapaksız) 1M Gri"
     },
     {
         "marka": "Genel",
@@ -92261,18 +92581,143 @@
     },
     {
         "marka": "Genel",
+        "urun_adi": "20026.DND",
+        "fiyat": "EİKON 1 Modül Difüzör DND Sembollü Grey"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "20026.DND.B",
+        "fiyat": "EİKON 1 Modül Difüzör DND Sembollü Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "20026.DND.N",
+        "fiyat": "EİKON 1 Modül Difüzör DND Sembollü NEXT"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "20026.N",
+        "fiyat": "EİKON 1 Modül Difüzör DND Sembollü Kapak Gümüş"
+    },
+    {
+        "marka": "Genel",
         "urun_adi": "20027",
-        "fiyat": "EİKON 2 Modül Işıklı Difüzörlü, Değiştirilebilir Kapak Gri 2M"
+        "fiyat": "EİKON 2 Modül Işıklı Difüzörlü, Değiştirilebilir Kapak Gri"
     },
     {
         "marka": "Genel",
         "urun_adi": "20027.B",
-        "fiyat": "EİKON 2 Modül Işıklı Difüzörlü, Değiştirilebilir Kapak Beyaz 2M"
+        "fiyat": "EİKON 2 Modül Işıklı Difüzörlü, Değiştirilebilir Kapak Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "20027.N",
+        "fiyat": "EİKON 2 Modül Işıklı Difüzörlü, Değiştirilebilir Kapak NEXT"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "20028",
+        "fiyat": "EİKON 3 Modül Işıklı Difüzörlü, Değiştirilebilir Kapak Grey"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "20028.B",
+        "fiyat": "EİKON 3 Modül Işıklı Difüzörlü, Değiştirilebilir Kapak Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "20028.N",
+        "fiyat": "EİKON 3 Modül Işıklı Difüzörlü, Değiştirilebilir Kapak NEXT"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "20031",
+        "fiyat": "EİKON 1 Modül Işıklı Difüzörlü, Değiştirilebilir Kapak Grey"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "20031.B",
+        "fiyat": "EİKON 1 Modül Işıklı Difüzörlü, Değiştirilebilir Kapak Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "20031.B",
+        "fiyat": "EİKON 1 Modül Işıklı Difüzörlü, Değiştirilebilir Kapak NEXT"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "20032",
+        "fiyat": "EİKON 2 Modül Işıklı Difüzörlü, Değiştirilebilir Kapak Grey"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "20032.B",
+        "fiyat": "EİKON 2 Modül Işıklı Difüzörlü, Değiştirilebilir Kapak Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "20032.N",
+        "fiyat": "EİKON 2 Modül Işıklı Difüzörlü, Değiştirilebilir Kapak NEXT"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "20033",
+        "fiyat": "EİKON 3 Modül Işıklı Difüzörlü, Değiştirilebilir Kapak Grey"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "20033.B",
+        "fiyat": "EİKON 3 Modül Işıklı Difüzörlü, Değiştirilebilir Kapak Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "20033.N",
+        "fiyat": "EİKON 3 Modül Işıklı Difüzörlü, Değiştirilebilir Kapak NEXT"
     },
     {
         "marka": "Genel",
         "urun_adi": "20041",
-        "fiyat": "EİKON 1 Modül Boş Gri"
+        "fiyat": "EİKON 1 Modül Boş Kapak Gri"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "20041.B",
+        "fiyat": "EİKON 1 Modül Boş Kapak Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "20041.N",
+        "fiyat": "EİKON 1 Modül Boş Kapak NEXT"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "20042",
+        "fiyat": "EİKON 2 Modül Boş Kapak Gri"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "20042.B",
+        "fiyat": "EİKON 2 Modül Boş Kapak Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "20042.N",
+        "fiyat": "EİKON 2 Modül Boş Kapak NEXT"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "20044",
+        "fiyat": "EİKON 1 Modül Kablo Çıkış Kapak Grey"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "20044.B",
+        "fiyat": "EİKON 1 Modül Kablo Çıkış Kapak Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "20044.N",
+        "fiyat": "EİKON 1 Modül Kablo Çıkış Kapak NEXT"
     },
     {
         "marka": "Genel",
@@ -92426,6 +92871,11 @@
     },
     {
         "marka": "Genel",
+        "urun_adi": "20131",
+        "fiyat": "EİKON Axial Işıklı Zil Anahtar Kapak 1M Grey"
+    },
+    {
+        "marka": "Genel",
         "urun_adi": "20131.C.B",
         "fiyat": "EİKON Axial Işıklı Zil Anahtar Kapak 1M Beyaz"
     },
@@ -92493,6 +92943,81 @@
         "marka": "Genel",
         "urun_adi": "20136.1.N",
         "fiyat": "EİKON Ünİversal Çevirmeli Master Dimmer 1M Gümüş"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "20140",
+        "fiyat": "EİKON MASTER Dimmer 230V 700W / VA 2M Grey"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "20140.B",
+        "fiyat": "EİKON MASTER Dimmer 230V 700W / VA 2M Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "20140.N",
+        "fiyat": "EİKON MASTER Dimmer 230V 700W / VA 2M NEXT"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "20141",
+        "fiyat": "EİKON SLAVE Dimmer 230V 700W/VA 2M Grey"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "20142",
+        "fiyat": "EİKON MASTER Dimmer 230V 500VA 2M Grey"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "20143",
+        "fiyat": "EİKON SLAVE Dimmer 230V 500VA 2M Grey"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "20148",
+        "fiyat": "EİKON MASTER Dimmer 120-230V Grey"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "20149",
+        "fiyat": "EİKON SLAVE Dimmer 120-230V Grey"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "20165",
+        "fiyat": "EİKON MASTER Dimmer 230V 500W/VA 2M Grey"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "20166",
+        "fiyat": "EİKON SLAVE Dimmer 230V 500W/VA 2M Grey"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "20167",
+        "fiyat": "EİKON MASTER Dimmer 230V 400VA 2M"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "20168",
+        "fiyat": "EİKON SLAVE Dimmer 230V 400VA 2M Grey"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "20172",
+        "fiyat": "EİKON Uzaktan Kumanda Aç-Kapa Algılayıcı"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "20173",
+        "fiyat": "EİKON Panjur Uzaktan Kumanda Aç-Kapa Algılayıcı"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "20175",
+        "fiyat": "EİKON Uzaktan Kumanda DİM Algılayıcı"
     },
     {
         "marka": "Genel",
