@@ -93112,7 +93112,7 @@
     {
         "marka": "Genel",
         "urun_adi": "20203.N",
-        "fiyat": "EİKON 2P+E 16A P17/11 ,250V  İtalyan Priz Gümüş"
+        "fiyat": "EİKON 2P+E 16A P17/11 ,250V  İtalyan Priz NEXT"
     },
     {
         "marka": "Genel",
@@ -93143,6 +93143,21 @@
         "marka": "Genel",
         "urun_adi": "20208.C.N",
         "fiyat": "EİKON 2P+E 16 A 250 V~ SICURY Kapaklı Priz, Alman 2M Gümüş"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "20208.USB",
+        "fiyat": "EİKON 2P+E 16A DE SICURY Outlet +USBC 15 Grey"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "20208.USB.B",
+        "fiyat": "EİKON 2P+E 16A DE SICURY Outlet +USBC 15 Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "20208.USB.N",
+        "fiyat": "EİKON 2P+E 16A DE SICURY Outlet +USBC 15 NEXT"
     },
     {
         "marka": "Genel",
@@ -93198,16 +93213,6 @@
         "marka": "Genel",
         "urun_adi": "20211",
         "fiyat": "EİKON Flat 2P+E 16 A 250 V~P40 Üniversal Priz Gri"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "20211.B",
-        "fiyat": "EİKON Flat 2P+E 16 A 250 V~P40 Üniversal Priz Beyaz"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "20211.N",
-        "fiyat": "EİKON Flat 2P+E 16 A 250 V~P40 Üniversal Priz NEXT"
     },
     {
         "marka": "Genel",
@@ -93296,6 +93301,11 @@
     },
     {
         "marka": "Genel",
+        "urun_adi": "20224.AC.B",
+        "fiyat": "EİKON 2 2P+E13ABS Priz+Anahtar+A/C-USB-C Çıkış Beyaz"
+    },
+    {
+        "marka": "Genel",
         "urun_adi": "20224.AC.N",
         "fiyat": "EİKON 2 2P+E13ABS Priz+Anahtar +A/C-USB-C NEXT"
     },
@@ -93303,6 +93313,21 @@
         "marka": "Genel",
         "urun_adi": "20226",
         "fiyat": "EİKON 2P+E 10 A 250 V~ İsviçre 13 Standardı Priz Gri"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "20234",
+        "fiyat": "EİKON 2P 16A 250V SİCURY Socket Euro-ABD"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "20243",
+        "fiyat": "EİKON İkili 2P+E 15A 127V SICURY Priz Grey"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "20243.N",
+        "fiyat": "EİKON İkili 2P+E 15A 127V SICURY Priz NEXT"
     },
     {
         "marka": "Genel",
@@ -93366,8 +93391,18 @@
     },
     {
         "marka": "Genel",
+        "urun_adi": "20283.N",
+        "fiyat": "EİKON 2P+E 16A 250 V P17/11 priz+C16 RCBO NEXT"
+    },
+    {
+        "marka": "Genel",
         "urun_adi": "20286",
-        "fiyat": "EİKON 2P+E 16A P30 Priz + C16 RCBO Gri"
+        "fiyat": "EİKON 2P+E 16A P30 Priz + C16 RCBO Grey"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "20286.N",
+        "fiyat": "EİKON 2P+E 16A P30 Priz + C16 RCBO NEXT"
     },
     {
         "marka": "Genel",
@@ -93493,6 +93528,11 @@
         "marka": "Genel",
         "urun_adi": "20302.01.N",
         "fiyat": "EİKON TV-RD-SAT 5-2400 MHz Soket Çıkışı 2M Gümüş"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "20303",
+        "fiyat": "EİKON TV-FM-SAT Tek Soket Üzerinde 3 Çıkış"
     },
     {
         "marka": "Genel",
@@ -93656,11 +93696,6 @@
     },
     {
         "marka": "Genel",
-        "urun_adi": "20340.2.B",
-        "fiyat": "EİKON RJ45 Cat5e Panduit U-FTP Çıkışı  Beyaz"
-    },
-    {
-        "marka": "Genel",
         "urun_adi": "20340.2.N",
         "fiyat": "EİKON RJ45 Cat5e Panduit U-FTP Çıkışı  Gümüş"
     },
@@ -93702,7 +93737,17 @@
     {
         "marka": "Genel",
         "urun_adi": "20380",
-        "fiyat": "EİKON 3 Sesli Sıralı Zil Modülü 12V 2M Gri"
+        "fiyat": "EİKON 3 Sesli Sıralı Zil Modülü 12V 2M Grey"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "20380.N",
+        "fiyat": "EİKON 3 Sesli Sıralı Zil Modülü 12V 2M NEXT"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "20384",
+        "fiyat": "EİKON 3M 120-230V LED Acil Durum Lambası Grey"
     },
     {
         "marka": "Genel",
@@ -93741,6 +93786,46 @@
     },
     {
         "marka": "Genel",
+        "urun_adi": "20445",
+        "fiyat": "EİKON Elektronik Zaman Ayarlı Termostat Grey"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "20445.N",
+        "fiyat": "EİKON Elektronik Zaman Ayarlı Termostat NEXT"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "20450",
+        "fiyat": "EİKON Transponder Kartı Programlayıcısı Grey"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "20450.N",
+        "fiyat": "EİKON Transponder Kartı Programlayıcısı NEXT"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "20453",
+        "fiyat": "EİKON KNX Dikey Transponder Okuyucu Grey"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "20453.N",
+        "fiyat": "EİKON KNX Dikey Transponder Okuyucu NEXT"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "20457",
+        "fiyat": "EİKON KNX Harici Transponder Okuyucu Grey"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "20457.N",
+        "fiyat": "EİKON KNX Harici Transponder Okuyucu NEXT"
+    },
+    {
+        "marka": "Genel",
         "urun_adi": "20462",
         "fiyat": "EİKON RFİD Bağlantılı Wireless Kart Okuyucu Gri"
     },
@@ -93772,12 +93857,17 @@
     {
         "marka": "Genel",
         "urun_adi": "20485.N",
-        "fiyat": "EİKON IR Hareket Dedektörü 2M Gümüş"
+        "fiyat": "EİKON IR Hareket Dedektörü 2M NEXT"
     },
     {
         "marka": "Genel",
         "urun_adi": "20486",
-        "fiyat": "EİKON Yönlendirilebilir IR Hareket Dedektörü 2M Gri"
+        "fiyat": "EİKON Yönlendirilebilir IR Hareket Dedektörü 2M Grey"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "20486.N",
+        "fiyat": "EİKON Yönlendirilebilir IR Hareket Dedektörü 2M NEXT"
     },
     {
         "marka": "Genel",
@@ -93786,8 +93876,53 @@
     },
     {
         "marka": "Genel",
+        "urun_adi": "20506",
+        "fiyat": "EİKON Button 1M for RF switch – 2 Adet Grey"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "20506.N",
+        "fiyat": "EİKON Button 1M for RF switch – 2 Adet NEXT"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "20515",
+        "fiyat": "EİKON Anahtar Arayüz Buton Grey"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "20516",
+        "fiyat": "EİKON KÖ Uzaktan Kumanda Alıcısı Grey"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "20518",
+        "fiyat": "EİKON 2 Anahtar İçin Arayüz 1M Grey"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "20521",
+        "fiyat": "EİKON 2’Li Çift Yönlü Push Button Grey"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "20526",
+        "fiyat": "EİKON 2’Li Çift Yönlü Push Button + Aktüatör Grey"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "20528",
+        "fiyat": "EİKON 2Li Çift Yönlü Push Button + SLAVE Dimmer Grey"
+    },
+    {
+        "marka": "Genel",
         "urun_adi": "20580",
-        "fiyat": "EİKON 1M Güç Kaynağı 32VDC 100mA"
+        "fiyat": "EİKON 1M Güç Kaynağı 32V DC 100 mA"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "20586",
+        "fiyat": "EİKON Çağrı Mikrofonu Füme"
     },
     {
         "marka": "Genel",
@@ -94156,6 +94291,196 @@
     },
     {
         "marka": "Genel",
+        "urun_adi": "21644.71",
+        "fiyat": "EİKON 6M Çerçeve (2+2+2) 71 mm AQUA"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "21644.72",
+        "fiyat": "EİKON 6M Çerçeve (2+2+2) 71 mm Silver ICE"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "21644.73",
+        "fiyat": "EİKON 6M Çerçeve (2+2+2) 71 mm Kristal İnci Grisi"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "21644.74",
+        "fiyat": "EİKON 6M Çerçeve (2+2+2) 71 mm Opal Kahve"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "21644.75",
+        "fiyat": "EİKON 6M Çerçeve (2+2+2) 71 mm Bronz Aynalı CAM"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "21644.76",
+        "fiyat": "EİKON 6M Çerçeve (2+2+2) 71 mm Sİyah Pırlanta"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "21644.87",
+        "fiyat": "EİKON 6M Çerçeve (2+2+2) 71 mm Total Beyaz Pırlanta"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "21644.88",
+        "fiyat": "EİKON 6M Çerçeve (2+2+2) 71 mm Total Siyah Pırlanta"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "21644.G09",
+        "fiyat": "EİKON 6M Çerçeve 2+2+2 71 mm Parlak Altın"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "21644.G10",
+        "fiyat": "EİKON 6M Çerçeve 2+2+2 71 mm Satine Altın"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "21648.01",
+        "fiyat": "EİKON 3M Kapak (İngiliz Standart) Doğal Eloxal Aluminyum"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "21648.02",
+        "fiyat": "EİKON 3M Kapak (İngiliz Standart) Aluminyum Next Grey"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "21648.03",
+        "fiyat": "EİKON 3M Kapak (İngiliz Standart) Aluminyum LAV Grisi"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "21648.04",
+        "fiyat": "EİKON 3M Kapak (İngiliz Standart) Aluminyum Nötr Bronz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "21648.05",
+        "fiyat": "EİKON 3M Kapak (İngiliz Standart) Aluminyum Dark Bronz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "21648.06",
+        "fiyat": "EİKON 3M Kapak (İngiliz Standart) Aluminyum Siyah Safir"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "21648.07.01",
+        "fiyat": "EİKON 3M Kapak (İngiliz Standart) Exlusive Aluminyum Gümüş"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "21648.08",
+        "fiyat": "EİKON 3M Kapak (İngiliz Standart) Titanyum"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "21648.09",
+        "fiyat": "EİKON 3M Kapak (İngiliz Standart) İşlenmiş Aluminyum Parlak Altın"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "21648.10",
+        "fiyat": "EİKON 3M Kapak (İngiliz Standart) İşlenmiş Aluminyum Satin Altın"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "21648.17",
+        "fiyat": "EİKON 3M Çerçeve (İngiliz Standart) Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "21648.18",
+        "fiyat": "EİKON 3M Çerçeve (İngiliz Standart) Total Siyah"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "21648.21",
+        "fiyat": "EİKON 3M Kapak Doğal Deri Krem Rengi"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "21648.22",
+        "fiyat": "EİKON 3M Kapak Doğal Deri Tütün Rengi"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "21648.31",
+        "fiyat": "EİKON 3M Kapak Masif Ahşap İtalyan Cevizi"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "19000.0",
+        "fiyat": "ARKE 1P 10AX 1 Yollu Anahtar Mekanizma"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "19000.2",
+        "fiyat": "ARKE 1P 10AX 1 Yollu Anahtar 2M Grey"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "19000.2.B",
+        "fiyat": "ARKE 1P 10AX 1 Yollu Anahtar 2M Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "19000.2.M",
+        "fiyat": "ARKE 1P 10AX 1 Yollu Anahtar 2M Metal"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "19000.B",
+        "fiyat": "ARKE 1P 10AX 1 Yollu Anahtar Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "19000.FX",
+        "fiyat": "ARKE 1P 10AX 1 Yollu Anahtar Vidasız Grey"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "19000.FX.0",
+        "fiyat": "ARKE 1P 10AX 1 Yollu Anahtar Mekanizma Vidasız"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "19000.FX.2",
+        "fiyat": "ARKE 1P 10AX 2M 1 Yollu Anahtar Vidasız Grey"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "19000.FX.2.B",
+        "fiyat": "ARKE 1P 10AX 2M 1 Yollu Anahtar Vidasız Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "19000.FX.2.M",
+        "fiyat": "ARKE 1P 10AX 2M 1 Yollu Anahtar Vidasız Metal"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "19000.FX.B",
+        "fiyat": "ARKE 1P 10AX 1 Yollu Anahtar Vidasız Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "19000.FX.M",
+        "fiyat": "ARKE 1P 10AX 1 Yollu Anahtar Vidasız Metal"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "19000.M",
+        "fiyat": "ARKE 1P 10AX 1 Yollu Anahtar Metal"
+    },
+    {
+        "marka": "Genel",
         "urun_adi": "19001",
         "fiyat": "ARKE  1P 16AX 1 Yollu Anahtar"
     },
@@ -94163,6 +94488,11 @@
         "marka": "Genel",
         "urun_adi": "19001.0",
         "fiyat": "ARKE  1P 16AX 1 Yollu Anahtar Işıklı"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "19001.2.M",
+        "fiyat": "ARKE  1P 16AX 1 Yollu Anahtar 2M Metal"
     },
     {
         "marka": "Genel",
@@ -94192,7 +94522,7 @@
     {
         "marka": "Genel",
         "urun_adi": "19002.2",
-        "fiyat": "ARKE  1P 20A 1 Yollu Anahtar 2M"
+        "fiyat": "ARKE  1P 20A 1 Yollu Anahtar 2M Grey"
     },
     {
         "marka": "Genel",
@@ -94293,6 +94623,26 @@
         "marka": "Genel",
         "urun_adi": "19005.0",
         "fiyat": "ARKE  1P 16AX Vavien Mekanizma"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "19005.2.M",
+        "fiyat": "ARKE  1P 16AX Vavien 2M Metal"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "19005.AB",
+        "fiyat": "ARKE  Antibakteriyel 1P 16AX 2 Yollu Anahtar Grey"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "19005.AB.B",
+        "fiyat": "ARKE  Antibakteriyel 1P 16AX 2 Yollu Anahtar Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "19005.B",
+        "fiyat": "ARKE  1P 16AX 2 Yollu Anahtar Beyaz"
     },
     {
         "marka": "Genel",
