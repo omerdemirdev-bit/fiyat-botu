@@ -88131,6 +88131,91 @@
     },
     {
         "marka": "Genel",
+        "urun_adi": "30000.2",
+        "fiyat": "LİNEA AXİAL 1P 10AX 1Yollu Anahtar Mekanizma 2M"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30000.2B",
+        "fiyat": "LİNEA AXİAL 1P 10AX 2M 1Yollu Anahtar in-line Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30000.2C",
+        "fiyat": "LİNEA AXİAL 1P 10AX 2M 1Yollu Anahtar in-line Kanvas"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30000.B",
+        "fiyat": "LİNEA AXİAL 1P 10AX 1M 1Yollu Anahtar in-line Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30000.C",
+        "fiyat": "LİNEA AXİAL 1P 10AX 1M 1Yollu Anahtar in-line Kanvas"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30000.G",
+        "fiyat": "LİNEA AXİAL 1P 10AX 1M 1Yollu Anahtar in-line Siyah"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30000A.2B",
+        "fiyat": "LİNEA AXİAL 1P 10AX 2M 1Yollu Anahtar Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30000A.2C",
+        "fiyat": "LİNEA AXİAL 1P 10AX 2M 1Yollu Anahtar Kanvas"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30000A.2G",
+        "fiyat": "LİNEA AXİAL 1P 10AX 2M 1Yollu Anahtar Siyah"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30000A.B",
+        "fiyat": "LİNEA AXİAL 1P 10AX 1M 1Yollu Anahtar Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30000A.C",
+        "fiyat": "LİNEA AXİAL 1P 10AX 1M 1Yollu Anahtar Kanvas"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30000A.G",
+        "fiyat": "LİNEA AXİAL 1P 10AX 1M 1Yollu Anahtar Siyah"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30004",
+        "fiyat": "LİNEA AXİAL 1P 10AX Vaviyen Mekanizma"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30004.2",
+        "fiyat": "LİNEA AXİAL 1P 10AX 2M Vaviyen Mekanizma"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30004.2B",
+        "fiyat": "LİNEA AXİAL 1P 10AX 250V Vaviyen Anahtar Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30004.2C",
+        "fiyat": "LİNEA AXİAL 1P 10AX 250V Vaviyen Anahtar Kanvas"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30004.2G",
+        "fiyat": "LİNEA AXİAL 1P 10AX 250V Vaviyen Anahtar Siyah"
+    },
+    {
+        "marka": "Genel",
         "urun_adi": "09001.0.250",
         "fiyat": "NEVE UP 1P 16AX 1 Yollu Anahtar Mekanizma Işıklı 250V"
     },
@@ -94652,7 +94737,7 @@
     {
         "marka": "Genel",
         "urun_adi": "19006",
-        "fiyat": "ARKE  1P 20AX 2 Yollu anahtar Grey"
+        "fiyat": "ARKE  1P 20AX 2 Yollu ana htar Grey"
     },
     {
         "marka": "Genel",
@@ -94846,6 +94931,16 @@
     },
     {
         "marka": "Genel",
+        "urun_adi": "19016.WH",
+        "fiyat": "ARKE  2P 20AX 1 Yollu Anahtar Su/Isıtıcı Grey"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "19016.WH.M",
+        "fiyat": "ARKE  2P 20AX 1 Yollu Anahtar Su/Isıtıcı Metal"
+    },
+    {
+        "marka": "Genel",
         "urun_adi": "19017",
         "fiyat": "ARKE  2P 32A 1 Yollu Anahtar Gri"
     },
@@ -94891,6 +94986,16 @@
     },
     {
         "marka": "Genel",
+        "urun_adi": "19018.CK",
+        "fiyat": "ARKE  2P 45A 1 Yollu Anahtar Ocak Sembollü 3M Grey"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "19018.CK.M",
+        "fiyat": "ARKE  2P 45A 1 Yollu Anahtar Ocak Sembollü 3M Metal"
+    },
+    {
+        "marka": "Genel",
         "urun_adi": "19019",
         "fiyat": "ARKE  2P 45A 1 Yollu Anahtar 5M Gri"
     },
@@ -94903,6 +95008,16 @@
         "marka": "Genel",
         "urun_adi": "19019.M",
         "fiyat": "ARKE  2P 45A 1 Yollu Anahtar 5M Metal"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "19019.CK",
+        "fiyat": "ARKE  2P 45A 1 Yollu Anahtar Ocak Sembollü 5M Grey"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "19019.CK.M",
+        "fiyat": "ARKE  2P 45A 1 Yollu Anahtar Ocak Sembollü 5M Metal"
     },
     {
         "marka": "Genel",
@@ -95111,6 +95226,16 @@
     },
     {
         "marka": "Genel",
+        "urun_adi": "19026.PLS",
+        "fiyat": "ARKE  BUTON 1M + Lütfen Temizleyin İşareti Grey"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "19026.PLS.M",
+        "fiyat": "ARKE  BUTON 1M + Lütfen Temizleyin İşareti Metal"
+    },
+    {
+        "marka": "Genel",
         "urun_adi": "19027",
         "fiyat": "ARKE  2M Buton + Füme Işık Bölmesi"
     },
@@ -95217,7 +95342,12 @@
     {
         "marka": "Genel",
         "urun_adi": "19041.AB",
-        "fiyat": "ARKE  Antibakteriyel Blank Modül GRİ"
+        "fiyat": "ARKE  Antibakteriyel Blank Modül Grey"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "19041.AB.B",
+        "fiyat": "ARKE  Antibakteriyel Blank Modül Beyaz"
     },
     {
         "marka": "Genel",
@@ -95337,7 +95467,12 @@
     {
         "marka": "Genel",
         "urun_adi": "19095",
-        "fiyat": "ARKE  1P 6(2)A FAN-COİL Hız Ayar Anahtarı , Füme"
+        "fiyat": "ARKE  1P 6(2)A FAN-COİL Hız Ayar Anahtarı , Grey"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "19095.B",
+        "fiyat": "ARKE  1P 6(2)A FAN-COİL Hız Ayar Anahtarı , Beyaz"
     },
     {
         "marka": "Genel",
@@ -95396,8 +95531,8 @@
     },
     {
         "marka": "Genel",
-        "urun_adi": "19101.2.M",
-        "fiyat": "ARKE  Axial 1P 16AX 1 Yollu Anahtar 2M Metal"
+        "urun_adi": "19101.2.B",
+        "fiyat": "ARKE  Axial 1P 16AX 1 Yollu Anahtar 2M Beyaz"
     },
     {
         "marka": "Genel",
@@ -95421,13 +95556,28 @@
     },
     {
         "marka": "Genel",
+        "urun_adi": "19104.B",
+        "fiyat": "ARKE  Axial 2P 10AX 2 Yollu Anahtar Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "19105.2.B",
+        "fiyat": "ARKE  Axial 1P 16AX 2 Yollu Anahtar 2M Beyaz"
+    },
+    {
+        "marka": "Genel",
         "urun_adi": "19105.2.M",
         "fiyat": "ARKE  Axial 1P 16AX 2 Yollu Anahtar 2M Metal"
     },
     {
         "marka": "Genel",
         "urun_adi": "19113",
-        "fiyat": "ARKE  Axial 1P 16AX Reversing Switch Gri"
+        "fiyat": "ARKE  Axial 1P 16AX Reversing Switch Grey"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "19113.B",
+        "fiyat": "ARKE  Axial 1P 16AX Reversing Switch Beyaz"
     },
     {
         "marka": "Genel",
@@ -95442,7 +95592,7 @@
     {
         "marka": "Genel",
         "urun_adi": "19131",
-        "fiyat": "ARKE  Axial Button 1M Gri"
+        "fiyat": "ARKE  Axial Button 1M Grey"
     },
     {
         "marka": "Genel",
@@ -95457,7 +95607,22 @@
     {
         "marka": "Genel",
         "urun_adi": "19132",
-        "fiyat": "ARKE  Axial Button 2M Gri"
+        "fiyat": "ARKE  Axial Button 2M Grey"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "19132.0",
+        "fiyat": "ARKE  Axial Button 2M Özelleştirilmiş Buton Grey"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "19132.0.M",
+        "fiyat": "ARKE  Axial Button 2M Özelleştirilmiş Buton Metal"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "19132.C",
+        "fiyat": "ARKE  Axial 2M Buton Zil Sembollü  Grey"
     },
     {
         "marka": "Genel",
@@ -95483,6 +95648,11 @@
         "marka": "Genel",
         "urun_adi": "19135.1.120.M",
         "fiyat": "ARKE  MASTER Dimmer 120V Metal"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "19135.AB.1",
+        "fiyat": "ARKE  MASTER Dimmer 230V Antibacterial Grey"
     },
     {
         "marka": "Genel",
@@ -95621,6 +95791,16 @@
     },
     {
         "marka": "Genel",
+        "urun_adi": "19196",
+        "fiyat": "ARKE  QUİD Elektronik Panjur 1 Yollu Anahtar Grey"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "19196.M",
+        "fiyat": "ARKE  QUİD Elektronik Panjur 1 Yollu Anahtar Metal"
+    },
+    {
+        "marka": "Genel",
         "urun_adi": "19201",
         "fiyat": "ARKE  2P+E 10A P11 Priz, Füme"
     },
@@ -95738,6 +95918,11 @@
         "marka": "Genel",
         "urun_adi": "19212.FX.C.M",
         "fiyat": "ARKE  2P+E16A Frısıcury Outlet Screw + Cover Metal"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "19212.FL.FX.M",
+        "fiyat": "ARKE  Flat 2P+E16A FR Sıcury Priz Screwless Metal"
     },
     {
         "marka": "Genel",
@@ -95891,16 +96076,6 @@
     },
     {
         "marka": "Genel",
-        "urun_adi": "19273",
-        "fiyat": "ARKE  2P+E 16A P17/11 Priz, + C16 CB Füme"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "19273.M",
-        "fiyat": "ARKE  2P+E 16A P17/11 outlet+C16 CB Metal"
-    },
-    {
-        "marka": "Genel",
         "urun_adi": "19276",
         "fiyat": "ARKE  2P+E 16A P30 Priz, +C16 CB Füme"
     },
@@ -95912,12 +96087,27 @@
     {
         "marka": "Genel",
         "urun_adi": "19290",
-        "fiyat": "ARKE  Traş Prizi 230V Füme"
+        "fiyat": "ARKE  Traş Makinası Prizi 230V Grey"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "19290.B",
+        "fiyat": "ARKE  Traş Makinası Prizi 230V Beyaz"
     },
     {
         "marka": "Genel",
         "urun_adi": "19290.M",
         "fiyat": "ARKE  Traş Prizi 230V Metal"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "19290.AB",
+        "fiyat": "ARKE  Traş Makinası Prizi Antibakteriyel 230V Grey"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "19290.AB.B",
+        "fiyat": "ARKE  Traş Makinası Prizi Antibakteriyel 230V Beyaz"
     },
     {
         "marka": "Genel",
@@ -95933,6 +96123,21 @@
         "marka": "Genel",
         "urun_adi": "19292.M",
         "fiyat": "ARKE  USB Prizi 1M  5V 1,5A Metal"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "19292.C.25",
+        "fiyat": "ARKE  PD C – USB PRİZİ 2,5A Siyah"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "19292.CC",
+        "fiyat": "ARKE  C+C-USB Prizi 5V 3A 1M  Grey"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "19292.CC.M",
+        "fiyat": "ARKE  C+C-USB Prizi 5V 3A 1M Grey"
     },
     {
         "marka": "Genel",
@@ -95968,6 +96173,21 @@
         "marka": "Genel",
         "urun_adi": "19298.M",
         "fiyat": "ARKE  TYPE-C USB 30W Besleme Metal"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "19298.B",
+        "fiyat": "ARKE  USB-C Prizi 30W PD Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "19298.60",
+        "fiyat": "ARKE  C-USB PRİZİ 60W PD Grey"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "19298.60.M",
+        "fiyat": "ARKE  TYPE-C-USB Prizi 60W PD Metal"
     },
     {
         "marka": "Genel",
@@ -96117,12 +96337,12 @@
     {
         "marka": "Genel",
         "urun_adi": "19345",
-        "fiyat": "ARKE USB Prizi  Füme"
+        "fiyat": "ARKE USB Konnektörlü Priz  Grey"
     },
     {
         "marka": "Genel",
         "urun_adi": "19345.M",
-        "fiyat": "ARKE USB Prizi  Metal"
+        "fiyat": "ARKE USB Konnektörlü Priz  Metal"
     },
     {
         "marka": "Genel",
@@ -96212,7 +96432,7 @@
     {
         "marka": "Genel",
         "urun_adi": "19430",
-        "fiyat": "ARKE  KNX Termostat Gri"
+        "fiyat": "ARKE  KNX Termostat Grey"
     },
     {
         "marka": "Genel",
@@ -96351,11 +96571,6 @@
     },
     {
         "marka": "Genel",
-        "urun_adi": "19641.03",
-        "fiyat": "ARKE  1M Classic Çerçeve, Metalik, Silver"
-    },
-    {
-        "marka": "Genel",
         "urun_adi": "19641.04",
         "fiyat": "ARKE  1M Classic Çerçeve, Metalik, Mat Titanyum"
     },
@@ -96371,11 +96586,6 @@
     },
     {
         "marka": "Genel",
-        "urun_adi": "19641.09",
-        "fiyat": "ARKE  1M Classic Çerçeve, Siyah Krom"
-    },
-    {
-        "marka": "Genel",
         "urun_adi": "19641.10",
         "fiyat": "ARKE  1M Classic Çerçeve, Siyah Nikel"
     },
@@ -96388,6 +96598,16 @@
         "marka": "Genel",
         "urun_adi": "19641.15",
         "fiyat": "ARKE  1M Classic Çerçeve, Aluminyum"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "19641.16",
+        "fiyat": "ARKE  1M Classic Çerçeve, Aluminyum LAV Rengi"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "19641.17",
+        "fiyat": "ARKE  1M Classic Çerçeve, Aluminyum Dark Bronz"
     },
     {
         "marka": "Genel",
@@ -96443,11 +96663,6 @@
         "marka": "Genel",
         "urun_adi": "19642.02",
         "fiyat": "ARKE 2M CLASSİC ÇERÇEVE,  METALİK,  MAT ARDUVAZ RENGİ"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "19642.03",
-        "fiyat": "ARKE 2M CLASSİC ÇERÇEVE,  METALİK,  SİLVER"
     },
     {
         "marka": "Genel",
@@ -96542,7 +96757,7 @@
     {
         "marka": "Genel",
         "urun_adi": "19642.B06",
-        "fiyat": "ARKE 2M CLASSIC ÇER. KUTUP BEYAZI SAF Beyaz"
+        "fiyat": "ARKE 2M Classic Çerçeve Kutup Beyazı"
     },
     {
         "marka": "Genel",
@@ -96701,11 +96916,6 @@
     },
     {
         "marka": "Genel",
-        "urun_adi": "19648.11",
-        "fiyat": "ARKE Classic plate 3M BS metal Brushed Copper"
-    },
-    {
-        "marka": "Genel",
         "urun_adi": "19648.12.01",
         "fiyat": "ARKE Classic plate 3M BS metal Brushed Brass"
     },
@@ -96753,16 +96963,6 @@
         "marka": "Genel",
         "urun_adi": "19649.10",
         "fiyat": "ARKE Classic plate 5M BS metal black Nickel"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "19649.11",
-        "fiyat": "ARKE Classic plate 5M BS metal Brushed Copper"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "19649.12.01",
-        "fiyat": "ARKE Classic plate 5M BS metal Brushed Brass"
     },
     {
         "marka": "Genel",
@@ -97211,21 +97411,6 @@
     },
     {
         "marka": "Genel",
-        "urun_adi": "19657.41",
-        "fiyat": "ARKE 7M Classic Çerçeve,  Ahşap Wenge"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "19657.42",
-        "fiyat": "ARKE 7M Classic Çerçeve,  Kiraz Kestanesi"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "19657.43",
-        "fiyat": "ARKE 7M Classic Çerçeve,  Karaçam"
-    },
-    {
-        "marka": "Genel",
         "urun_adi": "19657.61",
         "fiyat": "ARKE 7M Classic Çerçeve,  Reflex,  Duman Fümesi"
     },
@@ -97443,86 +97628,6 @@
         "marka": "Genel",
         "urun_adi": "19669.B26",
         "fiyat": "ARKE Plate 8M (2+2+2+2×71) metal polar TL"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "19672.11",
-        "fiyat": "ARKE 2M ROUND Çerçeve FIRÇALANMIŞ BAKIR"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "19672.12",
-        "fiyat": "ARKE 2M ROUND Çerçeve FIRÇALANMIŞ PİRİNÇ"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "19672.13",
-        "fiyat": "ARKE 2M ROUND Çerçeve MAT ŞAMPANYA"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "19672.21",
-        "fiyat": "ARKE 2M ROUND Çerçeve,  METALİK,  MAT GRAFİT RENGİ"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "19672.22",
-        "fiyat": "ARKE 2M ROUND Çerçeve,  METALİK,  ARDUVAZ RENGİ"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "19672.23",
-        "fiyat": "ARKE 2M ROUND Çerçeve,  METALİK,  MAT SİLVER"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "19672.24",
-        "fiyat": "ARKE 2M ROUND Çerçeve,  METALİK,  MAT BRONZ"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "19672.25",
-        "fiyat": "ARKE 2M ROUND Çerçeve,  METALİK,  MAT İNCİ"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "19672.26",
-        "fiyat": "ARKE 2M ROUND Çerçeve,  METALİK,  MAT KUTUP BEYAZI"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "19672.27",
-        "fiyat": "ARKE 2M ROUND Çerçeve,  METALİK,  GOLD"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "19672.28",
-        "fiyat": "ARKE 2M ROUND Çerçeve,  METALİK,  KROM"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "19672.29",
-        "fiyat": "ARKE 2M ROUND Çerçeve,  METALİK,  KOYU NİKEL"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "19672.30",
-        "fiyat": "ARKE 2M ROUND Çerçeve,  METALİK,  MAT NİKEL"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "19672.51",
-        "fiyat": "ARKE 2M ROUND Çerçeve,  AHŞAP, CEVİZ RENGİ"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "19672.52",
-        "fiyat": "ARKE 2M ROUND Çerçeve,  AHŞAP,  KİRAZ KESTANESİ"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "19672.53",
-        "fiyat": "ARKE 2M ROUND Çerçeve,  AHŞAP,  AKÇAAĞAÇ"
     },
     {
         "marka": "Genel",
@@ -97857,22 +97962,42 @@
     {
         "marka": "Genel",
         "urun_adi": "08064.16",
-        "fiyat": "COLOR 1P C16 CB 120-230V (Aç-Kapa)"
+        "fiyat": "COLOR Devre Kesici 1P C16 CB 120-230V (Aç-Kapa)"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "08065.06",
+        "fiyat": "COLOR Devre Kesici  1P+N C6 CB 120-230V"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "08065.10",
+        "fiyat": "COLOR Devre Kesici  1P+N C10 CB 120-230V"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "08065.16",
+        "fiyat": "COLOR Devre Kesici  1P+N C16 CB 120-230V"
     },
     {
         "marka": "Genel",
         "urun_adi": "08139",
-        "fiyat": "COLOR 2P 10 A 250V SICURY Soket Prizi"
+        "fiyat": "COLOR 2P 10 A 250V Sıcury Soket Prizi"
     },
     {
         "marka": "Genel",
         "urun_adi": "08140",
-        "fiyat": "COLOR 2P+E 10 A 250V SICURY Soket Prizi"
+        "fiyat": "COLOR 2P+E 10 A 250V Sıcury Soket Prizi"
     },
     {
         "marka": "Genel",
         "urun_adi": "08145",
-        "fiyat": "COLOR 2P+E 16 A 250V SICURY Bpresa Prizi"
+        "fiyat": "COLOR 2P+E 16 A 250V Sıcury Bpresa Prizi Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "08145.R",
+        "fiyat": "COLOR 2P+E 16A P17/11 İtalyan Priz Kırmızı"
     },
     {
         "marka": "Genel",
@@ -97892,7 +98017,7 @@
     {
         "marka": "Genel",
         "urun_adi": "08186",
-        "fiyat": "COLOR F Konnektörlü TV Prizi"
+        "fiyat": "COLOR F Konnektörlü TV Prizi Beyaz"
     },
     {
         "marka": "Genel",
@@ -97931,13 +98056,113 @@
     },
     {
         "marka": "Genel",
+        "urun_adi": "08286",
+        "fiyat": "COLOR 1P 10AX Çift Faz Vavien Anahtar"
+    },
+    {
+        "marka": "Genel",
         "urun_adi": "08319",
         "fiyat": "COLOR Boş Modül kapak 1M"
     },
     {
         "marka": "Genel",
+        "urun_adi": "08324",
+        "fiyat": "COLOR Elektronik Anahtarlar İçin Adatör"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "08336",
+        "fiyat": "COLOR 3 X 50 Helogen Dimmer"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "08346",
+        "fiyat": "COLOR 12V 50Hz ZİL Bell, (SELV) 50 Hz 8 VA"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "08349",
+        "fiyat": "COLOR 230V 50Hz ZİL Bell, 230 V~ 50 Hz 8 VA"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "08360",
+        "fiyat": "COLOR Buzzer, 12 V~ (SELV) 50-60 Hz 8 VA"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "08363",
+        "fiyat": "COLOR Buzzer, 230 V~ (SELV) 50-60 Hz 8 VA"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "08370",
+        "fiyat": "COLOR 1P 16 A 250 V~ Modül Sigorta 16A"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "08376",
+        "fiyat": "COLOR SCUDO Aşırı Gerilim Bastırıcı + Gösterge"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "08380",
+        "fiyat": "COLOR 1P 10AX 1 yollu Dahili Kilitli Anahtar"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "08380.CU",
+        "fiyat": "COLOR 1P 10 AX 250 V Kilitli Anahtar"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "08380.S",
+        "fiyat": "COLOR 1P 10AX 1 Yollu Anahtar +Key in OFF"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "08381",
+        "fiyat": "COLOR 2P 10AX 1 Yollu Anahtar + Key"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "08384",
+        "fiyat": "COLOR 1P 10AX 1 Yollu Anahtar + Key"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "08408",
+        "fiyat": "COLOR 2P+E 16A Alman Standardı Topraklı Priz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "08409",
+        "fiyat": "COLOR 2P+E 16 A 250 V~ Topraklı Priz, İtalyan Standart"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "08410.1",
+        "fiyat": "COLOR 2P+E 16 A 250 V~ Üniversal Priz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "08410.R",
+        "fiyat": "COLOR 2P+E 16 A 250 V~ Üniversal Priz Kırmızı"
+    },
+    {
+        "marka": "Genel",
         "urun_adi": "08412",
-        "fiyat": "COLOR UPS Prizi 1M"
+        "fiyat": "COLOR 2P+E 16 A 250 V~  UPS Prizi 1M"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "08430",
+        "fiyat": "COLOR 230 V~ 50-60 Hz 2 Saat Acil Durum Işık Prizi"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "08443",
+        "fiyat": "COLOR 2P+E 16 A 250 V~  + C16 C-B İtalyan Priz + Anahtar"
     },
     {
         "marka": "Genel",
@@ -97946,8 +98171,28 @@
     },
     {
         "marka": "Genel",
+        "urun_adi": "08458.8",
+        "fiyat": "COLOR RJ45 Cat5e Netsafe UTP Soket Krem"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "08458.C",
+        "fiyat": "COLOR Data Priz Adaptörü"
+    },
+    {
+        "marka": "Genel",
         "urun_adi": "08459.6",
-        "fiyat": "COLOR RJ45 Cat6 Netsafe UTP Prizi"
+        "fiyat": "COLOR RJ45 Cat6 Netsafe UTP Prizi 8 Kontak"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "08490",
+        "fiyat": "COLOR Özel Boş Modül Kapak 1M Krem"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "08491",
+        "fiyat": "COLOR 8000 Serisi için Adaptör"
     },
     {
         "marka": "Genel",
@@ -97966,6 +98211,16 @@
     },
     {
         "marka": "Genel",
+        "urun_adi": "08506",
+        "fiyat": "COLOR 2M Çerçeve Eloksallı Aluminyum"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "08506.BR",
+        "fiyat": "COLOR 2 M Çerçeve Aluminyum  Bronz"
+    },
+    {
+        "marka": "Genel",
         "urun_adi": "08531",
         "fiyat": "COLOR 3M Taşıyıcı"
     },
@@ -97978,6 +98233,166 @@
         "marka": "Genel",
         "urun_adi": "08533",
         "fiyat": "COLOR 5M Taşıyıcı"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "08533.S",
+        "fiyat": "COLOR 5M İtalyan Taşıyıcı"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "08535",
+        "fiyat": "COLOR 1M Altın Çerçeve"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "08535.BR",
+        "fiyat": "COLOR 2M Çerçeve Bronz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "08536",
+        "fiyat": "COLOR 2M Altın Çerçeve"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "08537",
+        "fiyat": "COLOR 3M Kapak Eloksal Aluminyum"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "08557",
+        "fiyat": "COLOR 3M Çerçeve Bronz Gold"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "08605.N",
+        "fiyat": "COLOR 1M Kapak Siyah"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "08605.Z",
+        "fiyat": "COLOR 1M Kapak Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "08614",
+        "fiyat": "COLOR Topraklı Priz Metal"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "08614.A",
+        "fiyat": "COLOR 2P+E 16A P30 PLS.Topraklı Priz  Fildişi Çerçeveli"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "08614.BR",
+        "fiyat": "COLOR 2P+E 16A P30 PLS.Topraklı Priz  Aluminyum Bronz Çerçeveli"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "08615",
+        "fiyat": "COLOR  UPS Priz Metal"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "08615.BR",
+        "fiyat": "COLOR  2P+E 16A UPS Priz Bronz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "08615.N",
+        "fiyat": "COLOR  2P+E 16A UPS Priz Siyah"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "08625.BR",
+        "fiyat": "COLOR  10A12-24V Bronz Etiketli ZİL Butonu"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "08636",
+        "fiyat": "COLOR  İkili Metal Kapak 3M"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "08636.BR",
+        "fiyat": "COLOR  2M Aluminyum Bronz Çerçeve"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "08636.N",
+        "fiyat": "COLOR  2M Aluminyum Siyah Çerçeve"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "08636.Z",
+        "fiyat": "COLOR  2M Aluminyum Beyaz Çerçeve"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "08637",
+        "fiyat": "COLOR  3M Altın Çerçeve"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "08637.A",
+        "fiyat": "COLOR  3M Fildişi Çerçeve"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "08637.BR",
+        "fiyat": "COLOR  3M Bronz Çerçeve"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "08637.I.12",
+        "fiyat": "COLOR  3M CW K Çerçeve"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "08637.I.21",
+        "fiyat": "COLOR  3M Gold Çerçeve"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "08637.I.24",
+        "fiyat": "COLOR  3M Çerçeve"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "08638",
+        "fiyat": "COLOR  4M Altın Çerçeve"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "08638.BR",
+        "fiyat": "COLOR  4M Bronz Çerçeve"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "08639",
+        "fiyat": "COLOR  5M Altın Çerçeve"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "08639.BR",
+        "fiyat": "COLOR  5M Bronz Çerçeve"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "08951.BR",
+        "fiyat": "COLOR  1M Panel Çerçeve ve Taşıyıcısı Bronz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "08951.N",
+        "fiyat": "COLOR  1M Panel Çerçeve ve Taşıyıcısı Siyah"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "08951.Z",
+        "fiyat": "COLOR  1M Panel Çerçeve ve Taşıyıcısı Beyaz"
     },
     {
         "marka": "Genel",
