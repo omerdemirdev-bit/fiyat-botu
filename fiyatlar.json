@@ -88212,7 +88212,252 @@
     {
         "marka": "Genel",
         "urun_adi": "30004.2G",
+        "fiyat": "LİNEA AXİAL 1P 10AX 250V Vaviyen Anahtar Grey"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30004.B",
+        "fiyat": "LİNEA AXİAL 1P 10AX 250V Vaviyen Anahtar Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30004.G",
         "fiyat": "LİNEA AXİAL 1P 10AX 250V Vaviyen Anahtar Siyah"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30004A.2B",
+        "fiyat": "LİNEA AXİAL 1P 10AX 250V Vaviyen Anahtar 2M Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30004A.2G",
+        "fiyat": "LİNEA AXİAL 1P 10AX 250V Vaviyen Anahtar 2M Siyah"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30004A.B",
+        "fiyat": "LİNEA AXİAL 1P 10AX 250V Işıklı Vavien Anahtar 1M Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30004A.G",
+        "fiyat": "LİNEA AXİAL 1P 10AX 250V Işıklı Vavien Anahtar 1M Siyah"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30008",
+        "fiyat": "LİNEA AXİAL 1P 10AX 250V Işıklı Yaylı Buton Mekanizma"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30008.2",
+        "fiyat": "LİNEA AXİAL 1P 10AX 250V Işıklı Yaylı Buton 2M Mekanizma"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30008.2B",
+        "fiyat": "LİNEA 1P 10A 250V~ Işıklı Hizalı Buton 2M Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30008.2G",
+        "fiyat": "LİNEA 1P 10A 250V~ Işıklı Hizalı Buton 2M Siyah"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30012",
+        "fiyat": "LİNEA AXİAL 1P 10A Deviyatör Mekanizma 1M"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30012.2",
+        "fiyat": "LİNEA AXİAL 1P 10A Deviyatör Mekanizma 2M"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30012.2B",
+        "fiyat": "LİNEA AXİAL 1P 10AX DEVİYATÖR 2M in-line Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30012.2G",
+        "fiyat": "LİNEA AXİAL 1P 10AX DEVİYATÖR 2M in-line Siyah"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30012A.2B",
+        "fiyat": "LİNEA AXİAL 1P 10AX DEVİYATÖR 2M Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30012A.2G",
+        "fiyat": "LİNEA AXİAL 1P 10AX DEVİYATÖR 2M Siyah"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30012A.B",
+        "fiyat": "LİNEA AXİAL 1P 10AX DEVİYATÖR 1M Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30012A.G",
+        "fiyat": "LİNEA AXİAL 1P 10AX DEVİYATÖR 1M Siyah"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30016.B",
+        "fiyat": "LİNEA AXİAL 2P 20AX Tahtıravelli Anahtar Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30016.G",
+        "fiyat": "LİNEA AXİAL 2P 20AX Tahtıravelli Anahtar Siyah"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30024.B",
+        "fiyat": "LİNEA AXİAL 1P 10AX 2 Yollu Tahtıravelli Anahtar Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30024.G",
+        "fiyat": "LİNEA AXİAL 1P 10AX 2 Yollu Tahtıravelli Anahtar Siyah"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30032.LB",
+        "fiyat": "LİNEA AXİAL 1P 10AX Tahtıravelli Deviyatör + LED Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30032.LG",
+        "fiyat": "LİNEA AXİAL 1P 10AX Tahtıravelli Deviyatör + LED Siyah"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30040.B",
+        "fiyat": "LİNEA 1/2M Boş Kapak Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30040.G",
+        "fiyat": "LİNEA 1/2M Boş Kapak Siyah"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30041.B",
+        "fiyat": "LİNEA Boş Kapak Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30041.C",
+        "fiyat": "LİNEA Boş Kapak Kanvas"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30041.G",
+        "fiyat": "LİNEA Boş Kapak Siyah"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30044.B",
+        "fiyat": "LİNEA Kablo Geçiş Kapağı Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30044.G",
+        "fiyat": "LİNEA Kablo Geçiş Kapağı Siyah"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30060.B",
+        "fiyat": "LİNEA Kalıcı Panjur Anahtar 1P 10AX Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30060.G",
+        "fiyat": "LİNEA Kalıcı Panjur Anahtar 1P 10AX Siyah"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30061.B",
+        "fiyat": "LİNEA 2P 10A Anahtar Yaylı Buton Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30061.G",
+        "fiyat": "LİNEA 2P 10A Anahtar Yaylı Buton Siyah"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30063.B",
+        "fiyat": "LİNEA 1P 10AX Vaviyen Fan Coil Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30063.G",
+        "fiyat": "LİNEA 1P 10AX Vaviyen Fan Coil Siyah"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30135.120B",
+        "fiyat": "LİNEA Bağımsız Universal Dimmer 120V Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30135.120G",
+        "fiyat": "LİNEA Bağımsız Universal Dimmer 120V Siyah"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30135.120C",
+        "fiyat": "LİNEA Bağımsız Universal Dimmer 120V Kanvas"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30179.B",
+        "fiyat": "LİNEA IoT Bağlantılı Radarlı Sensör 1M Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30179.G",
+        "fiyat": "LİNEA IoT Bağlantılı Radarlı Sensör 1M Siyah"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30181.120B",
+        "fiyat": "LİNEA KÖ Röle Anahtar 120V Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30181.120G",
+        "fiyat": "LİNEA KÖ Röle Anahtar 120V Siyah"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30186.B",
+        "fiyat": "LİNEA KÖ Başucu Anahtarı 220-240V Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30186.G",
+        "fiyat": "LİNEA KÖ Başucu Anahtarı 220-240V Siyah"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30195.B",
+        "fiyat": "LİNEA Wi-Fi Access Point 220-240V 2M Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30195.G",
+        "fiyat": "LİNEA Wi-Fi Access Point 220-240V 2M Siyah"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30196.B",
+        "fiyat": "LİNEA Quid Panjur Anahtarı Beyaz"
     },
     {
         "marka": "Genel",
