@@ -88461,6 +88461,326 @@
     },
     {
         "marka": "Genel",
+        "urun_adi": "30196.G",
+        "fiyat": "LİNEA Quid Panjur Anahtarı Siyah"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30201.B",
+        "fiyat": "LİNEA 2P+E 10A P11 Priz Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30203.B",
+        "fiyat": "LİNEA 2P+E 10A P11 Priz Siyah"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30203.R",
+        "fiyat": "LİNEA 2P+E 16A P17/11 Priz Kırmızı"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30208.B",
+        "fiyat": "LİNEA 2P+E 16A German Sıcury Priz Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30208.CB",
+        "fiyat": "LİNEA 2P+E 16A German Sıcury Kapaklı Priz Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30208.CC",
+        "fiyat": "LİNEA 2P+T 16 A 250 V~ Sıcury priz,German,2M Kanvas"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30208.CG",
+        "fiyat": "LİNEA 2P+T 16 A 250 V~ Kapak+Priz,German,Kanvas – 2M Grey"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30208.USBB",
+        "fiyat": "LİNEA 2P+E 16A DE SICURY Çıkış + USB-C 15 Işıklı 2M Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30208.USBG",
+        "fiyat": "LİNEA 2P+E 16A DE SICURY Çıkış + USB-C 15 Işıklı 2M Grey"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30210.B",
+        "fiyat": "LİNEA 2P+E 16A Universal Priz İtalyan Standart 2M Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30210.G",
+        "fiyat": "LİNEA 2P+E 16A Universal Priz İtalyan Standart 2M Grey"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30210.R",
+        "fiyat": "LİNEA 2P+E 16A Universal Priz İtalyan Standart 2M Kırmızı"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30210.USBB",
+        "fiyat": "LİNEA 2P+E 16A Universal + USB-C Priz Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30210.USBC",
+        "fiyat": "LİNEA 2P+E 16A Universal + USB-C Priz Kanvas"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30210.USBG",
+        "fiyat": "LİNEA 2P+E 16A Universal + USB-C Priz Grey"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30211.B",
+        "fiyat": "LİNEA Flat 2P+E P40 Üniversal Priz Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30211.C",
+        "fiyat": "LİNEA Flat 2P+E P40 Üniversal Priz Kanvas"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30211.G",
+        "fiyat": "LİNEA Flat 2P+E P40 Üniversal Priz Grey"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30212.G",
+        "fiyat": "LİNEA SICURY 2P+T 16A 250 V~ Üniversal Priz Grey"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30234.B",
+        "fiyat": "LİNEA 2P 16A USA + EU Sıcury Priz Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30234.C",
+        "fiyat": "LİNEA 2P 16A USA + EU Sıcury Priz Kanvas"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30234.G",
+        "fiyat": "LİNEA 2P 16A USA + EU Sıcury Priz Grey"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30242.B",
+        "fiyat": "LİNEA 2P+E 15A USA Sıcury Priz Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30242.C",
+        "fiyat": "LİNEA 2P+E 15A USA Sıcury Priz Kanvas"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30242.G",
+        "fiyat": "LİNEA 2P+E 15A USA Sıcury Priz Grey"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30243.B",
+        "fiyat": "LİNEA 2P+E 15A USA 2xSICURY Priz Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30243.G",
+        "fiyat": "LİNEA 2P+E 15A USA 2xSICURY Priz Grey"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30248.B",
+        "fiyat": "LİNEA 2P+E 16A USA + EU SICURY Priz Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30248.C",
+        "fiyat": "LİNEA 2P+E 16A USA + EU SICURY Priz Kanvas"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30248.G",
+        "fiyat": "LİNEA 2P+E 16A USA + EU SICURY Priz Grey"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30257.B",
+        "fiyat": "LİNEA 2P+E 13A 250V Çoklu Standart Priz 2M Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30257.C",
+        "fiyat": "LİNEA 2P+E 13A 250V Çoklu Standart Priz 2M Kanvas"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30257.G",
+        "fiyat": "LİNEA 2P+E 13A 250V Çoklu Standart Priz 2M Grey"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30290.B",
+        "fiyat": "LİNEA 20VA 230V 50-60Hz ABD Standart Traş Prizi Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30290.C",
+        "fiyat": "LİNEA 20VA 230V 50-60Hz ABD Standart Traş Prizi Kanvas"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30290.G",
+        "fiyat": "LİNEA 20VA 230V 50-60Hz ABD Standart Traş Prizi Grey"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30292.AC15B",
+        "fiyat": "LİNEA A+C USB Prizi 15W 5V 1M Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30292.AC15C",
+        "fiyat": "LİNEA A+C USB Prizi 15W 5V 1M Kanvas"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30292.AC15G",
+        "fiyat": "LİNEA A+C USB Prizi 15W 5V 1M Grey"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30292.C25B",
+        "fiyat": "LİNEA TAYP-C USB Şarj Ünitesi 2,5A Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30292.C25C",
+        "fiyat": "LİNEA TAYP-C USB Şarj Ünitesi 2,5A Kanvas"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30292.C25G",
+        "fiyat": "LİNEA TAYP-C USB Şarj Ünitesi 2,5A Grey"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30292.CCB",
+        "fiyat": "LİNEA TAYP-C C+C USB Şarj Ünitesi 5V 3A Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30292.CCC",
+        "fiyat": "LİNEA TAYP-C C+C USB Şarj Ünitesi 5V 3A Kanvas"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30292.CCG",
+        "fiyat": "LİNEA TAYP-C C+C USB Şarj Ünitesi 5V 3A Grey"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30298.60B",
+        "fiyat": "LİNEA C-USB Şarj Prizi 120-240V 60W PD Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30298.60G",
+        "fiyat": "LİNEA C-USB Şarj Prizi 120-240V 60W PD Grey"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30300.01B",
+        "fiyat": "LİNEA TV-RD-SAT Prizi 5-2400Mhz Sonlu Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30300.01G",
+        "fiyat": "LİNEA TV-RD-SAT Prizi 5-2400Mhz Sonlu Grey"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30300.10B",
+        "fiyat": "LİNEA TV-RD-SAT Prizi 5-2400Mhz Geçişli Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30300.10G",
+        "fiyat": "LİNEA TV-RD-SAT Prizi 5-2400Mhz Geçişli Grey"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30302.01B",
+        "fiyat": "LİNEA TV-RD-SAT Prizi 5-2400Mhz İkili Sonlu Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30302.01G",
+        "fiyat": "LİNEA TV-RD-SAT Prizi 5-2400Mhz İkili Sonlu Grey"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30318.B",
+        "fiyat": "LİNEA F Konnektörlü TV Prizi 2400MHz Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30318.G",
+        "fiyat": "LİNEA F Konnektörlü TV Prizi 2400MHz Grey"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30339.13B",
+        "fiyat": "LİNEA RJ45 Cat6 8 Kontak Netsafe UTP Priz Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30339.13C",
+        "fiyat": "LİNEA RJ45 Cat6 8 Kontak Netsafe UTP Priz Kanvas"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30339.13G",
+        "fiyat": "LİNEA RJ45 Cat6 8 Kontak Netsafe UTP Priz Grey"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30339.16B",
+        "fiyat": "LİNEA RJ45 Cat6A Netsafe T568A/B FTP Priz Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30339.16C",
+        "fiyat": "LİNEA RJ45 Cat6A Netsafe T568A/B FTP Priz Kanvas"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30339.16G",
+        "fiyat": "LİNEA RJ45 Cat6A Netsafe T568A/B FTP Priz Grey"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30346.HB",
+        "fiyat": "LİNEA HDMI PRİZ 90° Kablosu ile Gelir Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30346.HG",
+        "fiyat": "LİNEA HDMI PRİZ 90° Kablosu ile Gelir Grey"
+    },
+    {
+        "marka": "Genel",
         "urun_adi": "09001.0.250",
         "fiyat": "NEVE UP 1P 16AX 1 Yollu Anahtar Mekanizma Işıklı 250V"
     },
