@@ -89046,6 +89046,231 @@
     },
     {
         "marka": "Genel",
+        "urun_adi": "31000.2B",
+        "fiyat": "LİNEA Yaylı Buton 2M Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "31000.2CB",
+        "fiyat": "LİNEA Yaylı Buton 2M Zil Sembollü Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "31000.2CC",
+        "fiyat": "LİNEA Yaylı Buton 2M Zil Sembollü Kanvas"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "31000.2CG",
+        "fiyat": "LİNEA Yaylı Buton 2M Zil Sembollü Grey"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "31000.2DB",
+        "fiyat": "LİNEA Yaylı Buton 2M Işık Yayan Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "31000.B",
+        "fiyat": "LİNEA Yaylı Buton 1M Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "31000.C",
+        "fiyat": "LİNEA Yaylı Buton 1M Kanvas"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "31000.CB",
+        "fiyat": "LİNEA Yaylı Buton 1M Zil Sembollü Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "31000.CC",
+        "fiyat": "LİNEA Yaylı Buton 1M Zil Sembollü Kanvas"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "31000.CG",
+        "fiyat": "LİNEA Yaylı Buton 1M Zil Sembollü Grey"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "31000.PB",
+        "fiyat": "LİNEA Yaylı Buton 1M Anahtar Sembollü Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "31000.PC",
+        "fiyat": "LİNEA Yaylı Buton 1M Anahtar Sembollü Kanvas"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "31000.PG",
+        "fiyat": "LİNEA Yaylı Buton 1M Anahtar Sembollü Grey"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "31000A.2B",
+        "fiyat": "LİNEA Yaylı Buton Axial 2M Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "31000A.2C",
+        "fiyat": "LİNEA Yaylı Buton Axial 2M Kanvas"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "31000A.2CB",
+        "fiyat": "LİNEA Yaylı Buton Axial Zil Sembollü 2M Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "31000A.2CC",
+        "fiyat": "LİNEA Yaylı Buton Axial Zil Sembollü 2M Kanvas"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "31000A.2CG",
+        "fiyat": "LİNEA Yaylı Buton Axial Zil Sembollü 2M Grey"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "31000S.2B",
+        "fiyat": "LİNEA 2M Alttan Işıklı Yaylı Buton Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "31000S.2C",
+        "fiyat": "LİNEA 2M Alttan Işıklı Yaylı Buton Kanvas"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "31000S.2G",
+        "fiyat": "LİNEA 2M Alttan Işıklı Yaylı Buton Grey"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "31480.2B",
+        "fiyat": "LİNEA 2 Yarım Yaylı Buton 2M w/o Sembollü cust.Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "31480.2FB",
+        "fiyat": "LİNEA 2 Yarım Yaylı Buton 2M OK Sembollü Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "31528.B",
+        "fiyat": "LİNEA By-Alarm Plus Aktüatör Kapağı 1M Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "32023.B",
+        "fiyat": "LİNEA Gelişmiş XT Cihazı By-me Plus 1M Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "32044.B",
+        "fiyat": "LİNEA XT Cihazı By-me Plus 1M 4 İşlevli Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "32121.B",
+        "fiyat": "LİNEA XT Cihazı KNX 1M Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "32123.B",
+        "fiyat": "LİNEA XT Cihazı KNX Gelişmiş 1M Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "32124.B",
+        "fiyat": "LİNEA XT Cihazı KNX Gelişmiş 1M 4-Point Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "32602.B",
+        "fiyat": "LİNEA XT Taşıyıcı 2M Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "32603.B",
+        "fiyat": "LİNEA XT Taşıyıcı 3M Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "32604.B",
+        "fiyat": "LİNEA XT Taşıyıcı 4M Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "32613.B",
+        "fiyat": "LİNEA XT 3M Taşıyıcı Karışık + Çerçeve Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "32614.B",
+        "fiyat": "LİNEA XT 4M Taşıyıcı Karışık + Çerçeve Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30000.FX2B",
+        "fiyat": "LİNEA 1P10AX2M Quick wir.1-way Switch Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30004.FX2B",
+        "fiyat": "LİNEA 1P 10AX 2M Quick wir.2-way Switch Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30134.120B",
+        "fiyat": "LİNEA Dimmer for fans 120V Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30134.B",
+        "fiyat": "LİNEA Dimmer for fans 220-240V Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30223.CB",
+        "fiyat": "LİNEA 2P+E13ABS Socket + Red Switch + C-USB Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30224.ACB",
+        "fiyat": "LİNEA 2 2P+E13ABS Socket+Red Switch + A/C-USB wh"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30295.ACB",
+        "fiyat": "LİNEA A+C USB Power Supply Unit 15W 3A 5V 2M w"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30303.B",
+        "fiyat": "LİNEA TV-FM-SAT Single-Con.Socket Outlet 3 Out"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "30583",
+        "fiyat": "LİNEA 4-Button KNX Secure Control 2M"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "32142.B",
+        "fiyat": "LİNEA Device XT KNX Multisensor 2M Beyaz"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "32144.B",
+        "fiyat": "LİNEA Device XT KNX Advanced 1M 4-Function w"
+    },
+    {
+        "marka": "Genel",
         "urun_adi": "09001.0.250",
         "fiyat": "NEVE UP 1P 16AX 1 Yollu Anahtar Mekanizma Işıklı 250V"
     },
