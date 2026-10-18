@@ -25246,6 +25246,11 @@
     },
     {
         "marka": "Delta",
+        "urun_adi": "DELTA İNVERTÖR 2026 FİYAT LİSTESİ 230V AC",
+        "fiyat": "(KW)"
+    },
+    {
+        "marka": "Delta",
         "urun_adi": "VFD004EL21A  0,4 KW  2,5A  (72 x 174 x 136 mm)",
         "fiyat": "0,4"
     },
@@ -25266,7 +25271,7 @@
     },
     {
         "marka": "Delta",
-        "urun_adi": "DELTA 2026 VFD-EL SERİSİ Trifaze (380V)",
+        "urun_adi": "DELTA İNVERTÖR 2026 FİYAT LİSTESİ  380V AC",
         "fiyat": "(KW)"
     },
     {
@@ -25296,6 +25301,11 @@
     },
     {
         "marka": "Delta",
+        "urun_adi": "DELTA İNVERTÖR 2026 FİYAT LİSTESİ  230V AC",
+        "fiyat": "(KW)"
+    },
+    {
+        "marka": "Delta",
         "urun_adi": "VFD007E21T  0.75 kW 4.2 A   (72 x 142 x 152 mm)",
         "fiyat": "0,75"
     },
@@ -25311,7 +25321,7 @@
     },
     {
         "marka": "Delta",
-        "urun_adi": "DELTA 2026  VFD-E SERİSİ  Trifaze 380V AC",
+        "urun_adi": "DELTA İNVERTÖR 2026 FİYAT LİSTESİ VFD-E SERİSİ 380V AC",
         "fiyat": "(KW)"
     },
     {
@@ -25366,7 +25376,7 @@
     },
     {
         "marka": "Delta",
-        "urun_adi": "HVAC projeleri için uygundur , PLC, Delta yazılımları WPL Soft veya ISP Soft ile kolayca programlanabilir.",
+        "urun_adi": "HVAC projeleri için uygundur , PLC, Delta Yazılımları WPL Soft veya ISP Soft ile Kolayca Programlanabilir.",
         "fiyat": "(KW)"
     },
     {
@@ -25391,7 +25401,7 @@
     },
     {
         "marka": "Delta",
-        "urun_adi": "DELTA 2026 FİYAT LİSTESİ  ME 300 SERİSİ 400V AC",
+        "urun_adi": "DELTA İNVERTÖR 2026 FİYAT LİSTESİ ME 300 Serisi 380V AC",
         "fiyat": "(KW)"
     },
     {
@@ -25426,7 +25436,227 @@
     },
     {
         "marka": "Delta",
-        "urun_adi": "DELTA 2026 FİYAT LİSTESİ    C-2000 PLUS (PLC+İNVERTER) FOC Vektör Kontrolü , 380V AC",
+        "urun_adi": "VFD2A8MS21AFSAA   0,4 KW   Çıkış Akımı :3.2 A / 2.8 A  (72 x 142 x 159 mm)   230V AC",
+        "fiyat": "0,4 KW"
+    },
+    {
+        "marka": "Delta",
+        "urun_adi": "VFD4A8MS21AFSAA   0,75 KW   Çıkış Akımı :5 A / 4.8 A  (72 x 142 x 159 mm)    230V AC",
+        "fiyat": "0,75 KW"
+    },
+    {
+        "marka": "Delta",
+        "urun_adi": "VFD7A5MS21AFSAA   1,5 KW   Çıkış Akımı :8.5 A / 7.5 A  (87 x 157 x 179 mm)   230V AC",
+        "fiyat": "1,5 KW"
+    },
+    {
+        "marka": "Delta",
+        "urun_adi": "VFD7A5MS21AFSHA   1,5 KW   Çıkış Akımı :8.5 A / 7.5 A  (87 x 157 x 179 mm)   230V AC 1500 Hz",
+        "fiyat": "1,5 KW"
+    },
+    {
+        "marka": "Delta",
+        "urun_adi": "VFD11AMS21AFSAA   2,2 KW   Çıkış Akımı :12.5 A / 11 A  (87 x 157 x 179 mm)  230V AC",
+        "fiyat": "2,2 KW"
+    },
+    {
+        "marka": "Delta",
+        "urun_adi": "VFD11AMS21AFSHA   2,2 KW   Çıkış Akımı :12.5 A / 11 A  (87 x 157 x 179 mm)   230V AC 1500 Hz",
+        "fiyat": "2,2 KW"
+    },
+    {
+        "marka": "Delta",
+        "urun_adi": "VFD2A7MS43AFSAA   0,75 KW   Çıkış Akımı :3 A / 2.7 A  (72 x 142 x 159 mm)    3x400V AC",
+        "fiyat": "0,75 KW"
+    },
+    {
+        "marka": "Delta",
+        "urun_adi": "VFD4A2MS43AFSAA   1,5 KW   Çıkış Akımı :4.6 A / 4.2 A  (72 x 142 x 159 mm)    3x400V AC",
+        "fiyat": "1,5 KW"
+    },
+    {
+        "marka": "Delta",
+        "urun_adi": "VFD4A2MS43AFSHA   1,5 KW   Çıkış Akımı :4.6 A / 4.2 A  (72 x 142 x 159 mm)    3x400V AC 1500 Hz",
+        "fiyat": "1,5 KW"
+    },
+    {
+        "marka": "Delta",
+        "urun_adi": "VFD5A5MS43AFSAA   2,2 KW   Çıkış Akımı :6.5 A / 5.5 A  (87 x 157 x 179 mm)    3x400V AC",
+        "fiyat": "2,2 KW"
+    },
+    {
+        "marka": "Delta",
+        "urun_adi": "VFD5A5MS43AFSHA   2,2 KW   Çıkış Akımı :6.5 A / 5.5 A  (87 x 157 x 179 mm)    3x400V AC 1500 Hz",
+        "fiyat": "2,2 KW"
+    },
+    {
+        "marka": "Delta",
+        "urun_adi": "VFD9A0MS43AFSAA   4 KW   Çıkış Akımı :10.5 A / 9 A  (87 x 157 x 179 mm)    3x400V AC",
+        "fiyat": "4 KW"
+    },
+    {
+        "marka": "Delta",
+        "urun_adi": "VFD9A0MS43AFSHA   4 KW   Çıkış Akımı :10.5 A / 9 A  (87 x 157 x 179 mm)    3x400V AC  1500 Hz",
+        "fiyat": "4 KW"
+    },
+    {
+        "marka": "Delta",
+        "urun_adi": "VFD13AMS43AFSAA   5,5 KW   Çıkış Akımı :15.7 A / 13 A  (109 x 207 x 187 mm)    3x400V AC",
+        "fiyat": "5,5 KW"
+    },
+    {
+        "marka": "Delta",
+        "urun_adi": "VFD13AMS43AFSHA   5,5 KW   Çıkış Akımı :15.7 A / 13 A  (109 x 207 x 187 mm)    3x400V AC 1500 Hz",
+        "fiyat": "5,5 KW"
+    },
+    {
+        "marka": "Delta",
+        "urun_adi": "VFD17AMS43AFSAA   7,5 KW   Çıkış Akımı :20.5 A / 17 A  (109 x 207 x 187 mm)    3x400V AC",
+        "fiyat": "7,5 KW"
+    },
+    {
+        "marka": "Delta",
+        "urun_adi": "VFD17AMS43AFSHA   7,5 KW   Çıkış Akımı :20.5 A / 17 A  (109 x 207 x 187 mm)    3x400V AC 1500 Hz",
+        "fiyat": "7,5 KW"
+    },
+    {
+        "marka": "Delta",
+        "urun_adi": "VFD25AMS43AFSAA   11 KW   Çıkış Akımı :28 A / 25 A  (130 x 250 x 219 mm)    3x400V AC",
+        "fiyat": "11 KW"
+    },
+    {
+        "marka": "Delta",
+        "urun_adi": "VFD25AMS43AFSHA   11 KW   Çıkış Akımı :28 A / 25 A  (130 x 250 x 219 mm)    3x400V AC  1500 Hz",
+        "fiyat": "11 KW"
+    },
+    {
+        "marka": "Delta",
+        "urun_adi": "VFD32AMS43AFSAA   15 KW   Çıkış Akımı :36 A / 32 A (130 x 250 x 219 mm)    3x400V AC",
+        "fiyat": "15 KW"
+    },
+    {
+        "marka": "Delta",
+        "urun_adi": "VFD32AMS43AFSHA   15 KW   Çıkış Akımı :36 A / 32 A (130 x 250 x 219 mm)    3x400V AC   1500 Hz",
+        "fiyat": "15 KW"
+    },
+    {
+        "marka": "Delta",
+        "urun_adi": "VFD38AMS43AFSAA   18,5 KW   Çıkış Akımı :41.5 A / 38 A (175 x 300 x 244 mm)    3x400V AC",
+        "fiyat": "18,5 KW"
+    },
+    {
+        "marka": "Delta",
+        "urun_adi": "VFD38AMS43AFSHA   18,5 KW   Çıkış Akım :41.5 A / 38 A (175 x 300 x 244 mm)  3x400V AC  1500 Hz",
+        "fiyat": "18,5 KW"
+    },
+    {
+        "marka": "Delta",
+        "urun_adi": "VFD45AMS43AFSAA   22 KW   Çıkış Akımı :49 A / 45 A (175 x 300 x 244 mm)    3x400V AC",
+        "fiyat": "22 KW"
+    },
+    {
+        "marka": "Delta",
+        "urun_adi": "VFD45AMS43AFSHA   22 KW   Çıkış Akımı :49 A / 45 A (175 x 300 x 244 mm)    3x400V AC  1500 Hz",
+        "fiyat": "22 KW"
+    },
+    {
+        "marka": "Delta",
+        "urun_adi": "VFD2A8MH21AFSAA  0,4 KW  230V AC ( 3.2 A / 2.8 A)  ( 72 x 142 x 174 mm )",
+        "fiyat": "0,4 KW"
+    },
+    {
+        "marka": "Delta",
+        "urun_adi": "VFD5A0MH21AFSAA  0,75 KW  230V AC  ( 5.2 A / 5 A )  ( 72 x 142 x 174 mm )",
+        "fiyat": "0,75 KW"
+    },
+    {
+        "marka": "Delta",
+        "urun_adi": "VFD7A5MH21AFSAA  1,5 KW  230V AC  ( 8.5 A / 7.5 A )  ( 87 x 157 x 194 mm )",
+        "fiyat": "1,5 KW"
+    },
+    {
+        "marka": "Delta",
+        "urun_adi": "VFD11AMH21AFSAA  2,2 KW  230V AC  ( 12.5 A / 11 A )  ( 87 x 157 x 194 mm )",
+        "fiyat": "2,2 KW"
+    },
+    {
+        "marka": "Delta",
+        "urun_adi": "VFD3A0MH43AFSAA  0,75 KW 400V AC  ( 3.3 A / 3 A )  ( 72 x 142 x 174 mm )",
+        "fiyat": "0,75 KW"
+    },
+    {
+        "marka": "Delta",
+        "urun_adi": "VFD4A2MH43AFSAA  1,5 KW 400V AC  ( 4.6 A / 4.2 A )  ( 72 x 142 x 174 mm )",
+        "fiyat": "1,5 KW"
+    },
+    {
+        "marka": "Delta",
+        "urun_adi": "VFD5A7MH43AFSAA  2,2 KW 400V AC  ( 6.5 A / 5.7 A )  ( 87 x 157 x 194 mm )",
+        "fiyat": "2,2 KW"
+    },
+    {
+        "marka": "Delta",
+        "urun_adi": "VFD9A0MH43AFSAA  4 KW 400V AC  ( 10.5 A / 9 A )  ( 87 x 157 x 194 mm )",
+        "fiyat": "4 KW"
+    },
+    {
+        "marka": "Delta",
+        "urun_adi": "VFD13AMH43AFSAA  5,5 KW 400V AC  ( 14.5 A / 13 A )  ( 109 x 207 x 202 mm )",
+        "fiyat": "5,5 KW"
+    },
+    {
+        "marka": "Delta",
+        "urun_adi": "VFD17AMH43AFSAA  7,5 KW 400V AC  ( 19.8 A / 17.5 A )  ( 109 x 207 x 202 mm )",
+        "fiyat": "7,5 KW"
+    },
+    {
+        "marka": "Delta",
+        "urun_adi": "VFD25AMH43AFSAA  11 KW 400V AC  ( 28 A / 25 A )  ( 130 x 250 x 234 mm )",
+        "fiyat": "11 KW"
+    },
+    {
+        "marka": "Delta",
+        "urun_adi": "VFD32AMH43AFSAA  15 KW 400V AC  ( 36 A / 32 A )  ( 130 x 250 x 234 mm )",
+        "fiyat": "15 KW"
+    },
+    {
+        "marka": "Delta",
+        "urun_adi": "VFD38AMH43AFSAA  18,5 KW 400V AC  ( 41.5 A / 38 A )  ( 175 x 300 x 259 mm )",
+        "fiyat": "18,5 KW"
+    },
+    {
+        "marka": "Delta",
+        "urun_adi": "VFD45AMH43AFSAA  22 KW 400V AC  ( 49 A / 45 A )  ( 175 x 300 x 259 mm )",
+        "fiyat": "22 KW"
+    },
+    {
+        "marka": "Delta",
+        "urun_adi": "VFD60AMH43AFSAA  30 KW 400V AC  ( 69 A / 60 A )  ( 250 x 400 x 225 mm )",
+        "fiyat": "30 KW"
+    },
+    {
+        "marka": "Delta",
+        "urun_adi": "VFD75AMH43AFSAA  37 KW 400V AC  ( 85 A / 75 A )  ( 280 x 500 x 280 mm )",
+        "fiyat": "37 KW"
+    },
+    {
+        "marka": "Delta",
+        "urun_adi": "VFD91AMH43AFSAA  45 KW 400V AC  ( 108 A / 91 A )  ( 280 x 500 x 280 mm )",
+        "fiyat": "45 KW"
+    },
+    {
+        "marka": "Delta",
+        "urun_adi": "VFD112MH43AFSAA  55 KW 400V AC  ( 128 A / 112 A )  ( 330 x 550 x 300 mm )",
+        "fiyat": "55 KW"
+    },
+    {
+        "marka": "Delta",
+        "urun_adi": "VFD150MH43AFSAA  75 KW 400V AC  ( 180 A / 150 A )  ( 330 x 550 x 300 mm )",
+        "fiyat": "75 KW"
+    },
+    {
+        "marka": "Delta",
+        "urun_adi": "DELTA İNVERTÖR 2026C-2000 PLUS ( PLC + İNVERTER ) FOC Vektör Kontrolü , 380V AC",
         "fiyat": "KW"
     },
     {
@@ -25578,6 +25808,36 @@
         "marka": "Delta",
         "urun_adi": "VFD5600C43A-00 380V  560 KW   1094A  / 930A    Motor Hız Kontrol Cihazı",
         "fiyat": "560 KW"
+    },
+    {
+        "marka": "Delta",
+        "urun_adi": "VFD040ED43B    4 kW 10 A            (195 x 275 x 140 mm)",
+        "fiyat": "4 KW"
+    },
+    {
+        "marka": "Delta",
+        "urun_adi": "VFD055ED43B    5,5 kW 15 A         (195 x 275 x 140 mm)",
+        "fiyat": "5,5 KW"
+    },
+    {
+        "marka": "Delta",
+        "urun_adi": "VFD075ED43B    7,5 kW 18,5 A      (195 x 275 x 140 mm)",
+        "fiyat": "7,5 KW"
+    },
+    {
+        "marka": "Delta",
+        "urun_adi": "VFD110ED43B    11 kW 27 A           (195 x 335 x 160 mm)",
+        "fiyat": "11 KW"
+    },
+    {
+        "marka": "Delta",
+        "urun_adi": "VFD150ED43B    15 kW 33 A           (195 x 335 x 160 mm)",
+        "fiyat": "15 KW"
+    },
+    {
+        "marka": "Delta",
+        "urun_adi": "VFD185ED43B    18,5 kW 39 A        (195 x 335 x 160 mm)",
+        "fiyat": "18,5 KW"
     },
     {
         "marka": "Delta",
@@ -25742,62 +26002,62 @@
     {
         "marka": "Delta",
         "urun_adi": "VFD040ED43S    4 kW    11.5 A    C     194 x 260 x 134 mm",
-        "fiyat": "4"
+        "fiyat": "4 KW"
     },
     {
         "marka": "Delta",
         "urun_adi": "VFD055ED43S    5.5 kW    13 A    C     235 x 350 x 146 mm",
-        "fiyat": "5,5"
+        "fiyat": "5,5 KW"
     },
     {
         "marka": "Delta",
         "urun_adi": "VFD075ED43S    7.5 kW   17 A     C     235 x 350 x 146 mm",
-        "fiyat": "7,5"
+        "fiyat": "7,5 KW"
     },
     {
         "marka": "Delta",
         "urun_adi": "VFD110ED43S    11 kW     23 A    C     235 x 350 x 146 mm",
-        "fiyat": "11"
+        "fiyat": "11 KW"
     },
     {
         "marka": "Delta",
         "urun_adi": "VFD150ED43S    15 kW     30 A    C     235 x 350 x 146 mm",
-        "fiyat": "15"
+        "fiyat": "15 KW"
     },
     {
         "marka": "Delta",
         "urun_adi": "VFD185ED43S    18.5 kW  38 A    C     235 x 350 x 146 mm",
-        "fiyat": "18,5"
+        "fiyat": "18,5 KW"
     },
     {
         "marka": "Delta",
         "urun_adi": "VFD220ED43S    22 kW     45 A    D     255 x 404 x 178 mm",
-        "fiyat": "22"
+        "fiyat": "22 KW"
     },
     {
         "marka": "Delta",
         "urun_adi": "VFD300ED43S    30 kW     58 A    D     255 x 404 x 178 mm",
-        "fiyat": "30"
+        "fiyat": "30 KW"
     },
     {
         "marka": "Delta",
         "urun_adi": "VFD370ED43S    37 kW     80 A    E     330 x 550 x 274 mm",
-        "fiyat": "37"
+        "fiyat": "37 KW"
     },
     {
         "marka": "Delta",
         "urun_adi": "VFD450ED43S    45 kW    100 A   E     330 x 550 x 274 mm",
-        "fiyat": "45"
+        "fiyat": "45 KW"
     },
     {
         "marka": "Delta",
         "urun_adi": "VFD550ED43S    55 kW    128 A   E     330 x 550 x 274 mm",
-        "fiyat": "55"
+        "fiyat": "55 KW"
     },
     {
         "marka": "Delta",
         "urun_adi": "VFD750ED43S    75 kW    165 A   E     330 x 550 x 274 mm",
-        "fiyat": "75"
+        "fiyat": "75 KW"
     },
     {
         "marka": "Delta",
@@ -26056,7 +26316,7 @@
     },
     {
         "marka": "Delta",
-        "urun_adi": "DELTA 2026 Absolute YÜKSEK ATALETLİ MOTORLAR 230V",
+        "urun_adi": "DELTA 2026 Absolute Yüksek Ataletli Motorlar 230V",
         "fiyat": "LİSTE FİYATI"
     },
     {
@@ -26163,6 +26423,21 @@
         "marka": "Delta",
         "urun_adi": "DELTA AX-C / AX-3 Serisi Hareket Kontrolörler 4, 8, 12, 16 ve 64 Eksen Seçeneği ile Hareket Kontrol",
         "fiyat": "LİSTE FİYATI"
+    },
+    {
+        "marka": "Delta",
+        "urun_adi": "AX-816EP0CB1P  Motion CNC Robotik 16 / 8 Giriş, 8/PNP Çıkış PNP EtherCAT Hareket Kontrolörü, Windows 10 IoT",
+        "fiyat": "2655 $"
+    },
+    {
+        "marka": "Delta",
+        "urun_adi": "AX-864EP0CB1P  Motion CNC Robotik 64 / 8 Giriş  8/PNP Çıkış EtherCAT Hareket Kontrolörü, Windows 10 IoT",
+        "fiyat": "2845 $"
+    },
+    {
+        "marka": "Delta",
+        "urun_adi": "AX-8H1E30CD2T Motion CNC Robotik 128 / 8 Giriş  8/NPN Çıkış EtherCAT Hareket Kontrolörü, Linux",
+        "fiyat": "3455 $"
     },
     {
         "marka": "Delta",
