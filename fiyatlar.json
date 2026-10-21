@@ -4261,127 +4261,387 @@
     },
     {
         "marka": "Hes",
+        "urun_adi": "2×1,5 mm N2XY Kablo",
+        "fiyat": "114,20 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "2×2,5 mm N2XY Kablo",
+        "fiyat": "164,40 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "2×4 mm N2XY Kablo",
+        "fiyat": "234,50 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "2×6 mm N2XY Kablo",
+        "fiyat": "332,90 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "2×10 mm N2XY Kablo",
+        "fiyat": "553,90 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "2×16 mm N2XY Kablo",
+        "fiyat": "823,20 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "2×25 mm N2XY Kablo",
+        "fiyat": "1323,00 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "2×35 mm N2XY Kablo",
+        "fiyat": "1717,00 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "2×50 mm N2XY Kablo",
+        "fiyat": "2317,00 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "3×1,5 mm N2XY Kablo",
+        "fiyat": "149,00 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "3×2,5 mm N2XY Kablo",
+        "fiyat": "223,30 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "3×4 mm N2XY Kablo",
+        "fiyat": "338,80 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "3×6 mm N2XY Kablo",
+        "fiyat": "474,50 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "3×10 mm N2XY Kablo",
+        "fiyat": "791,90 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "3×16 mm N2XY Kablo",
+        "fiyat": "1207,00 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "3×25 mm N2XY Kablo",
+        "fiyat": "1886,00 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "3×35 mm N2XY Kablo",
+        "fiyat": "2538,00 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "3×50 mm N2XY Kablo",
+        "fiyat": "3451,00 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "3×16/10 N2XY Kablo",
+        "fiyat": "1467,00 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "3×25/16 N2XY Kablo",
+        "fiyat": "2274,00 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "3×35/16 N2XY Kablo",
+        "fiyat": "2935,00 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "3×50/25 N2XY Kablo",
+        "fiyat": "4020,00 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "3×70/35 N2XY Kablo",
+        "fiyat": "5711,00 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "3×95/50 N2XY Kablo",
+        "fiyat": "7860,00 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "3×120/70 N2XY Kablo",
+        "fiyat": "10159,00 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "3×150/70 N2XY Kablo",
+        "fiyat": "12168,00 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "3×185/95 N2XY Kablo",
+        "fiyat": "15388,00 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "3×240/120 N2XY Kablo",
+        "fiyat": "20056,00 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "3×300/150 N2XY Kablo",
+        "fiyat": "25207,00 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "3×1,5/1,5  NYCY Kablo",
+        "fiyat": "256,80 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "3×2,5/2,5  NYCY Kablo",
+        "fiyat": "338,20 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "3×4/4  NYCY Kablo",
+        "fiyat": "510,20 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "3×6/6  NYCY Kablo",
+        "fiyat": "711,80 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "3×10/10*  NYCY Kablo",
+        "fiyat": "1187,00 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "3×16/16*  NYCY Kablo",
+        "fiyat": "1876,00 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "3×25/16*  NYCY Kablo",
+        "fiyat": "2552,00 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "3×35/16*  NYCY Kablo",
+        "fiyat": "3276,00 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "3×50/25*  NYCY Kablo",
+        "fiyat": "4510,00 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "3×70/35*  NYCY Kablo",
+        "fiyat": "6395,00 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "3×95/50*  NYCY Kablo",
+        "fiyat": "8714,00 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "3×120/70*  NYCY Kablo",
+        "fiyat": "11184,00 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "3×150/70*  NYCY Kablo",
+        "fiyat": "13318,00 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "3×185/95*  NYCY Kablo",
+        "fiyat": "16867,00 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "3×240/120*  NYCY Kablo",
+        "fiyat": "21944,00 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "4×1,5/1,5  NYCY Kablo",
+        "fiyat": "301,40 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "4×2,5/2,5  NYCY Kablo",
+        "fiyat": "391,70 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "4×4/4  NYCY Kablo",
+        "fiyat": "605,80 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "4×6/6  NYCY Kablo",
+        "fiyat": "842,60 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "4×10/10*  NYCY Kablo",
+        "fiyat": "1444,00 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "4×16/16*  NYCY Kablo",
+        "fiyat": "2263,00 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "4×25/16*  NYCY Kablo",
+        "fiyat": "3239,00 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "4×35/16*  NYCY Kablo",
+        "fiyat": "4193,00 TL"
+    },
+    {
+        "marka": "Hes",
         "urun_adi": "NYRY  2 x 1,5 mm Kablo",
-        "fiyat": "119,50 TL"
+        "fiyat": "230,90 TL"
     },
     {
         "marka": "Hes",
         "urun_adi": "NYRY  2 x 2,5 mm Kablo",
-        "fiyat": "151,10 TL"
+        "fiyat": "292,50 TL"
     },
     {
         "marka": "Hes",
         "urun_adi": "NYRY  2 x 4 mm Kablo",
-        "fiyat": "191,10 TL"
+        "fiyat": "356,50 TL"
     },
     {
         "marka": "Hes",
         "urun_adi": "NYRY  2 x 6 mm Kablo",
-        "fiyat": "263,60 TL"
+        "fiyat": "494,80 TL"
     },
     {
         "marka": "Hes",
         "urun_adi": "NYRY  2 x 10 mm Kablo",
-        "fiyat": "397,80 TL"
+        "fiyat": "739,40 TL"
     },
     {
         "marka": "Hes",
         "urun_adi": "NYRY  2 x 16 mm Kablo",
-        "fiyat": "562,20 TL"
+        "fiyat": "1053,00 TL"
     },
     {
         "marka": "Hes",
         "urun_adi": "NYRY  3 x 1,5 mm Kablo",
-        "fiyat": "142,40 TL"
+        "fiyat": "267,50 TL"
     },
     {
         "marka": "Hes",
         "urun_adi": "NYRY  3 x 2,5 mm Kablo",
-        "fiyat": "188,50 TL"
+        "fiyat": "348,40 TL"
     },
     {
         "marka": "Hes",
         "urun_adi": "NYRY  3 x 4 mm Kablo",
-        "fiyat": "266,00 TL"
+        "fiyat": "490,40 TL"
     },
     {
         "marka": "Hes",
         "urun_adi": "NYRY  3 x 6 mm Kablo",
-        "fiyat": "342,40 TL"
+        "fiyat": "630,90 TL"
     },
     {
         "marka": "Hes",
         "urun_adi": "NYRY  3 x 10 mm Kablo",
-        "fiyat": "537,10 TL"
-    },
-    {
-        "marka": "Hes",
-        "urun_adi": "NYRY  3 x 16 mm Kablo",
-        "fiyat": "771,40 TL"
-    },
-    {
-        "marka": "Hes",
-        "urun_adi": "NYRY  4 x 1,5 mm Kablo",
-        "fiyat": "170,10 TL"
-    },
-    {
-        "marka": "Hes",
-        "urun_adi": "NYRY  4 x 2,5 mm Kablo",
-        "fiyat": "228,60 TL"
-    },
-    {
-        "marka": "Hes",
-        "urun_adi": "NYRY  4 x 4 mm Kablo",
-        "fiyat": "339,70 TL"
-    },
-    {
-        "marka": "Hes",
-        "urun_adi": "NYRY  4 x 6 mm Kablo",
-        "fiyat": "455,80 TL"
-    },
-    {
-        "marka": "Hes",
-        "urun_adi": "NYRY  4 x 10 mm Kablo",
-        "fiyat": "682,50 TL"
-    },
-    {
-        "marka": "Hes",
-        "urun_adi": "NYRY  4 x 16 mm Kablo",
         "fiyat": "1006,00 TL"
     },
     {
         "marka": "Hes",
+        "urun_adi": "NYRY  3 x 16 mm Kablo",
+        "fiyat": "1471,00 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "NYRY  4 x 1,5 mm Kablo",
+        "fiyat": "313,90 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "NYRY  4 x 2,5 mm Kablo",
+        "fiyat": "420,40 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "NYRY  4 x 4 mm Kablo",
+        "fiyat": "640,20 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "NYRY  4 x 6 mm Kablo",
+        "fiyat": "860,20 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "NYRY  4 x 10 mm Kablo",
+        "fiyat": "1275,00 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "NYRY  4 x 16 mm Kablo",
+        "fiyat": "1952,00 TL"
+    },
+    {
+        "marka": "Hes",
         "urun_adi": "NYRY  5 x 1,5 mm Kablo",
-        "fiyat": "200,30 TL"
+        "fiyat": "374,50 TL"
     },
     {
         "marka": "Hes",
         "urun_adi": "NYRY  5 x 2,5 mm Kablo",
-        "fiyat": "255,60 TL"
+        "fiyat": "474,90 TL"
     },
     {
         "marka": "Hes",
         "urun_adi": "NYRY  5 x 4 mm Kablo",
-        "fiyat": "383,20 TL"
+        "fiyat": "717,10 TL"
     },
     {
         "marka": "Hes",
         "urun_adi": "NYRY  5 x 6 mm Kablo",
-        "fiyat": "522,90 TL"
+        "fiyat": "976,30 TL"
     },
     {
         "marka": "Hes",
         "urun_adi": "NYRY  5 x 10 mm Kablo",
-        "fiyat": "838,10 TL"
+        "fiyat": "1590,00 TL"
     },
     {
         "marka": "Hes",
         "urun_adi": "NYRY  5 x 16 mm Kablo",
-        "fiyat": "1214,00 TL"
+        "fiyat": "2351,00 TL"
     },
     {
         "marka": "Hes",
-        "urun_adi": "HES 2026  YXV-U, YXV-R (2XY) 0,6/1 kV KABLO",
+        "urun_adi": "HES EKİM 2026  YXV-U, YXV-R (2XY) 0,6/1 kV",
         "fiyat": "FİYAT"
     },
     {
@@ -4807,177 +5067,177 @@
     {
         "marka": "Hes",
         "urun_adi": "1 x 16 mm XLPE İzoleli H.Free AL-Kablo",
-        "fiyat": "39,30 TL"
+        "fiyat": "68,90 TL"
     },
     {
         "marka": "Hes",
         "urun_adi": "1 x 25 mm XLPE İzoleli H.Free AL-Kablo",
-        "fiyat": "55,90 TL"
+        "fiyat": "99,30 TL"
     },
     {
         "marka": "Hes",
         "urun_adi": "1 x 35 mm XLPE İzoleli H.Free AL-Kablo",
-        "fiyat": "70,70 TL"
+        "fiyat": "124,10 TL"
     },
     {
         "marka": "Hes",
         "urun_adi": "1 x 50 mm XLPE İzoleli H.Free AL-Kablo",
-        "fiyat": "89,50 TL"
+        "fiyat": "156,70 TL"
     },
     {
         "marka": "Hes",
         "urun_adi": "1 x 70 mm XLPE İzoleli H.Free AL-Kablo",
-        "fiyat": "121,80 TL"
+        "fiyat": "210,60 TL"
     },
     {
         "marka": "Hes",
         "urun_adi": "1 x 95 mm XLPE İzoleli H.Free AL-Kablo",
-        "fiyat": "159,40 TL"
+        "fiyat": "272,70 TL"
     },
     {
         "marka": "Hes",
-        "urun_adi": "1 x 120 mm XLPE İzoleli H.Free AL-",
-        "fiyat": "194,80 TL"
+        "urun_adi": "1 x 120 mm XLPE İzoleli H.Free AL-Kablo",
+        "fiyat": "335,40 TL"
     },
     {
         "marka": "Hes",
-        "urun_adi": "1 x 150 mm XLPE İzoleli H.Free AL-",
-        "fiyat": "239,30 TL"
+        "urun_adi": "1 x 150 mm XLPE İzoleli H.Free AL-Kablo",
+        "fiyat": "400,30 TL"
     },
     {
         "marka": "Hes",
-        "urun_adi": "1 x 185 mm XLPE İzoleli H.Free AL-",
-        "fiyat": "295,10 TL"
+        "urun_adi": "1 x 185 mm XLPE İzoleli H.Free AL-Kablo",
+        "fiyat": "497,00 TL"
     },
     {
         "marka": "Hes",
-        "urun_adi": "1 x 240 mm XLPE İzoleli H.Free AL-",
-        "fiyat": "378,50 TL"
+        "urun_adi": "1 x 240 mm XLPE İzoleli H.Free AL-Kablo",
+        "fiyat": "639,40 TL"
     },
     {
         "marka": "Hes",
-        "urun_adi": "1 x 300 mm XLPE İzoleli H.Free AL-",
-        "fiyat": "463,50 TL"
+        "urun_adi": "1 x 300 mm XLPE İzoleli H.Free AL-Kablo",
+        "fiyat": "787,00 TL"
     },
     {
         "marka": "Hes",
-        "urun_adi": "1 x 400 mm XLPE İzoleli H.Free AL-",
-        "fiyat": "593,30 TL"
+        "urun_adi": "1 x 400 mm XLPE İzoleli H.Free AL-Kablo",
+        "fiyat": "1007,00 TL"
     },
     {
         "marka": "Hes",
         "urun_adi": "4 x 16 mm XLPE İzoleli H.Free AL-Kablo",
-        "fiyat": "150,20 TL"
+        "fiyat": "255,90 TL"
     },
     {
         "marka": "Hes",
         "urun_adi": "4 x 25 mm XLPE İzoleli H.Free AL-Kablo",
-        "fiyat": "231,50 TL"
+        "fiyat": "393,00 TL"
     },
     {
         "marka": "Hes",
         "urun_adi": "4 x 35 mm XLPE İzoleli H.Free AL-Kablo",
-        "fiyat": "297,40 TL"
+        "fiyat": "501,80 TL"
     },
     {
         "marka": "Hes",
         "urun_adi": "4 x 50 mm XLPE İzoleli H.Free AL-Kablo",
-        "fiyat": "386,20 TL"
+        "fiyat": "649,20 TL"
     },
     {
         "marka": "Hes",
         "urun_adi": "4 x 70 mm XLPE İzoleli H.Free AL-Kablo",
-        "fiyat": "526,10 TL"
+        "fiyat": "884,30 TL"
     },
     {
         "marka": "Hes",
         "urun_adi": "4 x 95 mm XLPE İzoleli H.Free AL-Kablo",
-        "fiyat": "680,50 TL"
+        "fiyat": "1137,00 TL"
     },
     {
         "marka": "Hes",
-        "urun_adi": "4 x 120 mm XLPE İzoleli H.Free AL-",
-        "fiyat": "850,90 TL"
+        "urun_adi": "4 x 120 mm XLPE İzoleli H.Free AL-Kablo",
+        "fiyat": "1416,00 TL"
     },
     {
         "marka": "Hes",
-        "urun_adi": "4 x 150 mm XLPE İzoleli H.Free AL-",
-        "fiyat": "1046,00 TL"
+        "urun_adi": "4 x 150 mm XLPE İzoleli H.Free AL-Kablo",
+        "fiyat": "1738,00 TL"
     },
     {
         "marka": "Hes",
-        "urun_adi": "4 x 185 mm XLPE İzoleli H.Free AL-",
-        "fiyat": "1330,00 TL"
+        "urun_adi": "4 x 185 mm XLPE İzoleli H.Free AL-Kablo",
+        "fiyat": "2233,00 TL"
     },
     {
         "marka": "Hes",
-        "urun_adi": "4 x 240 mm XLPE İzoleli H.Free AL-",
-        "fiyat": "1744,00 TL"
+        "urun_adi": "4 x 240 mm XLPE İzoleli H.Free AL-Kablo",
+        "fiyat": "2840,00 TL"
     },
     {
         "marka": "Hes",
-        "urun_adi": "4 x 300 mm XLPE İzoleli H.Free AL-",
-        "fiyat": "2200,00 TL"
+        "urun_adi": "4 x 300 mm XLPE İzoleli H.Free AL-Kablo",
+        "fiyat": "3550,00 TL"
     },
     {
         "marka": "Hes",
-        "urun_adi": "4 x 400 mm XLPE İzoleli H.Free AL-",
-        "fiyat": "2784,00 TL"
+        "urun_adi": "4 x 400 mm XLPE İzoleli H.Free AL-Kablo",
+        "fiyat": "4530,00 TL"
     },
     {
         "marka": "Hes",
         "urun_adi": "5 x 16 mm XLPE İzoleli H.Free AL-Kablo",
-        "fiyat": "199,40 TL"
+        "fiyat": "340,80 TL"
     },
     {
         "marka": "Hes",
         "urun_adi": "5 x 25 mm XLPE İzoleli H.Free AL-Kablo",
-        "fiyat": "279,50 TL"
+        "fiyat": "475,50 TL"
     },
     {
         "marka": "Hes",
         "urun_adi": "5 x 35 mm XLPE İzoleli H.Free AL-Kablo",
-        "fiyat": "358,60 TL"
+        "fiyat": "608,50 TL"
     },
     {
         "marka": "Hes",
         "urun_adi": "5 x 50 mm XLPE İzoleli H.Free AL-Kablo",
-        "fiyat": "453,00 TL"
+        "fiyat": "751,60 TL"
     },
     {
         "marka": "Hes",
         "urun_adi": "5 x 70 mm XLPE İzoleli H.Free AL-Kablo",
-        "fiyat": "641,90 TL"
+        "fiyat": "1074,00 TL"
     },
     {
         "marka": "Hes",
         "urun_adi": "5 x 95 mm XLPE İzoleli H.Free AL-Kablo",
-        "fiyat": "826,50 TL"
+        "fiyat": "1373,00 TL"
     },
     {
         "marka": "Hes",
-        "urun_adi": "5 x 120 mm XLPE İzoleli H.Free AL-",
-        "fiyat": "1110,00 TL"
+        "urun_adi": "5 x 120 mm XLPE İzoleli H.Free AL-Kablo",
+        "fiyat": "1787,00 TL"
     },
     {
         "marka": "Hes",
-        "urun_adi": "5 x 150 mm XLPE İzoleli H.Free AL-",
-        "fiyat": "1383,00 TL"
+        "urun_adi": "5 x 150 mm XLPE İzoleli H.Free AL-Kablo",
+        "fiyat": "2225,00 TL"
     },
     {
         "marka": "Hes",
-        "urun_adi": "5 x 185 mm XLPE İzoleli H.Free AL-",
-        "fiyat": "1677,00 TL"
+        "urun_adi": "5 x 185 mm XLPE İzoleli H.Free AL-Kablo",
+        "fiyat": "2776,00 TL"
     },
     {
         "marka": "Hes",
-        "urun_adi": "5 x 240 mm XLPE İzoleli H.Free AL-",
-        "fiyat": "2052,00 TL"
+        "urun_adi": "5 x 240 mm XLPE İzoleli H.Free AL-Kablo",
+        "fiyat": "3331,00 TL"
     },
     {
         "marka": "Hes",
-        "urun_adi": "5 x 300 mm XLPE İzoleli H.Free AL-",
-        "fiyat": "2708,00 TL"
+        "urun_adi": "5 x 300 mm XLPE İzoleli H.Free AL-Kablo",
+        "fiyat": "4439,00 TL"
     },
     {
         "marka": "Hes",
@@ -5141,278 +5401,243 @@
     },
     {
         "marka": "Hes",
+        "urun_adi": "1 x 16 mm NA2XY Kablo",
+        "fiyat": "59,10 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "1 x 25 mm NA2XY Kablo",
+        "fiyat": "88,30 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "1 x 35 mm NA2XY Kablo",
+        "fiyat": "112,80 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "1 x 50 mm NA2XY Kablo",
+        "fiyat": "146,90 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "1 x 70 mm NA2XY Kablo",
+        "fiyat": "205,60 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "1 x 95 mm NA2XY Kablo",
+        "fiyat": "254,40 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "1 x 120 mm NA2XY Kablo",
+        "fiyat": "317,10 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "1 x 150 mm NA2XY Kablo",
+        "fiyat": "379,00 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "1 x 185 mm NA2XY Kablo",
+        "fiyat": "470,90 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "1 x 240 mm NA2XY Kablo",
+        "fiyat": "605,10 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "1 x 300 mm NA2XY Kablo",
+        "fiyat": "750,00 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "1 x 400 mm NA2XY Kablo",
+        "fiyat": "953,20 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "2 x 16 mm NA2XY Kablo",
+        "fiyat": "150,60 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "2 x 25 mm NA2XY Kablo",
+        "fiyat": "230,80 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "2 x 35 mm NA2XY Kablo",
+        "fiyat": "280,10 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "2 x 50 mm NA2XY Kablo",
+        "fiyat": "356,90 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "3 x 16 mm NA2XY Kablo",
+        "fiyat": "198,90 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "3 x 25 mm NA2XY Kablo",
+        "fiyat": "292,30 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "3 x 35 mm NA2XY Kablo",
+        "fiyat": "361,70 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "3 x 50 mm NA2XY Kablo",
+        "fiyat": "464,50 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "3 x 70 mm NA2XY Kablo",
+        "fiyat": "640,90 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "3 x 95 mm NA2XY Kablo",
+        "fiyat": "853,60 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "3 x 120 mm NA2XY Kablo",
+        "fiyat": "1037,00 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "3 x 150 mm NA2XY Kablo",
+        "fiyat": "1282,00 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "3 x 185 mm NA2XY Kablo",
+        "fiyat": "1612,00 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "3 x 240 mm NA2XY Kablo",
+        "fiyat": "2069,00 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "3 x 300 mm NA2XY Kablo",
+        "fiyat": "2593,00 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "3 x 400 mm NA2XY Kablo",
+        "fiyat": "3335,00 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "3 x 16 / 10 mm  NA2XY Kablo",
+        "fiyat": "221,50 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "3 x 25 / 16 mm  NA2XY Kablo",
+        "fiyat": "348,10 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "3 x 35 / 16 mm  NA2XY Kablo",
+        "fiyat": "405,40 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "3 x 50 / 25 mm  NA2XY Kablo",
+        "fiyat": "535,70 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "3 x 70 / 35 mm  NA2XY Kablo",
+        "fiyat": "736,70 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "3 x 95 / 50 mm  NA2XY Kablo",
+        "fiyat": "963,60 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "3 x 120 / 70 mm  NA2XY Kablo",
+        "fiyat": "1215,00 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "3 x 150 / 70 mm  NA2XY Kablo",
+        "fiyat": "1443,00 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "3 x 185 / 95 mm  NA2XY Kablo",
+        "fiyat": "1848,00 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "3 x 240 / 120 mm  NA2XY Kablo",
+        "fiyat": "2357,00 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "3 x 300 / 150 mm  NA2XY Kablo",
+        "fiyat": "2960,00 TL"
+    },
+    {
+        "marka": "Hes",
+        "urun_adi": "3 x 400 / 185 mm  NA2XY Kablo",
+        "fiyat": "3885,00 TL"
+    },
+    {
+        "marka": "Hes",
         "urun_adi": "SWALLOW İletken",
-        "fiyat": "664,00TL / KG"
+        "fiyat": "664,00 TL"
     },
     {
         "marka": "Hes",
         "urun_adi": "RAVEN İletken",
-        "fiyat": "651,00TL / KG"
+        "fiyat": "651,00 TL"
     },
     {
         "marka": "Hes",
         "urun_adi": "PİGEON İletken",
-        "fiyat": "630,00TL / KG"
+        "fiyat": "630,00 TL"
     },
     {
         "marka": "Hes",
         "urun_adi": "PATRİDGE İletken",
-        "fiyat": "676,00TL / KG"
+        "fiyat": "676,00 TL"
     },
     {
         "marka": "Hes",
         "urun_adi": "HAWK İletken",
-        "fiyat": "645,00TL / KG"
+        "fiyat": "645,00 TL"
     },
     {
         "marka": "Hes",
         "urun_adi": "DRAKE İletken",
-        "fiyat": "648,00TL / KG"
+        "fiyat": "648,00 TL"
     },
     {
         "marka": "Hes",
         "urun_adi": "CARDİNAL İletken",
-        "fiyat": "654,00TL / KG"
+        "fiyat": "654,00 TL"
     },
     {
         "marka": "Hes",
         "urun_adi": "PHEASANT İletken",
-        "fiyat": "657,00 TL /KG"
-    },
-    {
-        "marka": "Hes",
-        "urun_adi": "HES 2026  NA2XH H.FREE ALUMİNYUM",
-        "fiyat": "FİYAT"
-    },
-    {
-        "marka": "Hes",
-        "urun_adi": "1 x 50 mm NA2XH Kablo",
-        "fiyat": "89,50 TL"
-    },
-    {
-        "marka": "Hes",
-        "urun_adi": "1 x 70 mm NA2XH Kablo",
-        "fiyat": "121,80 TL"
-    },
-    {
-        "marka": "Hes",
-        "urun_adi": "1 x 95 mm NA2XH Kablo",
-        "fiyat": "159,40 TL"
-    },
-    {
-        "marka": "Hes",
-        "urun_adi": "1 x 120 mm NA2XH Kablo",
-        "fiyat": "194,80 TL"
-    },
-    {
-        "marka": "Hes",
-        "urun_adi": "1 x 150 mm NA2XH Kablo",
-        "fiyat": "608,30 TL"
-    },
-    {
-        "marka": "Hes",
-        "urun_adi": "1 x 185 mm NA2XH Kablo",
-        "fiyat": "763,70 TL"
-    },
-    {
-        "marka": "Hes",
-        "urun_adi": "1 x 240 mm NA2XH Kablo",
-        "fiyat": "378,50 TL"
-    },
-    {
-        "marka": "Hes",
-        "urun_adi": "1 x 300 mm NA2XH Kablo",
-        "fiyat": "463,50 TL"
-    },
-    {
-        "marka": "Hes",
-        "urun_adi": "1 x 400 mm NA2XH Kablo",
-        "fiyat": "593,30 TL"
-    },
-    {
-        "marka": "Hes",
-        "urun_adi": "3 x 50 mm NA2XH Kablo",
-        "fiyat": "289,70 TL"
-    },
-    {
-        "marka": "Hes",
-        "urun_adi": "3 x 70 mm NA2XH Kablo",
-        "fiyat": "403,10 TL"
-    },
-    {
-        "marka": "Hes",
-        "urun_adi": "3 x 95 mm NA2XH Kablo",
-        "fiyat": "529,20 TL"
-    },
-    {
-        "marka": "Hes",
-        "urun_adi": "3 x 120 mm NA2XH Kablo",
-        "fiyat": "662,30 TL"
-    },
-    {
-        "marka": "Hes",
-        "urun_adi": "3 x 150 mm NA2XH Kablo",
-        "fiyat": "821,90 TL"
-    },
-    {
-        "marka": "Hes",
-        "urun_adi": "3 x 185 mm NA2XH Kablo",
-        "fiyat": "1024,00 TL"
-    },
-    {
-        "marka": "Hes",
-        "urun_adi": "3 x 240 mm NA2XH Kablo",
-        "fiyat": "1361,00 TL"
-    },
-    {
-        "marka": "Hes",
-        "urun_adi": "3 x 300 mm NA2XH Kablo",
-        "fiyat": "1680,00 TL"
-    },
-    {
-        "marka": "Hes",
-        "urun_adi": "3 x 400 mm NA2XH Kablo",
-        "fiyat": "2207,00 TL"
-    },
-    {
-        "marka": "Hes",
-        "urun_adi": "3 x 16/10 mm NA2XH Kablo",
-        "fiyat": "145,50 TL"
-    },
-    {
-        "marka": "Hes",
-        "urun_adi": "3 x 25/16 mm NA2XH Kablo",
-        "fiyat": "217,90 TL"
-    },
-    {
-        "marka": "Hes",
-        "urun_adi": "3 x 35/16 mm NA2XH Kablo",
-        "fiyat": "263,20 TL"
-    },
-    {
-        "marka": "Hes",
-        "urun_adi": "3 x 50/25 mm NA2XH Kablo",
-        "fiyat": "343,60 TL"
-    },
-    {
-        "marka": "Hes",
-        "urun_adi": "3 x 70/35 mm NA2XH Kablo",
-        "fiyat": "467,40 TL"
-    },
-    {
-        "marka": "Hes",
-        "urun_adi": "3 x 95/50 mm NA2XH Kablo",
-        "fiyat": "606,00 TL"
-    },
-    {
-        "marka": "Hes",
-        "urun_adi": "3 x 120/70 mm NA2XH Kablo",
-        "fiyat": "763,50 TL"
-    },
-    {
-        "marka": "Hes",
-        "urun_adi": "3 x 150/70 mm NA2XH Kablo",
-        "fiyat": "930,90 TL"
-    },
-    {
-        "marka": "Hes",
-        "urun_adi": "3 x 185/95 mm NA2XH Kablo",
-        "fiyat": "1174,00 TL"
-    },
-    {
-        "marka": "Hes",
-        "urun_adi": "3 x 240/120 mm NA2XH Kablo",
-        "fiyat": "1549,00 TL"
-    },
-    {
-        "marka": "Hes",
-        "urun_adi": "3 x 300/150 mm NA2XH Kablo",
-        "fiyat": "1930,00 TL"
-    },
-    {
-        "marka": "Hes",
-        "urun_adi": "3 x 400/185 mm NA2XH Kablo",
-        "fiyat": "2404,00 TL"
-    },
-    {
-        "marka": "Hes",
-        "urun_adi": "1,5 mm Solar Kablo",
-        "fiyat": "70,30 TL"
-    },
-    {
-        "marka": "Hes",
-        "urun_adi": "2,5 mm Solar Kablo",
-        "fiyat": "99,10 TL"
-    },
-    {
-        "marka": "Hes",
-        "urun_adi": "4 mm Solar Kablo",
-        "fiyat": "128,40 TL"
-    },
-    {
-        "marka": "Hes",
-        "urun_adi": "6 mm Solar Kablo",
-        "fiyat": "177,10 TL"
-    },
-    {
-        "marka": "Hes",
-        "urun_adi": "10 mm Solar Kablo",
-        "fiyat": "306,90 TL"
-    },
-    {
-        "marka": "Hes",
-        "urun_adi": "16 mm Solar Kablo",
-        "fiyat": "493,20 TL"
-    },
-    {
-        "marka": "Hes",
-        "urun_adi": "25 mm Solar Kablo",
-        "fiyat": "751,30 TL"
-    },
-    {
-        "marka": "Hes",
-        "urun_adi": "35 mm Solar Kablo",
-        "fiyat": "1012,00 TL"
-    },
-    {
-        "marka": "Hes",
-        "urun_adi": "50 mm Solar Kablo",
-        "fiyat": "1419,00 TL"
-    },
-    {
-        "marka": "Hes",
-        "urun_adi": "70 mm Solar Kablo",
-        "fiyat": "1956,00 TL"
-    },
-    {
-        "marka": "Hes",
-        "urun_adi": "95 mm Solar Kablo",
-        "fiyat": "2567,00 TL"
-    },
-    {
-        "marka": "Hes",
-        "urun_adi": "120 mm Solar Kablo",
-        "fiyat": "3278,00 TL"
-    },
-    {
-        "marka": "Hes",
-        "urun_adi": "150 mm Solar Kablo",
-        "fiyat": "4035,00 TL"
-    },
-    {
-        "marka": "Hes",
-        "urun_adi": "185 mm Solar Kablo",
-        "fiyat": "4951,00 TL"
-    },
-    {
-        "marka": "Hes",
-        "urun_adi": "240 mm Solar Kablo",
-        "fiyat": "6630,00 TL"
-    },
-    {
-        "marka": "Hes",
-        "urun_adi": "300 mm Solar Kablo",
-        "fiyat": "8374,00 TL"
+        "fiyat": "657,00 TL"
     },
     {
         "marka": "Öznur",
