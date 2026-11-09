@@ -3095,6 +3095,101 @@
         "fiyat": "22073,89 TL"
     },
     {
+        "marka": "Genel",
+        "urun_adi": "PRYSMİAN  YVCV-U / YVMV / NYCY 0,6/1 kV TS IEC 60502-1",
+        "fiyat": "PRYSMİAN  NHXMH-O FE 180 300/500 V TSE K 328"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "PRYSMİAN  YVCV-R / YVMV / NYCY 0,6/1 kV TS IEC 60502-1",
+        "fiyat": "PRYSMİAN  NHXMH-J FE 180 300/500 V TSE K 328"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "PRYSMİAN  YVZ2V-U / YVOV / NYRY 0,6/1 kV TS IEC 60502-1",
+        "fiyat": "PRYSMİAN  N2XCH FE 180 0,6/1 kV TS HD 604 S1 5G"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "PRYSMİAN  YVZ2V-R / YVOV / NYRY 0,6/1 kV TS IEC 60502-1",
+        "fiyat": "PRYSMİAN  N2XCH FE 180 0,6/1 kV TS HD 604 S1 5G"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "PRYSMİAN  YXV-U / YE3 V / 2XY 0,6/1 kV TS IEC 60502-1",
+        "fiyat": "PRYSMİAN  2XRH FE 180 0,6/1 kV TS IEC 60502-1"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "PRYSMİAN  YXV-R / YE3 V / 2XY 0,6/1 kV TS IEC 60502-1",
+        "fiyat": "PRYSMİAN  2XR(A)H FE 180 0,6/1 kV TS IEC 60502-1"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "PRYSMİAN  YXCV-U / YE3 MV / 2XCY 0,6/1 kV TS IEC 60502-1",
+        "fiyat": "PRYSMİAN  2XRH FE 180 0,6/1 kV TS IEC 60502-1"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "PRYSMİAN  YXCV-R / YE3 MV / 2XCY 0,6/1 kV TS IEC 60502-1",
+        "fiyat": "PRYSMİAN  YXC8Z1Z3Z1-R / 2XSEHFGH 20,3/35 kV TSE K 204"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "PRYSMİAN  YXZ2V-R / YE3 OV / 2XRY 0,6/1 kV TS IEC 60502-1",
+        "fiyat": "PRYSMİAN  H05RN-F 300/500 V TS EN 50525-2-21"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "PRYSMİAN YXY2V-R/YE3 O(A)V/2XR(A)Y 0,6/1kV TS IEC60502-1",
+        "fiyat": "PRYSMİAN  2XR(A)H FE 180 0,6/1 kV TS IEC 60502-1"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "PRYSMİAN  YE3 S(AL)E 89/154 kV TS 10382 IEC 60840",
+        "fiyat": "PRYSMİAN  H07RN-F 450/750 V TS EN 50525-2-21*"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "PRYSMİAN  2XS(FL)2Y 89/154 kV IEC 60840",
+        "fiyat": "PRYSMİAN  N2GMH2G 300/500 V VDE 0250"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "PRYSMİAN  (N)SGAFÖU 0,6/1 kV VDE 0250-602",
+        "fiyat": "PRYSMİAN  (N)SHTÖU (SMK) 0,6/1 kV TSE K 371"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "PRYSMİAN  (N)SGAFÖU 1,8/3 kV VDE 0250-602",
+        "fiyat": "PRYSMİAN  (N)SHTÖU (SMK) 0,6/1 kV TSE K 371"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "PRYSMİAN  (N)TSCGEWÖU (SMK) 3,6/6 kV – 6/10 kV TSE K 370",
+        "fiyat": "PRYSMİAN  FG7HH2OR 0,6/1 kV TS IEC 60502-1  HEPR"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "PRYSMİAN  (N)TSCGEWÖU (SB) 6/10 – 12/20 kV TSE K 370",
+        "fiyat": "PRYSMİAN  FLGCG 3,6/6 kV FAA L824/AC 150/5345-7F"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "PRYSMİAN  YXC7Z1-R / N2XSH 20,3/35 kV TSE K 204",
+        "fiyat": "PRYSMİAN  FL2X(CT)2Y 2,5/5 kV FAA L824/AC 150/5345-7F"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "PRYSMİAN  YXC8Z1Z3Z1-R / 2XSEHFGH 20,3/35 kV TSE K 204",
+        "fiyat": "YXC8Z1Z3Z1-R / 2XSEHFGH 8,7/15 kV TS IEC 60502-2"
+    },
+    {
+        "marka": "Genel",
+        "urun_adi": "PRYSMİAN  N2XCH FE 180 0,6/1 kV TS HD 627 S1 7H (>5x)",
+        "fiyat": "PRYSMİAN  YXC7Z1-R / N2XSH 12/20 kV TS IEC 60502-2"
+    },
+    {
         "marka": "Hes",
         "urun_adi": "H05Z1-U 1 mm H.Free NYA",
         "fiyat": "25,50 TL"
@@ -23696,7 +23791,7 @@
     },
     {
         "marka": "Hensel",
-        "urun_adi": "ENYCASE DK BUATLAR HENSEL OCAK 2026 FİYAT LİSTESİ",
+        "urun_adi": "ENYCASE DK BUATLAR HENSEL 2026 FİYAT LİSTESİ",
         "fiyat": "FİYAT"
     },
     {
@@ -24561,7 +24656,7 @@
     },
     {
         "marka": "Hensel",
-        "urun_adi": "HENSEL OCAK 2026 SİGORTA KUTULARI",
+        "urun_adi": "HENSEL 2026 FİYAT LİSTESİ SİGORTA KUTULARI",
         "fiyat": "FİYAT"
     },
     {
@@ -25408,191 +25503,6 @@
         "marka": "Hensel",
         "urun_adi": "EB 50 B",
         "fiyat": "355x255x122"
-    },
-    {
-        "marka": "Hensel",
-        "urun_adi": "Tip",
-        "fiyat": "Ölçüler"
-    },
-    {
-        "marka": "Hensel",
-        "urun_adi": "KLIPPON K0",
-        "fiyat": "45 x 50 x 30  mm"
-    },
-    {
-        "marka": "Hensel",
-        "urun_adi": "KLIPPON K01",
-        "fiyat": "64 x 58 x 34  mm"
-    },
-    {
-        "marka": "Hensel",
-        "urun_adi": "KLIPPON K02",
-        "fiyat": "64 x 98 x 34  mm"
-    },
-    {
-        "marka": "Hensel",
-        "urun_adi": "KLIPPON K1",
-        "fiyat": "70 x 70 x 45  mm"
-    },
-    {
-        "marka": "Hensel",
-        "urun_adi": "KLIPPON K11",
-        "fiyat": "80 x 75 x 57  mm"
-    },
-    {
-        "marka": "Hensel",
-        "urun_adi": "KLIPPON K2",
-        "fiyat": "70 x 100 x 45 mm"
-    },
-    {
-        "marka": "Hensel",
-        "urun_adi": "KLIPPON K21",
-        "fiyat": "80 x 125 x 57 mm"
-    },
-    {
-        "marka": "Hensel",
-        "urun_adi": "KLIPPON K3",
-        "fiyat": "70 x 165 x 45 mm"
-    },
-    {
-        "marka": "Hensel",
-        "urun_adi": "KLIPPON K31",
-        "fiyat": "80 x 175 x 57 mm"
-    },
-    {
-        "marka": "Hensel",
-        "urun_adi": "KLIPPON K32",
-        "fiyat": "80 x 250 x 55 mm"
-    },
-    {
-        "marka": "Hensel",
-        "urun_adi": "KLIPPON K4",
-        "fiyat": "82 x 130 x 72 mm"
-    },
-    {
-        "marka": "Hensel",
-        "urun_adi": "KLIPPON K41",
-        "fiyat": "120 x 122 x 81 mm"
-    },
-    {
-        "marka": "Hensel",
-        "urun_adi": "KLIPPON K5",
-        "fiyat": "130 x 170 x 90 mm"
-    },
-    {
-        "marka": "Hensel",
-        "urun_adi": "KLIPPON K51",
-        "fiyat": "120 x 220 x 81 mm"
-    },
-    {
-        "marka": "Hensel",
-        "urun_adi": "KLIPPON K52",
-        "fiyat": "160 x 160 x 91 mm"
-    },
-    {
-        "marka": "Hensel",
-        "urun_adi": "KLIPPON K6",
-        "fiyat": "160 x 200 x 100 mm"
-    },
-    {
-        "marka": "Hensel",
-        "urun_adi": "KLIPPON K61",
-        "fiyat": "160 x 260 x 91 mm"
-    },
-    {
-        "marka": "Hensel",
-        "urun_adi": "KLIPPON K7",
-        "fiyat": "160 x 350 x 100 mm"
-    },
-    {
-        "marka": "Hensel",
-        "urun_adi": "KLIPPON K71",
-        "fiyat": "230 x 280 x 111 mm"
-    },
-    {
-        "marka": "Hensel",
-        "urun_adi": "1305810000",
-        "fiyat": "75 x 80 x 55 mm"
-    },
-    {
-        "marka": "Hensel",
-        "urun_adi": "1305820000",
-        "fiyat": "75 x 110 x 55 mm"
-    },
-    {
-        "marka": "Hensel",
-        "urun_adi": "1305830000",
-        "fiyat": "75 x 160 x  55 mm"
-    },
-    {
-        "marka": "Hensel",
-        "urun_adi": "1305840000",
-        "fiyat": "75 x 190 x 55 mm"
-    },
-    {
-        "marka": "Hensel",
-        "urun_adi": "1305850000",
-        "fiyat": "75 x 230 x 55 mm"
-    },
-    {
-        "marka": "Hensel",
-        "urun_adi": "1305870000",
-        "fiyat": "120 x 122 x 90 mm"
-    },
-    {
-        "marka": "Hensel",
-        "urun_adi": "1305880000",
-        "fiyat": "120 x 220 x 90 mm"
-    },
-    {
-        "marka": "Hensel",
-        "urun_adi": "1305890000",
-        "fiyat": "160 x 160 x 90 mm"
-    },
-    {
-        "marka": "Hensel",
-        "urun_adi": "1305900000",
-        "fiyat": "160 x 260 x 90 mm"
-    },
-    {
-        "marka": "Hensel",
-        "urun_adi": "1305910000",
-        "fiyat": "160 x 360 x 90 mm"
-    },
-    {
-        "marka": "Hensel",
-        "urun_adi": "1305920000",
-        "fiyat": "160 x 560 x 90 mm"
-    },
-    {
-        "marka": "Hensel",
-        "urun_adi": "1305930000",
-        "fiyat": "250 x 255 x 120 mm"
-    },
-    {
-        "marka": "Hensel",
-        "urun_adi": "1305940000",
-        "fiyat": "250 x 400 x 120 mm"
-    },
-    {
-        "marka": "Hensel",
-        "urun_adi": "1305950000",
-        "fiyat": "250 x 600 x 120 mm"
-    },
-    {
-        "marka": "Hensel",
-        "urun_adi": "1305970000",
-        "fiyat": "405 x 400 x 120 mm"
-    },
-    {
-        "marka": "Hensel",
-        "urun_adi": "1305980000",
-        "fiyat": "250 x 255 x 160 mm"
-    },
-    {
-        "marka": "Hensel",
-        "urun_adi": "1305990000",
-        "fiyat": "250 x 400 x 160 mm"
     },
     {
         "marka": "Delta",
