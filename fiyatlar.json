@@ -1,707 +1,7 @@
 [
     {
         "marka": "Genel",
-        "urun_adi": "HITACHI (ABB) TEDAŞ-MLZ/99-032.E HERMETİK YAĞLI TRAFO",
-        "fiyat": "FİYAT"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "34,5 KV  50 KVA",
-        "fiyat": "13000 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "34,5 KV  100 KVA",
-        "fiyat": "19000 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "34,5 KV  160 KVA",
-        "fiyat": "21000 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "34,5 KV  250 KVA",
-        "fiyat": "24500 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "34,5 KV  400 KVA",
-        "fiyat": "27500 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "34,5 KV  630 KVA",
-        "fiyat": "35000 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "34,5 KV  800 KVA",
-        "fiyat": "40000 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "34,5 KV  1000 KVA",
-        "fiyat": "41000 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "34,5 KV  1250 KVA",
-        "fiyat": "48000 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "34,5 KV  1600 KVA",
-        "fiyat": "58000 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "34,5 KV  2000 KVA",
-        "fiyat": "70000 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "34,5 KV  2500 KVA",
-        "fiyat": "78000 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "HİTACHİ (ABB) KURU TİP TRAFO (TEDAŞ MLZ/99-032.E)",
-        "fiyat": "FİYAT"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "400 KVA 28,5‐36/0,4 kV",
-        "fiyat": "54 000 €"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "630 KVA 28,5‐36/0,4kV",
-        "fiyat": "56 000 €"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "800 KVA 28,5‐36/0,4kV",
-        "fiyat": "58 000 €"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "1000 KVA 28,5‐36/0,4kV",
-        "fiyat": "62 000 €"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "1250 KVA 28,5‐36/0,4kV",
-        "fiyat": "66 000 €"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "1600 KVA 28,5‐36/0,4kV",
-        "fiyat": "76 000 €"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "2000 KVA 28,5‐36/0,4kV",
-        "fiyat": "92 000 €"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "2500 KVA 28,5‐36/0,4kV",
-        "fiyat": "108 000 €"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "FAN GRUBU",
-        "fiyat": "4000 €"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "LEGRAND (TEDAŞ MLZ/99-032.E) KURU TİP TRAFO",
-        "fiyat": "FİYAT"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "36KV  400 KVA Kuru Tip Trafo",
-        "fiyat": "54.000 €"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "36KV  630 KVA Kuru Tip Trafo",
-        "fiyat": "56.000 €"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "36KV  800 KVA Kuru Tip Trafo",
-        "fiyat": "58.000 €"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "36KV  1000 KVA Kuru Tip Trafo",
-        "fiyat": "62.000 €"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "36KV  1250 KVA Kuru Tip Trafo",
-        "fiyat": "66.000 €"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "36KV  1600 KVA Kuru Tip Trafo",
-        "fiyat": "76.000 €"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "36KV  2000 KVA Kuru Tip Trafo",
-        "fiyat": "92.000 €"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "36KV  2500 KVA Kuru Tip Trafo",
-        "fiyat": "108 000 €"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "FAN GRUBU",
-        "fiyat": "4.000 €"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "UBET B25 2500 x 2500 x 3500 mm",
-        "fiyat": "15400 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "UBET B32 2500 x 3200 x 3500 mm",
-        "fiyat": "17900 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "UBET B36 2500 x 3850 x 3500 mm",
-        "fiyat": "20500 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "UBET B43 2500 x 4350 x 3500 mm",
-        "fiyat": "21800 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "UBET B48 2500 x 4850 x 3500 mm",
-        "fiyat": "21600 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "UBET B53 2500 x 5350 x 3500 mm",
-        "fiyat": "22800 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "UBET B64 2500 x 6400 x 3500 mm",
-        "fiyat": "26100 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "UBET B72 2500 x 7200 x 3500 mm",
-        "fiyat": "28000 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "EATON RMU+EX Kompakt RMU (Mühürlü , Genişleyebilir)",
-        "fiyat": "48400 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "EATON RMU+FİX Kompakt RMU (Mühürlü , Genişleyem ez)",
-        "fiyat": "42600 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "EATON CBSG Kesicili Giriş-Çıkış , Trafo Koruma Hücresi",
-        "fiyat": "30900 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "EATON FLBSG Sigortalı Trafo Koruma Hücresi, Yük Ayırıcılı Bileşiği",
-        "fiyat": "21800 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "Yük Ayırıcılı Giriş Çıkış Hücresi (Motorlu)",
-        "fiyat": "17200 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "Kesicili Giriş/Çıkış Trafo Koruma Hücresi (Röle Hariç)",
-        "fiyat": "30900 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "Akım Gerilim Ölçü Hücresi (Ayırıcısız)",
-        "fiyat": "23700 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "Ayırıcılı Kublaj Hücresi (Motorlu)",
-        "fiyat": "22200 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "CCP  Kablo Bağlama Hücresi",
-        "fiyat": "8600 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "Kompakt RMU (Motorlu) (Genişleyebilir)",
-        "fiyat": "48400 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "Kompakt RMU (Motorlu) (Genişleyemez)",
-        "fiyat": "4 2 600 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "SM62DMHTS-X   SM6-36 DM1-A Kesicili, X*/5A Toroid Trafolu, PowerLogic P1 Röleli ve Isı sensörlü (TH110) Hat Koruma Hücresi",
-        "fiyat": "21000 €"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "SM62DMHTD-X  SM6-36 DM1-A Kesicili, X*/5-5A Toroid Trafolu, PowerLogic P1 Röleli ve Isı sensörlü (TH110) Hat Koruma Hücresi",
-        "fiyat": "23000 €"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "SM62DMHTS-C  SM6-36 DM1-A Kesicili, X*/5A Toroid Trafolu, PowerLogic P3U20 Röleli ve Isı sensörlü (TH110) Hat Koruma Hücresi",
-        "fiyat": "22000 €"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "SM62DMHTD-C  SM6-36 DM1-A Kesicili, X*/5-5A Toroid Trafolu, PowerLogic P3U20 Röleli ve Isı sensörlü (TH110) Hat Koruma Hücresi",
-        "fiyat": "24000 €"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "SM62DMTTS-X  SM6-36 DM1-A Kesicili, X*/5A Toroid Trafolu, PowerLogic P1 Röleli ve Isı sensörlü (TH110) Trafo Koruma Hücresi",
-        "fiyat": "22000 €"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "SM62DMTTD-X  SM6-36 DM1-A Kesicili, X*/5-5A Toroid Trafolu, PowerLogic P1 Röleli ve Isı sensörlü (TH110) Trafo Koruma Hücresi",
-        "fiyat": "23000 €"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "SM62DMTTS-C  SM6-36 DM1-A Kesicili, X*/5A Toroid Trafolu, PowerLogic P3U20 Röleli ve Isı sensörlü (TH110) Trafo Koruma Hücresi",
-        "fiyat": "23000 €"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "SM62DMTTD-C  SM6-36 DM1-A Kesicili, X*/5-5A Toroid Trafolu, PowerLogic P3U20 Röleli ve Isı sensörlü (TH110) Trafo Koruma Hücresi",
-        "fiyat": "24000 €"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "SM62DMHTDD-X  SM6-36 DM1-A Kesicili, X-2X*/5-5A Toroid Trafolu, PowerLogic P1 Röleli ve Isı sensörlü (TH110) Hat Koruma Hücresi",
-        "fiyat": "22000 €"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "SM62DMHTDD-C  SM6-36 DM1-A Kesicili, X-2X*/5-5A Toroid Trafolu, PowerLogic P3U20 Röleli ve Isı sensörlü (TH110) Hat Koruma Hücresi",
-        "fiyat": "23000 €"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "SM62DMAED-C  SM6-36 DM1-AE Kesicili, X*/5-5A Mesnet Trafolu, PowerLogic P3U30 Röleli ve Isı sensörlü (TH110) Otoprodüktör Hücresi",
-        "fiyat": "40000 €"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "SM62DMWDD-C  SM6-36 DM1-W Kesicili, X-2X*/5-5A Mesnet Trafolu, PowerLogic P3U20 Röleli ve Isı sensörlü (TH110) Çekmeceli Hücre",
-        "fiyat": "37000 €"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "SM62IM-0  SM6-36 IM Yük-Ayırıcılı, Isı Sensörlü (TH110) Hücre-Motorsuz",
-        "fiyat": "11000 €"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "SM62IM-M  SM6-36 IM Yük-Ayırıcılı, Isı Sensörlü (TH110) Hücre – Motorlu",
-        "fiyat": "12000 €"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "SM62QM-0  SM6-36 QM Sigorta Korumalı, Yük-ayırıcılı, Isı sensörlü (TH110) Hücre-Motorsuz",
-        "fiyat": "13000 €"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "SM62QM-M  SM6-36 QM Sigorta Korumalı, Yük-ayırıcılı, Isı sensörlü (TH110) Hücre – Motorlu",
-        "fiyat": "14000 €"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "SM62CMC  SM6-36 CMC Ayırıcılı, X*/5A Akım ve Gerilim Ölçü Hücresi",
-        "fiyat": "23000 €"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "SM62GAM2  SM6-36 GAM2 Doğrudan Bara Bağlantı Hücresi",
-        "fiyat": "7000 €"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "REL52201 , (P3U30-6ABA1BCAA) PowerLogic P3U30, 2x RJ-45(Ethernet), 18-36 V DC, 16DI/8DO",
-        "fiyat": "3700 €"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "REL52210 , (P3U30-6ABA1BDAA) PowerLogic P3U30, 2x LC(Fiber), 18-36 V DC, 16DI/8DO",
-        "fiyat": "4050 €"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "REL52021 , (P3U30-6AAA2BDAA) Vac/dc, 16DI/8DO V DC, 16DI/8DO",
-        "fiyat": "4050 €"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "REL52021 , (P3U30-6AAA2BDAA) PowerLogic P3U30, 2x LC(Fiber), 40-265 V AC/DC, 16DI/8DO",
-        "fiyat": "4050 €"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "REL52006 , (P3U30-5ABA1BBAA) PowerLogic P3U30, 2x RS-485, 18-36 V DC, 16DI/8DO",
-        "fiyat": "3 155 €"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "AS36 LC Yük Ayırıcılı Giriş/Çıkış Hücresi / 36kV 630A 16kA (MOTORLU)",
-        "fiyat": "6600 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "AS36 LF Yük Ayırıcılı ve Sigortalı Trafo Koruma Hücresi / 36kV 630A 16kA",
-        "fiyat": "7250 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "AS36 VTC Gerilim Transformatörü Hücresi (3 Adet 60VA) / 36kV 630A 16kA",
-        "fiyat": "11000 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "AS36 VTC/3 İç İhtiyaç Hücresi (3 Adet 30/60+800VA) / 36kV 630A 16kA",
-        "fiyat": "14000 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "AS36 VTC/1 İç İhtiyaç Hücresi (1 Adet 30/60+800VA) / 36kV 630A 16kA",
-        "fiyat": "13500 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "AS36 CBC/CBT Kesicili Giriş-Çıkış Hücresi / Trafo Koruma Hücresi (Rölesiz) 0,72 KV Toroidal / 36kV 630A 16kA",
-        "fiyat": "15000 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "AS36 CBC/CBT Kesicili Giriş-Çıkış Hücresi / Trafo Koruma Hücresi (Rölesiz) Mesnet Tipi Akım Trafolu / 36kV 630A 16kA",
-        "fiyat": "16750 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "AS36 CBC-CBT/1250 Kesicili Giriş Çıkış/Trafo Koruma Hücresi (Toroid Akım Trafolu) (Röle Hariç) 1250A",
-        "fiyat": "24500 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "AS36 CBC-CBT/1250 Kesicili Giriş Çıkış Hücresi/ Trafo Koruma Hücresi (Röle Hariç) Mesnet tipi 1250",
-        "fiyat": "26500 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "AS36 CBC-C Kesicili Bara Bağlama (Kuplaj) Hücresi (Rölesiz) / 36kV 630A 16kA",
-        "fiyat": "23500 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "AS36 CBC-C/1250 Kesicili Bara Bağlama (Kuplaj) Hücresi (Rölesiz) / 36kV 1250A 16kA",
-        "fiyat": "27500 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "AS36 LC-G Gazlı Ayırıcılı Giriş-Çıkış Hücresi / 36kV 630A 16kA",
-        "fiyat": "6400 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "AS36 LC-G/2 Gazlı Ayırıcılı Giriş-Çıkış Hücresi / 36kV 1250A 16kA",
-        "fiyat": "7000 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "AS36 KB Kablo Bağlantı Hücresi (Topraksız) / 36kV 630A 16kA",
-        "fiyat": "3250 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "AS36 KB/1250 Kablo Bağlantı Hücresi (Topraksız) / 36kV 1250A 16kA",
-        "fiyat": "3700 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "AS36 LCV Yük Ayırıcılı Akım-Gerilim Ölçü Hücresi (Soldan Girişli) (Mühürlü) / 36kV 630A 16kA",
-        "fiyat": "17000 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "AS36 BCY Bara Yükseltme Hücresi / 36kV 630A 16kA",
-        "fiyat": "3250 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "AS36 CB-Y Akım Ölçü + Bara Yükseltme Hücresi / 36kV 630A 16kA",
-        "fiyat": "6000 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "AS36 CB Akım Ölçü Hücresi / Mühürlü 36kV 630A 16kA",
-        "fiyat": "6000 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "AS36 CBC-Y Kesicili Bara Bölme Hücresi (Rölesiz) Yandan Çıkışlı / 36kV 630A 16kA",
-        "fiyat": "16500 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "AS36 CBC-Y/2 Kesicili Bara Bölme Hücresi (Rölesiz) Yandan Çıkışlı / 36kV 1250A 16kA",
-        "fiyat": "25500 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "AS36 LC-Y Yük Ayırıcılı Bara Bölme Hücresi (BAŞKENT TİPİ) / 36kV 630A 16kA",
-        "fiyat": "9800 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "AS36 LC-Y Yük Ayırıcılı Bara Bölme Hücresi (Yandan Çıkışlı) / 36kV 630A 16kA",
-        "fiyat": "9800 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "AS36 CBC-OTOP Kesicili Giriş Çıkış Otoprodüktör Hücresi (Röle Hariç) (Gerilim Trafolu) 36KV 630A 16KA",
-        "fiyat": "30500 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "AS36 CBC-OTOP/2 Kesicili Giriş Çıkış Otop. Hücresi (Röle Hariç) (Gerilim Trafolu)-1250A",
-        "fiyat": "35500 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "AS36 LCV-G Gazlı Ayırıcılı Akım-Gerilim Ölçü Hücresi (MÜHÜRLÜ) / 36kV 630A 16kA",
-        "fiyat": "16000 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "AS36 LCV-G/2 Gazlı Ayırıcılı Akım-Gerilim Ölçü Hücresi (MÜHÜRLÜ) / 36kV 1250A 16kA",
-        "fiyat": "19500 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "AS36 LCV/KC Gazlı Ayırıcılı Akım Gerilim Ölçü Hücresi – 1250A",
-        "fiyat": "17000 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "AS36 LCV/2 Akım ve Gerilim Ölçü Hücresi (Sağdan Girişli) (MÜHÜRLÜ) / 36kV 630A 16kA",
-        "fiyat": "17000 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "RMU AS36 LC Yük Ayırıcılı Giriş/Çıkış Hücresi / 36kV 630A 16kA (MOTORLU)",
-        "fiyat": "15000 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "RMU AS36 LF Yük Ayırıcılı ve Sigortalı Trafo Koruma Hücresi / 36kV 630A 16kA",
-        "fiyat": "20000 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "RMU AS36 CBC Kesicili Giriş-Çıkış Hücresi / Trafo Koruma Hücresi (Rölesiz) / 36kV 630A 16kA",
-        "fiyat": "31000 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "RMU AS36 VTC/2 Gerilim Trafosu/İç İhtiyaç Hücresi (Ayırıcısız) (3 Adet 60VA) / 36kV 630A 16kA",
-        "fiyat": "14000 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "RMU AS36 LCV Akım Gerilim Ölçü Hücresi (Mühürlü) (Ayırıcısız)",
-        "fiyat": "19000 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "RMU AS36 CBC-C Kesicili Kuplaj Hücresi (Rölesiz)",
-        "fiyat": "45000 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "RMU AS36 LC-Y Ayırıcılı Kuplaj Hücresi (Motorlu)",
-        "fiyat": "18000 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "RMU AS36 KB Kablo Bağlama Hücresi",
-        "fiyat": "6500 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "RMU LC+LC+LF Kompakt RMU (Motorlu) Genişleyebilir Tip",
-        "fiyat": "46500 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "RMU LC+LC+LF Kompakt RMU (Motorlu) Genişleyemez Tip",
-        "fiyat": "4 5 000 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "Yay Kurma Motor Donanımı",
-        "fiyat": "350 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "Arıza Gösterge Düzeneği",
-        "fiyat": "700 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "Arıza Gösterge Düzeneği (Haberleşmeli)",
-        "fiyat": "900 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "DİJİTAL KORUMA RÖLESİ (SCHNEIDER EASERGY P1/ABB REF 601)",
-        "fiyat": "1700 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "FİDER YÖNETİM RÖLESİ (SCHNEIDER P3 U30/ABB REX 615) IEC 61580",
-        "fiyat": "67 50 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "SCHNEIDER METSEP M2230 ENERJİ ANALİZÖRÜ",
-        "fiyat": "650 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "PB5  PB1 5000x3800x3550  Prefabrik Beton Köşk",
-        "fiyat": "54000 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "PB6  PB 6000x3800x3550  Prefabrik Beton Köşk",
-        "fiyat": "55950 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "PB7  PB-2 7000x3800x3550  Prefabrik Beton Köşk",
-        "fiyat": "58950 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "PB8  PB 8000x3800x3550  Prefabrik Beton Köşk",
-        "fiyat": "60900 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "PB9  PB 9000x3800x3550  Prefabrik Beton Köşk",
-        "fiyat": "62550 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "PB1025  PB-3 10250x3800x3550  Prefabrik Beton Köşk",
-        "fiyat": "65250 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "PB11  PB 11000x3800x3550  Prefabrik Beton Köşk",
-        "fiyat": "72300 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "PB12  PB 12000x3800x3550  Prefabrik Beton Köşk",
-        "fiyat": "74550 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "PB13  PB 13000x3800x3550  Prefabrik Beton Köşk",
-        "fiyat": "79650 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "PB14  PB 14000x3800x3550  Prefabrik Beton Köşk",
-        "fiyat": "80850 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "PB15  PB 15000x3800x3550  Prefabrik Beton Köşk",
-        "fiyat": "82950 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "PB16  PB 16000x3800x3550  Prefabrik Beton Köşk",
-        "fiyat": "86400 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "PB17  PB 17000x3800x3550  Prefabrik Beton Köşk",
-        "fiyat": "88050 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "PB18  PB 18000x3800x3550  Prefabrik Beton Köşk",
-        "fiyat": "91950 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "PB19  PB 19000x3800x3550  Prefabrik Beton Köşk",
-        "fiyat": "96750 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "PB20  PB 20000x3800x3550  Prefabrik Beton Köşk",
-        "fiyat": "101700 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "PB21  PB 21000x3800x3550  Prefabrik Beton Köşk",
-        "fiyat": "104100 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "PB22  PB 22000x3800x3550  Prefabrik Beton Köşk",
-        "fiyat": "106800 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "PB23  PB 23000x3800x3550  Prefabrik Beton Köşk",
-        "fiyat": "110 100 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "PB24  PB 24000x3800x3550  Prefabrik Beton Köşk",
-        "fiyat": "113400 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "Alçak Gerilim Koruma Eldiveni  2500V",
+        "urun_adi": "2,5 KV Alçak Gerilim Koruma İzole Eldiven",
         "fiyat": "35 €"
     },
     {
@@ -717,7 +17,7 @@
     {
         "marka": "Genel",
         "urun_adi": "40 kV Yüksek Gerilim Koruma Eldiveni CL.4 REGELTEX",
-        "fiyat": "75 €"
+        "fiyat": "77 €"
     },
     {
         "marka": "Genel",
@@ -726,17 +26,17 @@
     },
     {
         "marka": "Genel",
-        "urun_adi": "İzole Ark 36/54 kV Orta Gerilim Eldiveni",
+        "urun_adi": "İzole Ark 36/54 kV Orta Gerilim İzole  Eldiven",
         "fiyat": "120 €"
     },
     {
         "marka": "Genel",
-        "urun_adi": "Eldiven Test Pompası",
+        "urun_adi": "İzole Eldiven Test Pompası",
         "fiyat": "165 €"
     },
     {
         "marka": "Genel",
-        "urun_adi": "Eldiven Saklama Kutusu",
+        "urun_adi": "OG. İzole Eldiven Saklama Kutusu",
         "fiyat": "50 €"
     },
     {
@@ -747,12 +47,12 @@
     {
         "marka": "Genel",
         "urun_adi": "Tabandan 36 kV Yandan Test Ölçümü 10 kV İzole Çizme (SOFAMEL)",
-        "fiyat": "80 €"
+        "fiyat": "85 €"
     },
     {
         "marka": "Genel",
         "urun_adi": "Tabandan 36 kV İZOLE ÇİZME ( RESPİREX )",
-        "fiyat": "75 €"
+        "fiyat": "80 €"
     },
     {
         "marka": "Genel",
@@ -771,313 +71,298 @@
     },
     {
         "marka": "Genel",
-        "urun_adi": "36KV Kontrol Kalemi (Küçük) Işık İkazlı (SOFAMEL)",
-        "fiyat": "325 €"
-    },
-    {
-        "marka": "Genel",
         "urun_adi": "Kontrol Kalemi Ses – Işık İkazlı 5-36 KV (SOFAMEL)",
-        "fiyat": "580 €"
+        "fiyat": "575 € + KDV"
     },
     {
         "marka": "Genel",
         "urun_adi": "154 KV HAT TOPRAKLAMA TEÇHİZATI  (SOFAMEL)",
-        "fiyat": "1775 €"
+        "fiyat": "1775 € + KDV"
     },
     {
         "marka": "Genel",
         "urun_adi": "Kontrol Kalemi Ses / Işık İkazlı (SOFAMEL) 225/265/420 KV",
-        "fiyat": "1396 €"
+        "fiyat": "1396 € + KDV"
     },
     {
         "marka": "Genel",
         "urun_adi": "CC-765-10/36 Kontrol Kalemi Ses / Işık İkazlı  10-36 KV STANKA DAHİL",
-        "fiyat": "475 €"
+        "fiyat": "475 € + KDV"
     },
     {
         "marka": "Genel",
         "urun_adi": "CC-775-47/15-25/69-K  ( 4,7-15 ve 25-69 kV, K ) VOLTAJ DEDEKTÖRÜ",
-        "fiyat": "615 €"
+        "fiyat": "615 € + KDV"
     },
     {
         "marka": "Genel",
-        "urun_adi": "CC-265-90/225 Kontrol Kalemi Ses / Işık İkazlı  90-225 KV",
-        "fiyat": "1290 €"
+        "urun_adi": "CC-265-90/225 KONTROL Kalemi Ses / Işık İkazlı 90-225 kV",
+        "fiyat": "1290 € + KDV"
     },
     {
         "marka": "Genel",
-        "urun_adi": "Kontrol Kalemi Ses / Işık İkazlı Çift Kutup 10-36 KV",
-        "fiyat": "785 €"
+        "urun_adi": "10 / 36 KV KONTROL Kalemi Ses / Işık İkazlı Kontrol Kalemi",
+        "fiyat": "785 € + KDV"
     },
     {
         "marka": "Genel",
-        "urun_adi": "Kontrol Kalemi Ses / Işık İkazlı  225/265/420 KV STANKA DAHİL",
-        "fiyat": "2750 €"
+        "urun_adi": "225 / 265 / 420 KV  Işık ve SES İKAZLI Kontrol Kalemi ( Stanka Dahil )",
+        "fiyat": "2750 € + KDV"
     },
     {
         "marka": "Genel",
         "urun_adi": "MT.608/2 Dahili Hat Topraklama Teçhizatı (SİCAME)",
-        "fiyat": "485 €"
+        "fiyat": "485 € + KDV"
     },
     {
         "marka": "Genel",
         "urun_adi": "MT.608/2 Harici Hat Topraklama Teçhizatı (SİCAME)",
-        "fiyat": "535 €"
+        "fiyat": "535 € + KDV"
     },
     {
         "marka": "Genel",
         "urun_adi": "Kablo Atma Tüfeği",
-        "fiyat": "485 €"
+        "fiyat": "485 € + KDV"
     },
     {
         "marka": "Genel",
-        "urun_adi": "Ses ve Işık ikazlı STANKA (Belgesiz)",
-        "fiyat": "80 $"
-    },
-    {
-        "marka": "Genel",
-        "urun_adi": "İzole Tabure 40 kV (SOFAMEL)",
-        "fiyat": "45 €"
+        "urun_adi": "İZOLE TABURE 36KV  (SOFAMEL)",
+        "fiyat": "45 € + KDV"
     },
     {
         "marka": "Genel",
         "urun_adi": "36KV Topraklama Deşarj Stankası (Yerli İmalat)",
-        "fiyat": "330 $"
+        "fiyat": "330 $ + KDV"
     },
     {
         "marka": "Genel",
         "urun_adi": "36 KV İzole Pense (Sigorta Değiştirme Pensesi)",
-        "fiyat": "37 $"
+        "fiyat": "37 $ + KDV"
     },
     {
         "marka": "Genel",
-        "urun_adi": "40 KV İzole Halı (m2)   CATU Marka 50 KV İzole Halı (m2)  CATU Marka 40KV İZOLE HALI (M2)   YERLİ TSE Lİ RÜN",
-        "fiyat": "35 € 45 € 475 TL"
+        "urun_adi": "40 KV İzole Halı (m2)   CATU Marka 50 KV İzole Halı (m2)  CATU Marka 40KV İZOLE HALI (M2)   YERLİ TSE Lİ",
+        "fiyat": "35 € + KDV 45 € + KDV 590 TL + KDV"
     },
     {
         "marka": "Genel",
         "urun_adi": "Faz Sırası Göstergesi",
-        "fiyat": "75 €"
+        "fiyat": "75 € + KDV"
     },
     {
         "marka": "Gata",
         "urun_adi": "PAB e-Two 40 CAL.  ATPV 44 cal/cm2  ABS/PCA Vizörlü İzole BARET Çene Koruyuculu , Çift Katmanlı  1000V AC / 1500V DC Ark Koruması EN 397:2012+A1 (2012) | EN 50365:2002 (class 0) | EN 166:2001 | GS ET 29 (class II) | EN 170:2001 , | ASTM F 2178:2012 ATPV 44 cal/cm2",
-        "fiyat": "190 €"
+        "fiyat": "190 € + KDV"
+    },
+    {
+        "marka": "Gata",
+        "urun_adi": "PAB e-Two VİZÖR  ATPV 37 cal / cm² ( Yüksek enerjili darbelere karşı dirençli)",
+        "fiyat": "90 € + KDV"
     },
     {
         "marka": "Gata",
         "urun_adi": "20 KV İzole Baret (Enha)",
-        "fiyat": "22 $"
+        "fiyat": "22 $ + KDV"
     },
     {
         "marka": "Gata",
-        "urun_adi": "36-170 KV Kontrol Kalemi Ses+Işık İkazlı(Ottotecnica)",
-        "fiyat": "740 €"
-    },
-    {
-        "marka": "Gata",
-        "urun_adi": "36 KV Kontrol Kalemi Ses+Işık İkazlı(Ottotecnica)",
-        "fiyat": "475 €"
-    },
-    {
-        "marka": "Gata",
-        "urun_adi": "40 Kv İzole Eldiven (Regeltex) Class 4",
-        "fiyat": "70 €"
+        "urun_adi": "ARC FLASH Korumalı Vizörlü Baret CLASS:2",
+        "fiyat": "287 € + KDV"
     },
     {
         "marka": "Gata",
         "urun_adi": "Edison İzole Bot ( GİASCO )  20KV",
-        "fiyat": "70 €"
+        "fiyat": "70 € + KDV"
     },
     {
         "marka": "Gata",
         "urun_adi": "İzole Ayakkabı ( GİASCO )  20 KV",
-        "fiyat": "50 €"
+        "fiyat": "50 € + KDV"
     },
     {
         "marka": "Gata",
         "urun_adi": "(EMGE) EG-31 Hat Tüfeği (EMGE)",
-        "fiyat": "949 $"
+        "fiyat": "949 $ + KDV"
     },
     {
         "marka": "Gata",
         "urun_adi": "(EMGE) EG-32 36 KV Hat Topraklama Teçhizatı (EMGE) 16 mm2  Kablolu",
-        "fiyat": "1125 $"
+        "fiyat": "1125 $ + KDV"
     },
     {
         "marka": "Gata",
         "urun_adi": "(EMGE) EG-32 Hat Topraklama Teçhizatı 16 mm2 + 20 Mt. Kablolu (Özel)",
-        "fiyat": "1365 $"
+        "fiyat": "1365 $ + KDV"
     },
     {
         "marka": "Gata",
         "urun_adi": "(EMGE) EG3240  Optik Başlıklı Led’Li Hat Topraklama Teçhizatı 16 mm2",
-        "fiyat": "1640 $"
+        "fiyat": "1640 $ + KDV"
     },
     {
         "marka": "Gata",
         "urun_adi": "(EMGE) EG-324025 Optik Başlıklı Led’Li Hat Topraklama Teçhizatı 25 mm2",
-        "fiyat": "1700 $"
+        "fiyat": "1700 $ + KDV"
     },
     {
         "marka": "Gata",
         "urun_adi": "(EMGE) EG-3225 Hat Topraklama Teçhizatı 25 mm2",
-        "fiyat": "1400 $"
+        "fiyat": "1400 $ + KDV"
     },
     {
         "marka": "Gata",
         "urun_adi": "(EMGE) EG-32380 380 KV Hat Topraklama Teçhizatı",
-        "fiyat": "2900 $"
+        "fiyat": "2900 $ + KDV"
     },
     {
         "marka": "Gata",
         "urun_adi": "(EMGE) EG-32154 154 KV  Hat Topraklama Teçhizatı",
-        "fiyat": "2000 $"
+        "fiyat": "2000 $ + KDV"
     },
     {
         "marka": "Gata",
         "urun_adi": "(EMGE) EG-33F  Fiber Manevra Stankası",
-        "fiyat": "312 $"
+        "fiyat": "312 $ + KDV"
     },
     {
         "marka": "Gata",
         "urun_adi": "(EMGE) EG-33F2,5  Fiber Manevra Stankası 2,5 Mt.",
-        "fiyat": "364 $"
+        "fiyat": "364 $ + KDV"
     },
     {
         "marka": "Gata",
         "urun_adi": "(EMGE) EG-33F3  Fiber Manevra Stankası 3 Mt.",
-        "fiyat": "546 $"
+        "fiyat": "546 $ + KDV"
     },
     {
         "marka": "Gata",
         "urun_adi": "(EMGE) EG-33TF  Topraklı Fiber Manevra Stankası",
-        "fiyat": "338 $"
+        "fiyat": "338 $ + KDV"
     },
     {
         "marka": "Gata",
         "urun_adi": "(EMGE) EG-33TF2,5 Topraklı Fiber Manevra Stankası 2,5 Mt",
-        "fiyat": "390 $"
+        "fiyat": "390 $ + KDV"
     },
     {
         "marka": "Gata",
         "urun_adi": "(EMGE) EG-33TF154 154 KV Manevra Stankası 2 Parça (4 Mt.)",
-        "fiyat": "611 $"
+        "fiyat": "611 $ + KDV"
     },
     {
         "marka": "Gata",
         "urun_adi": "(EMGE) EG-33TF380 380 KV Manevra Stankası 2 Parça (6 Mt.)",
-        "fiyat": "819 $"
+        "fiyat": "819 $ + KDV"
     },
     {
         "marka": "Gata",
         "urun_adi": "(EMGE) EG-33FK Fiber Kurtarma Stankası",
-        "fiyat": "650 $"
+        "fiyat": "650 $ + KDV"
     },
     {
         "marka": "Gata",
         "urun_adi": "(EMGE) EG-34 Bara Topraklama Teçhizatı",
-        "fiyat": "1287 $"
+        "fiyat": "1287 $ + KDV"
     },
     {
         "marka": "Gata",
         "urun_adi": "(EMGE) EG-34154 Bara Topraklama Teçhizatı 154 KV",
-        "fiyat": "2574 $"
+        "fiyat": "2574 $ + KDV"
     },
     {
         "marka": "Gata",
         "urun_adi": "(EMGE) EG-34380 Bara Topraklama Teçhizatı 380 KV",
-        "fiyat": "3861 $"
+        "fiyat": "3861 $ + KDV"
     },
     {
         "marka": "Gata",
         "urun_adi": "(EMGE) EG-34252 Bara Topraklama 25mm2 Her Faz Ayrı İniyor 2 Mt.",
-        "fiyat": "1391 $"
+        "fiyat": "1391 $ + KDV"
     },
     {
         "marka": "Gata",
         "urun_adi": "(EMGE) EG-34251,5  Bara Topraklama 25 mm2 Her Faz Ayrı İniyor 1,5 Mt.",
-        "fiyat": "1378 $"
+        "fiyat": "1378 $ + KDV"
     },
     {
         "marka": "Gata",
         "urun_adi": "(EMGE) EG-34701,5  Bara Topraklama 70 mm2 Her Faz Ayrı İniyor 1,5 Mt.",
-        "fiyat": "1456 $"
+        "fiyat": "1456 $ + KDV"
     },
     {
         "marka": "Gata",
         "urun_adi": "(EMGE) EG-34702,5  Bara Topraklama 70 mm2 Her Faz Ayrı İniyor 2,5 Mt.",
-        "fiyat": "1573 $"
+        "fiyat": "1573 $ + KDV"
     },
     {
         "marka": "Gata",
         "urun_adi": "(EMGE) EG-36 DTS Topraklama Stankası Demir Yolu Hattı İçin",
-        "fiyat": "3193 $"
+        "fiyat": "3193 $ + KDV"
     },
     {
         "marka": "Gata",
         "urun_adi": "(EMGE) EG-36F Fiber Statik Deşarj Stankası (Toprak Şarj Alma Teçhizatı)",
-        "fiyat": "442 $"
+        "fiyat": "442 $ + KDV"
     },
     {
         "marka": "Gata",
         "urun_adi": "(EMGE) EG-37 1KV AG Hat Topraklama Teçhizatı",
-        "fiyat": "1274 $"
+        "fiyat": "1274 $ + KDV"
     },
     {
         "marka": "Gata",
         "urun_adi": "(EMGE) EG-38 Kar Ayakkabısı (Hedik)",
-        "fiyat": "559 $"
+        "fiyat": "559 $ + KDV"
     },
     {
         "marka": "Gata",
         "urun_adi": "(EMGE) EG-39 1KV AG Hat Topraklama Teçhizatı",
-        "fiyat": "520 $"
+        "fiyat": "520 $ + KDV"
     },
     {
         "marka": "Gata",
         "urun_adi": "(EMGE) EG-40 1KV AG Bara Topraklama Teçhizatı",
-        "fiyat": "949 $"
+        "fiyat": "949 $ + KDV"
     },
     {
         "marka": "Gata",
         "urun_adi": "(EMGE) EG-43 Teleskopik Ledli ve Sesli Kontrol Kalemi 66 KV (3 Mt.)",
-        "fiyat": "910 $"
+        "fiyat": "910 $ + KDV"
     },
     {
         "marka": "Gata",
         "urun_adi": "(EMGE) EG-44D Teleskopik Ledli ve Akustik (Sesli) Kontrol Kalemi",
-        "fiyat": "715 $"
+        "fiyat": "715 $ + KDV"
     },
     {
         "marka": "Gata",
         "urun_adi": "(EMGE) EG-44DS Sabit Ledli ve Akustik (Sesli) Kontrol Kalemi",
-        "fiyat": "637 $"
+        "fiyat": "637 $ + KDV"
     },
     {
         "marka": "Gata",
         "urun_adi": "(EMGE) EG-44D154 Ledli ve Akustik (Sesli) Kontrol Kalemi 154KV",
-        "fiyat": "1326 $"
+        "fiyat": "1326 $ + KDV"
     },
     {
         "marka": "Gata",
         "urun_adi": "(EMGE) EG-44D380 Ledli ve Akustik (Sesli) Kontrol Kalemi 380KV",
-        "fiyat": "1465 $"
+        "fiyat": "1465 $ + KDV"
     },
     {
         "marka": "Gata",
         "urun_adi": "(EMGE) EG-50 Görsel Lenteleme",
-        "fiyat": "3510 $"
+        "fiyat": "3510 $ + KDV"
     },
     {
         "marka": "Gata",
         "urun_adi": "(EMGE) EG-59-4 Merdiven Düz (Sabit) 4 Mt.",
-        "fiyat": "936 $"
+        "fiyat": "936 $ + KDV"
     },
     {
         "marka": "Gata",
         "urun_adi": "(EMGE) EG-59-6 Merdiven Düz (Sabit) 6 Mt.",
-        "fiyat": "1105 $"
+        "fiyat": "1105 $ + KDV"
     },
     {
         "marka": "Genel",
